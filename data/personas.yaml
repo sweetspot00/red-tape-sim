@@ -1,0 +1,24 @@
+- name: Alex
+  country: HongKong
+  gender: male
+  age: "24"
+  education: bachelor
+  traits: [optimistic, tech]
+- name: Mei
+  country: Beijing
+  gender: female
+  age: "25"
+  education: master
+  traits: [cautious, policy]
+- name: Sofia
+  country: Germany
+  gender: female
+  age: "27"
+  education: bachelor
+  traits: [optimistic, urban]
+- name: Default Agent
+  country: ""
+  gender: ""
+  age: ""
+  education: ""
+  traits: []

@@ -1,24 +1,4240 @@
-- name: Alex
+- name: Kelly_038
   country: HongKong
   gender: male
-  age: "24"
-  education: bachelor
-  traits: [optimistic, tech]
-- name: Mei
+  age: '58'
+  education: master
+  traits:
+  - cosmopolitan
+  - creative
+  - disciplined
+  - urban
+  profession: doctor
+  family: single
+  political_ideology: progressive
+  political_party: pro-establishment
+- name: Mingyu_137
   country: Beijing
   gender: female
-  age: "25"
+  age: '62'
   education: master
-  traits: [cautious, policy]
-- name: Sofia
+  traits:
+  - pessimistic
+  - traditional
+  - urban
+  profession: entrepreneur
+  family: married
+  political_ideology: socialist
+  political_party: prefer not to say
+- name: Kelly_009
+  country: HongKong
+  gender: male
+  age: '57'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - creative
+  - extroverted
+  - introverted
+  - pessimistic
+  - urban
+  profession: social worker
+  family: single
+  political_ideology: nationalist
+  political_party: pro-establishment
+- name: Xinyi_121
+  country: Beijing
+  gender: female
+  age: '48'
+  education: phd
+  traits:
+  - cosmopolitan
+  - risk-tolerant
+  - traditional
+  - urban
+  profession: mechanical engineer
+  family: married
+  political_ideology: conservative
+  political_party: non-partisan
+- name: Lucas_261
+  country: San Francisco
+  gender: male
+  age: '44'
+  education: bachelor
+  traits:
+  - competitive
+  - family-oriented
+  - tech-savvy
+  - urban
+  profession: artist
+  family: partnered
+  political_ideology: centrist
+  political_party: Independent
+- name: Anaya_279
+  country: Mumbai
+  gender: male
+  age: '20'
+  education: master
+  traits:
+  - community-minded
+  - environmentalist
+  - extroverted
+  - urban
+  profession: accountant
+  family: married
+  political_ideology: centrist
+  political_party: BJP
+- name: Sofia_202
+  country: Germany
+  gender: male
+  age: '40'
+  education: high_school
+  traits:
+  - cosmopolitan
+  - introverted
+  - risk-tolerant
+  - rural
+  profession: software engineer
+  family: single
+  political_ideology: progressive
+  political_party: AfD
+- name: Eason_019
+  country: HongKong
+  gender: female
+  age: '55'
+  education: high_school
+  traits:
+  - cosmopolitan
+  - family-oriented
+  - introverted
+  - urban
+  profession: accountant
+  family: married
+  political_ideology: nationalist
+  political_party: prefer not to say
+- name: Kelly_005
+  country: HongKong
+  gender: female
+  age: '24'
+  education: high_school
+  traits:
+  - cosmopolitan
+  - extroverted
+  - family-oriented
+  - urban
+  profession: product manager
+  family: single
+  political_ideology: conservative
+  political_party: prefer not to say
+- name: Vivian_046
+  country: HongKong
+  gender: female
+  age: '42'
+  education: bachelor
+  traits:
+  - community-minded
+  - cosmopolitan
+  - empathetic
+  - family-oriented
+  - urban
+  profession: student
+  family: single
+  political_ideology: socialist
+  political_party: pro-democracy
+- name: Saanvi_272
+  country: Mumbai
+  gender: female
+  age: '38'
+  education: bachelor
+  traits:
+  - community-minded
+  - creative
+  - pessimistic
+  - traditional
+  - urban
+  profession: teacher
+  family: single
+  political_ideology: nationalist
+  political_party: prefer not to say
+- name: Mingyu_151
+  country: Beijing
+  gender: male
+  age: '55'
+  education: master
+  traits:
+  - disciplined
+  - extroverted
+  - pessimistic
+  - urban
+  profession: policy analyst
+  family: single
+  political_ideology: socialist
+  political_party: non-partisan
+- name: Lea_212
+  country: Germany
+  gender: male
+  age: '60'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - introverted
+  - pragmatic
+  profession: software engineer
+  family: single
+  political_ideology: conservative
+  political_party: non-partisan
+- name: Yating_114
+  country: Beijing
+  gender: male
+  age: '59'
+  education: bachelor
+  traits:
+  - environmentalist
+  - extroverted
+  - family-oriented
+  - urban
+  profession: teacher
+  family: married
+  political_ideology: centrist
+  political_party: prefer not to say
+- name: Suki_077
+  country: HongKong
+  gender: female
+  age: '39'
+  education: master
+  traits:
+  - cosmopolitan
+  - empathetic
+  - pragmatic
+  - urban
+  profession: civil engineer
+  family: married
+  political_ideology: socialist
+  political_party: pro-democracy
+- name: Ka-Yan_095
+  country: HongKong
+  gender: male
+  age: '61'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - introverted
+  - pragmatic
+  - urban
+  profession: data scientist
+  family: single
+  political_ideology: centrist
+  political_party: non-partisan
+- name: Finn_179
   country: Germany
   gender: female
-  age: "27"
+  age: '45'
+  education: master
+  traits:
+  - environmentalist
+  - extroverted
+  - risk-tolerant
+  - traditional
+  profession: student
+  family: divorced
+  political_ideology: nationalist
+  political_party: Greens
+- name: Lucy_111
+  country: Beijing
+  gender: female
+  age: '45'
+  education: phd
+  traits:
+  - risk-averse
+  - urban
+  profession: data scientist
+  family: single
+  political_ideology: liberal
+  political_party: Chinese Communist Party
+- name: Ivan_035
+  country: HongKong
+  gender: male
+  age: '54'
+  education: master
+  traits:
+  - cosmopolitan
+  - environmentalist
+  - traditional
+  - urban
+  profession: entrepreneur
+  family: divorced
+  political_ideology: nationalist
+  political_party: pro-democracy
+- name: Vivian_037
+  country: HongKong
+  gender: male
+  age: '44'
+  education: master
+  traits:
+  - cosmopolitan
+  - empathetic
+  - optimistic
+  - urban
+  profession: mechanical engineer
+  family: partnered
+  political_ideology: liberal
+  political_party: pro-establishment
+- name: George_300
+  country: London
+  gender: male
+  age: '53'
   education: bachelor
-  traits: [optimistic, urban]
-- name: Default Agent
-  country: ""
-  gender: ""
-  age: ""
-  education: ""
-  traits: []
+  traits:
+  - family-oriented
+  - traditional
+  - urban
+  profession: mechanical engineer
+  family: married
+  political_ideology: liberal
+  political_party: Labour
+- name: Wing_018
+  country: HongKong
+  gender: female
+  age: '41'
+  education: master
+  traits:
+  - cosmopolitan
+  - environmentalist
+  - pragmatic
+  - rural
+  - urban
+  profession: data scientist
+  family: single
+  political_ideology: liberal
+  political_party: pro-establishment
+- name: Yating_116
+  country: Beijing
+  gender: female
+  age: '61'
+  education: master
+  traits:
+  - rural
+  - urban
+  profession: software engineer
+  family: single
+  political_ideology: progressive
+  political_party: prefer not to say
+- name: Shuai_126
+  country: Beijing
+  gender: male
+  age: '53'
+  education: high_school
+  traits:
+  - community-minded
+  - cosmopolitan
+  - urban
+  profession: marketing specialist
+  family: single
+  political_ideology: nationalist
+  political_party: Chinese Communist Party
+- name: Mingyu_163
+  country: Beijing
+  gender: male
+  age: '45'
+  education: bachelor
+  traits:
+  - creative
+  - disciplined
+  - pragmatic
+  - urban
+  profession: software engineer
+  family: single
+  political_ideology: nationalist
+  political_party: prefer not to say
+- name: Haoran_118
+  country: Beijing
+  gender: female
+  age: '39'
+  education: master
+  traits:
+  - pragmatic
+  - risk-tolerant
+  - urban
+  profession: teacher
+  family: married
+  political_ideology: conservative
+  political_party: Chinese Communist Party
+- name: Jonas_210
+  country: Germany
+  gender: female
+  age: '32'
+  education: bachelor
+  traits:
+  - creative
+  - disciplined
+  - family-oriented
+  - risk-tolerant
+  profession: nurse
+  family: single
+  political_ideology: progressive
+  political_party: AfD
+- name: Zihan_104
+  country: Beijing
+  gender: female
+  age: '43'
+  education: master
+  traits:
+  - empathetic
+  - environmentalist
+  - extroverted
+  - tech-savvy
+  - urban
+  profession: consultant
+  family: married
+  political_ideology: conservative
+  political_party: prefer not to say
+- name: Zihan_102
+  country: Beijing
+  gender: male
+  age: '61'
+  education: master
+  traits:
+  - environmentalist
+  - family-oriented
+  - pragmatic
+  - urban
+  profession: journalist
+  family: married
+  political_ideology: liberal
+  political_party: non-partisan
+- name: Charlie_290
+  country: London
+  gender: male
+  age: '58'
+  education: master
+  traits:
+  - risk-averse
+  - tech-savvy
+  - urban
+  profession: software engineer
+  family: single
+  political_ideology: centrist
+  political_party: prefer not to say
+- name: Haoran_140
+  country: Beijing
+  gender: female
+  age: '27'
+  education: master
+  traits:
+  - cosmopolitan
+  - rural
+  - tech-savvy
+  - urban
+  profession: nurse
+  family: single
+  political_ideology: socialist
+  political_party: non-partisan
+- name: Lucy_138
+  country: Beijing
+  gender: male
+  age: '49'
+  education: phd
+  traits:
+  - introverted
+  - pragmatic
+  - urban
+  profession: data scientist
+  family: single
+  political_ideology: nationalist
+  political_party: Chinese Communist Party
+- name: Olivia_250
+  country: San Francisco
+  gender: female
+  age: '25'
+  education: bachelor
+  traits:
+  - competitive
+  - introverted
+  - pessimistic
+  - tech-savvy
+  - urban
+  profession: civil engineer
+  family: married
+  political_ideology: environmentalist
+  political_party: Republican Party
+- name: Noah_192
+  country: Germany
+  gender: male
+  age: '55'
+  education: bachelor
+  traits:
+  - ambitious
+  - competitive
+  - environmentalist
+  - optimistic
+  profession: student
+  family: single
+  political_ideology: environmentalist
+  political_party: prefer not to say
+- name: Lucy_120
+  country: Beijing
+  gender: female
+  age: '58'
+  education: bachelor
+  traits:
+  - introverted
+  - tech-savvy
+  - urban
+  profession: software engineer
+  family: single
+  political_ideology: socialist
+  political_party: Chinese Communist Party
+- name: Yating_101
+  country: Beijing
+  gender: male
+  age: '55'
+  education: master
+  traits:
+  - disciplined
+  - environmentalist
+  - pragmatic
+  - urban
+  profession: mechanical engineer
+  family: single
+  political_ideology: nationalist
+  political_party: prefer not to say
+- name: Ka-Yan_082
+  country: HongKong
+  gender: male
+  age: '38'
+  education: phd
+  traits:
+  - cosmopolitan
+  - extroverted
+  - pragmatic
+  - urban
+  profession: nurse
+  family: married
+  political_ideology: nationalist
+  political_party: pro-democracy
+- name: Jason_015
+  country: HongKong
+  gender: female
+  age: '24'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - introverted
+  - optimistic
+  - urban
+  profession: data scientist
+  family: married
+  political_ideology: centrist
+  political_party: non-partisan
+- name: Jonas_204
+  country: Germany
+  gender: female
+  age: '37'
+  education: master
+  traits:
+  - community-minded
+  - cosmopolitan
+  - disciplined
+  - environmentalist
+  - rural
+  profession: data scientist
+  family: single
+  political_ideology: progressive
+  political_party: CDU/CSU
+- name: Sophia_252
+  country: San Francisco
+  gender: female
+  age: '26'
+  education: associate
+  traits:
+  - ambitious
+  - pragmatic
+  - risk-tolerant
+  - tech-savvy
+  - traditional
+  - urban
+  profession: nurse
+  family: single
+  political_ideology: progressive
+  political_party: Democratic Party
+- name: Rui_100
+  country: Beijing
+  gender: female
+  age: '26'
+  education: bachelor
+  traits:
+  - tech-savvy
+  - urban
+  profession: software engineer
+  family: partnered
+  political_ideology: nationalist
+  political_party: non-partisan
+- name: Yue_158
+  country: Beijing
+  gender: female
+  age: '30'
+  education: master
+  traits:
+  - creative
+  - rural
+  - urban
+  profession: entrepreneur
+  family: divorced
+  political_ideology: environmentalist
+  political_party: non-partisan
+- name: Mia_225
+  country: Germany
+  gender: male
+  age: '22'
+  education: bachelor
+  traits:
+  - ambitious
+  - extroverted
+  - family-oriented
+  profession: chef
+  family: single
+  political_ideology: conservative
+  political_party: non-partisan
+- name: Wing_014
+  country: HongKong
+  gender: female
+  age: '53'
+  education: master
+  traits:
+  - ambitious
+  - cosmopolitan
+  - risk-tolerant
+  - traditional
+  - urban
+  profession: data scientist
+  family: single
+  political_ideology: conservative
+  political_party: prefer not to say
+- name: Jason_055
+  country: HongKong
+  gender: male
+  age: '54'
+  education: master
+  traits:
+  - cosmopolitan
+  - family-oriented
+  - introverted
+  - risk-averse
+  - tech-savvy
+  - urban
+  profession: chef
+  family: single
+  political_ideology: liberal
+  political_party: prefer not to say
+- name: Ka-Yan_033
+  country: HongKong
+  gender: non-binary
+  age: '37'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - extroverted
+  - optimistic
+  - risk-averse
+  - tech-savvy
+  - urban
+  profession: researcher
+  family: married
+  political_ideology: nationalist
+  political_party: pro-democracy
+- name: Aarav_284
+  country: Mumbai
+  gender: female
+  age: '52'
+  education: bachelor
+  traits:
+  - ambitious
+  - empathetic
+  - optimistic
+  - rural
+  profession: accountant
+  family: partnered
+  political_ideology: liberal
+  political_party: Shiv Sena
+- name: Hannah_190
+  country: Germany
+  gender: male
+  age: '39'
+  education: master
+  traits:
+  - empathetic
+  - environmentalist
+  profession: doctor
+  family: single
+  political_ideology: nationalist
+  political_party: FDP
+- name: Kelly_040
+  country: HongKong
+  gender: female
+  age: '50'
+  education: master
+  traits:
+  - ambitious
+  - competitive
+  - cosmopolitan
+  - creative
+  - urban
+  profession: doctor
+  family: married
+  political_ideology: conservative
+  political_party: pro-establishment
+- name: Lena_197
+  country: Germany
+  gender: female
+  age: '60'
+  education: bachelor
+  traits:
+  - creative
+  - environmentalist
+  - pessimistic
+  - pragmatic
+  - traditional
+  profession: software engineer
+  family: married
+  political_ideology: socialist
+  political_party: non-partisan
+- name: Mia_226
+  country: Germany
+  gender: male
+  age: '33'
+  education: master
+  traits:
+  - empathetic
+  - risk-averse
+  - rural
+  - tech-savvy
+  profession: consultant
+  family: partnered
+  political_ideology: socialist
+  political_party: CDU/CSU
+- name: Michelle_006
+  country: HongKong
+  gender: male
+  age: '30'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - empathetic
+  - family-oriented
+  - introverted
+  - rural
+  - urban
+  profession: product manager
+  family: single
+  political_ideology: nationalist
+  political_party: prefer not to say
+- name: Sophia_255
+  country: San Francisco
+  gender: female
+  age: '34'
+  education: associate
+  traits:
+  - community-minded
+  - competitive
+  - introverted
+  - progressive
+  - risk-averse
+  - tech-savvy
+  - urban
+  profession: teacher
+  family: partnered
+  political_ideology: nationalist
+  political_party: prefer not to say
+- name: Jonas_205
+  country: Germany
+  gender: female
+  age: '44'
+  education: master
+  traits:
+  - disciplined
+  - extroverted
+  - introverted
+  - traditional
+  profession: entrepreneur
+  family: married
+  political_ideology: conservative
+  political_party: Left
+- name: Yue_144
+  country: Beijing
+  gender: male
+  age: '48'
+  education: high_school
+  traits:
+  - cosmopolitan
+  - pessimistic
+  - traditional
+  - urban
+  profession: marketing specialist
+  family: single
+  political_ideology: centrist
+  political_party: prefer not to say
+- name: Emma_211
+  country: Germany
+  gender: male
+  age: '32'
+  education: bachelor
+  traits:
+  - ambitious
+  - competitive
+  - optimistic
+  - pragmatic
+  profession: researcher
+  family: married
+  political_ideology: nationalist
+  political_party: non-partisan
+- name: Emma_171
+  country: Germany
+  gender: female
+  age: '56'
+  education: master
+  traits:
+  - disciplined
+  - pessimistic
+  - risk-tolerant
+  - urban
+  profession: policy analyst
+  family: single
+  political_ideology: conservative
+  political_party: prefer not to say
+- name: Lucy_145
+  country: Beijing
+  gender: male
+  age: '43'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - risk-averse
+  - tech-savvy
+  - urban
+  profession: software engineer
+  family: single
+  political_ideology: liberal
+  political_party: Chinese Communist Party
+- name: Sofia_182
+  country: Germany
+  gender: male
+  age: '49'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - optimistic
+  - risk-averse
+  profession: researcher
+  family: married
+  political_ideology: socialist
+  political_party: SPD
+- name: Isha_277
+  country: Mumbai
+  gender: female
+  age: '48'
+  education: associate
+  traits:
+  - pessimistic
+  - urban
+  profession: policy analyst
+  family: widowed
+  political_ideology: environmentalist
+  political_party: Shiv Sena
+- name: Saanvi_285
+  country: Mumbai
+  gender: male
+  age: '32'
+  education: bachelor
+  traits:
+  - extroverted
+  - family-oriented
+  - optimistic
+  - traditional
+  profession: lawyer
+  family: partnered
+  political_ideology: conservative
+  political_party: Shiv Sena
+- name: Michelle_084
+  country: HongKong
+  gender: male
+  age: '51'
+  education: master
+  traits:
+  - cosmopolitan
+  - optimistic
+  - pragmatic
+  - risk-averse
+  - urban
+  profession: doctor
+  family: single
+  political_ideology: libertarian
+  political_party: prefer not to say
+- name: Eason_048
+  country: HongKong
+  gender: male
+  age: '62'
+  education: high_school
+  traits:
+  - cosmopolitan
+  - pessimistic
+  - risk-averse
+  - rural
+  - urban
+  profession: software engineer
+  family: married
+  political_ideology: conservative
+  political_party: pro-establishment
+- name: Jiawei_152
+  country: Beijing
+  gender: female
+  age: '34'
+  education: bachelor
+  traits:
+  - ambitious
+  - risk-averse
+  - urban
+  profession: student
+  family: divorced
+  political_ideology: centrist
+  political_party: prefer not to say
+- name: Emily_289
+  country: London
+  gender: female
+  age: '33'
+  education: bachelor
+  traits:
+  - competitive
+  - extroverted
+  - optimistic
+  - urban
+  profession: chef
+  family: married
+  political_ideology: socialist
+  political_party: non-partisan
+- name: Chenxi_146
+  country: Beijing
+  gender: male
+  age: '51'
+  education: bachelor
+  traits:
+  - ambitious
+  - pragmatic
+  - risk-tolerant
+  - urban
+  profession: software engineer
+  family: partnered
+  political_ideology: centrist
+  political_party: non-partisan
+- name: Yue_154
+  country: Beijing
+  gender: male
+  age: '21'
+  education: high_school
+  traits:
+  - ambitious
+  - competitive
+  - environmentalist
+  - urban
+  profession: marketing specialist
+  family: divorced
+  political_ideology: centrist
+  political_party: Chinese Communist Party
+- name: Yue_164
+  country: Beijing
+  gender: female
+  age: '59'
+  education: bachelor
+  traits:
+  - competitive
+  - disciplined
+  - tech-savvy
+  - urban
+  profession: mechanical engineer
+  family: single
+  political_ideology: progressive
+  political_party: prefer not to say
+- name: Mason_260
+  country: San Francisco
+  gender: male
+  age: '50'
+  education: bachelor
+  traits:
+  - extroverted
+  - family-oriented
+  - tech-savvy
+  - urban
+  profession: social worker
+  family: married
+  political_ideology: liberal
+  political_party: Democratic Party
+- name: Michelle_058
+  country: HongKong
+  gender: male
+  age: '50'
+  education: master
+  traits:
+  - cosmopolitan
+  - family-oriented
+  - risk-tolerant
+  - urban
+  profession: sales
+  family: married
+  political_ideology: conservative
+  political_party: pro-establishment
+- name: Suki_057
+  country: HongKong
+  gender: female
+  age: '58'
+  education: master
+  traits:
+  - cosmopolitan
+  - family-oriented
+  - introverted
+  - urban
+  profession: software engineer
+  family: single
+  political_ideology: centrist
+  political_party: prefer not to say
+- name: Jason_059
+  country: HongKong
+  gender: male
+  age: '43'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - empathetic
+  - pragmatic
+  - tech-savvy
+  - traditional
+  - urban
+  profession: nurse
+  family: married
+  political_ideology: liberal
+  political_party: pro-democracy
+- name: Amelia_241
+  country: San Francisco
+  gender: female
+  age: '59'
+  education: master
+  traits:
+  - extroverted
+  - optimistic
+  - rural
+  - tech-savvy
+  - urban
+  profession: entrepreneur
+  family: single
+  political_ideology: nationalist
+  political_party: Independent
+- name: Xinyi_139
+  country: Beijing
+  gender: male
+  age: '22'
+  education: bachelor
+  traits:
+  - ambitious
+  - creative
+  - pessimistic
+  - risk-averse
+  - urban
+  profession: nurse
+  family: single
+  political_ideology: liberal
+  political_party: Chinese Communist Party
+- name: Paul_219
+  country: Germany
+  gender: male
+  age: '24'
+  education: bachelor
+  traits:
+  - ambitious
+  - disciplined
+  - pragmatic
+  - tech-savvy
+  profession: accountant
+  family: partnered
+  political_ideology: socialist
+  political_party: AfD
+- name: Oscar_049
+  country: HongKong
+  gender: female
+  age: '44'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - creative
+  - optimistic
+  - urban
+  profession: nurse
+  family: divorced
+  political_ideology: centrist
+  political_party: non-partisan
+- name: Suki_071
+  country: HongKong
+  gender: female
+  age: '46'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - creative
+  - environmentalist
+  - risk-tolerant
+  - urban
+  profession: journalist
+  family: married
+  political_ideology: centrist
+  political_party: prefer not to say
+- name: Yue_155
+  country: Beijing
+  gender: male
+  age: '54'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - introverted
+  - pragmatic
+  - risk-tolerant
+  - urban
+  profession: lawyer
+  family: divorced
+  political_ideology: centrist
+  political_party: Chinese Communist Party
+- name: Hannah_175
+  country: Germany
+  gender: male
+  age: '31'
+  education: phd
+  traits:
+  - disciplined
+  - pessimistic
+  - risk-tolerant
+  - rural
+  profession: artist
+  family: single
+  political_ideology: nationalist
+  political_party: AfD
+- name: Lena_216
+  country: Germany
+  gender: female
+  age: '49'
+  education: master
+  traits:
+  - community-minded
+  - disciplined
+  - pragmatic
+  profession: designer
+  family: married
+  political_ideology: progressive
+  political_party: CDU/CSU
+- name: Liam_246
+  country: San Francisco
+  gender: male
+  age: '27'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - introverted
+  - pessimistic
+  - pragmatic
+  - tech-savvy
+  - urban
+  profession: data scientist
+  family: partnered
+  political_ideology: progressive
+  political_party: Independent
+- name: Mingyu_150
+  country: Beijing
+  gender: female
+  age: '46'
+  education: master
+  traits:
+  - competitive
+  - introverted
+  - pragmatic
+  - urban
+  profession: software engineer
+  family: partnered
+  political_ideology: centrist
+  political_party: non-partisan
+- name: Lena_232
+  country: Germany
+  gender: female
+  age: '39'
+  education: master
+  traits:
+  - disciplined
+  - environmentalist
+  - extroverted
+  - optimistic
+  profession: nurse
+  family: married
+  political_ideology: centrist
+  political_party: prefer not to say
+- name: Ava_262
+  country: San Francisco
+  gender: female
+  age: '42'
+  education: phd
+  traits:
+  - creative
+  - empathetic
+  - tech-savvy
+  - urban
+  profession: consultant
+  family: married
+  political_ideology: socialist
+  political_party: Democratic Party
+- name: Wing_063
+  country: HongKong
+  gender: female
+  age: '24'
+  education: bachelor
+  traits:
+  - community-minded
+  - cosmopolitan
+  - urban
+  profession: mechanical engineer
+  family: single
+  political_ideology: progressive
+  political_party: pro-democracy
+- name: Diya_281
+  country: Mumbai
+  gender: female
+  age: '59'
+  education: master
+  traits:
+  - creative
+  - family-oriented
+  - pessimistic
+  profession: software engineer
+  family: married
+  political_ideology: libertarian
+  political_party: BJP
+- name: Ivan_022
+  country: HongKong
+  gender: non-binary
+  age: '25'
+  education: master
+  traits:
+  - cosmopolitan
+  - extroverted
+  - urban
+  profession: software engineer
+  family: single
+  political_ideology: environmentalist
+  political_party: pro-establishment
+- name: Kabir_275
+  country: Mumbai
+  gender: male
+  age: '29'
+  education: master
+  traits:
+  - empathetic
+  - environmentalist
+  - family-oriented
+  profession: software engineer
+  family: married
+  political_ideology: progressive
+  political_party: non-partisan
+- name: Sofia_206
+  country: Germany
+  gender: female
+  age: '31'
+  education: bachelor
+  traits:
+  - environmentalist
+  - introverted
+  - optimistic
+  profession: accountant
+  family: married
+  political_ideology: centrist
+  political_party: AfD
+- name: Chloe_065
+  country: HongKong
+  gender: non-binary
+  age: '39'
+  education: bachelor
+  traits:
+  - ambitious
+  - community-minded
+  - cosmopolitan
+  - urban
+  profession: trader
+  family: single
+  political_ideology: liberal
+  political_party: non-partisan
+- name: Ka-Yan_021
+  country: HongKong
+  gender: female
+  age: '33'
+  education: phd
+  traits:
+  - competitive
+  - cosmopolitan
+  - creative
+  - pessimistic
+  - tech-savvy
+  - urban
+  profession: accountant
+  family: married
+  political_ideology: socialist
+  political_party: pro-establishment
+- name: Xinyi_122
+  country: Beijing
+  gender: male
+  age: '60'
+  education: master
+  traits:
+  - cosmopolitan
+  - risk-averse
+  - risk-tolerant
+  - urban
+  profession: software engineer
+  family: single
+  political_ideology: liberal
+  political_party: prefer not to say
+- name: Leon_198
+  country: Germany
+  gender: female
+  age: '37'
+  education: bachelor
+  traits:
+  - empathetic
+  - environmentalist
+  - extroverted
+  - rural
+  profession: lawyer
+  family: single
+  political_ideology: centrist
+  political_party: Left
+- name: Michelle_007
+  country: HongKong
+  gender: non-binary
+  age: '60'
+  education: master
+  traits:
+  - cosmopolitan
+  - family-oriented
+  - pessimistic
+  - urban
+  profession: designer
+  family: single
+  political_ideology: progressive
+  political_party: prefer not to say
+- name: Mason_256
+  country: San Francisco
+  gender: female
+  age: '41'
+  education: associate
+  traits:
+  - cosmopolitan
+  - creative
+  - environmentalist
+  - optimistic
+  - tech-savvy
+  - urban
+  profession: software engineer
+  family: divorced
+  political_ideology: conservative
+  political_party: Independent
+- name: Jason_072
+  country: HongKong
+  gender: female
+  age: '25'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - disciplined
+  - empathetic
+  - optimistic
+  - urban
+  profession: policy analyst
+  family: single
+  political_ideology: conservative
+  political_party: non-partisan
+- name: Hannah_194
+  country: Germany
+  gender: female
+  age: '50'
+  education: master
+  traits:
+  - environmentalist
+  - family-oriented
+  - pessimistic
+  profession: data scientist
+  family: single
+  political_ideology: socialist
+  political_party: non-partisan
+- name: Chloe_050
+  country: HongKong
+  gender: female
+  age: '24'
+  education: master
+  traits:
+  - ambitious
+  - cosmopolitan
+  - optimistic
+  - urban
+  profession: marketing specialist
+  family: married
+  political_ideology: centrist
+  political_party: pro-establishment
+- name: Ivan_083
+  country: HongKong
+  gender: female
+  age: '23'
+  education: bachelor
+  traits:
+  - competitive
+  - cosmopolitan
+  - empathetic
+  - environmentalist
+  - rural
+  - urban
+  profession: software engineer
+  family: single
+  political_ideology: nationalist
+  political_party: prefer not to say
+- name: Haoran_136
+  country: Beijing
+  gender: male
+  age: '52'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - optimistic
+  - risk-averse
+  - traditional
+  - urban
+  profession: doctor
+  family: single
+  political_ideology: conservative
+  political_party: Chinese Communist Party
+- name: Chenxi_133
+  country: Beijing
+  gender: female
+  age: '29'
+  education: bachelor
+  traits:
+  - family-oriented
+  - risk-tolerant
+  - urban
+  profession: accountant
+  family: married
+  political_ideology: liberal
+  political_party: Chinese Communist Party
+- name: Emma_217
+  country: Germany
+  gender: male
+  age: '61'
+  education: associate
+  traits:
+  - disciplined
+  - empathetic
+  - family-oriented
+  - rural
+  profession: finance analyst
+  family: partnered
+  political_ideology: conservative
+  political_party: non-partisan
+- name: Eason_062
+  country: HongKong
+  gender: male
+  age: '51'
+  education: associate
+  traits:
+  - cosmopolitan
+  - pragmatic
+  - rural
+  - tech-savvy
+  - urban
+  profession: product manager
+  family: single
+  political_ideology: environmentalist
+  political_party: pro-democracy
+- name: Wing_032
+  country: HongKong
+  gender: female
+  age: '49'
+  education: bachelor
+  traits:
+  - ambitious
+  - cosmopolitan
+  - optimistic
+  - urban
+  profession: journalist
+  family: partnered
+  political_ideology: conservative
+  political_party: pro-democracy
+- name: Suki_094
+  country: HongKong
+  gender: female
+  age: '37'
+  education: high_school
+  traits:
+  - cosmopolitan
+  - extroverted
+  - traditional
+  - urban
+  profession: doctor
+  family: single
+  political_ideology: environmentalist
+  political_party: pro-democracy
+- name: Zihan_167
+  country: Beijing
+  gender: male
+  age: '44'
+  education: associate
+  traits:
+  - ambitious
+  - extroverted
+  - optimistic
+  - pragmatic
+  - urban
+  profession: software engineer
+  family: married
+  political_ideology: liberal
+  political_party: Chinese Communist Party
+- name: Isha_266
+  country: Mumbai
+  gender: female
+  age: '38'
+  education: associate
+  traits:
+  - competitive
+  - cosmopolitan
+  - pessimistic
+  - rural
+  profession: trader
+  family: married
+  political_ideology: libertarian
+  political_party: non-partisan
+- name: Leon_183
+  country: Germany
+  gender: female
+  age: '24'
+  education: bachelor
+  traits:
+  - disciplined
+  - environmentalist
+  - pessimistic
+  - risk-tolerant
+  profession: student
+  family: single
+  political_ideology: centrist
+  political_party: non-partisan
+- name: Oscar_080
+  country: HongKong
+  gender: male
+  age: '48'
+  education: high_school
+  traits:
+  - cosmopolitan
+  - environmentalist
+  - urban
+  profession: software engineer
+  family: partnered
+  political_ideology: nationalist
+  political_party: pro-democracy
+- name: Ka-Yan_090
+  country: HongKong
+  gender: male
+  age: '27'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - empathetic
+  - urban
+  profession: marketing specialist
+  family: single
+  political_ideology: conservative
+  political_party: prefer not to say
+- name: Aaron_089
+  country: HongKong
+  gender: female
+  age: '54'
+  education: master
+  traits:
+  - cosmopolitan
+  - creative
+  - risk-averse
+  - rural
+  - urban
+  profession: lawyer
+  family: single
+  political_ideology: environmentalist
+  political_party: pro-democracy
+- name: Jiawei_132
+  country: Beijing
+  gender: female
+  age: '29'
+  education: associate
+  traits:
+  - creative
+  - optimistic
+  - pragmatic
+  - urban
+  profession: chef
+  family: single
+  political_ideology: libertarian
+  political_party: Chinese Communist Party
+- name: Yating_129
+  country: Beijing
+  gender: male
+  age: '58'
+  education: associate
+  traits:
+  - disciplined
+  - empathetic
+  - extroverted
+  - urban
+  profession: civil engineer
+  family: single
+  political_ideology: progressive
+  political_party: non-partisan
+- name: Yue_168
+  country: Beijing
+  gender: male
+  age: '46'
+  education: bachelor
+  traits:
+  - ambitious
+  - disciplined
+  - pessimistic
+  - urban
+  profession: doctor
+  family: married
+  political_ideology: socialist
+  political_party: prefer not to say
+- name: Tianqi_135
+  country: Beijing
+  gender: female
+  age: '42'
+  education: bachelor
+  traits:
+  - disciplined
+  - traditional
+  - urban
+  profession: civil engineer
+  family: single
+  political_ideology: nationalist
+  political_party: prefer not to say
+- name: Olivia_298
+  country: London
+  gender: male
+  age: '31'
+  education: bachelor
+  traits:
+  - competitive
+  - rural
+  - urban
+  profession: doctor
+  family: single
+  political_ideology: progressive
+  political_party: Green
+- name: Ben_220
+  country: Germany
+  gender: female
+  age: '45'
+  education: bachelor
+  traits:
+  - disciplined
+  - environmentalist
+  - introverted
+  - risk-tolerant
+  - rural
+  - urban
+  profession: artist
+  family: single
+  political_ideology: nationalist
+  political_party: AfD
+- name: Leon_237
+  country: Germany
+  gender: male
+  age: '35'
+  education: bachelor
+  traits:
+  - disciplined
+  - environmentalist
+  - introverted
+  - optimistic
+  - traditional
+  profession: lawyer
+  family: single
+  political_ideology: progressive
+  political_party: non-partisan
+- name: Ava_254
+  country: San Francisco
+  gender: female
+  age: '31'
+  education: high_school
+  traits:
+  - empathetic
+  - extroverted
+  - family-oriented
+  - pragmatic
+  - progressive
+  - tech-savvy
+  - urban
+  profession: doctor
+  family: single
+  political_ideology: progressive
+  political_party: Democratic Party
+- name: Wing_074
+  country: HongKong
+  gender: male
+  age: '51'
+  education: associate
+  traits:
+  - cosmopolitan
+  - risk-tolerant
+  - rural
+  - urban
+  profession: mechanical engineer
+  family: divorced
+  political_ideology: socialist
+  political_party: prefer not to say
+- name: Tianqi_161
+  country: Beijing
+  gender: male
+  age: '43'
+  education: high_school
+  traits:
+  - empathetic
+  - introverted
+  - risk-tolerant
+  - urban
+  profession: consultant
+  family: single
+  political_ideology: conservative
+  political_party: non-partisan
+- name: Grace_295
+  country: London
+  gender: female
+  age: '41'
+  education: bachelor
+  traits:
+  - creative
+  - pessimistic
+  - urban
+  profession: doctor
+  family: married
+  political_ideology: progressive
+  political_party: SNP
+- name: Jack_293
+  country: London
+  gender: male
+  age: '60'
+  education: master
+  traits:
+  - competitive
+  - empathetic
+  - risk-tolerant
+  - rural
+  - urban
+  profession: researcher
+  family: partnered
+  political_ideology: liberal
+  political_party: Green
+- name: Arjun_274
+  country: Mumbai
+  gender: female
+  age: '54'
+  education: bachelor
+  traits:
+  - community-minded
+  - pessimistic
+  - pragmatic
+  profession: teacher
+  family: single
+  political_ideology: conservative
+  political_party: INC
+- name: Zihan_112
+  country: Beijing
+  gender: male
+  age: '47'
+  education: associate
+  traits:
+  - cosmopolitan
+  - empathetic
+  - introverted
+  - traditional
+  - urban
+  profession: researcher
+  family: single
+  political_ideology: progressive
+  political_party: Chinese Communist Party
+- name: Ivan_091
+  country: HongKong
+  gender: female
+  age: '27'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - extroverted
+  - family-oriented
+  - traditional
+  - urban
+  profession: researcher
+  family: married
+  political_ideology: conservative
+  political_party: pro-democracy
+- name: Chloe_002
+  country: HongKong
+  gender: female
+  age: '34'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - empathetic
+  - environmentalist
+  - family-oriented
+  - pragmatic
+  - urban
+  profession: data scientist
+  family: single
+  political_ideology: centrist
+  political_party: non-partisan
+- name: Olivia_253
+  country: San Francisco
+  gender: male
+  age: '39'
+  education: master
+  traits:
+  - family-oriented
+  - introverted
+  - tech-savvy
+  - urban
+  profession: software engineer
+  family: married
+  political_ideology: conservative
+  political_party: Democratic Party
+- name: Michelle_067
+  country: HongKong
+  gender: male
+  age: '24'
+  education: master
+  traits:
+  - ambitious
+  - competitive
+  - cosmopolitan
+  - environmentalist
+  - extroverted
+  - urban
+  profession: sales
+  family: divorced
+  political_ideology: socialist
+  political_party: pro-establishment
+- name: Ka-Yan_017
+  country: HongKong
+  gender: male
+  age: '46'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - environmentalist
+  - pessimistic
+  - pragmatic
+  - urban
+  profession: nurse
+  family: single
+  political_ideology: centrist
+  political_party: non-partisan
+- name: Jonas_199
+  country: Germany
+  gender: female
+  age: '45'
+  education: high_school
+  traits:
+  - family-oriented
+  - risk-tolerant
+  profession: doctor
+  family: divorced
+  political_ideology: centrist
+  political_party: SPD
+- name: Rui_142
+  country: Beijing
+  gender: female
+  age: '38'
+  education: bachelor
+  traits:
+  - community-minded
+  - pessimistic
+  - pragmatic
+  - traditional
+  - urban
+  profession: nurse
+  family: married
+  political_ideology: centrist
+  political_party: non-partisan
+- name: Shuai_106
+  country: Beijing
+  gender: male
+  age: '43'
+  education: associate
+  traits:
+  - community-minded
+  - empathetic
+  - optimistic
+  - urban
+  profession: data scientist
+  family: single
+  political_ideology: centrist
+  political_party: prefer not to say
+- name: Charlie_294
+  country: London
+  gender: male
+  age: '55'
+  education: master
+  traits:
+  - family-oriented
+  - introverted
+  - traditional
+  - urban
+  profession: researcher
+  family: single
+  political_ideology: liberal
+  political_party: prefer not to say
+- name: Tianqi_125
+  country: Beijing
+  gender: female
+  age: '33'
+  education: bachelor
+  traits:
+  - introverted
+  - urban
+  profession: data scientist
+  family: married
+  political_ideology: liberal
+  political_party: Chinese Communist Party
+- name: Rui_143
+  country: Beijing
+  gender: non-binary
+  age: '37'
+  education: master
+  traits:
+  - cosmopolitan
+  - disciplined
+  - rural
+  - traditional
+  - urban
+  profession: software engineer
+  family: partnered
+  political_ideology: environmentalist
+  political_party: Chinese Communist Party
+- name: Mingyu_148
+  country: Beijing
+  gender: female
+  age: '39'
+  education: master
+  traits:
+  - disciplined
+  - family-oriented
+  - rural
+  - traditional
+  - urban
+  profession: finance analyst
+  family: married
+  political_ideology: nationalist
+  political_party: Chinese Communist Party
+- name: Aaron_008
+  country: HongKong
+  gender: female
+  age: '56'
+  education: master
+  traits:
+  - cosmopolitan
+  - pragmatic
+  - risk-averse
+  - urban
+  profession: civil engineer
+  family: single
+  political_ideology: nationalist
+  political_party: pro-democracy
+- name: Tianqi_169
+  country: Beijing
+  gender: male
+  age: '40'
+  education: phd
+  traits:
+  - ambitious
+  - creative
+  - risk-averse
+  - traditional
+  - urban
+  profession: accountant
+  family: single
+  political_ideology: environmentalist
+  political_party: non-partisan
+- name: Tianqi_098
+  country: Beijing
+  gender: female
+  age: '31'
+  education: bachelor
+  traits:
+  - creative
+  - introverted
+  - urban
+  profession: nurse
+  family: single
+  political_ideology: conservative
+  political_party: non-partisan
+- name: Leon_233
+  country: Germany
+  gender: female
+  age: '41'
+  education: master
+  traits:
+  - creative
+  - disciplined
+  - environmentalist
+  - introverted
+  profession: nurse
+  family: widowed
+  political_ideology: progressive
+  political_party: CDU/CSU
+- name: Noah_189
+  country: Germany
+  gender: male
+  age: '55'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - disciplined
+  - environmentalist
+  - tech-savvy
+  profession: finance analyst
+  family: divorced
+  political_ideology: liberal
+  political_party: prefer not to say
+- name: Finn_208
+  country: Germany
+  gender: male
+  age: '24'
+  education: associate
+  traits:
+  - risk-averse
+  - traditional
+  profession: product manager
+  family: single
+  political_ideology: socialist
+  political_party: FDP
+- name: Yating_107
+  country: Beijing
+  gender: female
+  age: '31'
+  education: bachelor
+  traits:
+  - optimistic
+  - rural
+  - urban
+  profession: finance analyst
+  family: married
+  political_ideology: socialist
+  political_party: non-partisan
+- name: Hannah_236
+  country: Germany
+  gender: female
+  age: '28'
+  education: bachelor
+  traits:
+  - community-minded
+  - competitive
+  - disciplined
+  - optimistic
+  - risk-tolerant
+  profession: product manager
+  family: married
+  political_ideology: liberal
+  political_party: non-partisan
+- name: Eason_041
+  country: HongKong
+  gender: male
+  age: '26'
+  education: master
+  traits:
+  - cosmopolitan
+  - disciplined
+  - family-oriented
+  - pessimistic
+  - pragmatic
+  - urban
+  profession: sales
+  family: single
+  political_ideology: libertarian
+  political_party: non-partisan
+- name: Jason_016
+  country: HongKong
+  gender: female
+  age: '22'
+  education: master
+  traits:
+  - ambitious
+  - cosmopolitan
+  - creative
+  - empathetic
+  - urban
+  profession: data scientist
+  family: single
+  political_ideology: centrist
+  political_party: prefer not to say
+- name: Emily_297
+  country: London
+  gender: female
+  age: '32'
+  education: bachelor
+  traits:
+  - rural
+  - tech-savvy
+  - urban
+  profession: student
+  family: widowed
+  political_ideology: progressive
+  political_party: Green
+- name: Leon_229
+  country: Germany
+  gender: male
+  age: '25'
+  education: master
+  traits:
+  - cosmopolitan
+  - disciplined
+  - empathetic
+  - introverted
+  profession: civil engineer
+  family: single
+  political_ideology: liberal
+  political_party: Left
+- name: Aaron_043
+  country: HongKong
+  gender: male
+  age: '50'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - creative
+  - disciplined
+  - family-oriented
+  - urban
+  profession: artist
+  family: married
+  political_ideology: liberal
+  political_party: non-partisan
+- name: Lea_239
+  country: Germany
+  gender: female
+  age: '52'
+  education: master
+  traits:
+  - community-minded
+  - disciplined
+  - empathetic
+  - environmentalist
+  - risk-averse
+  - urban
+  profession: nurse
+  family: single
+  political_ideology: libertarian
+  political_party: Greens
+- name: Xinyi_123
+  country: Beijing
+  gender: female
+  age: '42'
+  education: bachelor
+  traits:
+  - community-minded
+  - introverted
+  - urban
+  profession: civil engineer
+  family: married
+  political_ideology: liberal
+  political_party: non-partisan
+- name: Zihan_099
+  country: Beijing
+  gender: male
+  age: '48'
+  education: bachelor
+  traits:
+  - disciplined
+  - optimistic
+  - pragmatic
+  - risk-tolerant
+  - urban
+  profession: software engineer
+  family: divorced
+  political_ideology: nationalist
+  political_party: non-partisan
+- name: Sophia_244
+  country: San Francisco
+  gender: male
+  age: '27'
+  education: bachelor
+  traits:
+  - family-oriented
+  - pessimistic
+  - tech-savvy
+  - urban
+  profession: software engineer
+  family: married
+  political_ideology: conservative
+  political_party: Republican Party
+- name: Paul_187
+  country: Germany
+  gender: male
+  age: '45'
+  education: bachelor
+  traits:
+  - disciplined
+  - environmentalist
+  - urban
+  profession: marketing specialist
+  family: married
+  political_ideology: libertarian
+  political_party: AfD
+- name: Harry_299
+  country: London
+  gender: female
+  age: '47'
+  education: master
+  traits:
+  - empathetic
+  - optimistic
+  - pessimistic
+  - urban
+  profession: policy analyst
+  family: single
+  political_ideology: liberal
+  political_party: Liberal Democrats
+- name: Yating_103
+  country: Beijing
+  gender: female
+  age: '26'
+  education: bachelor
+  traits:
+  - creative
+  - introverted
+  - urban
+  profession: product manager
+  family: single
+  political_ideology: nationalist
+  political_party: Chinese Communist Party
+- name: Hannah_209
+  country: Germany
+  gender: female
+  age: '39'
+  education: high_school
+  traits:
+  - community-minded
+  - pragmatic
+  - tech-savvy
+  profession: artist
+  family: single
+  political_ideology: centrist
+  political_party: Greens
+- name: Vivian_047
+  country: HongKong
+  gender: male
+  age: '44'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - pragmatic
+  - urban
+  profession: nurse
+  family: married
+  political_ideology: environmentalist
+  political_party: non-partisan
+- name: Chloe_088
+  country: HongKong
+  gender: female
+  age: '60'
+  education: master
+  traits:
+  - cosmopolitan
+  - introverted
+  - risk-tolerant
+  - traditional
+  - urban
+  profession: doctor
+  family: single
+  political_ideology: liberal
+  political_party: prefer not to say
+- name: Rui_096
+  country: Beijing
+  gender: male
+  age: '35'
+  education: phd
+  traits:
+  - ambitious
+  - community-minded
+  - competitive
+  - family-oriented
+  - urban
+  profession: data scientist
+  family: partnered
+  political_ideology: liberal
+  political_party: Chinese Communist Party
+- name: Lena_196
+  country: Germany
+  gender: male
+  age: '31'
+  education: master
+  traits:
+  - disciplined
+  - environmentalist
+  - pessimistic
+  profession: civil engineer
+  family: married
+  political_ideology: progressive
+  political_party: SPD
+- name: Emily_288
+  country: London
+  gender: female
+  age: '28'
+  education: master
+  traits:
+  - community-minded
+  - risk-averse
+  - risk-tolerant
+  - urban
+  profession: software engineer
+  family: married
+  political_ideology: conservative
+  political_party: Green
+- name: Ethan_257
+  country: San Francisco
+  gender: male
+  age: '37'
+  education: bachelor
+  traits:
+  - community-minded
+  - creative
+  - family-oriented
+  - risk-tolerant
+  - tech-savvy
+  - urban
+  profession: software engineer
+  family: partnered
+  political_ideology: socialist
+  political_party: Democratic Party
+- name: Mingyu_113
+  country: Beijing
+  gender: female
+  age: '24'
+  education: master
+  traits:
+  - cosmopolitan
+  - environmentalist
+  - extroverted
+  - risk-tolerant
+  - urban
+  profession: consultant
+  family: married
+  political_ideology: nationalist
+  political_party: non-partisan
+- name: Ben_218
+  country: Germany
+  gender: female
+  age: '60'
+  education: master
+  traits:
+  - competitive
+  - environmentalist
+  - pragmatic
+  profession: entrepreneur
+  family: single
+  political_ideology: liberal
+  political_party: Left
+- name: Arjun_282
+  country: Mumbai
+  gender: male
+  age: '39'
+  education: bachelor
+  traits:
+  - extroverted
+  - family-oriented
+  - risk-tolerant
+  - urban
+  profession: journalist
+  family: partnered
+  political_ideology: conservative
+  political_party: AAP
+- name: Wing_044
+  country: HongKong
+  gender: female
+  age: '37'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - family-oriented
+  - urban
+  profession: software engineer
+  family: partnered
+  political_ideology: centrist
+  political_party: pro-establishment
+- name: Shuai_166
+  country: Beijing
+  gender: male
+  age: '58'
+  education: bachelor
+  traits:
+  - competitive
+  - creative
+  - family-oriented
+  - pessimistic
+  - urban
+  profession: marketing specialist
+  family: divorced
+  political_ideology: nationalist
+  political_party: prefer not to say
+- name: Sofia_240
+  country: Germany
+  gender: female
+  age: '57'
+  education: master
+  traits:
+  - environmentalist
+  - risk-tolerant
+  profession: researcher
+  family: partnered
+  political_ideology: nationalist
+  political_party: CDU/CSU
+- name: Grace_286
+  country: London
+  gender: male
+  age: '42'
+  education: associate
+  traits:
+  - cosmopolitan
+  - introverted
+  - optimistic
+  - risk-tolerant
+  - urban
+  profession: entrepreneur
+  family: partnered
+  political_ideology: nationalist
+  political_party: prefer not to say
+- name: Vihaan_276
+  country: Mumbai
+  gender: non-binary
+  age: '50'
+  education: bachelor
+  traits:
+  - competitive
+  - disciplined
+  - pessimistic
+  profession: product manager
+  family: single
+  political_ideology: centrist
+  political_party: non-partisan
+- name: Sophia_264
+  country: San Francisco
+  gender: female
+  age: '57'
+  education: master
+  traits:
+  - community-minded
+  - cosmopolitan
+  - introverted
+  - tech-savvy
+  - traditional
+  - urban
+  profession: software engineer
+  family: single
+  political_ideology: liberal
+  political_party: Independent
+- name: Finn_230
+  country: Germany
+  gender: male
+  age: '41'
+  education: bachelor
+  traits:
+  - community-minded
+  - extroverted
+  - pessimistic
+  profession: journalist
+  family: single
+  political_ideology: nationalist
+  political_party: Greens
+- name: Jiawei_110
+  country: Beijing
+  gender: female
+  age: '37'
+  education: bachelor
+  traits:
+  - competitive
+  - risk-tolerant
+  - urban
+  profession: designer
+  family: married
+  political_ideology: socialist
+  political_party: prefer not to say
+- name: Kelly_081
+  country: HongKong
+  gender: male
+  age: '45'
+  education: master
+  traits:
+  - cosmopolitan
+  - creative
+  - pessimistic
+  - tech-savvy
+  - urban
+  profession: journalist
+  family: partnered
+  political_ideology: centrist
+  political_party: pro-establishment
+- name: Sofia_174
+  country: Germany
+  gender: female
+  age: '38'
+  education: bachelor
+  traits:
+  - competitive
+  - family-oriented
+  profession: finance analyst
+  family: married
+  political_ideology: libertarian
+  political_party: Greens
+- name: Ivan_093
+  country: HongKong
+  gender: female
+  age: '35'
+  education: master
+  traits:
+  - competitive
+  - cosmopolitan
+  - empathetic
+  - environmentalist
+  - urban
+  profession: doctor
+  family: single
+  political_ideology: centrist
+  political_party: prefer not to say
+- name: Eason_075
+  country: HongKong
+  gender: female
+  age: '27'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - disciplined
+  - risk-averse
+  - risk-tolerant
+  - urban
+  profession: chef
+  family: single
+  political_ideology: conservative
+  political_party: prefer not to say
+- name: Finn_221
+  country: Germany
+  gender: female
+  age: '44'
+  education: bachelor
+  traits:
+  - creative
+  - empathetic
+  profession: teacher
+  family: single
+  political_ideology: environmentalist
+  political_party: Greens
+- name: Eason_045
+  country: HongKong
+  gender: female
+  age: '41'
+  education: bachelor
+  traits:
+  - competitive
+  - cosmopolitan
+  - optimistic
+  - urban
+  profession: data scientist
+  family: single
+  political_ideology: progressive
+  political_party: prefer not to say
+- name: Paul_191
+  country: Germany
+  gender: female
+  age: '61'
+  education: high_school
+  traits:
+  - ambitious
+  - cosmopolitan
+  - pessimistic
+  - risk-averse
+  profession: teacher
+  family: single
+  political_ideology: progressive
+  political_party: FDP
+- name: Suki_013
+  country: HongKong
+  gender: female
+  age: '35'
+  education: master
+  traits:
+  - cosmopolitan
+  - empathetic
+  - introverted
+  - urban
+  profession: software engineer
+  family: divorced
+  political_ideology: nationalist
+  political_party: prefer not to say
+- name: Xinyi_119
+  country: Beijing
+  gender: male
+  age: '24'
+  education: master
+  traits:
+  - cosmopolitan
+  - disciplined
+  - pessimistic
+  - pragmatic
+  - urban
+  profession: software engineer
+  family: divorced
+  political_ideology: conservative
+  political_party: prefer not to say
+- name: Sofia_222
+  country: Germany
+  gender: female
+  age: '31'
+  education: bachelor
+  traits:
+  - creative
+  - disciplined
+  - optimistic
+  - urban
+  profession: software engineer
+  family: single
+  political_ideology: socialist
+  political_party: prefer not to say
+- name: Leon_215
+  country: Germany
+  gender: female
+  age: '49'
+  education: master
+  traits:
+  - creative
+  - disciplined
+  - extroverted
+  - optimistic
+  profession: lawyer
+  family: married
+  political_ideology: nationalist
+  political_party: Greens
+- name: Arjun_280
+  country: Mumbai
+  gender: male
+  age: '26'
+  education: master
+  traits:
+  - cosmopolitan
+  - creative
+  - risk-averse
+  profession: student
+  family: partnered
+  political_ideology: conservative
+  political_party: INC
+- name: Ava_263
+  country: San Francisco
+  gender: female
+  age: '34'
+  education: high_school
+  traits:
+  - ambitious
+  - rural
+  - tech-savvy
+  - urban
+  profession: designer
+  family: single
+  political_ideology: progressive
+  political_party: Independent
+- name: Shuai_165
+  country: Beijing
+  gender: male
+  age: '39'
+  education: bachelor
+  traits:
+  - competitive
+  - environmentalist
+  - urban
+  profession: designer
+  family: single
+  political_ideology: liberal
+  political_party: prefer not to say
+- name: Aaron_066
+  country: HongKong
+  gender: female
+  age: '55'
+  education: high_school
+  traits:
+  - cosmopolitan
+  - creative
+  - family-oriented
+  - pessimistic
+  - risk-tolerant
+  - urban
+  profession: doctor
+  family: single
+  political_ideology: liberal
+  political_party: pro-democracy
+- name: Amelia_247
+  country: San Francisco
+  gender: female
+  age: '49'
+  education: high_school
+  traits:
+  - community-minded
+  - family-oriented
+  - pragmatic
+  - tech-savvy
+  - urban
+  profession: consultant
+  family: single
+  political_ideology: environmentalist
+  political_party: Republican Party
+- name: Aarav_270
+  country: Mumbai
+  gender: female
+  age: '26'
+  education: high_school
+  traits:
+  - community-minded
+  - empathetic
+  - introverted
+  - tech-savvy
+  profession: teacher
+  family: single
+  political_ideology: centrist
+  political_party: Shiv Sena
+- name: Noah_186
+  country: Germany
+  gender: female
+  age: '27'
+  education: high_school
+  traits:
+  - ambitious
+  - disciplined
+  - family-oriented
+  profession: mechanical engineer
+  family: married
+  political_ideology: conservative
+  political_party: SPD
+- name: Rohan_271
+  country: Mumbai
+  gender: female
+  age: '61'
+  education: associate
+  traits:
+  - ambitious
+  - tech-savvy
+  profession: software engineer
+  family: partnered
+  political_ideology: conservative
+  political_party: non-partisan
+- name: Sofia_235
+  country: Germany
+  gender: male
+  age: '60'
+  education: master
+  traits:
+  - ambitious
+  - disciplined
+  - environmentalist
+  - extroverted
+  - introverted
+  profession: mechanical engineer
+  family: partnered
+  political_ideology: centrist
+  political_party: AfD
+- name: Jack_296
+  country: London
+  gender: male
+  age: '24'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - disciplined
+  - environmentalist
+  - risk-tolerant
+  - urban
+  profession: software engineer
+  family: single
+  political_ideology: nationalist
+  political_party: prefer not to say
+- name: Ka-Yan_039
+  country: HongKong
+  gender: female
+  age: '52'
+  education: master
+  traits:
+  - cosmopolitan
+  - family-oriented
+  - risk-tolerant
+  - urban
+  profession: software engineer
+  family: married
+  political_ideology: progressive
+  political_party: pro-establishment
+- name: Jiawei_127
+  country: Beijing
+  gender: male
+  age: '30'
+  education: master
+  traits:
+  - competitive
+  - family-oriented
+  - pragmatic
+  - risk-tolerant
+  - urban
+  profession: teacher
+  family: single
+  political_ideology: liberal
+  political_party: Chinese Communist Party
+- name: Leon_203
+  country: Germany
+  gender: male
+  age: '28'
+  education: master
+  traits:
+  - disciplined
+  - environmentalist
+  - extroverted
+  - pessimistic
+  - traditional
+  profession: software engineer
+  family: married
+  political_ideology: centrist
+  political_party: non-partisan
+- name: Tianqi_147
+  country: Beijing
+  gender: female
+  age: '24'
+  education: bachelor
+  traits:
+  - tech-savvy
+  - traditional
+  - urban
+  profession: doctor
+  family: partnered
+  political_ideology: centrist
+  political_party: prefer not to say
+- name: Ka-Yan_029
+  country: HongKong
+  gender: female
+  age: '29'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - environmentalist
+  - urban
+  profession: consultant
+  family: partnered
+  political_ideology: nationalist
+  political_party: pro-democracy
+- name: Chloe_023
+  country: HongKong
+  gender: male
+  age: '59'
+  education: high_school
+  traits:
+  - ambitious
+  - cosmopolitan
+  - risk-averse
+  - tech-savvy
+  - urban
+  profession: consultant
+  family: married
+  political_ideology: liberal
+  political_party: prefer not to say
+- name: Lena_172
+  country: Germany
+  gender: female
+  age: '50'
+  education: bachelor
+  traits:
+  - disciplined
+  - extroverted
+  - family-oriented
+  - risk-averse
+  - urban
+  profession: product manager
+  family: partnered
+  political_ideology: socialist
+  political_party: FDP
+- name: Ivan_004
+  country: HongKong
+  gender: female
+  age: '22'
+  education: master
+  traits:
+  - cosmopolitan
+  - empathetic
+  - introverted
+  - risk-tolerant
+  - urban
+  profession: policy analyst
+  family: married
+  political_ideology: progressive
+  political_party: pro-democracy
+- name: Ka-Yan_001
+  country: HongKong
+  gender: male
+  age: '21'
+  education: master
+  traits:
+  - cosmopolitan
+  - empathetic
+  - introverted
+  - urban
+  profession: software engineer
+  family: single
+  political_ideology: centrist
+  political_party: non-partisan
+- name: Kelly_061
+  country: HongKong
+  gender: male
+  age: '38'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - empathetic
+  - pessimistic
+  - risk-averse
+  - urban
+  profession: software engineer
+  family: single
+  political_ideology: socialist
+  political_party: pro-establishment
+- name: Anaya_283
+  country: Mumbai
+  gender: male
+  age: '58'
+  education: master
+  traits:
+  - creative
+  - disciplined
+  - traditional
+  profession: data scientist
+  family: single
+  political_ideology: socialist
+  political_party: INC
+- name: Jiawei_124
+  country: Beijing
+  gender: male
+  age: '28'
+  education: master
+  traits:
+  - community-minded
+  - disciplined
+  - environmentalist
+  - introverted
+  - urban
+  profession: entrepreneur
+  family: partnered
+  political_ideology: conservative
+  political_party: non-partisan
+- name: Finn_177
+  country: Germany
+  gender: male
+  age: '38'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - disciplined
+  - environmentalist
+  - tech-savvy
+  profession: data scientist
+  family: married
+  political_ideology: liberal
+  political_party: Greens
+- name: Ivan_054
+  country: HongKong
+  gender: male
+  age: '26'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - environmentalist
+  - rural
+  - urban
+  profession: student
+  family: single
+  political_ideology: centrist
+  political_party: pro-democracy
+- name: Finn_227
+  country: Germany
+  gender: non-binary
+  age: '46'
+  education: master
+  traits:
+  - disciplined
+  - family-oriented
+  - urban
+  profession: journalist
+  family: widowed
+  political_ideology: liberal
+  political_party: non-partisan
+- name: Yating_141
+  country: Beijing
+  gender: male
+  age: '53'
+  education: bachelor
+  traits:
+  - community-minded
+  - empathetic
+  - rural
+  - urban
+  profession: nurse
+  family: single
+  political_ideology: liberal
+  political_party: Chinese Communist Party
+- name: Isabella_265
+  country: San Francisco
+  gender: non-binary
+  age: '47'
+  education: master
+  traits:
+  - empathetic
+  - progressive
+  - tech-savvy
+  - traditional
+  - urban
+  profession: civil engineer
+  family: divorced
+  political_ideology: centrist
+  political_party: Republican Party
+- name: Chloe_042
+  country: HongKong
+  gender: female
+  age: '49'
+  education: master
+  traits:
+  - community-minded
+  - cosmopolitan
+  - disciplined
+  - environmentalist
+  - urban
+  profession: mechanical engineer
+  family: widowed
+  political_ideology: progressive
+  political_party: prefer not to say
+- name: Ka-Yan_076
+  country: HongKong
+  gender: female
+  age: '55'
+  education: associate
+  traits:
+  - cosmopolitan
+  - environmentalist
+  - introverted
+  - risk-averse
+  - urban
+  profession: mechanical engineer
+  family: single
+  political_ideology: liberal
+  political_party: pro-democracy
+- name: Haoran_105
+  country: Beijing
+  gender: male
+  age: '23'
+  education: phd
+  traits:
+  - ambitious
+  - creative
+  - disciplined
+  - urban
+  profession: designer
+  family: married
+  political_ideology: liberal
+  political_party: Chinese Communist Party
+- name: Mia_181
+  country: Germany
+  gender: male
+  age: '52'
+  education: bachelor
+  traits:
+  - ambitious
+  - creative
+  - disciplined
+  - extroverted
+  - pragmatic
+  profession: software engineer
+  family: married
+  political_ideology: progressive
+  political_party: prefer not to say
+- name: Eason_092
+  country: HongKong
+  gender: female
+  age: '24'
+  education: master
+  traits:
+  - cosmopolitan
+  - environmentalist
+  - extroverted
+  - pessimistic
+  - urban
+  profession: researcher
+  family: single
+  political_ideology: environmentalist
+  political_party: pro-democracy
+- name: Hannah_224
+  country: Germany
+  gender: male
+  age: '51'
+  education: bachelor
+  traits:
+  - empathetic
+  - pessimistic
+  - pragmatic
+  - traditional
+  profession: software engineer
+  family: single
+  political_ideology: nationalist
+  political_party: FDP
+- name: Ethan_245
+  country: San Francisco
+  gender: male
+  age: '22'
+  education: bachelor
+  traits:
+  - community-minded
+  - family-oriented
+  - tech-savvy
+  - urban
+  profession: entrepreneur
+  family: partnered
+  political_ideology: centrist
+  political_party: Independent
+- name: Lea_238
+  country: Germany
+  gender: male
+  age: '31'
+  education: master
+  traits:
+  - competitive
+  - disciplined
+  - environmentalist
+  - introverted
+  profession: marketing specialist
+  family: divorced
+  political_ideology: libertarian
+  political_party: non-partisan
+- name: Meera_278
+  country: Mumbai
+  gender: non-binary
+  age: '60'
+  education: associate
+  traits:
+  - community-minded
+  - cosmopolitan
+  - empathetic
+  - introverted
+  profession: designer
+  family: married
+  political_ideology: progressive
+  political_party: non-partisan
+- name: Lea_200
+  country: Germany
+  gender: female
+  age: '44'
+  education: bachelor
+  traits:
+  - creative
+  - introverted
+  profession: software engineer
+  family: single
+  political_ideology: liberal
+  political_party: CDU/CSU
+- name: Kelly_052
+  country: HongKong
+  gender: female
+  age: '39'
+  education: bachelor
+  traits:
+  - ambitious
+  - cosmopolitan
+  - extroverted
+  - family-oriented
+  - introverted
+  - urban
+  profession: teacher
+  family: partnered
+  political_ideology: centrist
+  political_party: pro-democracy
+- name: Olivia_242
+  country: San Francisco
+  gender: male
+  age: '36'
+  education: associate
+  traits:
+  - extroverted
+  - optimistic
+  - tech-savvy
+  - urban
+  profession: marketing specialist
+  family: single
+  political_ideology: liberal
+  political_party: Democratic Party
+- name: Ivan_051
+  country: HongKong
+  gender: female
+  age: '27'
+  education: bachelor
+  traits:
+  - community-minded
+  - cosmopolitan
+  - extroverted
+  - rural
+  - urban
+  profession: researcher
+  family: single
+  political_ideology: environmentalist
+  political_party: non-partisan
+- name: Mingyu_128
+  country: Beijing
+  gender: non-binary
+  age: '50'
+  education: master
+  traits:
+  - community-minded
+  - cosmopolitan
+  - pragmatic
+  - risk-tolerant
+  - urban
+  profession: researcher
+  family: single
+  political_ideology: socialist
+  political_party: non-partisan
+- name: Wing_028
+  country: HongKong
+  gender: male
+  age: '37'
+  education: high_school
+  traits:
+  - cosmopolitan
+  - empathetic
+  - pragmatic
+  - rural
+  - urban
+  profession: software engineer
+  family: single
+  political_ideology: centrist
+  political_party: non-partisan
+- name: Mia_201
+  country: Germany
+  gender: male
+  age: '34'
+  education: bachelor
+  traits:
+  - introverted
+  - pessimistic
+  - risk-averse
+  profession: student
+  family: partnered
+  political_ideology: socialist
+  political_party: SPD
+- name: Vivian_030
+  country: HongKong
+  gender: male
+  age: '33'
+  education: master
+  traits:
+  - cosmopolitan
+  - environmentalist
+  - family-oriented
+  - rural
+  - urban
+  profession: teacher
+  family: married
+  political_ideology: environmentalist
+  political_party: pro-establishment
+- name: Eason_073
+  country: HongKong
+  gender: male
+  age: '59'
+  education: master
+  traits:
+  - cosmopolitan
+  - empathetic
+  - risk-averse
+  - urban
+  profession: marketing specialist
+  family: married
+  political_ideology: nationalist
+  political_party: pro-democracy
+- name: Eason_031
+  country: HongKong
+  gender: female
+  age: '41'
+  education: master
+  traits:
+  - cosmopolitan
+  - extroverted
+  - family-oriented
+  - risk-averse
+  - rural
+  - urban
+  profession: researcher
+  family: single
+  political_ideology: conservative
+  political_party: non-partisan
+- name: Jiawei_159
+  country: Beijing
+  gender: male
+  age: '51'
+  education: high_school
+  traits:
+  - ambitious
+  - competitive
+  - urban
+  profession: lawyer
+  family: divorced
+  political_ideology: conservative
+  political_party: Chinese Communist Party
+- name: Hannah_185
+  country: Germany
+  gender: female
+  age: '34'
+  education: master
+  traits:
+  - community-minded
+  - empathetic
+  - environmentalist
+  profession: policy analyst
+  family: married
+  political_ideology: conservative
+  political_party: Greens
+- name: Jack_291
+  country: London
+  gender: female
+  age: '61'
+  education: bachelor
+  traits:
+  - community-minded
+  - cosmopolitan
+  - urban
+  profession: marketing specialist
+  family: single
+  political_ideology: centrist
+  political_party: non-partisan
+- name: Wing_027
+  country: HongKong
+  gender: female
+  age: '33'
+  education: master
+  traits:
+  - cosmopolitan
+  - creative
+  - disciplined
+  - risk-averse
+  - urban
+  profession: civil engineer
+  family: single
+  political_ideology: libertarian
+  political_party: non-partisan
+- name: Lena_231
+  country: Germany
+  gender: female
+  age: '47'
+  education: bachelor
+  traits:
+  - introverted
+  - risk-averse
+  - risk-tolerant
+  - rural
+  profession: software engineer
+  family: married
+  political_ideology: conservative
+  political_party: Greens
+- name: Paul_213
+  country: Germany
+  gender: female
+  age: '43'
+  education: master
+  traits:
+  - extroverted
+  - family-oriented
+  profession: mechanical engineer
+  family: partnered
+  political_ideology: centrist
+  political_party: SPD
+- name: Liam_249
+  country: San Francisco
+  gender: female
+  age: '35'
+  education: bachelor
+  traits:
+  - introverted
+  - progressive
+  - risk-averse
+  - tech-savvy
+  - urban
+  profession: policy analyst
+  family: divorced
+  political_ideology: liberal
+  political_party: prefer not to say
+- name: Vivian_036
+  country: HongKong
+  gender: female
+  age: '27'
+  education: master
+  traits:
+  - cosmopolitan
+  - risk-tolerant
+  - tech-savvy
+  - urban
+  profession: designer
+  family: single
+  political_ideology: socialist
+  political_party: pro-establishment
+- name: Lena_180
+  country: Germany
+  gender: male
+  age: '58'
+  education: bachelor
+  traits:
+  - ambitious
+  - disciplined
+  - family-oriented
+  - introverted
+  profession: finance analyst
+  family: married
+  political_ideology: nationalist
+  political_party: CDU/CSU
+- name: Tianqi_156
+  country: Beijing
+  gender: female
+  age: '49'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - tech-savvy
+  - traditional
+  - urban
+  profession: designer
+  family: married
+  political_ideology: progressive
+  political_party: prefer not to say
+- name: Haoran_160
+  country: Beijing
+  gender: male
+  age: '61'
+  education: master
+  traits:
+  - environmentalist
+  - urban
+  profession: software engineer
+  family: single
+  political_ideology: libertarian
+  political_party: prefer not to say
+- name: Wing_070
+  country: HongKong
+  gender: male
+  age: '56'
+  education: high_school
+  traits:
+  - cosmopolitan
+  - environmentalist
+  - pragmatic
+  - risk-averse
+  - rural
+  - urban
+  profession: doctor
+  family: married
+  political_ideology: centrist
+  political_party: prefer not to say
+- name: Zihan_134
+  country: Beijing
+  gender: female
+  age: '59'
+  education: bachelor
+  traits:
+  - disciplined
+  - empathetic
+  - family-oriented
+  - optimistic
+  - urban
+  profession: student
+  family: single
+  political_ideology: centrist
+  political_party: non-partisan
+- name: Ethan_248
+  country: San Francisco
+  gender: male
+  age: '35'
+  education: associate
+  traits:
+  - competitive
+  - optimistic
+  - tech-savvy
+  - traditional
+  - urban
+  profession: software engineer
+  family: divorced
+  political_ideology: conservative
+  political_party: Independent
+- name: Michelle_026
+  country: HongKong
+  gender: non-binary
+  age: '61'
+  education: bachelor
+  traits:
+  - community-minded
+  - cosmopolitan
+  - extroverted
+  - risk-averse
+  - urban
+  profession: consultant
+  family: married
+  political_ideology: libertarian
+  political_party: pro-establishment
+- name: Jiawei_170
+  country: Beijing
+  gender: female
+  age: '39'
+  education: master
+  traits:
+  - creative
+  - tech-savvy
+  - traditional
+  - urban
+  profession: researcher
+  family: married
+  political_ideology: socialist
+  political_party: prefer not to say
+- name: Shuai_108
+  country: Beijing
+  gender: female
+  age: '60'
+  education: phd
+  traits:
+  - environmentalist
+  - pragmatic
+  - tech-savvy
+  - urban
+  profession: accountant
+  family: single
+  political_ideology: nationalist
+  political_party: non-partisan
+- name: Ka-Yan_078
+  country: HongKong
+  gender: male
+  age: '44'
+  education: bachelor
+  traits:
+  - community-minded
+  - competitive
+  - cosmopolitan
+  - family-oriented
+  - urban
+  profession: data scientist
+  family: single
+  political_ideology: progressive
+  political_party: prefer not to say
+- name: Ivan_003
+  country: HongKong
+  gender: male
+  age: '41'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - introverted
+  - urban
+  profession: marketing specialist
+  family: single
+  political_ideology: nationalist
+  political_party: pro-democracy
+- name: Chenxi_162
+  country: Beijing
+  gender: female
+  age: '59'
+  education: master
+  traits:
+  - empathetic
+  - tech-savvy
+  - traditional
+  - urban
+  profession: policy analyst
+  family: single
+  political_ideology: libertarian
+  political_party: Chinese Communist Party
+- name: Harry_287
+  country: London
+  gender: male
+  age: '33'
+  education: master
+  traits:
+  - disciplined
+  - environmentalist
+  - optimistic
+  - urban
+  profession: researcher
+  family: married
+  political_ideology: progressive
+  political_party: prefer not to say
+- name: Finn_178
+  country: Germany
+  gender: female
+  age: '35'
+  education: high_school
+  traits:
+  - disciplined
+  - optimistic
+  - risk-tolerant
+  - tech-savvy
+  profession: doctor
+  family: single
+  political_ideology: liberal
+  political_party: CDU/CSU
+- name: Vivian_053
+  country: HongKong
+  gender: male
+  age: '27'
+  education: master
+  traits:
+  - cosmopolitan
+  - disciplined
+  - environmentalist
+  - introverted
+  - traditional
+  - urban
+  profession: software engineer
+  family: married
+  political_ideology: centrist
+  political_party: non-partisan
+- name: Wing_079
+  country: HongKong
+  gender: female
+  age: '50'
+  education: master
+  traits:
+  - community-minded
+  - cosmopolitan
+  - creative
+  - pessimistic
+  - urban
+  profession: teacher
+  family: partnered
+  political_ideology: socialist
+  political_party: pro-democracy
+- name: Lucas_243
+  country: San Francisco
+  gender: male
+  age: '56'
+  education: master
+  traits:
+  - competitive
+  - creative
+  - progressive
+  - tech-savvy
+  - urban
+  profession: accountant
+  family: married
+  political_ideology: nationalist
+  political_party: Democratic Party
+- name: Zihan_130
+  country: Beijing
+  gender: male
+  age: '37'
+  education: bachelor
+  traits:
+  - family-oriented
+  - pragmatic
+  - urban
+  profession: chef
+  family: married
+  political_ideology: libertarian
+  political_party: Chinese Communist Party
+- name: Arjun_273
+  country: Mumbai
+  gender: male
+  age: '26'
+  education: high_school
+  traits:
+  - creative
+  - extroverted
+  profession: product manager
+  family: single
+  political_ideology: conservative
+  political_party: Shiv Sena
+- name: Ben_195
+  country: Germany
+  gender: female
+  age: '41'
+  education: bachelor
+  traits:
+  - creative
+  - empathetic
+  - risk-averse
+  - tech-savvy
+  profession: product manager
+  family: married
+  political_ideology: conservative
+  political_party: Greens
+- name: Leon_228
+  country: Germany
+  gender: female
+  age: '60'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - disciplined
+  - introverted
+  - risk-averse
+  profession: doctor
+  family: single
+  political_ideology: conservative
+  political_party: prefer not to say
+- name: Finn_214
+  country: Germany
+  gender: non-binary
+  age: '61'
+  education: bachelor
+  traits:
+  - community-minded
+  - disciplined
+  - extroverted
+  - optimistic
+  profession: policy analyst
+  family: married
+  political_ideology: socialist
+  political_party: FDP
+- name: Wing_060
+  country: HongKong
+  gender: female
+  age: '32'
+  education: bachelor
+  traits:
+  - ambitious
+  - competitive
+  - cosmopolitan
+  - creative
+  - rural
+  - urban
+  profession: trader
+  family: married
+  political_ideology: liberal
+  political_party: pro-democracy
+- name: Amelia_292
+  country: London
+  gender: male
+  age: '61'
+  education: bachelor
+  traits:
+  - ambitious
+  - cosmopolitan
+  - pessimistic
+  - urban
+  profession: student
+  family: single
+  political_ideology: conservative
+  political_party: non-partisan
+- name: Kelly_011
+  country: HongKong
+  gender: female
+  age: '38'
+  education: bachelor
+  traits:
+  - competitive
+  - cosmopolitan
+  - disciplined
+  - risk-averse
+  - rural
+  - urban
+  profession: trader
+  family: single
+  political_ideology: libertarian
+  political_party: pro-democracy
+- name: Oscar_056
+  country: HongKong
+  gender: male
+  age: '56'
+  education: master
+  traits:
+  - ambitious
+  - cosmopolitan
+  - creative
+  - rural
+  - urban
+  profession: software engineer
+  family: single
+  political_ideology: conservative
+  political_party: pro-democracy
+- name: Kabir_268
+  country: Mumbai
+  gender: female
+  age: '36'
+  education: bachelor
+  traits:
+  - optimistic
+  - pessimistic
+  profession: designer
+  family: married
+  political_ideology: centrist
+  political_party: INC
+- name: Ivan_025
+  country: HongKong
+  gender: female
+  age: '36'
+  education: associate
+  traits:
+  - cosmopolitan
+  - risk-tolerant
+  - traditional
+  - urban
+  profession: software engineer
+  family: single
+  political_ideology: nationalist
+  political_party: pro-democracy
+- name: Xinyi_131
+  country: Beijing
+  gender: female
+  age: '52'
+  education: bachelor
+  traits:
+  - optimistic
+  - tech-savvy
+  - urban
+  profession: software engineer
+  family: single
+  political_ideology: libertarian
+  political_party: prefer not to say
+- name: Finn_193
+  country: Germany
+  gender: male
+  age: '33'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - empathetic
+  - pragmatic
+  profession: designer
+  family: single
+  political_ideology: conservative
+  political_party: prefer not to say
+- name: Chloe_020
+  country: HongKong
+  gender: female
+  age: '45'
+  education: master
+  traits:
+  - cosmopolitan
+  - pragmatic
+  - risk-averse
+  - risk-tolerant
+  - urban
+  profession: software engineer
+  family: single
+  political_ideology: conservative
+  political_party: prefer not to say
+- name: Emma_188
+  country: Germany
+  gender: male
+  age: '40'
+  education: bachelor
+  traits:
+  - disciplined
+  - environmentalist
+  - family-oriented
+  - risk-averse
+  - risk-tolerant
+  profession: social worker
+  family: partnered
+  political_ideology: progressive
+  political_party: Greens
+- name: Ivan_064
+  country: HongKong
+  gender: non-binary
+  age: '27'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - disciplined
+  - family-oriented
+  - pragmatic
+  - urban
+  profession: mechanical engineer
+  family: single
+  political_ideology: libertarian
+  political_party: pro-democracy
+- name: Kelly_087
+  country: HongKong
+  gender: male
+  age: '38'
+  education: master
+  traits:
+  - ambitious
+  - cosmopolitan
+  - risk-averse
+  - urban
+  profession: sales
+  family: single
+  political_ideology: centrist
+  political_party: pro-establishment
+- name: Ava_259
+  country: San Francisco
+  gender: male
+  age: '51'
+  education: bachelor
+  traits:
+  - optimistic
+  - rural
+  - tech-savvy
+  - urban
+  profession: designer
+  family: married
+  political_ideology: nationalist
+  political_party: Independent
+- name: Michelle_012
+  country: HongKong
+  gender: male
+  age: '32'
+  education: associate
+  traits:
+  - community-minded
+  - cosmopolitan
+  - creative
+  - optimistic
+  - tech-savvy
+  - urban
+  profession: accountant
+  family: married
+  political_ideology: nationalist
+  political_party: pro-democracy
+- name: Rui_109
+  country: Beijing
+  gender: female
+  age: '56'
+  education: bachelor
+  traits:
+  - introverted
+  - pessimistic
+  - pragmatic
+  - risk-averse
+  - urban
+  profession: software engineer
+  family: partnered
+  political_ideology: centrist
+  political_party: non-partisan
+- name: Michelle_068
+  country: HongKong
+  gender: male
+  age: '24'
+  education: high_school
+  traits:
+  - competitive
+  - cosmopolitan
+  - extroverted
+  - pragmatic
+  - risk-tolerant
+  - urban
+  profession: mechanical engineer
+  family: partnered
+  political_ideology: centrist
+  political_party: prefer not to say
+- name: Haoran_115
+  country: Beijing
+  gender: female
+  age: '39'
+  education: master
+  traits:
+  - disciplined
+  - extroverted
+  - urban
+  profession: marketing specialist
+  family: single
+  political_ideology: socialist
+  political_party: Chinese Communist Party
+- name: Yue_117
+  country: Beijing
+  gender: female
+  age: '60'
+  education: bachelor
+  traits:
+  - community-minded
+  - competitive
+  - tech-savvy
+  - urban
+  profession: marketing specialist
+  family: married
+  political_ideology: nationalist
+  political_party: Chinese Communist Party
+- name: Kelly_010
+  country: HongKong
+  gender: female
+  age: '24'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - empathetic
+  - extroverted
+  - optimistic
+  - urban
+  profession: doctor
+  family: married
+  political_ideology: centrist
+  political_party: pro-democracy
+- name: Hannah_207
+  country: Germany
+  gender: female
+  age: '46'
+  education: bachelor
+  traits:
+  - competitive
+  - disciplined
+  profession: student
+  family: single
+  political_ideology: nationalist
+  political_party: Left
+- name: Vivian_085
+  country: HongKong
+  gender: male
+  age: '30'
+  education: high_school
+  traits:
+  - cosmopolitan
+  - environmentalist
+  - pragmatic
+  - risk-averse
+  - urban
+  profession: social worker
+  family: divorced
+  political_ideology: progressive
+  political_party: pro-establishment
+- name: Rui_097
+  country: Beijing
+  gender: female
+  age: '29'
+  education: phd
+  traits:
+  - optimistic
+  - urban
+  profession: sales
+  family: married
+  political_ideology: nationalist
+  political_party: Chinese Communist Party
+- name: Lea_184
+  country: Germany
+  gender: non-binary
+  age: '44'
+  education: bachelor
+  traits:
+  - empathetic
+  - urban
+  profession: teacher
+  family: partnered
+  political_ideology: nationalist
+  political_party: non-partisan
+- name: Lucas_251
+  country: San Francisco
+  gender: female
+  age: '40'
+  education: phd
+  traits:
+  - pragmatic
+  - progressive
+  - risk-averse
+  - tech-savvy
+  - urban
+  profession: chef
+  family: single
+  political_ideology: environmentalist
+  political_party: Republican Party
+- name: Lena_176
+  country: Germany
+  gender: female
+  age: '61'
+  education: bachelor
+  traits:
+  - ambitious
+  - disciplined
+  - extroverted
+  - pragmatic
+  - risk-averse
+  profession: finance analyst
+  family: married
+  political_ideology: centrist
+  political_party: Greens
+- name: Kelly_069
+  country: HongKong
+  gender: male
+  age: '51'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - introverted
+  - optimistic
+  - risk-averse
+  - tech-savvy
+  - urban
+  profession: student
+  family: married
+  political_ideology: liberal
+  political_party: non-partisan
+- name: Paul_223
+  country: Germany
+  gender: male
+  age: '46'
+  education: master
+  traits:
+  - disciplined
+  - family-oriented
+  - optimistic
+  - pessimistic
+  - risk-tolerant
+  profession: data scientist
+  family: single
+  political_ideology: nationalist
+  political_party: prefer not to say
+- name: Emma_173
+  country: Germany
+  gender: female
+  age: '41'
+  education: master
+  traits:
+  - empathetic
+  - rural
+  profession: marketing specialist
+  family: single
+  political_ideology: progressive
+  political_party: prefer not to say
+- name: Diya_269
+  country: Mumbai
+  gender: male
+  age: '44'
+  education: bachelor
+  traits:
+  - family-oriented
+  - introverted
+  - pragmatic
+  - rural
+  profession: chef
+  family: single
+  political_ideology: nationalist
+  political_party: BJP
+- name: Diya_267
+  country: Mumbai
+  gender: male
+  age: '26'
+  education: phd
+  traits:
+  - community-minded
+  - tech-savvy
+  - traditional
+  profession: entrepreneur
+  family: single
+  political_ideology: libertarian
+  political_party: BJP
+- name: Leon_234
+  country: Germany
+  gender: female
+  age: '39'
+  education: associate
+  traits:
+  - environmentalist
+  - introverted
+  - urban
+  profession: marketing specialist
+  family: married
+  political_ideology: centrist
+  political_party: prefer not to say
+- name: Shuai_149
+  country: Beijing
+  gender: female
+  age: '51'
+  education: high_school
+  traits:
+  - competitive
+  - introverted
+  - risk-tolerant
+  - urban
+  profession: teacher
+  family: married
+  political_ideology: conservative
+  political_party: prefer not to say
+- name: Lucy_153
+  country: Beijing
+  gender: female
+  age: '39'
+  education: master
+  traits:
+  - competitive
+  - rural
+  - tech-savvy
+  - urban
+  profession: civil engineer
+  family: single
+  political_ideology: progressive
+  political_party: prefer not to say
+- name: Suki_024
+  country: HongKong
+  gender: male
+  age: '39'
+  education: bachelor
+  traits:
+  - competitive
+  - cosmopolitan
+  - pragmatic
+  - urban
+  profession: finance analyst
+  family: divorced
+  political_ideology: environmentalist
+  political_party: non-partisan
+- name: Ka-Yan_034
+  country: HongKong
+  gender: female
+  age: '47'
+  education: bachelor
+  traits:
+  - ambitious
+  - cosmopolitan
+  - extroverted
+  - risk-averse
+  - urban
+  profession: doctor
+  family: partnered
+  political_ideology: nationalist
+  political_party: prefer not to say
+- name: Ivan_086
+  country: HongKong
+  gender: male
+  age: '26'
+  education: bachelor
+  traits:
+  - cosmopolitan
+  - optimistic
+  - risk-averse
+  - risk-tolerant
+  - urban
+  profession: consultant
+  family: married
+  political_ideology: nationalist
+  political_party: non-partisan
+- name: Zihan_157
+  country: Beijing
+  gender: female
+  age: '35'
+  education: bachelor
+  traits:
+  - pessimistic
+  - risk-tolerant
+  - urban
+  profession: product manager
+  family: single
+  political_ideology: environmentalist
+  political_party: prefer not to say
+- name: Noah_258
+  country: San Francisco
+  gender: female
+  age: '28'
+  education: bachelor
+  traits:
+  - empathetic
+  - optimistic
+  - tech-savvy
+  - urban
+  profession: sales
+  family: married
+  political_ideology: progressive
+  political_party: Independent

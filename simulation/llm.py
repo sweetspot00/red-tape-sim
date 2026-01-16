@@ -17,7 +17,7 @@ class LLMClient:
         self,
         api_key: Optional[str] = None,
         base_url: Optional[str] = "https://aikey-gateway.ivia.ch",
-        model: Optional[str] = "azure/gpt-4o",
+        model: Optional[str] = "azure/gpt-5",
     ):
         self.api_key = api_key or os.getenv("OPENAI_API_KEY")
         if not self.api_key:
@@ -26,7 +26,7 @@ class LLMClient:
         self.model = model or os.getenv("OPENAI_MODEL") or "gpt-4o-mini"
         self.client = OpenAI(api_key=self.api_key, base_url=self.base_url)
 
-    def generate(self, prompt: str, *, temperature: float = 0.7) -> str:
+    def generate(self, prompt: str, *, temperature: float = 1) -> str:
         try:
             response = self.client.chat.completions.create(
                 model=self.model,
@@ -45,7 +45,7 @@ class LLMClient:
         self,
         prompt: str,
         *,
-        temperature: float = 0.4,
+        temperature: float = 1.0,
     ) -> Tuple[str, str]:
         """
         Ask the LLM for a single-word emotion from a fixed set.
@@ -77,7 +77,7 @@ class LLMClient:
                     {"role": "system", "content": system},
                     {"role": "user", "content": prompt},
                 ],
-                temperature=temperature,
+                temperature=1.0,  # some models (e.g., azure/gpt-5) only support temperature=1
             )
             content = (response.choices[0].message.content or "").strip().lower()
             emotion = self._normalize_emotion(content, emotions)

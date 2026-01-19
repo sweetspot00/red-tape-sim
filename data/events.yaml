@@ -19,6 +19,33 @@
     8. Mainland Delay: Go to Shenzhen immigration to update stay permit, but face longer processing due to “system upgrades”. <Barrier: System Inefficiency> <Cost: 7-10 workdays>
     9. Activation: Activate through customs.
   if_red_tape: true
+- title: 在北京申请签证（中文版）
+  country: Beijing
+  if_red_tape: false
+  description: |
+    预约：在政府官方 App 上预约办理时间（预约有效期为明天）。
+    现场办理：到达办事大厅，进行拍照并采集指纹信息。
+    材料提交：提交申请表及身份证。
+    领取方式：通过 EMS 快递寄送护照（时间：约 7 个工作日）。
+- title: 在北京申请签证(红色官僚主义中文版)
+  country: Beijing
+  if_red_tape: true
+  description: |
+    1.“号源”博弈：尝试线上预约，但未来一个月的名额全部约满。
+    ＜障碍：资源稀缺／准入受限＞
+    ＜应对方式：找“黄牛”代抢，或在午夜不断刷新页面＞
+    2.现场被退回：到达办事大厅后，被告知照片背景“蓝得不够标准”。
+    ＜障碍：自由裁量与随意性＞
+    ＜成本：被迫在指定照相点重新拍照（价格偏高）＞
+    3. 材料循环：提交申请表后，工作人员要求提供 App 清单中未列出的“户口本”页面。
+    ＜障碍：信息不对称＞
+    ＜应对方式：回家取材料＞
+    ＜成本：额外耗时 1 天＞
+    4. “解释权”陷阱：携带材料再次前往时，新的工作人员表示前一位工作人员的解释不正确，要求先到当地派出所办理并加盖另一种公章。
+    ＜障碍：执法标准不一致＞
+    ＜成本：挫败感／困惑＞
+    5. 提交成功：最终完成材料提交。
+    6. 领取结果：收到护照，但因“政治活动安保审查”，办理时间延长至 15 天。
 - title: Passport/Visa Application in Beijing
   country: Beijing
   if_red_tape: false
@@ -37,26 +64,32 @@
     4. The “Interpretation” Trap: Return with the document. The new officer says the previous officer’s interpretation was wrong, and you need a different stamp from the local police station first. <Barrier: Inconsistent Enforcement> <Cost: Frustration/Confusion>
     5. Submission: Finally submit materials.
     6. Collection: Receive passport <Time: Delayed to 15 days due to “Political Event Security Check”>.
-- title: Family Reunion Visa in Germany
+- title: (German) Familiennachzugsvisum in Deutschland 
   country: Germany
   if_red_tape: false
   description: |
-    1. Appointment: Book a slot at the Ausländerbehörde online.
-    2. Interview: Present marriage cert, language test result, and insurance.
-    3. Approval: Officer verifies documents and issues a temporary permit (Fiktionsbescheinigung).
-    4. Card Issuance: Receive the plastic eAT card by mail <Time: 4-6 weeks>.
-- title: Family Reunion Visa in Germany
+    1. Termin: Online einen Termin bei der Ausländerbehörde buchen.
+    2. Vorsprache/Interview: Vorlage der Heiratsurkunde, des Sprachnachweises und der Krankenversicherung.
+    3. Genehmigung: Die Sachbearbeitung prüft die Unterlagen und stellt eine vorläufige Aufenthaltserlaubnis (Fiktionsbescheinigung) aus.
+    4. Kartenausstellung: Die elektronische Aufenthaltstitelkarte (eAT) wird per Post zugestellt (Bearbeitungszeit: 4–6 Wochen).
+- title: (German) Familiennachzugsvisum in Deutschland (Red Tape)
   country: Germany
   if_red_tape: true
   description: |
-    1. The Appointment Wall: Website shows “No appointments available” for the entire year. <Barrier: Infrastructure Failure> <Cost: months of waiting>
-    2. The Catch-22 (Circular Logic): Arrive at interview. Officer asks for “Anmeldung” (Address Registration). <Barrier: Logical Deadlock>
-    Agent: “I can’t register an address because I don’t have a residence permit to sign a lease.”
-    Officer: “And you can’t get a residence permit without a registered address.” <Barrier: Catch-22>
-    3. Paperwork Fetish: Officer rejects the marriage certificate because the translation wasn’t done by a “Berlin-sworn” translator (even though it’s a certified translation). <Barrier: Excessive Formalism> <Cost: €50 for new translation>
-    4. Communication Breakdown: Send the new translation by post. No reply for 3 months. Phone lines are permanently busy. <Barrier: Unreachability> <Cost: Helplessness>
-    5. Legal Escalation: Hire a lawyer to send a “Threat of Action” letter (Untätigkeitsklage). <Action: Legal Recourse> <Cost: €500 Lawyer fees>
-    6. Resolution: Suddenly received the permit 3 days after the lawyer’s letter.
+    1. Die Terminwand: Die Website zeigt für das gesamte Jahr „Keine Termine verfügbar“.
+    <Hürde: Infrastrukturelles Versagen> <Kosten: monatelange Wartezeit>
+    2. Das Catch-22 (zirkuläre Logik): Beim Vorsprachetermin verlangt die Sachbearbeitung eine „Anmeldung“ (Meldebescheinigung).
+    <Hürde: Logischer Stillstand>
+    Antragsteller: „Ich kann mich nicht anmelden, weil ich ohne Aufenthaltstitel keinen Mietvertrag unterschreiben kann.“
+    Sachbearbeitung: „Und ohne angemeldete Adresse können wir keinen Aufenthaltstitel erteilen.“
+    <Hürde: Catch-22>
+    3. Formularfetischismus: Die Heiratsurkunde wird abgelehnt, weil die Übersetzung nicht von einem „in Berlin beeidigten“ Übersetzer stammt (obwohl es sich um eine beglaubigte Übersetzung handelt).
+    <Hürde: Übermäßiger Formalismus> <Kosten: 50 € für eine neue Übersetzung>
+    4. Kommunikationszusammenbruch: Die neue Übersetzung wird per Post eingereicht. Drei Monate lang keine Rückmeldung. Die Telefonleitungen sind dauerhaft besetzt.
+    <Hürde: Unerreichbarkeit> <Kosten: Hilflosigkeit>
+    5. Rechtliche Eskalation: Beauftragung eines Anwalts zur Versendung eines Schreibens mit Untätigkeitsklage (Androhung rechtlicher Schritte).
+    <Maßnahme: Rechtlicher Behelf> <Kosten: 500 € Anwaltskosten>
+    6. Auflösung: Drei Tage nach dem Anwaltsschreiben wird plötzlich der Aufenthaltstitel erteilt.
 - title: Healthcare Referral in the UK (NHS)
   country: London
   if_red_tape: false

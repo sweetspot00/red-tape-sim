@@ -37,7 +37,7 @@ class PersonaAgent:
         prompt = self.persona.build_prompt(
             event, context, include_optional=include_optional_persona_fields
         )
-        logger.debug("Prompt for '%s': %s", self.persona.name, prompt)
+        logger.debug("Built prompt for '%s': %s", self.persona.name, prompt)
         comment, emotion = self.llm.generate_reaction(prompt)
         return Reaction(persona=self.persona, comment=comment, emotion=emotion)
 

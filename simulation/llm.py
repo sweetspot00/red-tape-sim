@@ -1,9 +1,9 @@
-import json
+import logging
 import os
 from typing import Optional, Tuple
 
 from openai import OpenAI, OpenAIError
-
+logger = logging.getLogger(__name__)
 
 class LLMClient:
     """
@@ -61,7 +61,7 @@ class LLMClient:
             "sadness",
             "surprise",
             "confusion",
-            "frustration",
+            # "frustration",
         ]
         system = (
             "You are simulating persona reactions to events. "
@@ -69,6 +69,8 @@ class LLMClient:
             + ", ".join(emotions)
             + ". No punctuation or extra text."
         )
+        logger.info("Prompt for reaction generation: %s", prompt)
+        logger.info("System Prompt for reaction generation: %s", system)
         
         try:
             response = self.client.chat.completions.create(

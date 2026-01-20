@@ -3,6 +3,10 @@ from typing import Iterable, List, Optional, Set
 from .personas import Persona
 
 
+def _norm_country(value: Optional[str]) -> str:
+    return (value or "").strip().lower()
+
+
 def filter_personas(
     personas: Iterable[Persona],
     *,
@@ -14,8 +18,9 @@ def filter_personas(
     Passing None leaves a dimension unfiltered.
     """
     filtered: List[Persona] = []
+    norm_countries = {_norm_country(c) for c in countries} if countries is not None else None
     for persona in personas:
-        if countries is not None and persona.country not in countries:
+        if norm_countries is not None and _norm_country(persona.country) not in norm_countries:
             continue
         if traits is not None and not traits.issubset(persona.traits):
             continue

@@ -6,6 +6,8 @@ from typing import Callable, List, Optional, Set
 
 import pandas as pd
 import streamlit as st
+import matplotlib.pyplot as plt
+import numpy as np
 
 from simulation import (
     EventSimulation,
@@ -22,6 +24,10 @@ def load_data():
     personas = load_personas_from_yaml("data/personas.yaml", country_prompts=country_prompts)
     events = load_events_from_yaml("data/events.yaml")
     return personas, events
+
+
+def normalize_country(value: Optional[str]) -> str:
+    return (value or "").strip().lower()
 
 
 def run_simulation_async(
@@ -91,6 +97,12 @@ def render_profiles(personas):
                 "age": p.age,
                 "education": p.education,
                 "traits": ", ".join(sorted(p.traits)) if p.traits else "",
+                "profession": p.profession,
+                "background": p.background,
+                "family": p.family,
+                "political_ideology": p.political_ideology,
+                "political_party": p.political_party,
+                "history_attitude": " | ".join(p.history_attitude) if p.history_attitude else "",
             }
         )
     st.dataframe(pd.DataFrame(profile_rows))
@@ -120,6 +132,49 @@ def render_stats(stats):
     st.bar_chart(df.set_index("emotion"))
 
 
+EMOTION_ORDER = [
+    "joy",
+    "anger",
+    "fear",
+    "contempt",
+    "disgust",
+    "sadness",
+    "surprise",
+    "peace",
+    "confusion",
+]
+
+
+def render_emotion_circle(reactions):
+    if not reactions:
+        st.info("No reactions to visualize.")
+        return
+
+    # Aggregate counts per country per emotion
+    counts = defaultdict(lambda: defaultdict(int))
+    for r in reactions:
+        country = r.persona.country or "Default"
+        counts[country][r.emotion] += 1
+
+    theta = np.linspace(0, 2 * np.pi, len(EMOTION_ORDER), endpoint=False)
+
+    for country, emo_counts in counts.items():
+        values = [emo_counts.get(e, 0) for e in EMOTION_ORDER]
+        # Close the loop for plotting
+        angles = np.concatenate([theta, theta[:1]])
+        vals_closed = np.concatenate([values, values[:1]])
+
+        fig, ax = plt.subplots(subplot_kw={"projection": "polar"})
+        ax.plot(angles, vals_closed, linewidth=2, color="#333333")
+        ax.fill(angles, vals_closed, alpha=0.1, color="#333333")
+        ax.set_xticks(theta)
+        ax.set_xticklabels(EMOTION_ORDER)
+        ax.set_yticklabels([])  # declutter radial labels
+        ax.set_title(f"Emotions for {country}", fontsize=14, pad=10)
+        ax.grid(True, linestyle="--", alpha=0.4)
+        st.pyplot(fig)
+
+
 def main():
     logging.basicConfig(level=logging.INFO, format="%(levelname)s:%(name)s:%(message)s")
     st.title("Persona Reaction Dashboard")
@@ -129,16 +184,11 @@ def main():
     event_names = [e.title for e in events]
     event_idx = st.sidebar.selectbox("Event", range(len(event_names)), format_func=lambda i: event_names[i])
 
-    optional_fields = st.sidebar.multiselect(
-        "Optional persona fields to include in prompt",
-        ["profession", "background", "family", "political_ideology", "political_party", "traits"],
-    )
-
-    # Determine target countries for the selected event
-    target_countries = {events[event_idx].country or "", ""}
+    # Determine target countries for the selected event (case-insensitive)
+    target_countries = {normalize_country(events[event_idx].country), ""}
 
     st.subheader("Personas (filtered for event country)")
-    filtered_personas = [p for p in personas if (p.country or "") in target_countries]
+    filtered_personas = [p for p in personas if normalize_country(p.country) in target_countries]
     render_profiles(filtered_personas)
 
     st.subheader("Run Simulation")
@@ -166,7 +216,7 @@ def main():
 
         with st.spinner("Running simulation with LLM..."):
             reactions, stats, event = run_simulation_async(
-                event_idx, target_countries, set(optional_fields), on_progress=on_progress
+                event_idx, target_countries, set(), on_progress=on_progress
             )
         if reactions is not None:
             st.success("Completed LLM simulation.")
@@ -176,6 +226,8 @@ def main():
             render_reactions(reactions)
             st.subheader("Emotion Counts")
             render_stats(stats)
+            st.subheader("Emotion Circle (per country)")
+            render_emotion_circle(reactions)
 
     if test_clicked:
         progress_placeholder = st.empty()
@@ -205,6 +257,8 @@ def main():
             render_reactions(reactions)
             st.subheader("Emotion Counts")
             render_stats(stats)
+            st.subheader("Emotion Circle (per country)")
+            render_emotion_circle(reactions)
 
     if not (run_clicked or test_clicked):
         st.info("Configure options and click Run (LLM) or Test (Mock) to simulate.")

@@ -1,0 +1,2441 @@
+{
+  "id": "20260121T143732Z",
+  "mode": "llm",
+  "saved_at": "20260121T143732Z",
+  "results": [
+    {
+      "event": {
+        "title": "(German) Versuchsteilnahme – Auszahlung der Zusatzvergütung",
+        "description": "1. Mitteilung: Die Teilnehmenden werden darüber informiert, dass sie für ihre Teilnahme am Experiment eine zusätzliche Vergütung erhalten.\n2. Vergütungserhöhung: Der ursprünglich zugesagte Betrag wird verdoppelt.\n3. Formularpflicht: Vor der Auszahlung muss ein zweiseitiges Formular ausgefüllt werden.\n   Die Angaben dienen der Einhaltung ethischer Standards öffentlich finanzierter Studien und sind teilweise aufgrund datenschutzrechtlicher Vorgaben erforderlich.\n4. Verzögerung: Nach Einreichung des Formulars wird die zusätzliche Vergütung nach etwa 30 Tagen per Banküberweisung ausgezahlt.\n   Die Wartezeit ist Teil der Überwachung der Auszahlungsprozesse zur Vermeidung von Missbrauch.\n5. Information: Die Versuchsleitung erläutert nach dem Experiment die weiteren Schritte zur Auszahlung.\n",
+        "country": "Germany",
+        "if_red_tape": false,
+        "metadata": {}
+      },
+      "reactions": [
+        {
+          "persona": "DE_007",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_002",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_010",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_006",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_017",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_018",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_011",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_008",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_012",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_003",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_004",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_014",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_009",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_001",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_015",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_005",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_013",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_016",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_022",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_019",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_020",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_023",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_021",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_027",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_026",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_025",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_024",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_028",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_031",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_029",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_035",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_030",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_032",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_037",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_033",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_036",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_038",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_034",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_041",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_043",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_040",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_044",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_042",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_045",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_039",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_049",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_046",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_051",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_048",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_047",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_050",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_053",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_052",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_057",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_056",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_055",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_058",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_054",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_061",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_059",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_060",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_062",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_063",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_066",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_064",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_067",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_069",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_071",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_070",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_072",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_065",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_068",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_073",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_078",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_075",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_077",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_076",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_079",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_074",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_080",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_081",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_085",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_086",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_084",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_083",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_082",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_087",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_088",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_090",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_089",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_091",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_092",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_093",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_096",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_095",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_100",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_098",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_099",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_097",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_094",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_102",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_105",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_101",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_103",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_104",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_109",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_110",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_106",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_108",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_107",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_111",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_112",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_115",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_117",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_113",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_118",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_116",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_114",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_119",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_125",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_121",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_120",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_122",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_127",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_126",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_123",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_134",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_133",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_132",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_129",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_124",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_131",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_130",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_128",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_137",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_139",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_136",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_138",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_135",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_140",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_141",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_143",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_146",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_144",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_145",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_142",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_147",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_150",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_149",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_152",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_148",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_151",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_153",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_154",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_157",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_156",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_160",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_158",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_155",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_159",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_161",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_165",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_164",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_166",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_163",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_170",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_171",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_162",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_167",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_169",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_173",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_168",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_172",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_174",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_175",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_176",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_182",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_177",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_183",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_180",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_181",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_178",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_179",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_187",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_184",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_186",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_190",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_185",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_193",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_189",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_199",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_194",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_192",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_195",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_198",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_191",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_188",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_200",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_197",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_196",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        }
+      ],
+      "stats": {
+        "means": {},
+        "totals": {},
+        "counts": {},
+        "num_reactions": 200
+      }
+    },
+    {
+      "event": {
+        "title": "(German) Versuchsteilnahme – Auszahlung der Zusatzvergütung (Red Tape)",
+        "description": "1. Mitteilung: Die Teilnehmenden werden darüber informiert, dass sie für ihre Teilnahme am Experiment eine zusätzliche Vergütung erhalten.\n2. Vergütungserhöhung: Der ursprünglich zugesagte Betrag wird verdoppelt.\n3. Formularpflicht: Vor der Auszahlung muss ein zweiseitiges Formular ausgefüllt werden.\n   Das Formular enthält erneut abgefragte demografische Angaben, scheinbar nicht relevante Informationen sowie sehr detaillierte Fragen.\n<Hürde: Administrativer Aufwand>\n4. Verzögerung: Nach Einreichung des Formulars wird die zusätzliche Vergütung frühestens nach etwa 30 Tagen per Banküberweisung ausgezahlt.\n<Hürde: Zeitliche Verzögerung>\n5. Information: Weitere Anweisungen zur Auszahlung werden nach dem Experiment angekündigt.\n<Kosten: Frustration, Unsicherheit, Kontrollverlust>\n",
+        "country": "Germany",
+        "if_red_tape": true,
+        "metadata": {}
+      },
+      "reactions": [
+        {
+          "persona": "DE_005",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_002",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_003",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_004",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_001",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_007",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_011",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_006",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_009",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_018",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_012",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_017",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_010",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_008",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_014",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_015",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_013",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_016",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_032",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_035",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_025",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_029",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_027",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_028",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_024",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_031",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_020",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_021",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_023",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_026",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_030",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_037",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_019",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_022",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_033",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_038",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_036",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_034",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_040",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_041",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_049",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_044",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_043",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_042",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_039",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_045",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_051",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_046",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_050",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_047",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_048",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_053",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_052",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_062",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_055",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_056",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_059",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_061",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_058",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_060",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_057",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_054",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_067",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_063",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_064",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_066",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_069",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_077",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_078",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_065",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_075",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_073",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_070",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_072",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_071",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_068",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_076",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_079",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_080",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_074",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_081",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_083",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_090",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_085",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_089",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_087",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_088",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_086",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_084",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_082",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_093",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_091",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_095",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_096",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_092",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_094",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_100",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_105",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_101",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_097",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_099",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_103",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_098",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_102",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_106",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_104",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_108",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_110",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_109",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_107",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_111",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_117",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_113",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_116",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_118",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_114",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_115",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_112",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_120",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_119",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_122",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_126",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_125",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_121",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_127",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_123",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_129",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_132",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_124",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_133",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_128",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_131",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_134",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_130",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_138",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_136",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_137",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_135",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_140",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_141",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_139",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_145",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_143",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_144",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_142",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_146",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_147",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_148",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_149",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_152",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_151",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_154",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_150",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_157",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_153",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_159",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_165",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_158",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_155",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_160",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_161",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_156",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_166",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_167",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_164",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_163",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_162",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_171",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_170",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_168",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_175",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_174",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_169",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_177",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_172",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_173",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_176",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_178",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_180",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_181",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_182",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_179",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_183",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_186",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_187",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_194",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_189",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_184",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_185",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_190",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_195",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_192",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_191",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_188",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_193",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_198",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_199",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_200",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_197",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        },
+        {
+          "persona": "DE_196",
+          "country": "Germany",
+          "emotion": "[LLM error: Error code: 400 - {'error': {'message': 'Budget has been exceeded! Current cost: 60.17216350000003, Max budget: 60.0', 'type': 'budget_exceeded', 'param': None, 'code': '400'}}]",
+          "comment": ""
+        }
+      ],
+      "stats": {
+        "means": {},
+        "totals": {},
+        "counts": {},
+        "num_reactions": 200
+      }
+    }
+  ]
+}

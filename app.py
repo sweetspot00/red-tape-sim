@@ -53,6 +53,7 @@ def run_simulations(
     events_to_run: List[Event],
     countries: Set[str],
     include_optional: Set[str],
+    model: str,
     on_progress: Optional[Callable] = None,
 ):
     """
@@ -61,7 +62,7 @@ def run_simulations(
     results = []
     for event in events_to_run:
         reactions, stats, resolved_event = run_simulation_async(
-            event, countries, include_optional, on_progress=on_progress
+            event, countries, include_optional, model, on_progress=on_progress
         )
         if reactions is not None:
             results.append((resolved_event, reactions, stats))
@@ -72,6 +73,7 @@ def run_simulation_async(
     event_or_idx: Union[int, Event],
     countries: Set[str],
     include_optional: Set[str],
+    model: str,
     on_progress: Optional[Callable] = None,
 ):
     personas, events = load_data()
@@ -84,7 +86,7 @@ def run_simulation_async(
         event = event_or_idx
     try:
         async def runner():
-            llm = LLMClient()
+            llm = LLMClient(model=model)
             sim = EventSimulation(personas, llm=llm)
             reactions = await sim.publish_event_async(
                 event,
@@ -343,6 +345,36 @@ def render_emotion_difference(base_stats, red_stats):
     _plot_emotion_radar(abs_diffs, "Emotion variance (|Red - Non-red|)", color="#ff8c42")
 
 
+def render_emotion_dual_radar(base_stats, red_stats):
+    if not base_stats or not red_stats:
+        return
+    base = base_stats.get("means", {}) or {}
+    red = red_stats.get("means", {}) or {}
+    keys = set(base) | set(red)
+    if not keys:
+        return
+    order = _emotion_order(keys)
+    base_vals = [base.get(e, 0) for e in order]
+    red_vals = [red.get(e, 0) for e in order]
+    theta = np.linspace(0, 2 * np.pi, len(order), endpoint=False)
+    angles = np.concatenate([theta, theta[:1]])
+    base_closed = np.concatenate([base_vals, base_vals[:1]])
+    red_closed = np.concatenate([red_vals, red_vals[:1]])
+
+    fig, ax = plt.subplots(subplot_kw={"projection": "polar"}, figsize=(5.5, 5.5))
+    ax.plot(angles, base_closed, linewidth=2, color="#4c78a8", label="Non red-tape")
+    ax.fill(angles, base_closed, alpha=0.15, color="#4c78a8")
+    ax.plot(angles, red_closed, linewidth=2, color="#f58518", label="Red-tape")
+    ax.fill(angles, red_closed, alpha=0.12, color="#f58518")
+    ax.set_xticks(theta)
+    ax.set_xticklabels(order, fontsize=9)
+    ax.set_yticklabels([])
+    ax.set_title("Emotion radar: Non red-tape vs Red-tape", fontsize=13, pad=12)
+    ax.grid(True, linestyle="--", alpha=0.35)
+    ax.legend(loc="upper right", bbox_to_anchor=(1.2, 1.1))
+    st.pyplot(fig)
+
+
 def render_result_pair(results: List[tuple], mock: bool = False):
     """
     Render two events side by side with reactions and emotion stats.
@@ -381,9 +413,11 @@ def render_result_pair(results: List[tuple], mock: bool = False):
     if base_result and red_result:
         st.subheader("Emotion Differences (Red - Non-red)" + (" [MOCK]" if mock else ""))
         render_emotion_difference(base_result[2], red_result[2])
+        st.subheader("Emotion Radar Comparison" + (" [MOCK]" if mock else ""))
+        render_emotion_dual_radar(base_result[2], red_result[2])
 
 
-def save_simulation_run(results: List[tuple], mode: str) -> Path:
+def save_simulation_run(results: List[tuple], mode: str, model: Optional[str] = None) -> Path:
     """
     Persist the current simulation results to disk for later viewing.
     """
@@ -393,6 +427,7 @@ def save_simulation_run(results: List[tuple], mode: str) -> Path:
         "id": run_id,
         "mode": mode,
         "saved_at": run_id,
+        "model": model,
         "results": [],
     }
     for event, reactions, stats in results:
@@ -424,6 +459,18 @@ def list_history_files() -> List[Path]:
     return sorted(HISTORY_DIR.glob("*.json"), key=lambda p: p.stat().st_mtime, reverse=True)
 
 
+def history_label(path: Path) -> str:
+    try:
+        with path.open("r", encoding="utf-8") as f:
+            payload = json.load(f)
+        model = payload.get("model")
+        if model:
+            return f"{path.name} (model: {model})"
+    except Exception:
+        pass
+    return path.name
+
+
 def main():
     logging.basicConfig(level=logging.INFO, format="%(levelname)s:%(name)s:%(message)s")
     st.title("Persona Reaction Dashboard")
@@ -433,6 +480,15 @@ def main():
 
     with tabs[0]:
         st.sidebar.header("Simulation Controls")
+        model_choices = [
+            "azure/gpt-5",
+            "azure/gpt-4o",
+            "azure/gpt-4o-mini",
+            "gemini/gemini-2.5-pro",
+            "gemini/gemini-2.5-flash-lite",
+            "gemini/gemini-2.5-flash",
+        ]
+        selected_model = st.sidebar.selectbox("LLM model", model_choices, index=1)
         non_red_events = [e for e in events if not e.if_red_tape]
         red_tape_events = [e for e in events if e.if_red_tape]
 
@@ -468,6 +524,8 @@ def main():
         for event in selected_events:
             target_countries |= target_countries_for_event(event)
 
+        st.caption(f"Using model: {selected_model}")
+
         st.subheader("Personas (filtered for selected countries)")
         filtered_personas = [p for p in personas if normalize_country(p.country) in target_countries]
         render_profiles(filtered_personas)
@@ -497,12 +555,19 @@ def main():
                     progress_placeholder.dataframe(df)
                     status_placeholder.info(f"Received {len(rows)} reactions across events...")
 
-                with st.spinner("Running simulation with LLM..."):
-                    results = run_simulations(selected_events, target_countries, set(), on_progress=on_progress)
-                if results:
-                    save_path = save_simulation_run(results, mode="llm")
-                    st.success(f"Completed LLM simulation for selected pair. Saved to {save_path.name}")
-                    render_result_pair(results, mock=False)
+            with st.spinner("Running simulation with LLM..."):
+                results = run_simulations(
+                    selected_events,
+                    target_countries,
+                    set(),
+                    selected_model,
+                    on_progress=on_progress,
+                )
+            if results:
+                save_path = save_simulation_run(results, mode="llm", model=selected_model)
+                st.success(f"Completed LLM simulation for selected pair. Saved to {save_path.name}")
+                st.caption(f"Model used: {selected_model}")
+                render_result_pair(results, mock=False)
 
         if test_clicked:
             if len(selected_events) < 2:
@@ -525,12 +590,13 @@ def main():
                     progress_placeholder.dataframe(df)
                     status_placeholder.info(f"Received {len(rows)} reactions across events (test)...")
 
-                with st.spinner("Running mock simulation..."):
-                    results = run_test_simulation(selected_events, target_countries, on_progress=on_progress)
-                if results:
-                    save_path = save_simulation_run(results, mode="mock")
-                    st.success(f"Completed mock simulation for selected pair. Saved to {save_path.name}")
-                    render_result_pair(results, mock=True)
+            with st.spinner("Running mock simulation..."):
+                results = run_test_simulation(selected_events, target_countries, on_progress=on_progress)
+            if results:
+                save_path = save_simulation_run(results, mode="mock", model="mock")
+                st.success(f"Completed mock simulation for selected pair. Saved to {save_path.name}")
+                st.caption("Model used: mock")
+                render_result_pair(results, mock=True)
 
         if not (run_clicked or test_clicked):
             st.info("Configure options and click Run (LLM) or Test (Mock) to simulate.")
@@ -541,12 +607,15 @@ def main():
         if not files:
             st.info("No saved simulations yet. Run one to populate history.")
         else:
-            labels = [f"{f.name}" for f in files]
+            labels = [history_label(f) for f in files]
             choice = st.selectbox("Saved runs", range(len(files)), format_func=lambda i: labels[i])
             selected_file = files[choice]
             loaded = load_simulation_run(selected_file)
             if loaded:
                 st.caption(f"Loaded {selected_file.name}")
+                model_used = loaded.get("model")
+                if model_used:
+                    st.caption(f"Model used: {model_used}")
                 result_entries = []
                 for entry in loaded.get("results", []):
                     event_dict = entry.get("event", {})

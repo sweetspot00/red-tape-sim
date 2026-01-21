@@ -17,13 +17,13 @@ class LLMClient:
         self,
         api_key: Optional[str] = None,
         base_url: Optional[str] = "https://aikey-gateway.ivia.ch",
-        model: Optional[str] = "azure/gpt-5",
+        model: Optional[str] = "azure/gpt-4o",
     ):
         self.api_key = api_key or os.getenv("OPENAI_API_KEY")
         if not self.api_key:
             raise RuntimeError("OPENAI_API_KEY is required for LLM calls")
         self.base_url = base_url or os.getenv("OPENAI_BASE_URL")
-        self.model = model or os.getenv("OPENAI_MODEL") or "gpt-4o-mini"
+        self.model = model or os.getenv("OPENAI_MODEL") or "gpt-4o"
         self.client = OpenAI(api_key=self.api_key, base_url=self.base_url)
 
     def generate(self, prompt: str, *, temperature: float = 1) -> str:  # this is not used 

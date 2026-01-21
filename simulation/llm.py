@@ -26,7 +26,7 @@ class LLMClient:
         self.model = model or os.getenv("OPENAI_MODEL") or "gpt-4o-mini"
         self.client = OpenAI(api_key=self.api_key, base_url=self.base_url)
 
-    def generate(self, prompt: str, *, temperature: float = 1) -> str:
+    def generate(self, prompt: str, *, temperature: float = 1) -> str:  # this is not used 
         try:
             response = self.client.chat.completions.create(
                 model=self.model,
@@ -34,7 +34,7 @@ class LLMClient:
                     {"role": "system", "content": "You are simulating human reactions to public policies."},
                     {"role": "user", "content": prompt},
                 ],
-                temperature=temperature,
+                temperature=temperature,# fully sample
             )
             return response.choices[0].message.content or ""
         except OpenAIError as exc:
@@ -44,28 +44,18 @@ class LLMClient:
     def generate_reaction(
         self,
         prompt: str,
+        emotions: Optional[list[str]] = None,
         *,
-        temperature: float = 1.0,
-    ) -> Tuple[str, str]:
+        temperature: float = 1.0, # fully sample
+    ) -> Tuple[dict, str]:
         """
         Ask the LLM for a single-word emotion from a fixed set.
         Returns (comment, emotion) where both are the chosen word.
         """
-        emotions = [
-            "peace",
-            "anger",
-            "contempt",
-            "fear",
-            "disgust",
-            "joy",
-            "sadness",
-            "surprise",
-            "confusion",
-            # "frustration",
-        ]
         system = (
-            "You are simulating persona reactions to events. "
-            "Reply with ONLY ONE WORD, the emotion, lowercase, from this list: "
+            "You are simulating a citizen from a country reactions to a region policy. "
+            "Your reaction is a mixture of emotions, each feeling should be a probability between 0 and 1."
+            "Return a vector of emotions in Json format including all the emotions listed: "
             + ", ".join(emotions)
             + ". No punctuation or extra text."
         )
@@ -82,8 +72,11 @@ class LLMClient:
                 temperature=1.0,  # some models (e.g., azure/gpt-5) only support temperature=1
             )
             content = (response.choices[0].message.content or "").strip().lower()
-            emotion = self._normalize_emotion(content, emotions)
-            return emotion, emotion
+            # parse json
+            import json
+            emotion_dict = json.loads(content)
+            return emotion_dict, "success"
+            
         except OpenAIError as exc:
             return f"[LLM error: {exc}]", "error"
 

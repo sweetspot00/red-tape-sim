@@ -15,8 +15,8 @@ logger = logging.getLogger(__name__)
 @dataclass
 class Reaction:
     persona: Persona
-    comment: str
-    emotion: str
+    comment: str = ""  # placeholder for future text responses
+    emotion: dict | None = None  # emotion probabilities keyed by emotion name
 
 
 class PersonaAgent:
@@ -38,8 +38,21 @@ class PersonaAgent:
             event, context, include_optional=include_optional_persona_fields
         )
         logger.debug("Built prompt for '%s': %s", self.persona.name, prompt)
-        comment, emotion = self.llm.generate_reaction(prompt)
-        return Reaction(persona=self.persona, comment=comment, emotion=emotion)
+        emotions = [
+                "peace",
+                "anger",
+                "contempt",
+                "fear",
+                "disgust",
+                "joy",
+                "sadness",
+                "surprise",
+                "confusion",
+            ]
+        if self.persona.country.lower() == "germany":
+            emotions.append("frustration")
+        emotion_dict, _ = self.llm.generate_reaction(prompt, emotions=emotions)
+        return Reaction(persona=self.persona, emotion=emotion_dict)
 
 
 class EventSimulation:
@@ -116,11 +129,25 @@ class EventSimulation:
     @staticmethod
     def summarize_emotions(reactions: List[Reaction]) -> dict:
         """
-        Count emotions across reactions.
+        Aggregate emotion probabilities across reactions and compute per-emotion means.
         """
+        totals: dict[str, float] = {}
         counts: dict[str, int] = {}
         for reaction in reactions:
-            counts[reaction.emotion] = counts.get(reaction.emotion, 0) + 1
-        total = len(reactions) or 1
-        distribution = {k: v / total for k, v in counts.items()}
-        return {"counts": counts, "distribution": distribution, "total": len(reactions)}
+            if not isinstance(reaction.emotion, dict):
+                continue
+            for emo, val in reaction.emotion.items():
+                try:
+                    score = float(val)
+                except (TypeError, ValueError):
+                    continue
+                totals[emo] = totals.get(emo, 0.0) + score
+                counts[emo] = counts.get(emo, 0) + 1
+
+        means = {emo: (totals[emo] / counts[emo]) for emo in totals}
+        return {
+            "means": means,
+            "totals": totals,
+            "counts": counts,
+            "num_reactions": len(reactions),
+        }

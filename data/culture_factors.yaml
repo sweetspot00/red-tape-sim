@@ -1,0 +1,4215 @@
+metadata:
+  attributes:
+  - power_distance
+  - individualism
+  - masculinity
+  - uncertainty_avoidance
+  - long_term_orientation
+  - indulgence
+  std_dev: 16
+  people_per_country: 200
+  note: Scores sampled from gaussian with clipping to [0, 100] to avoid outliers.
+countries:
+  China:
+  - id: China_001
+    power_distance: 77.69
+    individualism: 40.23
+    masculinity: 64.22
+    uncertainty_avoidance: 41.23
+    long_term_orientation: 74.96
+    indulgence: 0.04
+  - id: China_002
+    power_distance: 85.32
+    individualism: 38.72
+    masculinity: 62.53
+    uncertainty_avoidance: 31.85
+    long_term_orientation: 80.72
+    indulgence: 42.62
+  - id: China_003
+    power_distance: 90.51
+    individualism: 44.77
+    masculinity: 54.19
+    uncertainty_avoidance: 13.77
+    long_term_orientation: 80.94
+    indulgence: 44.98
+  - id: China_004
+    power_distance: 80.67
+    individualism: 41.3
+    masculinity: 74.51
+    uncertainty_avoidance: 6.74
+    long_term_orientation: 72.0
+    indulgence: 31.85
+  - id: China_005
+    power_distance: 93.97
+    individualism: 39.15
+    masculinity: 72.03
+    uncertainty_avoidance: 33.97
+    long_term_orientation: 89.52
+    indulgence: 6.19
+  - id: China_006
+    power_distance: 89.09
+    individualism: 18.77
+    masculinity: 24.08
+    uncertainty_avoidance: 20.29
+    long_term_orientation: 62.35
+    indulgence: 38.02
+  - id: China_007
+    power_distance: 90.63
+    individualism: 23.49
+    masculinity: 79.56
+    uncertainty_avoidance: 13.96
+    long_term_orientation: 75.62
+    indulgence: 19.3
+  - id: China_008
+    power_distance: 81.83
+    individualism: 56.1
+    masculinity: 76.21
+    uncertainty_avoidance: 35.6
+    long_term_orientation: 87.4
+    indulgence: 31.66
+  - id: China_009
+    power_distance: 69.97
+    individualism: 31.52
+    masculinity: 58.48
+    uncertainty_avoidance: 37.99
+    long_term_orientation: 73.0
+    indulgence: 61.37
+  - id: China_010
+    power_distance: 66.89
+    individualism: 25.42
+    masculinity: 78.3
+    uncertainty_avoidance: 52.75
+    long_term_orientation: 85.09
+    indulgence: 37.37
+  - id: China_011
+    power_distance: 100.0
+    individualism: 41.5
+    masculinity: 43.23
+    uncertainty_avoidance: 21.49
+    long_term_orientation: 92.25
+    indulgence: 0.9
+  - id: China_012
+    power_distance: 80.54
+    individualism: 47.05
+    masculinity: 60.95
+    uncertainty_avoidance: 41.58
+    long_term_orientation: 86.29
+    indulgence: 61.14
+  - id: China_013
+    power_distance: 89.92
+    individualism: 33.25
+    masculinity: 57.01
+    uncertainty_avoidance: 16.69
+    long_term_orientation: 92.24
+    indulgence: 14.93
+  - id: China_014
+    power_distance: 78.88
+    individualism: 54.99
+    masculinity: 54.42
+    uncertainty_avoidance: 25.3
+    long_term_orientation: 47.54
+    indulgence: 6.68
+  - id: China_015
+    power_distance: 70.92
+    individualism: 49.65
+    masculinity: 85.1
+    uncertainty_avoidance: 29.7
+    long_term_orientation: 81.18
+    indulgence: 26.69
+  - id: China_016
+    power_distance: 97.36
+    individualism: 57.29
+    masculinity: 70.38
+    uncertainty_avoidance: 13.82
+    long_term_orientation: 91.45
+    indulgence: 30.1
+  - id: China_017
+    power_distance: 99.63
+    individualism: 42.52
+    masculinity: 97.25
+    uncertainty_avoidance: 24.26
+    long_term_orientation: 100.0
+    indulgence: 25.84
+  - id: China_018
+    power_distance: 71.74
+    individualism: 24.94
+    masculinity: 63.58
+    uncertainty_avoidance: 52.77
+    long_term_orientation: 90.06
+    indulgence: 35.02
+  - id: China_019
+    power_distance: 41.99
+    individualism: 54.38
+    masculinity: 74.89
+    uncertainty_avoidance: 21.2
+    long_term_orientation: 66.96
+    indulgence: 23.96
+  - id: China_020
+    power_distance: 100.0
+    individualism: 26.12
+    masculinity: 59.16
+    uncertainty_avoidance: 51.79
+    long_term_orientation: 69.86
+    indulgence: 18.17
+  - id: China_021
+    power_distance: 81.56
+    individualism: 23.14
+    masculinity: 69.52
+    uncertainty_avoidance: 10.65
+    long_term_orientation: 91.16
+    indulgence: 24.05
+  - id: China_022
+    power_distance: 100.0
+    individualism: 47.49
+    masculinity: 87.85
+    uncertainty_avoidance: 9.15
+    long_term_orientation: 75.05
+    indulgence: 29.17
+  - id: China_023
+    power_distance: 100.0
+    individualism: 16.11
+    masculinity: 81.85
+    uncertainty_avoidance: 39.46
+    long_term_orientation: 100.0
+    indulgence: 35.4
+  - id: China_024
+    power_distance: 80.83
+    individualism: 34.65
+    masculinity: 46.03
+    uncertainty_avoidance: 33.13
+    long_term_orientation: 73.93
+    indulgence: 56.32
+  - id: China_025
+    power_distance: 70.22
+    individualism: 48.13
+    masculinity: 40.9
+    uncertainty_avoidance: 23.67
+    long_term_orientation: 81.18
+    indulgence: 37.18
+  - id: China_026
+    power_distance: 100.0
+    individualism: 42.29
+    masculinity: 48.12
+    uncertainty_avoidance: 37.33
+    long_term_orientation: 85.27
+    indulgence: 31.87
+  - id: China_027
+    power_distance: 68.8
+    individualism: 61.13
+    masculinity: 67.41
+    uncertainty_avoidance: 41.2
+    long_term_orientation: 97.39
+    indulgence: 33.75
+  - id: China_028
+    power_distance: 84.58
+    individualism: 77.44
+    masculinity: 69.9
+    uncertainty_avoidance: 25.26
+    long_term_orientation: 78.79
+    indulgence: 47.72
+  - id: China_029
+    power_distance: 81.9
+    individualism: 51.31
+    masculinity: 85.13
+    uncertainty_avoidance: 21.79
+    long_term_orientation: 49.37
+    indulgence: 28.79
+  - id: China_030
+    power_distance: 83.68
+    individualism: 33.27
+    masculinity: 79.94
+    uncertainty_avoidance: 39.72
+    long_term_orientation: 61.08
+    indulgence: 32.29
+  - id: China_031
+    power_distance: 76.86
+    individualism: 19.27
+    masculinity: 73.25
+    uncertainty_avoidance: 29.28
+    long_term_orientation: 65.08
+    indulgence: 32.37
+  - id: China_032
+    power_distance: 87.81
+    individualism: 33.76
+    masculinity: 72.41
+    uncertainty_avoidance: 46.24
+    long_term_orientation: 65.6
+    indulgence: 30.09
+  - id: China_033
+    power_distance: 80.04
+    individualism: 79.26
+    masculinity: 36.2
+    uncertainty_avoidance: 41.12
+    long_term_orientation: 72.1
+    indulgence: 22.4
+  - id: China_034
+    power_distance: 100.0
+    individualism: 42.86
+    masculinity: 100.0
+    uncertainty_avoidance: 22.93
+    long_term_orientation: 82.61
+    indulgence: 16.15
+  - id: China_035
+    power_distance: 68.95
+    individualism: 44.0
+    masculinity: 61.48
+    uncertainty_avoidance: 33.24
+    long_term_orientation: 43.32
+    indulgence: 56.04
+  - id: China_036
+    power_distance: 77.33
+    individualism: 70.89
+    masculinity: 49.89
+    uncertainty_avoidance: 34.68
+    long_term_orientation: 100.0
+    indulgence: 10.08
+  - id: China_037
+    power_distance: 56.08
+    individualism: 34.26
+    masculinity: 73.56
+    uncertainty_avoidance: 41.09
+    long_term_orientation: 97.65
+    indulgence: 19.89
+  - id: China_038
+    power_distance: 54.36
+    individualism: 36.04
+    masculinity: 85.84
+    uncertainty_avoidance: 37.45
+    long_term_orientation: 45.69
+    indulgence: 23.44
+  - id: China_039
+    power_distance: 100.0
+    individualism: 77.02
+    masculinity: 74.99
+    uncertainty_avoidance: 34.95
+    long_term_orientation: 57.16
+    indulgence: 10.51
+  - id: China_040
+    power_distance: 80.75
+    individualism: 51.05
+    masculinity: 75.28
+    uncertainty_avoidance: 22.35
+    long_term_orientation: 58.57
+    indulgence: 11.56
+  - id: China_041
+    power_distance: 61.49
+    individualism: 53.29
+    masculinity: 29.0
+    uncertainty_avoidance: 24.67
+    long_term_orientation: 84.2
+    indulgence: 48.35
+  - id: China_042
+    power_distance: 81.14
+    individualism: 59.02
+    masculinity: 59.62
+    uncertainty_avoidance: 18.09
+    long_term_orientation: 66.21
+    indulgence: 48.44
+  - id: China_043
+    power_distance: 95.91
+    individualism: 50.8
+    masculinity: 100.0
+    uncertainty_avoidance: 29.48
+    long_term_orientation: 86.93
+    indulgence: 28.92
+  - id: China_044
+    power_distance: 76.45
+    individualism: 80.06
+    masculinity: 90.11
+    uncertainty_avoidance: 7.61
+    long_term_orientation: 70.6
+    indulgence: 30.85
+  - id: China_045
+    power_distance: 92.53
+    individualism: 21.42
+    masculinity: 29.91
+    uncertainty_avoidance: 0.0
+    long_term_orientation: 75.86
+    indulgence: 22.35
+  - id: China_046
+    power_distance: 85.52
+    individualism: 30.69
+    masculinity: 46.41
+    uncertainty_avoidance: 0.0
+    long_term_orientation: 82.27
+    indulgence: 29.92
+  - id: China_047
+    power_distance: 95.89
+    individualism: 55.65
+    masculinity: 62.95
+    uncertainty_avoidance: 51.59
+    long_term_orientation: 74.82
+    indulgence: 13.43
+  - id: China_048
+    power_distance: 71.67
+    individualism: 33.64
+    masculinity: 31.35
+    uncertainty_avoidance: 32.5
+    long_term_orientation: 81.0
+    indulgence: 18.2
+  - id: China_049
+    power_distance: 68.58
+    individualism: 48.95
+    masculinity: 93.47
+    uncertainty_avoidance: 30.61
+    long_term_orientation: 68.88
+    indulgence: 14.54
+  - id: China_050
+    power_distance: 78.88
+    individualism: 22.76
+    masculinity: 64.0
+    uncertainty_avoidance: 30.98
+    long_term_orientation: 100.0
+    indulgence: 39.1
+  - id: China_051
+    power_distance: 96.54
+    individualism: 31.59
+    masculinity: 76.72
+    uncertainty_avoidance: 11.77
+    long_term_orientation: 81.99
+    indulgence: 30.7
+  - id: China_052
+    power_distance: 67.74
+    individualism: 74.99
+    masculinity: 75.08
+    uncertainty_avoidance: 0.0
+    long_term_orientation: 85.85
+    indulgence: 17.48
+  - id: China_053
+    power_distance: 80.02
+    individualism: 50.45
+    masculinity: 72.25
+    uncertainty_avoidance: 0.0
+    long_term_orientation: 58.47
+    indulgence: 36.36
+  - id: China_054
+    power_distance: 100.0
+    individualism: 73.45
+    masculinity: 94.85
+    uncertainty_avoidance: 0.0
+    long_term_orientation: 89.31
+    indulgence: 0.0
+  - id: China_055
+    power_distance: 100.0
+    individualism: 47.05
+    masculinity: 47.74
+    uncertainty_avoidance: 62.16
+    long_term_orientation: 87.3
+    indulgence: 0.0
+  - id: China_056
+    power_distance: 84.7
+    individualism: 31.3
+    masculinity: 67.78
+    uncertainty_avoidance: 22.56
+    long_term_orientation: 98.98
+    indulgence: 1.23
+  - id: China_057
+    power_distance: 85.08
+    individualism: 72.03
+    masculinity: 52.77
+    uncertainty_avoidance: 33.37
+    long_term_orientation: 80.23
+    indulgence: 12.96
+  - id: China_058
+    power_distance: 90.37
+    individualism: 44.55
+    masculinity: 50.9
+    uncertainty_avoidance: 58.19
+    long_term_orientation: 89.67
+    indulgence: 21.33
+  - id: China_059
+    power_distance: 69.81
+    individualism: 30.45
+    masculinity: 85.7
+    uncertainty_avoidance: 27.66
+    long_term_orientation: 84.35
+    indulgence: 21.05
+  - id: China_060
+    power_distance: 89.86
+    individualism: 41.14
+    masculinity: 78.22
+    uncertainty_avoidance: 27.07
+    long_term_orientation: 90.27
+    indulgence: 34.76
+  - id: China_061
+    power_distance: 78.13
+    individualism: 29.24
+    masculinity: 50.96
+    uncertainty_avoidance: 18.15
+    long_term_orientation: 61.25
+    indulgence: 37.85
+  - id: China_062
+    power_distance: 79.25
+    individualism: 68.12
+    masculinity: 100.0
+    uncertainty_avoidance: 30.39
+    long_term_orientation: 52.23
+    indulgence: 17.9
+  - id: China_063
+    power_distance: 78.79
+    individualism: 19.18
+    masculinity: 61.99
+    uncertainty_avoidance: 34.59
+    long_term_orientation: 69.65
+    indulgence: 11.71
+  - id: China_064
+    power_distance: 67.86
+    individualism: 71.59
+    masculinity: 63.45
+    uncertainty_avoidance: 16.72
+    long_term_orientation: 71.03
+    indulgence: 39.27
+  - id: China_065
+    power_distance: 69.04
+    individualism: 50.71
+    masculinity: 77.65
+    uncertainty_avoidance: 41.99
+    long_term_orientation: 99.4
+    indulgence: 15.19
+  - id: China_066
+    power_distance: 98.12
+    individualism: 30.31
+    masculinity: 59.66
+    uncertainty_avoidance: 49.14
+    long_term_orientation: 90.16
+    indulgence: 24.03
+  - id: China_067
+    power_distance: 60.94
+    individualism: 51.99
+    masculinity: 55.91
+    uncertainty_avoidance: 15.22
+    long_term_orientation: 66.63
+    indulgence: 27.94
+  - id: China_068
+    power_distance: 46.06
+    individualism: 48.77
+    masculinity: 68.78
+    uncertainty_avoidance: 20.65
+    long_term_orientation: 93.59
+    indulgence: 33.78
+  - id: China_069
+    power_distance: 70.3
+    individualism: 32.28
+    masculinity: 77.12
+    uncertainty_avoidance: 5.74
+    long_term_orientation: 71.68
+    indulgence: 13.9
+  - id: China_070
+    power_distance: 81.12
+    individualism: 46.38
+    masculinity: 66.59
+    uncertainty_avoidance: 48.16
+    long_term_orientation: 80.65
+    indulgence: 18.96
+  - id: China_071
+    power_distance: 60.63
+    individualism: 54.55
+    masculinity: 74.45
+    uncertainty_avoidance: 53.21
+    long_term_orientation: 65.04
+    indulgence: 24.42
+  - id: China_072
+    power_distance: 79.06
+    individualism: 41.6
+    masculinity: 66.17
+    uncertainty_avoidance: 2.57
+    long_term_orientation: 90.2
+    indulgence: 34.45
+  - id: China_073
+    power_distance: 98.09
+    individualism: 78.99
+    masculinity: 60.9
+    uncertainty_avoidance: 29.42
+    long_term_orientation: 77.16
+    indulgence: 55.07
+  - id: China_074
+    power_distance: 52.3
+    individualism: 50.77
+    masculinity: 42.47
+    uncertainty_avoidance: 0.0
+    long_term_orientation: 44.67
+    indulgence: 1.89
+  - id: China_075
+    power_distance: 97.1
+    individualism: 29.11
+    masculinity: 62.36
+    uncertainty_avoidance: 11.38
+    long_term_orientation: 86.78
+    indulgence: 6.37
+  - id: China_076
+    power_distance: 100.0
+    individualism: 27.11
+    masculinity: 53.76
+    uncertainty_avoidance: 31.96
+    long_term_orientation: 77.4
+    indulgence: 46.8
+  - id: China_077
+    power_distance: 81.93
+    individualism: 23.67
+    masculinity: 57.03
+    uncertainty_avoidance: 20.84
+    long_term_orientation: 88.6
+    indulgence: 30.14
+  - id: China_078
+    power_distance: 78.09
+    individualism: 56.91
+    masculinity: 57.54
+    uncertainty_avoidance: 27.82
+    long_term_orientation: 79.89
+    indulgence: 48.45
+  - id: China_079
+    power_distance: 78.42
+    individualism: 37.39
+    masculinity: 49.27
+    uncertainty_avoidance: 40.98
+    long_term_orientation: 67.6
+    indulgence: 29.5
+  - id: China_080
+    power_distance: 49.57
+    individualism: 59.69
+    masculinity: 44.69
+    uncertainty_avoidance: 17.56
+    long_term_orientation: 93.94
+    indulgence: 2.65
+  - id: China_081
+    power_distance: 78.73
+    individualism: 44.19
+    masculinity: 50.02
+    uncertainty_avoidance: 51.49
+    long_term_orientation: 100.0
+    indulgence: 0.0
+  - id: China_082
+    power_distance: 56.82
+    individualism: 55.93
+    masculinity: 45.15
+    uncertainty_avoidance: 23.78
+    long_term_orientation: 79.07
+    indulgence: 35.07
+  - id: China_083
+    power_distance: 76.43
+    individualism: 44.52
+    masculinity: 53.57
+    uncertainty_avoidance: 50.68
+    long_term_orientation: 69.07
+    indulgence: 29.44
+  - id: China_084
+    power_distance: 71.81
+    individualism: 44.7
+    masculinity: 63.31
+    uncertainty_avoidance: 27.4
+    long_term_orientation: 60.78
+    indulgence: 36.74
+  - id: China_085
+    power_distance: 100.0
+    individualism: 46.89
+    masculinity: 77.72
+    uncertainty_avoidance: 43.41
+    long_term_orientation: 91.85
+    indulgence: 28.85
+  - id: China_086
+    power_distance: 83.4
+    individualism: 56.82
+    masculinity: 67.1
+    uncertainty_avoidance: 14.42
+    long_term_orientation: 77.38
+    indulgence: 0.0
+  - id: China_087
+    power_distance: 79.91
+    individualism: 49.61
+    masculinity: 85.78
+    uncertainty_avoidance: 32.42
+    long_term_orientation: 91.85
+    indulgence: 23.99
+  - id: China_088
+    power_distance: 63.62
+    individualism: 20.42
+    masculinity: 50.48
+    uncertainty_avoidance: 8.14
+    long_term_orientation: 87.14
+    indulgence: 20.68
+  - id: China_089
+    power_distance: 89.13
+    individualism: 44.17
+    masculinity: 82.7
+    uncertainty_avoidance: 46.96
+    long_term_orientation: 66.67
+    indulgence: 19.61
+  - id: China_090
+    power_distance: 71.47
+    individualism: 17.06
+    masculinity: 76.8
+    uncertainty_avoidance: 49.02
+    long_term_orientation: 76.9
+    indulgence: 16.11
+  - id: China_091
+    power_distance: 97.45
+    individualism: 5.48
+    masculinity: 68.84
+    uncertainty_avoidance: 32.29
+    long_term_orientation: 67.87
+    indulgence: 46.27
+  - id: China_092
+    power_distance: 95.53
+    individualism: 38.82
+    masculinity: 64.61
+    uncertainty_avoidance: 23.79
+    long_term_orientation: 68.81
+    indulgence: 3.07
+  - id: China_093
+    power_distance: 100.0
+    individualism: 59.45
+    masculinity: 78.77
+    uncertainty_avoidance: 12.49
+    long_term_orientation: 100.0
+    indulgence: 55.68
+  - id: China_094
+    power_distance: 83.01
+    individualism: 28.53
+    masculinity: 52.14
+    uncertainty_avoidance: 36.7
+    long_term_orientation: 62.39
+    indulgence: 23.45
+  - id: China_095
+    power_distance: 97.42
+    individualism: 18.89
+    masculinity: 98.09
+    uncertainty_avoidance: 55.07
+    long_term_orientation: 57.21
+    indulgence: 1.38
+  - id: China_096
+    power_distance: 75.47
+    individualism: 26.5
+    masculinity: 61.78
+    uncertainty_avoidance: 0.0
+    long_term_orientation: 73.34
+    indulgence: 52.85
+  - id: China_097
+    power_distance: 62.13
+    individualism: 38.63
+    masculinity: 42.17
+    uncertainty_avoidance: 40.21
+    long_term_orientation: 73.39
+    indulgence: 55.05
+  - id: China_098
+    power_distance: 83.31
+    individualism: 37.05
+    masculinity: 74.8
+    uncertainty_avoidance: 21.9
+    long_term_orientation: 55.57
+    indulgence: 28.83
+  - id: China_099
+    power_distance: 77.2
+    individualism: 45.66
+    masculinity: 72.01
+    uncertainty_avoidance: 21.83
+    long_term_orientation: 83.75
+    indulgence: 51.8
+  - id: China_100
+    power_distance: 62.28
+    individualism: 70.8
+    masculinity: 62.12
+    uncertainty_avoidance: 17.73
+    long_term_orientation: 100.0
+    indulgence: 26.48
+  - id: China_101
+    power_distance: 100.0
+    individualism: 56.08
+    masculinity: 39.11
+    uncertainty_avoidance: 31.93
+    long_term_orientation: 68.59
+    indulgence: 2.53
+  - id: China_102
+    power_distance: 51.65
+    individualism: 44.64
+    masculinity: 75.44
+    uncertainty_avoidance: 36.25
+    long_term_orientation: 72.11
+    indulgence: 11.22
+  - id: China_103
+    power_distance: 64.21
+    individualism: 34.12
+    masculinity: 49.47
+    uncertainty_avoidance: 26.75
+    long_term_orientation: 76.63
+    indulgence: 9.66
+  - id: China_104
+    power_distance: 76.29
+    individualism: 30.83
+    masculinity: 65.93
+    uncertainty_avoidance: 38.11
+    long_term_orientation: 79.85
+    indulgence: 31.55
+  - id: China_105
+    power_distance: 53.57
+    individualism: 36.94
+    masculinity: 70.43
+    uncertainty_avoidance: 40.26
+    long_term_orientation: 51.43
+    indulgence: 26.55
+  - id: China_106
+    power_distance: 99.3
+    individualism: 40.14
+    masculinity: 64.48
+    uncertainty_avoidance: 37.21
+    long_term_orientation: 80.95
+    indulgence: 34.79
+  - id: China_107
+    power_distance: 81.16
+    individualism: 45.44
+    masculinity: 53.48
+    uncertainty_avoidance: 27.27
+    long_term_orientation: 97.05
+    indulgence: 20.73
+  - id: China_108
+    power_distance: 77.3
+    individualism: 35.14
+    masculinity: 78.59
+    uncertainty_avoidance: 16.33
+    long_term_orientation: 91.57
+    indulgence: 9.01
+  - id: China_109
+    power_distance: 63.08
+    individualism: 46.3
+    masculinity: 68.08
+    uncertainty_avoidance: 34.76
+    long_term_orientation: 94.0
+    indulgence: 17.4
+  - id: China_110
+    power_distance: 87.09
+    individualism: 28.44
+    masculinity: 86.15
+    uncertainty_avoidance: 40.12
+    long_term_orientation: 85.58
+    indulgence: 27.01
+  - id: China_111
+    power_distance: 67.43
+    individualism: 37.76
+    masculinity: 74.03
+    uncertainty_avoidance: 29.69
+    long_term_orientation: 78.98
+    indulgence: 2.24
+  - id: China_112
+    power_distance: 82.9
+    individualism: 31.93
+    masculinity: 48.67
+    uncertainty_avoidance: 27.53
+    long_term_orientation: 47.3
+    indulgence: 35.18
+  - id: China_113
+    power_distance: 93.63
+    individualism: 42.15
+    masculinity: 50.1
+    uncertainty_avoidance: 14.87
+    long_term_orientation: 74.58
+    indulgence: 0.0
+  - id: China_114
+    power_distance: 82.89
+    individualism: 53.63
+    masculinity: 61.01
+    uncertainty_avoidance: 22.09
+    long_term_orientation: 79.91
+    indulgence: 29.61
+  - id: China_115
+    power_distance: 97.51
+    individualism: 43.29
+    masculinity: 54.96
+    uncertainty_avoidance: 22.62
+    long_term_orientation: 79.91
+    indulgence: 48.9
+  - id: China_116
+    power_distance: 74.88
+    individualism: 26.16
+    masculinity: 52.08
+    uncertainty_avoidance: 0.0
+    long_term_orientation: 82.28
+    indulgence: 2.22
+  - id: China_117
+    power_distance: 60.26
+    individualism: 11.38
+    masculinity: 48.11
+    uncertainty_avoidance: 39.09
+    long_term_orientation: 56.02
+    indulgence: 0.0
+  - id: China_118
+    power_distance: 82.85
+    individualism: 37.54
+    masculinity: 72.92
+    uncertainty_avoidance: 41.85
+    long_term_orientation: 76.86
+    indulgence: 3.24
+  - id: China_119
+    power_distance: 78.02
+    individualism: 51.0
+    masculinity: 56.67
+    uncertainty_avoidance: 7.0
+    long_term_orientation: 94.64
+    indulgence: 17.36
+  - id: China_120
+    power_distance: 73.45
+    individualism: 43.26
+    masculinity: 82.49
+    uncertainty_avoidance: 34.22
+    long_term_orientation: 71.67
+    indulgence: 34.91
+  - id: China_121
+    power_distance: 100.0
+    individualism: 65.2
+    masculinity: 76.77
+    uncertainty_avoidance: 12.04
+    long_term_orientation: 100.0
+    indulgence: 4.82
+  - id: China_122
+    power_distance: 74.05
+    individualism: 31.8
+    masculinity: 92.03
+    uncertainty_avoidance: 36.72
+    long_term_orientation: 54.17
+    indulgence: 28.28
+  - id: China_123
+    power_distance: 88.75
+    individualism: 37.9
+    masculinity: 46.48
+    uncertainty_avoidance: 18.4
+    long_term_orientation: 70.01
+    indulgence: 24.36
+  - id: China_124
+    power_distance: 71.68
+    individualism: 54.76
+    masculinity: 50.8
+    uncertainty_avoidance: 2.3
+    long_term_orientation: 65.17
+    indulgence: 45.58
+  - id: China_125
+    power_distance: 70.83
+    individualism: 80.45
+    masculinity: 73.86
+    uncertainty_avoidance: 11.37
+    long_term_orientation: 63.65
+    indulgence: 27.89
+  - id: China_126
+    power_distance: 61.16
+    individualism: 80.99
+    masculinity: 50.15
+    uncertainty_avoidance: 40.9
+    long_term_orientation: 100.0
+    indulgence: 22.25
+  - id: China_127
+    power_distance: 64.07
+    individualism: 38.63
+    masculinity: 71.8
+    uncertainty_avoidance: 44.01
+    long_term_orientation: 77.91
+    indulgence: 1.6
+  - id: China_128
+    power_distance: 80.68
+    individualism: 32.23
+    masculinity: 31.07
+    uncertainty_avoidance: 18.84
+    long_term_orientation: 54.08
+    indulgence: 33.39
+  - id: China_129
+    power_distance: 100.0
+    individualism: 72.74
+    masculinity: 56.83
+    uncertainty_avoidance: 22.52
+    long_term_orientation: 88.02
+    indulgence: 40.98
+  - id: China_130
+    power_distance: 73.3
+    individualism: 40.72
+    masculinity: 100.0
+    uncertainty_avoidance: 28.28
+    long_term_orientation: 69.23
+    indulgence: 25.92
+  - id: China_131
+    power_distance: 89.28
+    individualism: 26.65
+    masculinity: 62.03
+    uncertainty_avoidance: 11.34
+    long_term_orientation: 72.55
+    indulgence: 54.03
+  - id: China_132
+    power_distance: 91.87
+    individualism: 41.52
+    masculinity: 51.07
+    uncertainty_avoidance: 25.02
+    long_term_orientation: 93.81
+    indulgence: 15.01
+  - id: China_133
+    power_distance: 100.0
+    individualism: 21.02
+    masculinity: 61.36
+    uncertainty_avoidance: 57.88
+    long_term_orientation: 44.87
+    indulgence: 43.01
+  - id: China_134
+    power_distance: 50.38
+    individualism: 41.56
+    masculinity: 63.24
+    uncertainty_avoidance: 43.19
+    long_term_orientation: 26.53
+    indulgence: 0.0
+  - id: China_135
+    power_distance: 70.94
+    individualism: 43.59
+    masculinity: 51.71
+    uncertainty_avoidance: 26.47
+    long_term_orientation: 58.02
+    indulgence: 17.58
+  - id: China_136
+    power_distance: 66.45
+    individualism: 46.9
+    masculinity: 75.3
+    uncertainty_avoidance: 52.93
+    long_term_orientation: 66.5
+    indulgence: 18.91
+  - id: China_137
+    power_distance: 80.76
+    individualism: 38.28
+    masculinity: 65.17
+    uncertainty_avoidance: 5.01
+    long_term_orientation: 82.95
+    indulgence: 9.36
+  - id: China_138
+    power_distance: 64.69
+    individualism: 17.59
+    masculinity: 84.58
+    uncertainty_avoidance: 27.75
+    long_term_orientation: 95.39
+    indulgence: 28.36
+  - id: China_139
+    power_distance: 52.75
+    individualism: 25.66
+    masculinity: 78.13
+    uncertainty_avoidance: 17.75
+    long_term_orientation: 59.55
+    indulgence: 21.13
+  - id: China_140
+    power_distance: 77.17
+    individualism: 26.81
+    masculinity: 60.78
+    uncertainty_avoidance: 22.34
+    long_term_orientation: 35.56
+    indulgence: 32.04
+  - id: China_141
+    power_distance: 67.02
+    individualism: 63.87
+    masculinity: 47.6
+    uncertainty_avoidance: 4.73
+    long_term_orientation: 96.0
+    indulgence: 0.0
+  - id: China_142
+    power_distance: 69.82
+    individualism: 52.56
+    masculinity: 60.73
+    uncertainty_avoidance: 3.51
+    long_term_orientation: 80.01
+    indulgence: 20.89
+  - id: China_143
+    power_distance: 100.0
+    individualism: 52.42
+    masculinity: 100.0
+    uncertainty_avoidance: 3.67
+    long_term_orientation: 76.65
+    indulgence: 6.93
+  - id: China_144
+    power_distance: 98.48
+    individualism: 56.15
+    masculinity: 78.06
+    uncertainty_avoidance: 17.56
+    long_term_orientation: 65.08
+    indulgence: 0.0
+  - id: China_145
+    power_distance: 100.0
+    individualism: 51.13
+    masculinity: 61.83
+    uncertainty_avoidance: 44.94
+    long_term_orientation: 89.01
+    indulgence: 39.6
+  - id: China_146
+    power_distance: 54.02
+    individualism: 31.58
+    masculinity: 69.13
+    uncertainty_avoidance: 35.69
+    long_term_orientation: 92.32
+    indulgence: 7.86
+  - id: China_147
+    power_distance: 82.04
+    individualism: 78.29
+    masculinity: 77.07
+    uncertainty_avoidance: 43.93
+    long_term_orientation: 76.69
+    indulgence: 36.28
+  - id: China_148
+    power_distance: 100.0
+    individualism: 44.71
+    masculinity: 85.58
+    uncertainty_avoidance: 16.0
+    long_term_orientation: 86.44
+    indulgence: 38.47
+  - id: China_149
+    power_distance: 67.97
+    individualism: 60.57
+    masculinity: 55.2
+    uncertainty_avoidance: 17.12
+    long_term_orientation: 76.98
+    indulgence: 54.91
+  - id: China_150
+    power_distance: 84.95
+    individualism: 57.97
+    masculinity: 54.29
+    uncertainty_avoidance: 31.24
+    long_term_orientation: 58.18
+    indulgence: 14.86
+  - id: China_151
+    power_distance: 93.37
+    individualism: 42.39
+    masculinity: 89.22
+    uncertainty_avoidance: 26.76
+    long_term_orientation: 73.83
+    indulgence: 44.43
+  - id: China_152
+    power_distance: 69.62
+    individualism: 18.68
+    masculinity: 86.82
+    uncertainty_avoidance: 36.63
+    long_term_orientation: 42.36
+    indulgence: 24.71
+  - id: China_153
+    power_distance: 73.54
+    individualism: 70.92
+    masculinity: 54.34
+    uncertainty_avoidance: 20.71
+    long_term_orientation: 62.43
+    indulgence: 7.14
+  - id: China_154
+    power_distance: 68.79
+    individualism: 20.03
+    masculinity: 49.5
+    uncertainty_avoidance: 4.29
+    long_term_orientation: 53.04
+    indulgence: 0.0
+  - id: China_155
+    power_distance: 71.66
+    individualism: 32.06
+    masculinity: 46.38
+    uncertainty_avoidance: 37.65
+    long_term_orientation: 76.23
+    indulgence: 17.09
+  - id: China_156
+    power_distance: 72.58
+    individualism: 68.49
+    masculinity: 69.84
+    uncertainty_avoidance: 37.61
+    long_term_orientation: 35.62
+    indulgence: 13.54
+  - id: China_157
+    power_distance: 45.26
+    individualism: 36.18
+    masculinity: 71.97
+    uncertainty_avoidance: 19.21
+    long_term_orientation: 85.3
+    indulgence: 7.64
+  - id: China_158
+    power_distance: 89.21
+    individualism: 18.14
+    masculinity: 61.81
+    uncertainty_avoidance: 36.72
+    long_term_orientation: 85.57
+    indulgence: 21.96
+  - id: China_159
+    power_distance: 100.0
+    individualism: 36.37
+    masculinity: 58.78
+    uncertainty_avoidance: 0.0
+    long_term_orientation: 100.0
+    indulgence: 18.1
+  - id: China_160
+    power_distance: 61.18
+    individualism: 64.13
+    masculinity: 85.77
+    uncertainty_avoidance: 31.73
+    long_term_orientation: 54.04
+    indulgence: 30.7
+  - id: China_161
+    power_distance: 70.06
+    individualism: 24.27
+    masculinity: 82.69
+    uncertainty_avoidance: 0.0
+    long_term_orientation: 86.07
+    indulgence: 31.35
+  - id: China_162
+    power_distance: 100.0
+    individualism: 48.2
+    masculinity: 33.07
+    uncertainty_avoidance: 16.62
+    long_term_orientation: 78.03
+    indulgence: 29.69
+  - id: China_163
+    power_distance: 95.69
+    individualism: 11.65
+    masculinity: 60.72
+    uncertainty_avoidance: 45.52
+    long_term_orientation: 100.0
+    indulgence: 53.78
+  - id: China_164
+    power_distance: 73.76
+    individualism: 60.56
+    masculinity: 93.39
+    uncertainty_avoidance: 49.17
+    long_term_orientation: 88.58
+    indulgence: 37.24
+  - id: China_165
+    power_distance: 67.36
+    individualism: 19.84
+    masculinity: 81.73
+    uncertainty_avoidance: 24.45
+    long_term_orientation: 76.55
+    indulgence: 14.74
+  - id: China_166
+    power_distance: 73.71
+    individualism: 46.72
+    masculinity: 49.65
+    uncertainty_avoidance: 31.1
+    long_term_orientation: 80.94
+    indulgence: 22.76
+  - id: China_167
+    power_distance: 68.1
+    individualism: 55.59
+    masculinity: 95.96
+    uncertainty_avoidance: 20.38
+    long_term_orientation: 96.75
+    indulgence: 38.23
+  - id: China_168
+    power_distance: 37.55
+    individualism: 30.82
+    masculinity: 55.83
+    uncertainty_avoidance: 42.51
+    long_term_orientation: 80.02
+    indulgence: 31.59
+  - id: China_169
+    power_distance: 90.18
+    individualism: 28.62
+    masculinity: 54.06
+    uncertainty_avoidance: 10.43
+    long_term_orientation: 74.28
+    indulgence: 22.09
+  - id: China_170
+    power_distance: 82.74
+    individualism: 31.36
+    masculinity: 80.5
+    uncertainty_avoidance: 44.67
+    long_term_orientation: 100.0
+    indulgence: 35.38
+  - id: China_171
+    power_distance: 82.97
+    individualism: 53.76
+    masculinity: 75.76
+    uncertainty_avoidance: 19.57
+    long_term_orientation: 97.63
+    indulgence: 51.5
+  - id: China_172
+    power_distance: 100.0
+    individualism: 43.56
+    masculinity: 71.19
+    uncertainty_avoidance: 36.66
+    long_term_orientation: 76.96
+    indulgence: 33.91
+  - id: China_173
+    power_distance: 78.06
+    individualism: 39.9
+    masculinity: 94.14
+    uncertainty_avoidance: 32.64
+    long_term_orientation: 78.07
+    indulgence: 38.11
+  - id: China_174
+    power_distance: 82.41
+    individualism: 47.67
+    masculinity: 64.98
+    uncertainty_avoidance: 10.47
+    long_term_orientation: 76.5
+    indulgence: 5.81
+  - id: China_175
+    power_distance: 83.36
+    individualism: 24.1
+    masculinity: 80.67
+    uncertainty_avoidance: 41.99
+    long_term_orientation: 81.49
+    indulgence: 22.4
+  - id: China_176
+    power_distance: 86.66
+    individualism: 11.56
+    masculinity: 48.45
+    uncertainty_avoidance: 27.62
+    long_term_orientation: 82.52
+    indulgence: 22.73
+  - id: China_177
+    power_distance: 63.93
+    individualism: 45.14
+    masculinity: 58.74
+    uncertainty_avoidance: 12.9
+    long_term_orientation: 82.27
+    indulgence: 20.64
+  - id: China_178
+    power_distance: 99.14
+    individualism: 53.65
+    masculinity: 77.75
+    uncertainty_avoidance: 35.15
+    long_term_orientation: 63.48
+    indulgence: 9.03
+  - id: China_179
+    power_distance: 56.46
+    individualism: 89.06
+    masculinity: 48.73
+    uncertainty_avoidance: 26.64
+    long_term_orientation: 71.23
+    indulgence: 19.5
+  - id: China_180
+    power_distance: 70.66
+    individualism: 13.11
+    masculinity: 50.03
+    uncertainty_avoidance: 7.75
+    long_term_orientation: 74.97
+    indulgence: 13.05
+  - id: China_181
+    power_distance: 69.01
+    individualism: 46.45
+    masculinity: 56.68
+    uncertainty_avoidance: 44.91
+    long_term_orientation: 70.82
+    indulgence: 27.6
+  - id: China_182
+    power_distance: 58.8
+    individualism: 53.51
+    masculinity: 59.52
+    uncertainty_avoidance: 36.54
+    long_term_orientation: 82.28
+    indulgence: 21.22
+  - id: China_183
+    power_distance: 83.48
+    individualism: 36.84
+    masculinity: 87.54
+    uncertainty_avoidance: 44.95
+    long_term_orientation: 84.72
+    indulgence: 5.12
+  - id: China_184
+    power_distance: 62.41
+    individualism: 32.38
+    masculinity: 62.08
+    uncertainty_avoidance: 37.17
+    long_term_orientation: 62.66
+    indulgence: 42.83
+  - id: China_185
+    power_distance: 80.06
+    individualism: 10.8
+    masculinity: 58.39
+    uncertainty_avoidance: 0.0
+    long_term_orientation: 64.97
+    indulgence: 15.21
+  - id: China_186
+    power_distance: 70.23
+    individualism: 37.8
+    masculinity: 59.69
+    uncertainty_avoidance: 20.5
+    long_term_orientation: 100.0
+    indulgence: 43.44
+  - id: China_187
+    power_distance: 61.73
+    individualism: 63.06
+    masculinity: 40.06
+    uncertainty_avoidance: 16.97
+    long_term_orientation: 100.0
+    indulgence: 0.0
+  - id: China_188
+    power_distance: 89.2
+    individualism: 22.94
+    masculinity: 63.7
+    uncertainty_avoidance: 27.12
+    long_term_orientation: 100.0
+    indulgence: 11.03
+  - id: China_189
+    power_distance: 78.9
+    individualism: 53.03
+    masculinity: 61.97
+    uncertainty_avoidance: 16.85
+    long_term_orientation: 76.05
+    indulgence: 25.5
+  - id: China_190
+    power_distance: 94.14
+    individualism: 27.91
+    masculinity: 58.81
+    uncertainty_avoidance: 35.17
+    long_term_orientation: 74.33
+    indulgence: 21.04
+  - id: China_191
+    power_distance: 79.73
+    individualism: 31.87
+    masculinity: 53.2
+    uncertainty_avoidance: 37.05
+    long_term_orientation: 59.48
+    indulgence: 42.65
+  - id: China_192
+    power_distance: 83.48
+    individualism: 22.58
+    masculinity: 70.53
+    uncertainty_avoidance: 32.68
+    long_term_orientation: 89.19
+    indulgence: 42.54
+  - id: China_193
+    power_distance: 74.14
+    individualism: 31.68
+    masculinity: 56.3
+    uncertainty_avoidance: 14.3
+    long_term_orientation: 65.06
+    indulgence: 28.55
+  - id: China_194
+    power_distance: 80.24
+    individualism: 35.14
+    masculinity: 54.19
+    uncertainty_avoidance: 35.57
+    long_term_orientation: 68.97
+    indulgence: 7.36
+  - id: China_195
+    power_distance: 77.57
+    individualism: 38.77
+    masculinity: 48.88
+    uncertainty_avoidance: 43.23
+    long_term_orientation: 90.54
+    indulgence: 24.65
+  - id: China_196
+    power_distance: 82.1
+    individualism: 51.44
+    masculinity: 65.51
+    uncertainty_avoidance: 44.26
+    long_term_orientation: 100.0
+    indulgence: 25.29
+  - id: China_197
+    power_distance: 87.04
+    individualism: 56.98
+    masculinity: 60.59
+    uncertainty_avoidance: 11.95
+    long_term_orientation: 91.5
+    indulgence: 0.0
+  - id: China_198
+    power_distance: 100.0
+    individualism: 56.93
+    masculinity: 69.0
+    uncertainty_avoidance: 30.82
+    long_term_orientation: 100.0
+    indulgence: 8.86
+  - id: China_199
+    power_distance: 61.44
+    individualism: 33.43
+    masculinity: 61.81
+    uncertainty_avoidance: 13.9
+    long_term_orientation: 79.46
+    indulgence: 26.18
+  - id: China_200
+    power_distance: 66.98
+    individualism: 68.65
+    masculinity: 43.73
+    uncertainty_avoidance: 9.57
+    long_term_orientation: 83.02
+    indulgence: 20.68
+  Germany:
+  - id: Germany_001
+    power_distance: 41.68
+    individualism: 69.1
+    masculinity: 49.47
+    uncertainty_avoidance: 54.67
+    long_term_orientation: 46.06
+    indulgence: 48.4
+  - id: Germany_002
+    power_distance: 27.32
+    individualism: 91.18
+    masculinity: 75.41
+    uncertainty_avoidance: 81.65
+    long_term_orientation: 71.41
+    indulgence: 52.55
+  - id: Germany_003
+    power_distance: 47.32
+    individualism: 70.73
+    masculinity: 61.81
+    uncertainty_avoidance: 35.72
+    long_term_orientation: 61.67
+    indulgence: 29.22
+  - id: Germany_004
+    power_distance: 41.42
+    individualism: 87.44
+    masculinity: 44.37
+    uncertainty_avoidance: 48.78
+    long_term_orientation: 51.41
+    indulgence: 31.72
+  - id: Germany_005
+    power_distance: 37.67
+    individualism: 60.51
+    masculinity: 66.75
+    uncertainty_avoidance: 37.98
+    long_term_orientation: 22.52
+    indulgence: 51.47
+  - id: Germany_006
+    power_distance: 14.11
+    individualism: 70.04
+    masculinity: 43.32
+    uncertainty_avoidance: 42.46
+    long_term_orientation: 50.62
+    indulgence: 33.44
+  - id: Germany_007
+    power_distance: 50.72
+    individualism: 86.19
+    masculinity: 61.82
+    uncertainty_avoidance: 77.12
+    long_term_orientation: 74.86
+    indulgence: 46.58
+  - id: Germany_008
+    power_distance: 28.5
+    individualism: 95.3
+    masculinity: 94.3
+    uncertainty_avoidance: 75.57
+    long_term_orientation: 85.33
+    indulgence: 54.83
+  - id: Germany_009
+    power_distance: 48.58
+    individualism: 61.56
+    masculinity: 48.18
+    uncertainty_avoidance: 64.21
+    long_term_orientation: 30.29
+    indulgence: 30.51
+  - id: Germany_010
+    power_distance: 48.88
+    individualism: 68.36
+    masculinity: 74.53
+    uncertainty_avoidance: 43.38
+    long_term_orientation: 49.1
+    indulgence: 56.38
+  - id: Germany_011
+    power_distance: 38.34
+    individualism: 83.64
+    masculinity: 93.28
+    uncertainty_avoidance: 85.75
+    long_term_orientation: 42.97
+    indulgence: 61.09
+  - id: Germany_012
+    power_distance: 25.16
+    individualism: 78.72
+    masculinity: 66.24
+    uncertainty_avoidance: 82.17
+    long_term_orientation: 38.93
+    indulgence: 47.23
+  - id: Germany_013
+    power_distance: 43.38
+    individualism: 91.98
+    masculinity: 62.63
+    uncertainty_avoidance: 81.05
+    long_term_orientation: 45.62
+    indulgence: 58.35
+  - id: Germany_014
+    power_distance: 40.64
+    individualism: 56.6
+    masculinity: 72.53
+    uncertainty_avoidance: 67.87
+    long_term_orientation: 51.31
+    indulgence: 28.22
+  - id: Germany_015
+    power_distance: 31.16
+    individualism: 55.93
+    masculinity: 93.05
+    uncertainty_avoidance: 46.95
+    long_term_orientation: 46.42
+    indulgence: 58.32
+  - id: Germany_016
+    power_distance: 44.36
+    individualism: 90.52
+    masculinity: 90.27
+    uncertainty_avoidance: 60.01
+    long_term_orientation: 40.26
+    indulgence: 53.51
+  - id: Germany_017
+    power_distance: 47.74
+    individualism: 73.77
+    masculinity: 45.75
+    uncertainty_avoidance: 84.83
+    long_term_orientation: 66.21
+    indulgence: 18.02
+  - id: Germany_018
+    power_distance: 47.48
+    individualism: 55.94
+    masculinity: 58.28
+    uncertainty_avoidance: 47.03
+    long_term_orientation: 46.79
+    indulgence: 26.67
+  - id: Germany_019
+    power_distance: 25.19
+    individualism: 90.59
+    masculinity: 70.71
+    uncertainty_avoidance: 75.06
+    long_term_orientation: 74.48
+    indulgence: 34.04
+  - id: Germany_020
+    power_distance: 36.28
+    individualism: 87.61
+    masculinity: 93.31
+    uncertainty_avoidance: 79.39
+    long_term_orientation: 79.1
+    indulgence: 56.3
+  - id: Germany_021
+    power_distance: 51.92
+    individualism: 50.45
+    masculinity: 80.09
+    uncertainty_avoidance: 68.41
+    long_term_orientation: 57.87
+    indulgence: 31.56
+  - id: Germany_022
+    power_distance: 28.2
+    individualism: 85.66
+    masculinity: 79.44
+    uncertainty_avoidance: 41.04
+    long_term_orientation: 60.49
+    indulgence: 31.03
+  - id: Germany_023
+    power_distance: 19.79
+    individualism: 85.28
+    masculinity: 60.74
+    uncertainty_avoidance: 54.46
+    long_term_orientation: 44.69
+    indulgence: 44.5
+  - id: Germany_024
+    power_distance: 34.84
+    individualism: 61.53
+    masculinity: 52.54
+    uncertainty_avoidance: 62.08
+    long_term_orientation: 63.48
+    indulgence: 23.2
+  - id: Germany_025
+    power_distance: 42.81
+    individualism: 65.82
+    masculinity: 100.0
+    uncertainty_avoidance: 49.94
+    long_term_orientation: 44.36
+    indulgence: 43.1
+  - id: Germany_026
+    power_distance: 20.56
+    individualism: 92.24
+    masculinity: 94.82
+    uncertainty_avoidance: 58.8
+    long_term_orientation: 59.76
+    indulgence: 31.72
+  - id: Germany_027
+    power_distance: 35.0
+    individualism: 100.0
+    masculinity: 80.31
+    uncertainty_avoidance: 50.53
+    long_term_orientation: 81.73
+    indulgence: 58.59
+  - id: Germany_028
+    power_distance: 42.78
+    individualism: 68.45
+    masculinity: 67.05
+    uncertainty_avoidance: 52.27
+    long_term_orientation: 64.48
+    indulgence: 34.94
+  - id: Germany_029
+    power_distance: 0.0
+    individualism: 93.82
+    masculinity: 69.06
+    uncertainty_avoidance: 82.26
+    long_term_orientation: 54.82
+    indulgence: 43.02
+  - id: Germany_030
+    power_distance: 52.85
+    individualism: 85.2
+    masculinity: 70.61
+    uncertainty_avoidance: 100.0
+    long_term_orientation: 54.3
+    indulgence: 42.71
+  - id: Germany_031
+    power_distance: 62.74
+    individualism: 66.12
+    masculinity: 49.34
+    uncertainty_avoidance: 42.09
+    long_term_orientation: 65.54
+    indulgence: 50.01
+  - id: Germany_032
+    power_distance: 46.86
+    individualism: 57.34
+    masculinity: 82.09
+    uncertainty_avoidance: 84.16
+    long_term_orientation: 55.44
+    indulgence: 40.52
+  - id: Germany_033
+    power_distance: 45.81
+    individualism: 84.87
+    masculinity: 76.27
+    uncertainty_avoidance: 47.62
+    long_term_orientation: 54.21
+    indulgence: 20.6
+  - id: Germany_034
+    power_distance: 45.1
+    individualism: 87.48
+    masculinity: 64.42
+    uncertainty_avoidance: 69.75
+    long_term_orientation: 32.1
+    indulgence: 53.73
+  - id: Germany_035
+    power_distance: 27.52
+    individualism: 81.06
+    masculinity: 83.85
+    uncertainty_avoidance: 52.9
+    long_term_orientation: 76.16
+    indulgence: 41.99
+  - id: Germany_036
+    power_distance: 35.45
+    individualism: 87.9
+    masculinity: 46.05
+    uncertainty_avoidance: 74.51
+    long_term_orientation: 57.98
+    indulgence: 56.58
+  - id: Germany_037
+    power_distance: 31.53
+    individualism: 73.19
+    masculinity: 71.91
+    uncertainty_avoidance: 64.05
+    long_term_orientation: 38.22
+    indulgence: 36.9
+  - id: Germany_038
+    power_distance: 55.28
+    individualism: 77.51
+    masculinity: 52.07
+    uncertainty_avoidance: 76.45
+    long_term_orientation: 27.34
+    indulgence: 6.08
+  - id: Germany_039
+    power_distance: 34.93
+    individualism: 81.89
+    masculinity: 69.53
+    uncertainty_avoidance: 50.72
+    long_term_orientation: 54.59
+    indulgence: 17.62
+  - id: Germany_040
+    power_distance: 38.51
+    individualism: 53.15
+    masculinity: 63.61
+    uncertainty_avoidance: 69.19
+    long_term_orientation: 28.89
+    indulgence: 31.64
+  - id: Germany_041
+    power_distance: 47.61
+    individualism: 100.0
+    masculinity: 41.94
+    uncertainty_avoidance: 70.44
+    long_term_orientation: 37.22
+    indulgence: 18.48
+  - id: Germany_042
+    power_distance: 60.54
+    individualism: 89.69
+    masculinity: 53.13
+    uncertainty_avoidance: 68.5
+    long_term_orientation: 67.27
+    indulgence: 42.9
+  - id: Germany_043
+    power_distance: 70.96
+    individualism: 88.69
+    masculinity: 18.11
+    uncertainty_avoidance: 60.36
+    long_term_orientation: 45.21
+    indulgence: 36.73
+  - id: Germany_044
+    power_distance: 35.22
+    individualism: 68.58
+    masculinity: 48.64
+    uncertainty_avoidance: 86.81
+    long_term_orientation: 66.56
+    indulgence: 29.27
+  - id: Germany_045
+    power_distance: 45.87
+    individualism: 89.8
+    masculinity: 86.28
+    uncertainty_avoidance: 48.11
+    long_term_orientation: 69.48
+    indulgence: 30.28
+  - id: Germany_046
+    power_distance: 53.48
+    individualism: 75.92
+    masculinity: 29.65
+    uncertainty_avoidance: 65.57
+    long_term_orientation: 28.45
+    indulgence: 36.53
+  - id: Germany_047
+    power_distance: 34.07
+    individualism: 72.58
+    masculinity: 42.21
+    uncertainty_avoidance: 47.15
+    long_term_orientation: 43.49
+    indulgence: 36.03
+  - id: Germany_048
+    power_distance: 55.62
+    individualism: 90.35
+    masculinity: 58.44
+    uncertainty_avoidance: 85.38
+    long_term_orientation: 35.11
+    indulgence: 50.96
+  - id: Germany_049
+    power_distance: 32.2
+    individualism: 82.78
+    masculinity: 76.22
+    uncertainty_avoidance: 54.13
+    long_term_orientation: 69.82
+    indulgence: 39.85
+  - id: Germany_050
+    power_distance: 73.59
+    individualism: 74.13
+    masculinity: 86.31
+    uncertainty_avoidance: 75.35
+    long_term_orientation: 38.21
+    indulgence: 61.77
+  - id: Germany_051
+    power_distance: 18.03
+    individualism: 43.29
+    masculinity: 79.65
+    uncertainty_avoidance: 82.1
+    long_term_orientation: 57.83
+    indulgence: 35.82
+  - id: Germany_052
+    power_distance: 60.34
+    individualism: 90.39
+    masculinity: 55.51
+    uncertainty_avoidance: 76.7
+    long_term_orientation: 37.11
+    indulgence: 31.06
+  - id: Germany_053
+    power_distance: 18.18
+    individualism: 43.8
+    masculinity: 47.16
+    uncertainty_avoidance: 84.56
+    long_term_orientation: 39.43
+    indulgence: 31.2
+  - id: Germany_054
+    power_distance: 16.42
+    individualism: 92.85
+    masculinity: 66.02
+    uncertainty_avoidance: 72.85
+    long_term_orientation: 55.31
+    indulgence: 21.26
+  - id: Germany_055
+    power_distance: 19.42
+    individualism: 92.4
+    masculinity: 65.08
+    uncertainty_avoidance: 77.39
+    long_term_orientation: 6.4
+    indulgence: 57.76
+  - id: Germany_056
+    power_distance: 27.1
+    individualism: 100.0
+    masculinity: 57.83
+    uncertainty_avoidance: 65.45
+    long_term_orientation: 67.57
+    indulgence: 25.99
+  - id: Germany_057
+    power_distance: 48.96
+    individualism: 68.68
+    masculinity: 86.63
+    uncertainty_avoidance: 77.69
+    long_term_orientation: 64.93
+    indulgence: 28.41
+  - id: Germany_058
+    power_distance: 31.63
+    individualism: 83.8
+    masculinity: 33.47
+    uncertainty_avoidance: 56.17
+    long_term_orientation: 72.01
+    indulgence: 19.71
+  - id: Germany_059
+    power_distance: 55.46
+    individualism: 68.95
+    masculinity: 71.17
+    uncertainty_avoidance: 46.64
+    long_term_orientation: 64.75
+    indulgence: 47.4
+  - id: Germany_060
+    power_distance: 53.18
+    individualism: 100.0
+    masculinity: 86.06
+    uncertainty_avoidance: 68.34
+    long_term_orientation: 37.38
+    indulgence: 61.18
+  - id: Germany_061
+    power_distance: 14.13
+    individualism: 71.98
+    masculinity: 77.79
+    uncertainty_avoidance: 72.1
+    long_term_orientation: 82.49
+    indulgence: 39.94
+  - id: Germany_062
+    power_distance: 7.96
+    individualism: 74.6
+    masculinity: 68.78
+    uncertainty_avoidance: 59.39
+    long_term_orientation: 79.6
+    indulgence: 36.04
+  - id: Germany_063
+    power_distance: 12.03
+    individualism: 86.47
+    masculinity: 47.64
+    uncertainty_avoidance: 92.2
+    long_term_orientation: 61.32
+    indulgence: 17.55
+  - id: Germany_064
+    power_distance: 52.27
+    individualism: 100.0
+    masculinity: 33.94
+    uncertainty_avoidance: 79.45
+    long_term_orientation: 64.74
+    indulgence: 42.81
+  - id: Germany_065
+    power_distance: 40.49
+    individualism: 86.87
+    masculinity: 54.91
+    uncertainty_avoidance: 87.58
+    long_term_orientation: 35.41
+    indulgence: 71.34
+  - id: Germany_066
+    power_distance: 59.44
+    individualism: 60.02
+    masculinity: 65.91
+    uncertainty_avoidance: 87.72
+    long_term_orientation: 49.14
+    indulgence: 37.4
+  - id: Germany_067
+    power_distance: 28.56
+    individualism: 97.68
+    masculinity: 56.28
+    uncertainty_avoidance: 64.84
+    long_term_orientation: 65.64
+    indulgence: 36.68
+  - id: Germany_068
+    power_distance: 21.14
+    individualism: 57.54
+    masculinity: 41.71
+    uncertainty_avoidance: 46.12
+    long_term_orientation: 29.47
+    indulgence: 28.37
+  - id: Germany_069
+    power_distance: 39.8
+    individualism: 79.87
+    masculinity: 52.77
+    uncertainty_avoidance: 48.71
+    long_term_orientation: 41.11
+    indulgence: 17.79
+  - id: Germany_070
+    power_distance: 15.23
+    individualism: 90.43
+    masculinity: 43.53
+    uncertainty_avoidance: 65.28
+    long_term_orientation: 47.11
+    indulgence: 78.85
+  - id: Germany_071
+    power_distance: 6.25
+    individualism: 82.09
+    masculinity: 60.66
+    uncertainty_avoidance: 52.66
+    long_term_orientation: 62.04
+    indulgence: 42.49
+  - id: Germany_072
+    power_distance: 17.9
+    individualism: 85.82
+    masculinity: 72.23
+    uncertainty_avoidance: 85.95
+    long_term_orientation: 47.24
+    indulgence: 63.53
+  - id: Germany_073
+    power_distance: 31.85
+    individualism: 47.38
+    masculinity: 74.37
+    uncertainty_avoidance: 63.69
+    long_term_orientation: 42.88
+    indulgence: 54.93
+  - id: Germany_074
+    power_distance: 27.45
+    individualism: 95.27
+    masculinity: 64.68
+    uncertainty_avoidance: 77.01
+    long_term_orientation: 67.87
+    indulgence: 47.57
+  - id: Germany_075
+    power_distance: 18.49
+    individualism: 93.72
+    masculinity: 66.35
+    uncertainty_avoidance: 97.04
+    long_term_orientation: 64.66
+    indulgence: 52.02
+  - id: Germany_076
+    power_distance: 22.76
+    individualism: 72.5
+    masculinity: 67.55
+    uncertainty_avoidance: 46.27
+    long_term_orientation: 38.28
+    indulgence: 38.26
+  - id: Germany_077
+    power_distance: 33.75
+    individualism: 82.23
+    masculinity: 83.87
+    uncertainty_avoidance: 58.59
+    long_term_orientation: 67.89
+    indulgence: 37.69
+  - id: Germany_078
+    power_distance: 31.9
+    individualism: 83.11
+    masculinity: 32.92
+    uncertainty_avoidance: 66.06
+    long_term_orientation: 46.79
+    indulgence: 25.12
+  - id: Germany_079
+    power_distance: 4.81
+    individualism: 71.91
+    masculinity: 35.96
+    uncertainty_avoidance: 78.92
+    long_term_orientation: 53.17
+    indulgence: 13.09
+  - id: Germany_080
+    power_distance: 24.22
+    individualism: 91.08
+    masculinity: 56.48
+    uncertainty_avoidance: 60.5
+    long_term_orientation: 51.09
+    indulgence: 37.95
+  - id: Germany_081
+    power_distance: 7.8
+    individualism: 78.27
+    masculinity: 57.07
+    uncertainty_avoidance: 100.0
+    long_term_orientation: 53.59
+    indulgence: 32.71
+  - id: Germany_082
+    power_distance: 50.82
+    individualism: 76.5
+    masculinity: 70.05
+    uncertainty_avoidance: 51.01
+    long_term_orientation: 81.88
+    indulgence: 29.96
+  - id: Germany_083
+    power_distance: 41.01
+    individualism: 97.12
+    masculinity: 61.13
+    uncertainty_avoidance: 65.0
+    long_term_orientation: 66.38
+    indulgence: 50.92
+  - id: Germany_084
+    power_distance: 17.56
+    individualism: 81.9
+    masculinity: 50.87
+    uncertainty_avoidance: 53.07
+    long_term_orientation: 46.63
+    indulgence: 59.46
+  - id: Germany_085
+    power_distance: 60.55
+    individualism: 100.0
+    masculinity: 65.1
+    uncertainty_avoidance: 51.54
+    long_term_orientation: 41.49
+    indulgence: 65.72
+  - id: Germany_086
+    power_distance: 10.39
+    individualism: 73.93
+    masculinity: 56.94
+    uncertainty_avoidance: 93.0
+    long_term_orientation: 40.79
+    indulgence: 57.63
+  - id: Germany_087
+    power_distance: 56.01
+    individualism: 76.33
+    masculinity: 73.45
+    uncertainty_avoidance: 40.38
+    long_term_orientation: 55.59
+    indulgence: 36.56
+  - id: Germany_088
+    power_distance: 0.0
+    individualism: 85.65
+    masculinity: 71.68
+    uncertainty_avoidance: 37.91
+    long_term_orientation: 34.4
+    indulgence: 28.01
+  - id: Germany_089
+    power_distance: 26.53
+    individualism: 74.1
+    masculinity: 50.67
+    uncertainty_avoidance: 48.87
+    long_term_orientation: 61.9
+    indulgence: 32.4
+  - id: Germany_090
+    power_distance: 33.29
+    individualism: 75.33
+    masculinity: 73.32
+    uncertainty_avoidance: 62.53
+    long_term_orientation: 70.78
+    indulgence: 41.65
+  - id: Germany_091
+    power_distance: 49.22
+    individualism: 98.95
+    masculinity: 42.63
+    uncertainty_avoidance: 79.75
+    long_term_orientation: 85.53
+    indulgence: 24.44
+  - id: Germany_092
+    power_distance: 34.49
+    individualism: 73.28
+    masculinity: 73.05
+    uncertainty_avoidance: 73.32
+    long_term_orientation: 46.29
+    indulgence: 61.0
+  - id: Germany_093
+    power_distance: 21.29
+    individualism: 76.79
+    masculinity: 82.38
+    uncertainty_avoidance: 96.26
+    long_term_orientation: 48.8
+    indulgence: 52.52
+  - id: Germany_094
+    power_distance: 38.52
+    individualism: 53.68
+    masculinity: 50.72
+    uncertainty_avoidance: 45.72
+    long_term_orientation: 48.95
+    indulgence: 33.33
+  - id: Germany_095
+    power_distance: 35.45
+    individualism: 99.44
+    masculinity: 72.76
+    uncertainty_avoidance: 100.0
+    long_term_orientation: 53.11
+    indulgence: 52.63
+  - id: Germany_096
+    power_distance: 41.63
+    individualism: 100.0
+    masculinity: 59.94
+    uncertainty_avoidance: 78.52
+    long_term_orientation: 83.07
+    indulgence: 28.47
+  - id: Germany_097
+    power_distance: 33.8
+    individualism: 87.07
+    masculinity: 59.04
+    uncertainty_avoidance: 51.0
+    long_term_orientation: 86.32
+    indulgence: 36.33
+  - id: Germany_098
+    power_distance: 62.75
+    individualism: 70.87
+    masculinity: 62.69
+    uncertainty_avoidance: 77.75
+    long_term_orientation: 53.7
+    indulgence: 25.62
+  - id: Germany_099
+    power_distance: 23.48
+    individualism: 83.36
+    masculinity: 55.34
+    uncertainty_avoidance: 66.41
+    long_term_orientation: 20.88
+    indulgence: 31.07
+  - id: Germany_100
+    power_distance: 32.12
+    individualism: 70.8
+    masculinity: 50.1
+    uncertainty_avoidance: 50.86
+    long_term_orientation: 58.13
+    indulgence: 63.79
+  - id: Germany_101
+    power_distance: 12.63
+    individualism: 74.58
+    masculinity: 81.63
+    uncertainty_avoidance: 70.35
+    long_term_orientation: 55.5
+    indulgence: 32.79
+  - id: Germany_102
+    power_distance: 35.21
+    individualism: 77.38
+    masculinity: 31.02
+    uncertainty_avoidance: 53.55
+    long_term_orientation: 25.81
+    indulgence: 60.66
+  - id: Germany_103
+    power_distance: 48.16
+    individualism: 66.39
+    masculinity: 78.88
+    uncertainty_avoidance: 100.0
+    long_term_orientation: 47.03
+    indulgence: 60.79
+  - id: Germany_104
+    power_distance: 40.8
+    individualism: 75.21
+    masculinity: 48.31
+    uncertainty_avoidance: 56.11
+    long_term_orientation: 50.68
+    indulgence: 2.95
+  - id: Germany_105
+    power_distance: 43.49
+    individualism: 73.85
+    masculinity: 73.35
+    uncertainty_avoidance: 58.29
+    long_term_orientation: 100.0
+    indulgence: 13.48
+  - id: Germany_106
+    power_distance: 20.07
+    individualism: 90.28
+    masculinity: 100.0
+    uncertainty_avoidance: 49.12
+    long_term_orientation: 86.27
+    indulgence: 25.33
+  - id: Germany_107
+    power_distance: 55.69
+    individualism: 80.21
+    masculinity: 100.0
+    uncertainty_avoidance: 93.51
+    long_term_orientation: 46.64
+    indulgence: 86.97
+  - id: Germany_108
+    power_distance: 17.01
+    individualism: 73.98
+    masculinity: 94.93
+    uncertainty_avoidance: 53.24
+    long_term_orientation: 46.74
+    indulgence: 42.09
+  - id: Germany_109
+    power_distance: 42.24
+    individualism: 85.19
+    masculinity: 54.07
+    uncertainty_avoidance: 68.15
+    long_term_orientation: 67.2
+    indulgence: 64.06
+  - id: Germany_110
+    power_distance: 40.25
+    individualism: 58.95
+    masculinity: 66.45
+    uncertainty_avoidance: 55.07
+    long_term_orientation: 78.1
+    indulgence: 13.19
+  - id: Germany_111
+    power_distance: 43.96
+    individualism: 61.95
+    masculinity: 86.35
+    uncertainty_avoidance: 77.34
+    long_term_orientation: 60.51
+    indulgence: 48.08
+  - id: Germany_112
+    power_distance: 29.61
+    individualism: 89.81
+    masculinity: 65.21
+    uncertainty_avoidance: 76.7
+    long_term_orientation: 57.94
+    indulgence: 0.3
+  - id: Germany_113
+    power_distance: 26.78
+    individualism: 100.0
+    masculinity: 89.24
+    uncertainty_avoidance: 66.67
+    long_term_orientation: 54.98
+    indulgence: 34.64
+  - id: Germany_114
+    power_distance: 45.09
+    individualism: 88.26
+    masculinity: 50.33
+    uncertainty_avoidance: 75.59
+    long_term_orientation: 76.73
+    indulgence: 24.72
+  - id: Germany_115
+    power_distance: 32.01
+    individualism: 86.42
+    masculinity: 77.56
+    uncertainty_avoidance: 58.27
+    long_term_orientation: 48.54
+    indulgence: 32.58
+  - id: Germany_116
+    power_distance: 41.16
+    individualism: 85.87
+    masculinity: 65.69
+    uncertainty_avoidance: 43.17
+    long_term_orientation: 39.56
+    indulgence: 50.19
+  - id: Germany_117
+    power_distance: 15.46
+    individualism: 82.62
+    masculinity: 60.23
+    uncertainty_avoidance: 55.36
+    long_term_orientation: 57.43
+    indulgence: 66.82
+  - id: Germany_118
+    power_distance: 39.62
+    individualism: 74.27
+    masculinity: 42.43
+    uncertainty_avoidance: 73.2
+    long_term_orientation: 75.19
+    indulgence: 49.72
+  - id: Germany_119
+    power_distance: 53.66
+    individualism: 86.63
+    masculinity: 45.15
+    uncertainty_avoidance: 64.28
+    long_term_orientation: 65.4
+    indulgence: 51.54
+  - id: Germany_120
+    power_distance: 27.11
+    individualism: 77.99
+    masculinity: 71.85
+    uncertainty_avoidance: 85.34
+    long_term_orientation: 73.08
+    indulgence: 50.34
+  - id: Germany_121
+    power_distance: 41.34
+    individualism: 62.6
+    masculinity: 48.38
+    uncertainty_avoidance: 63.53
+    long_term_orientation: 73.67
+    indulgence: 46.33
+  - id: Germany_122
+    power_distance: 43.98
+    individualism: 54.98
+    masculinity: 42.61
+    uncertainty_avoidance: 82.92
+    long_term_orientation: 56.45
+    indulgence: 18.98
+  - id: Germany_123
+    power_distance: 49.11
+    individualism: 83.13
+    masculinity: 100.0
+    uncertainty_avoidance: 85.0
+    long_term_orientation: 62.55
+    indulgence: 37.58
+  - id: Germany_124
+    power_distance: 38.72
+    individualism: 77.36
+    masculinity: 42.98
+    uncertainty_avoidance: 79.84
+    long_term_orientation: 61.4
+    indulgence: 0.0
+  - id: Germany_125
+    power_distance: 24.83
+    individualism: 65.74
+    masculinity: 81.69
+    uncertainty_avoidance: 64.3
+    long_term_orientation: 80.8
+    indulgence: 14.54
+  - id: Germany_126
+    power_distance: 17.79
+    individualism: 96.07
+    masculinity: 55.52
+    uncertainty_avoidance: 48.06
+    long_term_orientation: 48.57
+    indulgence: 27.84
+  - id: Germany_127
+    power_distance: 43.63
+    individualism: 96.89
+    masculinity: 40.61
+    uncertainty_avoidance: 60.35
+    long_term_orientation: 57.23
+    indulgence: 41.32
+  - id: Germany_128
+    power_distance: 48.33
+    individualism: 80.92
+    masculinity: 56.72
+    uncertainty_avoidance: 47.21
+    long_term_orientation: 27.8
+    indulgence: 34.06
+  - id: Germany_129
+    power_distance: 35.23
+    individualism: 93.75
+    masculinity: 59.96
+    uncertainty_avoidance: 100.0
+    long_term_orientation: 55.78
+    indulgence: 32.27
+  - id: Germany_130
+    power_distance: 41.09
+    individualism: 63.47
+    masculinity: 69.34
+    uncertainty_avoidance: 31.97
+    long_term_orientation: 67.82
+    indulgence: 41.07
+  - id: Germany_131
+    power_distance: 38.37
+    individualism: 81.48
+    masculinity: 45.62
+    uncertainty_avoidance: 50.62
+    long_term_orientation: 82.06
+    indulgence: 47.91
+  - id: Germany_132
+    power_distance: 25.44
+    individualism: 85.74
+    masculinity: 72.52
+    uncertainty_avoidance: 96.27
+    long_term_orientation: 74.77
+    indulgence: 46.58
+  - id: Germany_133
+    power_distance: 27.81
+    individualism: 100.0
+    masculinity: 64.38
+    uncertainty_avoidance: 51.07
+    long_term_orientation: 37.48
+    indulgence: 26.2
+  - id: Germany_134
+    power_distance: 29.17
+    individualism: 91.25
+    masculinity: 80.61
+    uncertainty_avoidance: 83.42
+    long_term_orientation: 59.45
+    indulgence: 53.3
+  - id: Germany_135
+    power_distance: 71.15
+    individualism: 93.56
+    masculinity: 91.65
+    uncertainty_avoidance: 40.83
+    long_term_orientation: 45.13
+    indulgence: 27.98
+  - id: Germany_136
+    power_distance: 0.0
+    individualism: 80.18
+    masculinity: 88.28
+    uncertainty_avoidance: 56.43
+    long_term_orientation: 60.13
+    indulgence: 26.34
+  - id: Germany_137
+    power_distance: 27.13
+    individualism: 83.56
+    masculinity: 46.87
+    uncertainty_avoidance: 83.78
+    long_term_orientation: 26.3
+    indulgence: 45.16
+  - id: Germany_138
+    power_distance: 27.14
+    individualism: 100.0
+    masculinity: 78.19
+    uncertainty_avoidance: 31.65
+    long_term_orientation: 18.24
+    indulgence: 23.98
+  - id: Germany_139
+    power_distance: 26.96
+    individualism: 75.98
+    masculinity: 66.48
+    uncertainty_avoidance: 75.78
+    long_term_orientation: 35.14
+    indulgence: 11.19
+  - id: Germany_140
+    power_distance: 39.04
+    individualism: 73.22
+    masculinity: 64.35
+    uncertainty_avoidance: 54.73
+    long_term_orientation: 54.23
+    indulgence: 63.78
+  - id: Germany_141
+    power_distance: 9.03
+    individualism: 59.39
+    masculinity: 76.27
+    uncertainty_avoidance: 90.08
+    long_term_orientation: 53.71
+    indulgence: 19.8
+  - id: Germany_142
+    power_distance: 2.98
+    individualism: 83.17
+    masculinity: 46.01
+    uncertainty_avoidance: 99.81
+    long_term_orientation: 94.47
+    indulgence: 43.62
+  - id: Germany_143
+    power_distance: 42.77
+    individualism: 77.11
+    masculinity: 84.27
+    uncertainty_avoidance: 64.95
+    long_term_orientation: 58.01
+    indulgence: 61.77
+  - id: Germany_144
+    power_distance: 45.02
+    individualism: 100.0
+    masculinity: 39.81
+    uncertainty_avoidance: 56.11
+    long_term_orientation: 42.54
+    indulgence: 53.47
+  - id: Germany_145
+    power_distance: 27.1
+    individualism: 88.64
+    masculinity: 47.3
+    uncertainty_avoidance: 63.49
+    long_term_orientation: 93.75
+    indulgence: 66.21
+  - id: Germany_146
+    power_distance: 4.94
+    individualism: 84.83
+    masculinity: 79.22
+    uncertainty_avoidance: 57.11
+    long_term_orientation: 39.36
+    indulgence: 50.59
+  - id: Germany_147
+    power_distance: 36.61
+    individualism: 87.84
+    masculinity: 63.47
+    uncertainty_avoidance: 100.0
+    long_term_orientation: 42.38
+    indulgence: 32.06
+  - id: Germany_148
+    power_distance: 43.24
+    individualism: 90.71
+    masculinity: 43.94
+    uncertainty_avoidance: 85.76
+    long_term_orientation: 33.67
+    indulgence: 40.1
+  - id: Germany_149
+    power_distance: 30.09
+    individualism: 67.68
+    masculinity: 84.13
+    uncertainty_avoidance: 27.45
+    long_term_orientation: 45.31
+    indulgence: 25.56
+  - id: Germany_150
+    power_distance: 49.0
+    individualism: 100.0
+    masculinity: 78.41
+    uncertainty_avoidance: 87.32
+    long_term_orientation: 21.41
+    indulgence: 42.62
+  - id: Germany_151
+    power_distance: 12.87
+    individualism: 73.0
+    masculinity: 69.91
+    uncertainty_avoidance: 66.51
+    long_term_orientation: 79.01
+    indulgence: 8.34
+  - id: Germany_152
+    power_distance: 21.63
+    individualism: 55.31
+    masculinity: 39.78
+    uncertainty_avoidance: 81.09
+    long_term_orientation: 59.92
+    indulgence: 64.91
+  - id: Germany_153
+    power_distance: 53.96
+    individualism: 80.09
+    masculinity: 50.49
+    uncertainty_avoidance: 80.87
+    long_term_orientation: 45.93
+    indulgence: 20.81
+  - id: Germany_154
+    power_distance: 16.59
+    individualism: 80.95
+    masculinity: 86.25
+    uncertainty_avoidance: 65.84
+    long_term_orientation: 76.59
+    indulgence: 41.46
+  - id: Germany_155
+    power_distance: 28.18
+    individualism: 100.0
+    masculinity: 95.14
+    uncertainty_avoidance: 68.15
+    long_term_orientation: 43.68
+    indulgence: 14.26
+  - id: Germany_156
+    power_distance: 41.42
+    individualism: 74.91
+    masculinity: 73.47
+    uncertainty_avoidance: 70.17
+    long_term_orientation: 63.98
+    indulgence: 58.28
+  - id: Germany_157
+    power_distance: 40.03
+    individualism: 67.42
+    masculinity: 53.67
+    uncertainty_avoidance: 74.33
+    long_term_orientation: 39.85
+    indulgence: 51.49
+  - id: Germany_158
+    power_distance: 46.43
+    individualism: 78.3
+    masculinity: 53.5
+    uncertainty_avoidance: 36.58
+    long_term_orientation: 39.02
+    indulgence: 13.99
+  - id: Germany_159
+    power_distance: 35.43
+    individualism: 71.92
+    masculinity: 51.27
+    uncertainty_avoidance: 78.96
+    long_term_orientation: 59.07
+    indulgence: 40.76
+  - id: Germany_160
+    power_distance: 43.93
+    individualism: 95.58
+    masculinity: 40.35
+    uncertainty_avoidance: 76.31
+    long_term_orientation: 28.06
+    indulgence: 27.29
+  - id: Germany_161
+    power_distance: 51.19
+    individualism: 90.06
+    masculinity: 76.64
+    uncertainty_avoidance: 67.91
+    long_term_orientation: 79.61
+    indulgence: 15.35
+  - id: Germany_162
+    power_distance: 30.12
+    individualism: 79.76
+    masculinity: 98.56
+    uncertainty_avoidance: 81.42
+    long_term_orientation: 73.61
+    indulgence: 27.82
+  - id: Germany_163
+    power_distance: 70.99
+    individualism: 86.55
+    masculinity: 49.91
+    uncertainty_avoidance: 100.0
+    long_term_orientation: 34.17
+    indulgence: 26.1
+  - id: Germany_164
+    power_distance: 31.26
+    individualism: 63.31
+    masculinity: 74.44
+    uncertainty_avoidance: 69.43
+    long_term_orientation: 58.82
+    indulgence: 70.3
+  - id: Germany_165
+    power_distance: 8.86
+    individualism: 100.0
+    masculinity: 52.81
+    uncertainty_avoidance: 88.39
+    long_term_orientation: 87.48
+    indulgence: 76.82
+  - id: Germany_166
+    power_distance: 31.95
+    individualism: 60.39
+    masculinity: 71.25
+    uncertainty_avoidance: 64.15
+    long_term_orientation: 28.79
+    indulgence: 51.77
+  - id: Germany_167
+    power_distance: 20.24
+    individualism: 100.0
+    masculinity: 81.44
+    uncertainty_avoidance: 60.5
+    long_term_orientation: 57.58
+    indulgence: 36.12
+  - id: Germany_168
+    power_distance: 27.68
+    individualism: 100.0
+    masculinity: 51.02
+    uncertainty_avoidance: 65.89
+    long_term_orientation: 72.86
+    indulgence: 33.85
+  - id: Germany_169
+    power_distance: 24.94
+    individualism: 57.73
+    masculinity: 85.07
+    uncertainty_avoidance: 76.39
+    long_term_orientation: 64.52
+    indulgence: 15.86
+  - id: Germany_170
+    power_distance: 43.06
+    individualism: 83.56
+    masculinity: 60.59
+    uncertainty_avoidance: 42.97
+    long_term_orientation: 56.09
+    indulgence: 26.07
+  - id: Germany_171
+    power_distance: 36.28
+    individualism: 80.01
+    masculinity: 60.59
+    uncertainty_avoidance: 79.11
+    long_term_orientation: 55.94
+    indulgence: 48.47
+  - id: Germany_172
+    power_distance: 41.69
+    individualism: 95.13
+    masculinity: 50.58
+    uncertainty_avoidance: 59.48
+    long_term_orientation: 71.75
+    indulgence: 42.46
+  - id: Germany_173
+    power_distance: 53.01
+    individualism: 90.92
+    masculinity: 58.89
+    uncertainty_avoidance: 79.09
+    long_term_orientation: 52.88
+    indulgence: 55.31
+  - id: Germany_174
+    power_distance: 64.66
+    individualism: 96.47
+    masculinity: 100.0
+    uncertainty_avoidance: 40.17
+    long_term_orientation: 48.23
+    indulgence: 35.74
+  - id: Germany_175
+    power_distance: 28.6
+    individualism: 84.96
+    masculinity: 60.11
+    uncertainty_avoidance: 82.7
+    long_term_orientation: 72.76
+    indulgence: 46.62
+  - id: Germany_176
+    power_distance: 18.8
+    individualism: 87.76
+    masculinity: 76.79
+    uncertainty_avoidance: 70.66
+    long_term_orientation: 57.48
+    indulgence: 62.41
+  - id: Germany_177
+    power_distance: 26.23
+    individualism: 73.13
+    masculinity: 76.67
+    uncertainty_avoidance: 73.49
+    long_term_orientation: 70.64
+    indulgence: 35.46
+  - id: Germany_178
+    power_distance: 13.96
+    individualism: 59.2
+    masculinity: 59.08
+    uncertainty_avoidance: 77.68
+    long_term_orientation: 69.68
+    indulgence: 10.95
+  - id: Germany_179
+    power_distance: 43.54
+    individualism: 77.6
+    masculinity: 49.33
+    uncertainty_avoidance: 100.0
+    long_term_orientation: 61.22
+    indulgence: 53.24
+  - id: Germany_180
+    power_distance: 76.08
+    individualism: 69.7
+    masculinity: 59.65
+    uncertainty_avoidance: 88.82
+    long_term_orientation: 36.08
+    indulgence: 41.18
+  - id: Germany_181
+    power_distance: 35.74
+    individualism: 94.52
+    masculinity: 72.49
+    uncertainty_avoidance: 50.39
+    long_term_orientation: 72.56
+    indulgence: 53.52
+  - id: Germany_182
+    power_distance: 18.18
+    individualism: 68.0
+    masculinity: 57.59
+    uncertainty_avoidance: 46.61
+    long_term_orientation: 74.03
+    indulgence: 34.82
+  - id: Germany_183
+    power_distance: 30.55
+    individualism: 62.4
+    masculinity: 59.69
+    uncertainty_avoidance: 88.76
+    long_term_orientation: 68.97
+    indulgence: 14.12
+  - id: Germany_184
+    power_distance: 19.16
+    individualism: 89.17
+    masculinity: 58.03
+    uncertainty_avoidance: 56.15
+    long_term_orientation: 43.23
+    indulgence: 18.7
+  - id: Germany_185
+    power_distance: 36.52
+    individualism: 72.92
+    masculinity: 84.25
+    uncertainty_avoidance: 63.93
+    long_term_orientation: 41.56
+    indulgence: 51.1
+  - id: Germany_186
+    power_distance: 56.54
+    individualism: 67.23
+    masculinity: 38.76
+    uncertainty_avoidance: 57.34
+    long_term_orientation: 35.4
+    indulgence: 66.27
+  - id: Germany_187
+    power_distance: 12.8
+    individualism: 73.76
+    masculinity: 89.58
+    uncertainty_avoidance: 78.94
+    long_term_orientation: 48.78
+    indulgence: 27.47
+  - id: Germany_188
+    power_distance: 32.1
+    individualism: 75.16
+    masculinity: 89.94
+    uncertainty_avoidance: 62.53
+    long_term_orientation: 35.4
+    indulgence: 55.77
+  - id: Germany_189
+    power_distance: 51.58
+    individualism: 75.37
+    masculinity: 78.35
+    uncertainty_avoidance: 65.82
+    long_term_orientation: 37.69
+    indulgence: 38.7
+  - id: Germany_190
+    power_distance: 16.69
+    individualism: 68.85
+    masculinity: 50.98
+    uncertainty_avoidance: 70.33
+    long_term_orientation: 59.98
+    indulgence: 18.89
+  - id: Germany_191
+    power_distance: 20.28
+    individualism: 78.96
+    masculinity: 73.43
+    uncertainty_avoidance: 66.16
+    long_term_orientation: 21.69
+    indulgence: 60.59
+  - id: Germany_192
+    power_distance: 63.36
+    individualism: 100.0
+    masculinity: 74.71
+    uncertainty_avoidance: 75.75
+    long_term_orientation: 46.53
+    indulgence: 43.02
+  - id: Germany_193
+    power_distance: 16.91
+    individualism: 80.95
+    masculinity: 43.12
+    uncertainty_avoidance: 74.36
+    long_term_orientation: 51.33
+    indulgence: 52.27
+  - id: Germany_194
+    power_distance: 37.92
+    individualism: 71.65
+    masculinity: 79.49
+    uncertainty_avoidance: 46.23
+    long_term_orientation: 52.76
+    indulgence: 31.4
+  - id: Germany_195
+    power_distance: 46.9
+    individualism: 77.79
+    masculinity: 70.32
+    uncertainty_avoidance: 73.41
+    long_term_orientation: 19.46
+    indulgence: 25.18
+  - id: Germany_196
+    power_distance: 36.85
+    individualism: 95.2
+    masculinity: 75.16
+    uncertainty_avoidance: 85.97
+    long_term_orientation: 53.45
+    indulgence: 41.61
+  - id: Germany_197
+    power_distance: 27.0
+    individualism: 72.03
+    masculinity: 52.71
+    uncertainty_avoidance: 56.31
+    long_term_orientation: 53.95
+    indulgence: 29.58
+  - id: Germany_198
+    power_distance: 35.43
+    individualism: 49.9
+    masculinity: 72.85
+    uncertainty_avoidance: 67.84
+    long_term_orientation: 64.14
+    indulgence: 32.58
+  - id: Germany_199
+    power_distance: 26.87
+    individualism: 94.72
+    masculinity: 63.53
+    uncertainty_avoidance: 96.78
+    long_term_orientation: 34.5
+    indulgence: 36.04
+  - id: Germany_200
+    power_distance: 16.96
+    individualism: 66.41
+    masculinity: 53.36
+    uncertainty_avoidance: 57.31
+    long_term_orientation: 69.53
+    indulgence: 21.7
+  Hong Kong:
+  - id: HongKong_001
+    power_distance: 77.76
+    individualism: 26.95
+    masculinity: 50.51
+    uncertainty_avoidance: 50.12
+    long_term_orientation: 100.0
+    indulgence: 21.36
+  - id: HongKong_002
+    power_distance: 78.08
+    individualism: 59.22
+    masculinity: 67.05
+    uncertainty_avoidance: 51.46
+    long_term_orientation: 76.38
+    indulgence: 15.87
+  - id: HongKong_003
+    power_distance: 78.2
+    individualism: 61.99
+    masculinity: 65.93
+    uncertainty_avoidance: 49.9
+    long_term_orientation: 84.98
+    indulgence: 0.0
+  - id: HongKong_004
+    power_distance: 88.36
+    individualism: 49.99
+    masculinity: 48.22
+    uncertainty_avoidance: 29.57
+    long_term_orientation: 86.08
+    indulgence: 33.1
+  - id: HongKong_005
+    power_distance: 82.24
+    individualism: 54.99
+    masculinity: 65.65
+    uncertainty_avoidance: 29.52
+    long_term_orientation: 100.0
+    indulgence: 0.0
+  - id: HongKong_006
+    power_distance: 49.31
+    individualism: 49.36
+    masculinity: 50.38
+    uncertainty_avoidance: 13.79
+    long_term_orientation: 100.0
+    indulgence: 1.35
+  - id: HongKong_007
+    power_distance: 71.48
+    individualism: 51.99
+    masculinity: 57.92
+    uncertainty_avoidance: 15.73
+    long_term_orientation: 89.91
+    indulgence: 36.63
+  - id: HongKong_008
+    power_distance: 76.7
+    individualism: 65.41
+    masculinity: 55.72
+    uncertainty_avoidance: 1.76
+    long_term_orientation: 85.54
+    indulgence: 14.59
+  - id: HongKong_009
+    power_distance: 88.82
+    individualism: 68.18
+    masculinity: 63.8
+    uncertainty_avoidance: 15.3
+    long_term_orientation: 95.06
+    indulgence: 12.81
+  - id: HongKong_010
+    power_distance: 64.1
+    individualism: 30.26
+    masculinity: 64.42
+    uncertainty_avoidance: 28.52
+    long_term_orientation: 100.0
+    indulgence: 0.0
+  - id: HongKong_011
+    power_distance: 49.97
+    individualism: 100.0
+    masculinity: 42.92
+    uncertainty_avoidance: 33.6
+    long_term_orientation: 100.0
+    indulgence: 1.29
+  - id: HongKong_012
+    power_distance: 95.64
+    individualism: 48.95
+    masculinity: 59.39
+    uncertainty_avoidance: 58.09
+    long_term_orientation: 80.34
+    indulgence: 9.2
+  - id: HongKong_013
+    power_distance: 62.47
+    individualism: 28.04
+    masculinity: 61.41
+    uncertainty_avoidance: 36.57
+    long_term_orientation: 95.93
+    indulgence: 27.49
+  - id: HongKong_014
+    power_distance: 81.85
+    individualism: 55.42
+    masculinity: 53.14
+    uncertainty_avoidance: 48.53
+    long_term_orientation: 81.85
+    indulgence: 39.34
+  - id: HongKong_015
+    power_distance: 64.91
+    individualism: 62.24
+    masculinity: 86.22
+    uncertainty_avoidance: 0.0
+    long_term_orientation: 89.92
+    indulgence: 10.54
+  - id: HongKong_016
+    power_distance: 95.32
+    individualism: 43.49
+    masculinity: 100.0
+    uncertainty_avoidance: 4.55
+    long_term_orientation: 98.59
+    indulgence: 10.82
+  - id: HongKong_017
+    power_distance: 76.08
+    individualism: 40.96
+    masculinity: 49.78
+    uncertainty_avoidance: 0.0
+    long_term_orientation: 94.73
+    indulgence: 0.0
+  - id: HongKong_018
+    power_distance: 47.05
+    individualism: 51.39
+    masculinity: 55.06
+    uncertainty_avoidance: 45.43
+    long_term_orientation: 71.35
+    indulgence: 23.74
+  - id: HongKong_019
+    power_distance: 73.16
+    individualism: 45.16
+    masculinity: 44.14
+    uncertainty_avoidance: 27.73
+    long_term_orientation: 100.0
+    indulgence: 11.02
+  - id: HongKong_020
+    power_distance: 81.56
+    individualism: 45.62
+    masculinity: 84.6
+    uncertainty_avoidance: 29.43
+    long_term_orientation: 90.19
+    indulgence: 0.0
+  - id: HongKong_021
+    power_distance: 45.17
+    individualism: 56.1
+    masculinity: 53.36
+    uncertainty_avoidance: 33.5
+    long_term_orientation: 82.05
+    indulgence: 14.59
+  - id: HongKong_022
+    power_distance: 58.02
+    individualism: 54.72
+    masculinity: 53.51
+    uncertainty_avoidance: 58.83
+    long_term_orientation: 81.99
+    indulgence: 34.9
+  - id: HongKong_023
+    power_distance: 51.13
+    individualism: 42.55
+    masculinity: 43.54
+    uncertainty_avoidance: 49.15
+    long_term_orientation: 99.99
+    indulgence: 19.19
+  - id: HongKong_024
+    power_distance: 71.75
+    individualism: 32.65
+    masculinity: 79.45
+    uncertainty_avoidance: 51.23
+    long_term_orientation: 92.45
+    indulgence: 17.21
+  - id: HongKong_025
+    power_distance: 78.39
+    individualism: 47.2
+    masculinity: 53.8
+    uncertainty_avoidance: 21.12
+    long_term_orientation: 87.47
+    indulgence: 9.38
+  - id: HongKong_026
+    power_distance: 79.68
+    individualism: 44.75
+    masculinity: 50.15
+    uncertainty_avoidance: 18.97
+    long_term_orientation: 69.01
+    indulgence: 41.96
+  - id: HongKong_027
+    power_distance: 76.14
+    individualism: 63.86
+    masculinity: 48.52
+    uncertainty_avoidance: 52.32
+    long_term_orientation: 95.32
+    indulgence: 40.24
+  - id: HongKong_028
+    power_distance: 67.79
+    individualism: 49.29
+    masculinity: 48.55
+    uncertainty_avoidance: 30.24
+    long_term_orientation: 96.6
+    indulgence: 40.88
+  - id: HongKong_029
+    power_distance: 92.64
+    individualism: 51.44
+    masculinity: 76.5
+    uncertainty_avoidance: 0.0
+    long_term_orientation: 85.48
+    indulgence: 21.0
+  - id: HongKong_030
+    power_distance: 82.19
+    individualism: 56.77
+    masculinity: 56.1
+    uncertainty_avoidance: 21.62
+    long_term_orientation: 80.2
+    indulgence: 47.43
+  - id: HongKong_031
+    power_distance: 85.96
+    individualism: 70.92
+    masculinity: 57.17
+    uncertainty_avoidance: 20.45
+    long_term_orientation: 100.0
+    indulgence: 16.61
+  - id: HongKong_032
+    power_distance: 65.95
+    individualism: 49.6
+    masculinity: 46.87
+    uncertainty_avoidance: 15.06
+    long_term_orientation: 89.12
+    indulgence: 0.0
+  - id: HongKong_033
+    power_distance: 77.57
+    individualism: 63.42
+    masculinity: 44.69
+    uncertainty_avoidance: 0.0
+    long_term_orientation: 99.3
+    indulgence: 20.81
+  - id: HongKong_034
+    power_distance: 68.33
+    individualism: 28.65
+    masculinity: 26.32
+    uncertainty_avoidance: 56.38
+    long_term_orientation: 89.54
+    indulgence: 25.07
+  - id: HongKong_035
+    power_distance: 66.87
+    individualism: 56.62
+    masculinity: 36.55
+    uncertainty_avoidance: 21.87
+    long_term_orientation: 71.31
+    indulgence: 0.0
+  - id: HongKong_036
+    power_distance: 56.66
+    individualism: 21.1
+    masculinity: 49.62
+    uncertainty_avoidance: 17.63
+    long_term_orientation: 74.02
+    indulgence: 14.87
+  - id: HongKong_037
+    power_distance: 67.82
+    individualism: 36.61
+    masculinity: 89.19
+    uncertainty_avoidance: 40.49
+    long_term_orientation: 100.0
+    indulgence: 11.75
+  - id: HongKong_038
+    power_distance: 82.3
+    individualism: 62.25
+    masculinity: 40.7
+    uncertainty_avoidance: 18.08
+    long_term_orientation: 100.0
+    indulgence: 10.42
+  - id: HongKong_039
+    power_distance: 75.79
+    individualism: 46.57
+    masculinity: 70.3
+    uncertainty_avoidance: 13.09
+    long_term_orientation: 76.92
+    indulgence: 35.15
+  - id: HongKong_040
+    power_distance: 71.18
+    individualism: 10.36
+    masculinity: 57.37
+    uncertainty_avoidance: 26.09
+    long_term_orientation: 100.0
+    indulgence: 22.14
+  - id: HongKong_041
+    power_distance: 73.48
+    individualism: 51.4
+    masculinity: 61.65
+    uncertainty_avoidance: 10.56
+    long_term_orientation: 79.96
+    indulgence: 3.36
+  - id: HongKong_042
+    power_distance: 46.54
+    individualism: 62.61
+    masculinity: 74.24
+    uncertainty_avoidance: 38.82
+    long_term_orientation: 83.38
+    indulgence: 8.41
+  - id: HongKong_043
+    power_distance: 60.96
+    individualism: 67.81
+    masculinity: 65.43
+    uncertainty_avoidance: 56.82
+    long_term_orientation: 77.49
+    indulgence: 13.39
+  - id: HongKong_044
+    power_distance: 47.83
+    individualism: 27.32
+    masculinity: 54.52
+    uncertainty_avoidance: 23.63
+    long_term_orientation: 84.79
+    indulgence: 0.0
+  - id: HongKong_045
+    power_distance: 71.15
+    individualism: 45.46
+    masculinity: 71.64
+    uncertainty_avoidance: 37.81
+    long_term_orientation: 72.01
+    indulgence: 23.33
+  - id: HongKong_046
+    power_distance: 58.42
+    individualism: 74.52
+    masculinity: 56.53
+    uncertainty_avoidance: 20.94
+    long_term_orientation: 86.5
+    indulgence: 0.0
+  - id: HongKong_047
+    power_distance: 88.39
+    individualism: 83.91
+    masculinity: 29.32
+    uncertainty_avoidance: 24.97
+    long_term_orientation: 91.23
+    indulgence: 7.49
+  - id: HongKong_048
+    power_distance: 87.48
+    individualism: 69.96
+    masculinity: 53.07
+    uncertainty_avoidance: 62.14
+    long_term_orientation: 93.52
+    indulgence: 13.13
+  - id: HongKong_049
+    power_distance: 72.48
+    individualism: 38.06
+    masculinity: 80.25
+    uncertainty_avoidance: 38.87
+    long_term_orientation: 87.32
+    indulgence: 14.03
+  - id: HongKong_050
+    power_distance: 53.48
+    individualism: 54.2
+    masculinity: 36.3
+    uncertainty_avoidance: 29.05
+    long_term_orientation: 84.72
+    indulgence: 26.07
+  - id: HongKong_051
+    power_distance: 84.68
+    individualism: 62.59
+    masculinity: 55.04
+    uncertainty_avoidance: 17.65
+    long_term_orientation: 88.21
+    indulgence: 16.73
+  - id: HongKong_052
+    power_distance: 75.81
+    individualism: 40.91
+    masculinity: 41.52
+    uncertainty_avoidance: 31.77
+    long_term_orientation: 100.0
+    indulgence: 46.96
+  - id: HongKong_053
+    power_distance: 80.69
+    individualism: 34.16
+    masculinity: 79.54
+    uncertainty_avoidance: 15.47
+    long_term_orientation: 80.67
+    indulgence: 23.84
+  - id: HongKong_054
+    power_distance: 45.91
+    individualism: 62.83
+    masculinity: 56.14
+    uncertainty_avoidance: 35.39
+    long_term_orientation: 79.83
+    indulgence: 30.54
+  - id: HongKong_055
+    power_distance: 76.21
+    individualism: 44.19
+    masculinity: 72.12
+    uncertainty_avoidance: 0.0
+    long_term_orientation: 98.8
+    indulgence: 15.28
+  - id: HongKong_056
+    power_distance: 55.28
+    individualism: 52.84
+    masculinity: 65.0
+    uncertainty_avoidance: 17.21
+    long_term_orientation: 91.09
+    indulgence: 16.34
+  - id: HongKong_057
+    power_distance: 74.29
+    individualism: 69.63
+    masculinity: 49.58
+    uncertainty_avoidance: 50.07
+    long_term_orientation: 72.13
+    indulgence: 21.81
+  - id: HongKong_058
+    power_distance: 40.49
+    individualism: 51.15
+    masculinity: 68.56
+    uncertainty_avoidance: 61.37
+    long_term_orientation: 93.79
+    indulgence: 5.03
+  - id: HongKong_059
+    power_distance: 84.42
+    individualism: 50.66
+    masculinity: 58.57
+    uncertainty_avoidance: 43.67
+    long_term_orientation: 100.0
+    indulgence: 0.0
+  - id: HongKong_060
+    power_distance: 68.82
+    individualism: 49.74
+    masculinity: 39.89
+    uncertainty_avoidance: 3.02
+    long_term_orientation: 91.93
+    indulgence: 9.58
+  - id: HongKong_061
+    power_distance: 56.4
+    individualism: 47.8
+    masculinity: 51.38
+    uncertainty_avoidance: 29.28
+    long_term_orientation: 100.0
+    indulgence: 16.52
+  - id: HongKong_062
+    power_distance: 98.09
+    individualism: 69.91
+    masculinity: 72.48
+    uncertainty_avoidance: 17.34
+    long_term_orientation: 88.31
+    indulgence: 2.28
+  - id: HongKong_063
+    power_distance: 74.65
+    individualism: 48.93
+    masculinity: 64.07
+    uncertainty_avoidance: 33.84
+    long_term_orientation: 95.69
+    indulgence: 11.29
+  - id: HongKong_064
+    power_distance: 52.43
+    individualism: 42.93
+    masculinity: 68.47
+    uncertainty_avoidance: 26.38
+    long_term_orientation: 92.04
+    indulgence: 30.88
+  - id: HongKong_065
+    power_distance: 75.8
+    individualism: 26.4
+    masculinity: 55.71
+    uncertainty_avoidance: 15.06
+    long_term_orientation: 92.13
+    indulgence: 23.24
+  - id: HongKong_066
+    power_distance: 76.15
+    individualism: 76.62
+    masculinity: 48.99
+    uncertainty_avoidance: 24.28
+    long_term_orientation: 100.0
+    indulgence: 32.39
+  - id: HongKong_067
+    power_distance: 51.5
+    individualism: 60.99
+    masculinity: 67.65
+    uncertainty_avoidance: 26.59
+    long_term_orientation: 88.5
+    indulgence: 28.72
+  - id: HongKong_068
+    power_distance: 74.83
+    individualism: 56.41
+    masculinity: 45.29
+    uncertainty_avoidance: 1.44
+    long_term_orientation: 91.5
+    indulgence: 12.66
+  - id: HongKong_069
+    power_distance: 75.33
+    individualism: 37.77
+    masculinity: 67.16
+    uncertainty_avoidance: 35.55
+    long_term_orientation: 81.16
+    indulgence: 32.12
+  - id: HongKong_070
+    power_distance: 62.51
+    individualism: 38.86
+    masculinity: 61.01
+    uncertainty_avoidance: 28.76
+    long_term_orientation: 78.52
+    indulgence: 26.92
+  - id: HongKong_071
+    power_distance: 67.85
+    individualism: 37.87
+    masculinity: 28.94
+    uncertainty_avoidance: 35.82
+    long_term_orientation: 94.58
+    indulgence: 18.91
+  - id: HongKong_072
+    power_distance: 90.03
+    individualism: 10.15
+    masculinity: 77.31
+    uncertainty_avoidance: 50.82
+    long_term_orientation: 77.32
+    indulgence: 33.23
+  - id: HongKong_073
+    power_distance: 55.01
+    individualism: 33.32
+    masculinity: 55.38
+    uncertainty_avoidance: 58.24
+    long_term_orientation: 98.79
+    indulgence: 17.8
+  - id: HongKong_074
+    power_distance: 82.17
+    individualism: 40.04
+    masculinity: 80.96
+    uncertainty_avoidance: 54.13
+    long_term_orientation: 99.87
+    indulgence: 4.39
+  - id: HongKong_075
+    power_distance: 85.15
+    individualism: 54.72
+    masculinity: 67.3
+    uncertainty_avoidance: 47.19
+    long_term_orientation: 99.98
+    indulgence: 2.56
+  - id: HongKong_076
+    power_distance: 91.85
+    individualism: 54.47
+    masculinity: 62.19
+    uncertainty_avoidance: 38.84
+    long_term_orientation: 97.99
+    indulgence: 28.97
+  - id: HongKong_077
+    power_distance: 71.16
+    individualism: 47.16
+    masculinity: 48.2
+    uncertainty_avoidance: 20.82
+    long_term_orientation: 88.39
+    indulgence: 32.83
+  - id: HongKong_078
+    power_distance: 62.61
+    individualism: 48.22
+    masculinity: 55.38
+    uncertainty_avoidance: 37.54
+    long_term_orientation: 100.0
+    indulgence: 48.59
+  - id: HongKong_079
+    power_distance: 45.71
+    individualism: 46.35
+    masculinity: 66.17
+    uncertainty_avoidance: 2.04
+    long_term_orientation: 100.0
+    indulgence: 15.14
+  - id: HongKong_080
+    power_distance: 55.3
+    individualism: 65.53
+    masculinity: 21.83
+    uncertainty_avoidance: 32.4
+    long_term_orientation: 77.14
+    indulgence: 16.76
+  - id: HongKong_081
+    power_distance: 73.98
+    individualism: 62.68
+    masculinity: 63.58
+    uncertainty_avoidance: 62.38
+    long_term_orientation: 93.99
+    indulgence: 11.53
+  - id: HongKong_082
+    power_distance: 87.62
+    individualism: 48.96
+    masculinity: 63.69
+    uncertainty_avoidance: 0.0
+    long_term_orientation: 100.0
+    indulgence: 15.8
+  - id: HongKong_083
+    power_distance: 61.04
+    individualism: 39.5
+    masculinity: 71.45
+    uncertainty_avoidance: 0.0
+    long_term_orientation: 100.0
+    indulgence: 35.47
+  - id: HongKong_084
+    power_distance: 73.92
+    individualism: 80.41
+    masculinity: 61.39
+    uncertainty_avoidance: 14.68
+    long_term_orientation: 100.0
+    indulgence: 0.0
+  - id: HongKong_085
+    power_distance: 77.6
+    individualism: 69.17
+    masculinity: 65.56
+    uncertainty_avoidance: 5.78
+    long_term_orientation: 96.28
+    indulgence: 15.03
+  - id: HongKong_086
+    power_distance: 56.12
+    individualism: 13.01
+    masculinity: 38.03
+    uncertainty_avoidance: 20.99
+    long_term_orientation: 100.0
+    indulgence: 61.05
+  - id: HongKong_087
+    power_distance: 81.71
+    individualism: 37.39
+    masculinity: 50.26
+    uncertainty_avoidance: 46.31
+    long_term_orientation: 100.0
+    indulgence: 23.25
+  - id: HongKong_088
+    power_distance: 71.81
+    individualism: 69.19
+    masculinity: 92.78
+    uncertainty_avoidance: 29.15
+    long_term_orientation: 95.54
+    indulgence: 25.07
+  - id: HongKong_089
+    power_distance: 60.61
+    individualism: 14.92
+    masculinity: 64.9
+    uncertainty_avoidance: 17.26
+    long_term_orientation: 100.0
+    indulgence: 19.92
+  - id: HongKong_090
+    power_distance: 91.96
+    individualism: 36.28
+    masculinity: 75.1
+    uncertainty_avoidance: 2.89
+    long_term_orientation: 100.0
+    indulgence: 13.2
+  - id: HongKong_091
+    power_distance: 83.0
+    individualism: 44.27
+    masculinity: 67.92
+    uncertainty_avoidance: 37.04
+    long_term_orientation: 99.13
+    indulgence: 24.08
+  - id: HongKong_092
+    power_distance: 94.89
+    individualism: 41.02
+    masculinity: 79.45
+    uncertainty_avoidance: 23.33
+    long_term_orientation: 100.0
+    indulgence: 54.44
+  - id: HongKong_093
+    power_distance: 55.23
+    individualism: 15.5
+    masculinity: 59.62
+    uncertainty_avoidance: 17.93
+    long_term_orientation: 84.58
+    indulgence: 11.73
+  - id: HongKong_094
+    power_distance: 59.46
+    individualism: 72.9
+    masculinity: 75.01
+    uncertainty_avoidance: 47.55
+    long_term_orientation: 100.0
+    indulgence: 4.67
+  - id: HongKong_095
+    power_distance: 28.05
+    individualism: 82.38
+    masculinity: 61.01
+    uncertainty_avoidance: 28.11
+    long_term_orientation: 64.15
+    indulgence: 0.0
+  - id: HongKong_096
+    power_distance: 79.07
+    individualism: 47.71
+    masculinity: 22.55
+    uncertainty_avoidance: 13.95
+    long_term_orientation: 100.0
+    indulgence: 37.46
+  - id: HongKong_097
+    power_distance: 71.43
+    individualism: 95.34
+    masculinity: 73.43
+    uncertainty_avoidance: 57.96
+    long_term_orientation: 100.0
+    indulgence: 30.3
+  - id: HongKong_098
+    power_distance: 46.57
+    individualism: 24.39
+    masculinity: 45.14
+    uncertainty_avoidance: 33.13
+    long_term_orientation: 93.02
+    indulgence: 23.0
+  - id: HongKong_099
+    power_distance: 67.68
+    individualism: 57.64
+    masculinity: 72.8
+    uncertainty_avoidance: 29.13
+    long_term_orientation: 88.39
+    indulgence: 0.0
+  - id: HongKong_100
+    power_distance: 81.96
+    individualism: 37.63
+    masculinity: 42.45
+    uncertainty_avoidance: 42.88
+    long_term_orientation: 100.0
+    indulgence: 27.88
+  - id: HongKong_101
+    power_distance: 83.25
+    individualism: 32.5
+    masculinity: 53.33
+    uncertainty_avoidance: 20.2
+    long_term_orientation: 100.0
+    indulgence: 30.82
+  - id: HongKong_102
+    power_distance: 64.1
+    individualism: 63.46
+    masculinity: 63.0
+    uncertainty_avoidance: 27.12
+    long_term_orientation: 100.0
+    indulgence: 30.61
+  - id: HongKong_103
+    power_distance: 65.73
+    individualism: 29.99
+    masculinity: 62.67
+    uncertainty_avoidance: 24.78
+    long_term_orientation: 74.67
+    indulgence: 4.71
+  - id: HongKong_104
+    power_distance: 64.01
+    individualism: 50.43
+    masculinity: 65.99
+    uncertainty_avoidance: 25.6
+    long_term_orientation: 100.0
+    indulgence: 11.03
+  - id: HongKong_105
+    power_distance: 76.73
+    individualism: 56.45
+    masculinity: 66.11
+    uncertainty_avoidance: 51.99
+    long_term_orientation: 88.47
+    indulgence: 0.0
+  - id: HongKong_106
+    power_distance: 66.75
+    individualism: 62.95
+    masculinity: 57.4
+    uncertainty_avoidance: 34.09
+    long_term_orientation: 65.44
+    indulgence: 3.65
+  - id: HongKong_107
+    power_distance: 76.62
+    individualism: 62.44
+    masculinity: 44.99
+    uncertainty_avoidance: 34.87
+    long_term_orientation: 81.62
+    indulgence: 0.0
+  - id: HongKong_108
+    power_distance: 69.14
+    individualism: 53.47
+    masculinity: 63.34
+    uncertainty_avoidance: 40.68
+    long_term_orientation: 100.0
+    indulgence: 32.18
+  - id: HongKong_109
+    power_distance: 62.23
+    individualism: 65.04
+    masculinity: 33.52
+    uncertainty_avoidance: 30.61
+    long_term_orientation: 100.0
+    indulgence: 27.87
+  - id: HongKong_110
+    power_distance: 81.25
+    individualism: 80.56
+    masculinity: 45.15
+    uncertainty_avoidance: 41.72
+    long_term_orientation: 91.51
+    indulgence: 34.83
+  - id: HongKong_111
+    power_distance: 69.88
+    individualism: 62.51
+    masculinity: 81.75
+    uncertainty_avoidance: 39.09
+    long_term_orientation: 89.64
+    indulgence: 11.12
+  - id: HongKong_112
+    power_distance: 56.9
+    individualism: 66.61
+    masculinity: 78.0
+    uncertainty_avoidance: 25.09
+    long_term_orientation: 64.05
+    indulgence: 6.86
+  - id: HongKong_113
+    power_distance: 74.94
+    individualism: 34.85
+    masculinity: 25.66
+    uncertainty_avoidance: 21.89
+    long_term_orientation: 60.36
+    indulgence: 22.21
+  - id: HongKong_114
+    power_distance: 61.58
+    individualism: 50.96
+    masculinity: 77.75
+    uncertainty_avoidance: 14.47
+    long_term_orientation: 58.63
+    indulgence: 16.55
+  - id: HongKong_115
+    power_distance: 75.5
+    individualism: 27.13
+    masculinity: 51.1
+    uncertainty_avoidance: 23.44
+    long_term_orientation: 93.45
+    indulgence: 7.15
+  - id: HongKong_116
+    power_distance: 100.0
+    individualism: 45.8
+    masculinity: 59.98
+    uncertainty_avoidance: 21.24
+    long_term_orientation: 50.71
+    indulgence: 39.09
+  - id: HongKong_117
+    power_distance: 17.49
+    individualism: 71.71
+    masculinity: 35.86
+    uncertainty_avoidance: 7.26
+    long_term_orientation: 91.26
+    indulgence: 52.13
+  - id: HongKong_118
+    power_distance: 73.11
+    individualism: 46.94
+    masculinity: 44.72
+    uncertainty_avoidance: 39.41
+    long_term_orientation: 87.08
+    indulgence: 28.42
+  - id: HongKong_119
+    power_distance: 36.58
+    individualism: 58.46
+    masculinity: 62.09
+    uncertainty_avoidance: 7.24
+    long_term_orientation: 76.48
+    indulgence: 14.64
+  - id: HongKong_120
+    power_distance: 60.22
+    individualism: 54.64
+    masculinity: 34.05
+    uncertainty_avoidance: 14.85
+    long_term_orientation: 100.0
+    indulgence: 3.52
+  - id: HongKong_121
+    power_distance: 61.18
+    individualism: 47.17
+    masculinity: 52.54
+    uncertainty_avoidance: 48.31
+    long_term_orientation: 83.85
+    indulgence: 30.68
+  - id: HongKong_122
+    power_distance: 54.31
+    individualism: 62.37
+    masculinity: 53.57
+    uncertainty_avoidance: 26.2
+    long_term_orientation: 91.58
+    indulgence: 25.8
+  - id: HongKong_123
+    power_distance: 48.9
+    individualism: 34.47
+    masculinity: 89.6
+    uncertainty_avoidance: 37.1
+    long_term_orientation: 87.23
+    indulgence: 27.27
+  - id: HongKong_124
+    power_distance: 67.04
+    individualism: 13.98
+    masculinity: 59.58
+    uncertainty_avoidance: 27.05
+    long_term_orientation: 98.59
+    indulgence: 4.6
+  - id: HongKong_125
+    power_distance: 64.47
+    individualism: 68.27
+    masculinity: 54.59
+    uncertainty_avoidance: 22.14
+    long_term_orientation: 98.84
+    indulgence: 10.69
+  - id: HongKong_126
+    power_distance: 85.09
+    individualism: 47.21
+    masculinity: 62.81
+    uncertainty_avoidance: 17.73
+    long_term_orientation: 73.04
+    indulgence: 28.51
+  - id: HongKong_127
+    power_distance: 72.19
+    individualism: 60.2
+    masculinity: 68.79
+    uncertainty_avoidance: 5.49
+    long_term_orientation: 94.92
+    indulgence: 0.0
+  - id: HongKong_128
+    power_distance: 76.31
+    individualism: 32.63
+    masculinity: 64.48
+    uncertainty_avoidance: 40.62
+    long_term_orientation: 84.37
+    indulgence: 16.63
+  - id: HongKong_129
+    power_distance: 87.56
+    individualism: 23.54
+    masculinity: 67.3
+    uncertainty_avoidance: 30.89
+    long_term_orientation: 100.0
+    indulgence: 0.0
+  - id: HongKong_130
+    power_distance: 68.06
+    individualism: 67.67
+    masculinity: 78.75
+    uncertainty_avoidance: 16.69
+    long_term_orientation: 88.53
+    indulgence: 46.46
+  - id: HongKong_131
+    power_distance: 45.28
+    individualism: 49.27
+    masculinity: 59.84
+    uncertainty_avoidance: 31.8
+    long_term_orientation: 78.05
+    indulgence: 32.43
+  - id: HongKong_132
+    power_distance: 82.22
+    individualism: 79.06
+    masculinity: 44.31
+    uncertainty_avoidance: 21.29
+    long_term_orientation: 100.0
+    indulgence: 46.05
+  - id: HongKong_133
+    power_distance: 67.84
+    individualism: 25.55
+    masculinity: 53.54
+    uncertainty_avoidance: 44.44
+    long_term_orientation: 100.0
+    indulgence: 34.81
+  - id: HongKong_134
+    power_distance: 98.8
+    individualism: 43.1
+    masculinity: 42.53
+    uncertainty_avoidance: 9.76
+    long_term_orientation: 91.04
+    indulgence: 33.31
+  - id: HongKong_135
+    power_distance: 95.63
+    individualism: 53.5
+    masculinity: 57.24
+    uncertainty_avoidance: 26.87
+    long_term_orientation: 100.0
+    indulgence: 4.81
+  - id: HongKong_136
+    power_distance: 66.32
+    individualism: 48.76
+    masculinity: 56.57
+    uncertainty_avoidance: 57.93
+    long_term_orientation: 78.73
+    indulgence: 56.28
+  - id: HongKong_137
+    power_distance: 57.52
+    individualism: 36.87
+    masculinity: 46.43
+    uncertainty_avoidance: 39.38
+    long_term_orientation: 92.77
+    indulgence: 34.94
+  - id: HongKong_138
+    power_distance: 54.82
+    individualism: 23.23
+    masculinity: 51.07
+    uncertainty_avoidance: 33.48
+    long_term_orientation: 69.48
+    indulgence: 15.3
+  - id: HongKong_139
+    power_distance: 76.57
+    individualism: 37.09
+    masculinity: 43.82
+    uncertainty_avoidance: 11.48
+    long_term_orientation: 90.7
+    indulgence: 24.3
+  - id: HongKong_140
+    power_distance: 100.0
+    individualism: 68.64
+    masculinity: 36.81
+    uncertainty_avoidance: 4.41
+    long_term_orientation: 91.24
+    indulgence: 42.15
+  - id: HongKong_141
+    power_distance: 78.51
+    individualism: 41.56
+    masculinity: 73.03
+    uncertainty_avoidance: 51.04
+    long_term_orientation: 100.0
+    indulgence: 0.0
+  - id: HongKong_142
+    power_distance: 75.0
+    individualism: 29.5
+    masculinity: 44.11
+    uncertainty_avoidance: 8.54
+    long_term_orientation: 88.81
+    indulgence: 0.0
+  - id: HongKong_143
+    power_distance: 80.4
+    individualism: 49.8
+    masculinity: 43.17
+    uncertainty_avoidance: 36.77
+    long_term_orientation: 100.0
+    indulgence: 22.53
+  - id: HongKong_144
+    power_distance: 58.66
+    individualism: 45.46
+    masculinity: 55.33
+    uncertainty_avoidance: 17.78
+    long_term_orientation: 65.61
+    indulgence: 10.94
+  - id: HongKong_145
+    power_distance: 87.88
+    individualism: 36.76
+    masculinity: 26.11
+    uncertainty_avoidance: 27.58
+    long_term_orientation: 100.0
+    indulgence: 0.0
+  - id: HongKong_146
+    power_distance: 71.04
+    individualism: 56.58
+    masculinity: 65.59
+    uncertainty_avoidance: 37.91
+    long_term_orientation: 100.0
+    indulgence: 0.0
+  - id: HongKong_147
+    power_distance: 77.86
+    individualism: 72.04
+    masculinity: 53.45
+    uncertainty_avoidance: 34.94
+    long_term_orientation: 76.77
+    indulgence: 37.85
+  - id: HongKong_148
+    power_distance: 58.11
+    individualism: 76.39
+    masculinity: 50.92
+    uncertainty_avoidance: 39.84
+    long_term_orientation: 84.47
+    indulgence: 47.04
+  - id: HongKong_149
+    power_distance: 36.45
+    individualism: 55.91
+    masculinity: 23.73
+    uncertainty_avoidance: 9.72
+    long_term_orientation: 100.0
+    indulgence: 31.53
+  - id: HongKong_150
+    power_distance: 35.83
+    individualism: 49.9
+    masculinity: 47.09
+    uncertainty_avoidance: 38.12
+    long_term_orientation: 100.0
+    indulgence: 27.46
+  - id: HongKong_151
+    power_distance: 74.95
+    individualism: 58.13
+    masculinity: 39.52
+    uncertainty_avoidance: 40.22
+    long_term_orientation: 100.0
+    indulgence: 7.2
+  - id: HongKong_152
+    power_distance: 57.72
+    individualism: 73.2
+    masculinity: 60.35
+    uncertainty_avoidance: 10.8
+    long_term_orientation: 86.21
+    indulgence: 9.68
+  - id: HongKong_153
+    power_distance: 66.97
+    individualism: 48.84
+    masculinity: 53.01
+    uncertainty_avoidance: 55.78
+    long_term_orientation: 100.0
+    indulgence: 40.73
+  - id: HongKong_154
+    power_distance: 40.89
+    individualism: 51.78
+    masculinity: 75.8
+    uncertainty_avoidance: 40.61
+    long_term_orientation: 82.13
+    indulgence: 4.9
+  - id: HongKong_155
+    power_distance: 83.36
+    individualism: 46.6
+    masculinity: 67.37
+    uncertainty_avoidance: 31.51
+    long_term_orientation: 91.12
+    indulgence: 18.93
+  - id: HongKong_156
+    power_distance: 54.73
+    individualism: 77.22
+    masculinity: 65.77
+    uncertainty_avoidance: 51.39
+    long_term_orientation: 84.53
+    indulgence: 8.35
+  - id: HongKong_157
+    power_distance: 62.89
+    individualism: 36.21
+    masculinity: 67.85
+    uncertainty_avoidance: 40.4
+    long_term_orientation: 84.79
+    indulgence: 11.89
+  - id: HongKong_158
+    power_distance: 74.03
+    individualism: 37.96
+    masculinity: 50.45
+    uncertainty_avoidance: 53.97
+    long_term_orientation: 81.05
+    indulgence: 8.73
+  - id: HongKong_159
+    power_distance: 100.0
+    individualism: 15.98
+    masculinity: 38.05
+    uncertainty_avoidance: 57.76
+    long_term_orientation: 86.45
+    indulgence: 25.0
+  - id: HongKong_160
+    power_distance: 100.0
+    individualism: 38.53
+    masculinity: 47.54
+    uncertainty_avoidance: 35.57
+    long_term_orientation: 91.79
+    indulgence: 8.6
+  - id: HongKong_161
+    power_distance: 65.87
+    individualism: 28.75
+    masculinity: 64.45
+    uncertainty_avoidance: 42.35
+    long_term_orientation: 90.42
+    indulgence: 13.42
+  - id: HongKong_162
+    power_distance: 76.78
+    individualism: 41.39
+    masculinity: 52.07
+    uncertainty_avoidance: 27.91
+    long_term_orientation: 100.0
+    indulgence: 16.21
+  - id: HongKong_163
+    power_distance: 66.18
+    individualism: 47.37
+    masculinity: 50.86
+    uncertainty_avoidance: 13.56
+    long_term_orientation: 78.29
+    indulgence: 30.77
+  - id: HongKong_164
+    power_distance: 58.89
+    individualism: 51.48
+    masculinity: 49.38
+    uncertainty_avoidance: 7.75
+    long_term_orientation: 85.56
+    indulgence: 39.35
+  - id: HongKong_165
+    power_distance: 61.37
+    individualism: 39.18
+    masculinity: 50.15
+    uncertainty_avoidance: 23.65
+    long_term_orientation: 96.66
+    indulgence: 10.41
+  - id: HongKong_166
+    power_distance: 66.44
+    individualism: 42.15
+    masculinity: 62.72
+    uncertainty_avoidance: 33.98
+    long_term_orientation: 96.39
+    indulgence: 27.13
+  - id: HongKong_167
+    power_distance: 66.41
+    individualism: 69.41
+    masculinity: 64.46
+    uncertainty_avoidance: 52.81
+    long_term_orientation: 91.72
+    indulgence: 21.35
+  - id: HongKong_168
+    power_distance: 57.09
+    individualism: 50.25
+    masculinity: 70.09
+    uncertainty_avoidance: 23.15
+    long_term_orientation: 100.0
+    indulgence: 17.41
+  - id: HongKong_169
+    power_distance: 93.33
+    individualism: 33.22
+    masculinity: 52.57
+    uncertainty_avoidance: 21.06
+    long_term_orientation: 100.0
+    indulgence: 27.27
+  - id: HongKong_170
+    power_distance: 66.78
+    individualism: 42.71
+    masculinity: 56.57
+    uncertainty_avoidance: 40.59
+    long_term_orientation: 100.0
+    indulgence: 16.05
+  - id: HongKong_171
+    power_distance: 60.85
+    individualism: 51.63
+    masculinity: 59.07
+    uncertainty_avoidance: 33.04
+    long_term_orientation: 85.74
+    indulgence: 44.85
+  - id: HongKong_172
+    power_distance: 57.94
+    individualism: 74.2
+    masculinity: 79.3
+    uncertainty_avoidance: 44.15
+    long_term_orientation: 100.0
+    indulgence: 25.89
+  - id: HongKong_173
+    power_distance: 62.93
+    individualism: 41.63
+    masculinity: 46.26
+    uncertainty_avoidance: 42.4
+    long_term_orientation: 69.31
+    indulgence: 0.0
+  - id: HongKong_174
+    power_distance: 92.52
+    individualism: 66.21
+    masculinity: 63.63
+    uncertainty_avoidance: 43.77
+    long_term_orientation: 100.0
+    indulgence: 14.01
+  - id: HongKong_175
+    power_distance: 44.5
+    individualism: 70.53
+    masculinity: 64.14
+    uncertainty_avoidance: 6.98
+    long_term_orientation: 95.28
+    indulgence: 9.5
+  - id: HongKong_176
+    power_distance: 66.15
+    individualism: 44.75
+    masculinity: 65.82
+    uncertainty_avoidance: 25.67
+    long_term_orientation: 74.52
+    indulgence: 27.77
+  - id: HongKong_177
+    power_distance: 75.77
+    individualism: 27.19
+    masculinity: 63.55
+    uncertainty_avoidance: 43.2
+    long_term_orientation: 90.56
+    indulgence: 20.0
+  - id: HongKong_178
+    power_distance: 55.77
+    individualism: 22.0
+    masculinity: 65.35
+    uncertainty_avoidance: 27.59
+    long_term_orientation: 99.87
+    indulgence: 13.24
+  - id: HongKong_179
+    power_distance: 63.83
+    individualism: 52.6
+    masculinity: 55.99
+    uncertainty_avoidance: 42.86
+    long_term_orientation: 86.22
+    indulgence: 0.0
+  - id: HongKong_180
+    power_distance: 70.31
+    individualism: 29.15
+    masculinity: 16.46
+    uncertainty_avoidance: 11.45
+    long_term_orientation: 85.98
+    indulgence: 4.26
+  - id: HongKong_181
+    power_distance: 43.41
+    individualism: 46.41
+    masculinity: 76.46
+    uncertainty_avoidance: 42.27
+    long_term_orientation: 93.13
+    indulgence: 31.74
+  - id: HongKong_182
+    power_distance: 60.95
+    individualism: 35.89
+    masculinity: 67.86
+    uncertainty_avoidance: 11.66
+    long_term_orientation: 98.34
+    indulgence: 16.59
+  - id: HongKong_183
+    power_distance: 62.2
+    individualism: 42.67
+    masculinity: 75.2
+    uncertainty_avoidance: 3.57
+    long_term_orientation: 97.3
+    indulgence: 12.38
+  - id: HongKong_184
+    power_distance: 56.14
+    individualism: 50.62
+    masculinity: 62.05
+    uncertainty_avoidance: 28.04
+    long_term_orientation: 96.92
+    indulgence: 39.64
+  - id: HongKong_185
+    power_distance: 58.39
+    individualism: 56.69
+    masculinity: 29.18
+    uncertainty_avoidance: 36.31
+    long_term_orientation: 63.13
+    indulgence: 27.1
+  - id: HongKong_186
+    power_distance: 60.4
+    individualism: 52.63
+    masculinity: 33.71
+    uncertainty_avoidance: 29.38
+    long_term_orientation: 100.0
+    indulgence: 26.92
+  - id: HongKong_187
+    power_distance: 67.72
+    individualism: 49.9
+    masculinity: 75.33
+    uncertainty_avoidance: 40.78
+    long_term_orientation: 83.0
+    indulgence: 7.72
+  - id: HongKong_188
+    power_distance: 57.12
+    individualism: 49.43
+    masculinity: 38.43
+    uncertainty_avoidance: 0.0
+    long_term_orientation: 89.51
+    indulgence: 21.05
+  - id: HongKong_189
+    power_distance: 70.98
+    individualism: 67.36
+    masculinity: 36.32
+    uncertainty_avoidance: 20.79
+    long_term_orientation: 69.92
+    indulgence: 20.93
+  - id: HongKong_190
+    power_distance: 66.33
+    individualism: 42.31
+    masculinity: 57.66
+    uncertainty_avoidance: 17.69
+    long_term_orientation: 76.65
+    indulgence: 42.29
+  - id: HongKong_191
+    power_distance: 80.97
+    individualism: 47.05
+    masculinity: 32.34
+    uncertainty_avoidance: 25.57
+    long_term_orientation: 100.0
+    indulgence: 19.72
+  - id: HongKong_192
+    power_distance: 84.15
+    individualism: 69.63
+    masculinity: 55.65
+    uncertainty_avoidance: 21.51
+    long_term_orientation: 85.09
+    indulgence: 10.38
+  - id: HongKong_193
+    power_distance: 82.47
+    individualism: 43.21
+    masculinity: 30.11
+    uncertainty_avoidance: 36.44
+    long_term_orientation: 91.42
+    indulgence: 9.52
+  - id: HongKong_194
+    power_distance: 36.58
+    individualism: 68.72
+    masculinity: 68.14
+    uncertainty_avoidance: 10.81
+    long_term_orientation: 95.43
+    indulgence: 0.0
+  - id: HongKong_195
+    power_distance: 46.23
+    individualism: 16.42
+    masculinity: 69.47
+    uncertainty_avoidance: 43.08
+    long_term_orientation: 88.04
+    indulgence: 16.04
+  - id: HongKong_196
+    power_distance: 96.08
+    individualism: 37.91
+    masculinity: 38.04
+    uncertainty_avoidance: 31.04
+    long_term_orientation: 100.0
+    indulgence: 12.25
+  - id: HongKong_197
+    power_distance: 45.18
+    individualism: 37.72
+    masculinity: 67.96
+    uncertainty_avoidance: 40.44
+    long_term_orientation: 66.27
+    indulgence: 0.0
+  - id: HongKong_198
+    power_distance: 52.24
+    individualism: 49.59
+    masculinity: 92.31
+    uncertainty_avoidance: 24.43
+    long_term_orientation: 93.99
+    indulgence: 4.25
+  - id: HongKong_199
+    power_distance: 100.0
+    individualism: 40.37
+    masculinity: 48.81
+    uncertainty_avoidance: 31.5
+    long_term_orientation: 71.81
+    indulgence: 29.94
+  - id: HongKong_200
+    power_distance: 67.87
+    individualism: 36.52
+    masculinity: 47.47
+    uncertainty_avoidance: 0.0
+    long_term_orientation: 84.11
+    indulgence: 0.0

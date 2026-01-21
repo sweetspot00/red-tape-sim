@@ -21,15 +21,19 @@ class Persona:
     education: str = ""
     traits: Set[str] = field(default_factory=set)
     profession: str = ""
-    background: str = ""
     family: str = ""
     political_ideology: str = ""
     political_party: str = ""
     prompt_template: str = (
         "You are {name}. {profile}. React to the event: {event}"
     )
-    metadata: Dict[str, str] = field(default_factory=dict)
     history_attitude: Union[List[Dict[str, str]], List[str], str] = field(default_factory=list)
+    power_distance: float = 0.0
+    individualism: float = 0.0
+    masculinity: float = 0.0
+    uncertainty_avoidance: float = 0.0
+    long_term_orientation: float = 0.0
+    indulgence: float = 0.0
 
     def build_prompt(
         self,
@@ -57,29 +61,22 @@ class Persona:
         def _val(text: str) -> str:
             return text if text else "unspecified"
 
-        profile_parts = [
-            f"Country: {_val(self.country)}",
-            f"Gender: {_val(self.gender)}",
-            f"Age: {_val(self.age)}",
-            f"Education: {_val(self.education)}",
-            f"Traits: {_val(', '.join(sorted(self.traits)) if self.traits else '')}",
-            f"Profession: {_val(self.profession)}",
-            f"Background: {_val(self.background)}",
-            f"Family: {_val(self.family)}",
-            f"Political Ideology: {_val(self.political_ideology)}",
-            f"Political Party: {_val(self.political_party)}",
-            f"History Attitude: {_val(history_text)}",
-        ]
-        profile_text = " | ".join(profile_parts)
-        profile = f"Profile -> {profile_text}. " if profile_text else ""
+        profile_prompt = f"""
+        You are {self.name} from {_val(self.country)}. You are a {_val(self.age)} years old {_val(self.gender)}. You have a {_val(self.education)} degree and work as a {_val(self.profession)}. 
+        Your personality traits include {_val(', '.join(sorted(self.traits)) if self.traits else '')}. You are {_val(self.family)}. Your political ideology is {_val(self.political_ideology)} and you align with {_val(self.political_party)} party.
+        You got some opinions and have some attitudes to your region's policy:  {_val(history_text)}.
+        Culture factor wise, you got a score of {self.power_distance} in power distance, {self.individualism} in individualism, {self.masculinity} in masculinity, {self.uncertainty_avoidance} in uncertainty avoidance, {self.long_term_orientation} in long term orientation, and {self.indulgence} in indulgence.   
+        Larger score denotes stronger tendency in that dimension.
+        """
+
         data = {
             "name": self.name,
-            "profile": profile,
+            "profile": profile_prompt,
             "event": event.serialize(),
             "event_name": event.title,
             "event_description": event.description,
             "event_country": event.country or "",
-            "event_if_red_tape": "yes" if event.if_red_tape else "no",
+            # "event_if_red_tape": "yes" if event.if_red_tape else "no",
             **(context or {}),
         }
         return self.prompt_template.format(**data)
@@ -105,12 +102,17 @@ def load_personas(definitions: Sequence[Dict], country_prompts: Optional[Dict[st
                 education=entry.get("education", ""),
                 traits=set(entry.get("traits", [])),
                 profession=entry.get("profession", ""),
-                background=entry.get("background", ""),
                 family=entry.get("family", ""),
                 political_ideology=entry.get("political_ideology", ""),
                 political_party=entry.get("political_party", ""),
                 prompt_template=prompt_template or Persona.prompt_template,
                 history_attitude=entry.get("history_attitude", []),
+                power_distance=float(entry.get("power_distance", 0.0)),
+                individualism=float(entry.get("individualism", 0.0)),
+                masculinity=float(entry.get("masculinity", 0.0)),
+                uncertainty_avoidance=float(entry.get("uncertainty_avoidance", 0.0)),
+                long_term_orientation=float(entry.get("long_term_orientation", 0.0)),
+                indulgence=float(entry.get("indulgence", 0.0)),
             )
         )
     return personas
@@ -143,11 +145,16 @@ def default_persona(name: str = "Default Agent") -> Persona:
         education="",
         traits=set(),
         profession="",
-        background="",
         family="",
         political_ideology="",
         political_party="",
         history_attitude=[],
+        power_distance=0.0,
+        individualism=0.0,
+        masculinity=0.0,
+        uncertainty_avoidance=0.0,
+        long_term_orientation=0.0,
+        indulgence=0.0,
     )
 
 

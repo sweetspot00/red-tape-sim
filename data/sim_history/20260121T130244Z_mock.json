@@ -1,0 +1,39 @@
+{
+  "id": "20260121T130244Z",
+  "mode": "mock",
+  "saved_at": "20260121T130244Z",
+  "results": [
+    {
+      "event": {
+        "title": "Work Visa Application",
+        "description": "1. Submission: Upload documents online (graduation cert, HKID, Letter of Consent).\n2. Processing: Receive approval and pay the fee online <Time: 2-4 weeks>.\n3. Mainland Permit: Go to the Shenzhen immigration to update the stay permit <Time: 3-7 workdays>.\n4. Activation: Activate the visa through the customs automated gate.\n",
+        "country": "HongKong",
+        "if_red_tape": false,
+        "metadata": {}
+      },
+      "reactions": [],
+      "stats": {
+        "means": {},
+        "totals": {},
+        "counts": {},
+        "num_reactions": 0
+      }
+    },
+    {
+      "event": {
+        "title": "Work Visa Application (Red Tape)",
+        "description": "1. Prerequisite Hurdle: Go back to the hometown government physically to transfer records. <Barrier: Physical Presence Required> <Cost: At least 1 week travel>\n2. The “Stamp” Hunt: Obtain a stamp for the Letter of Consent from the local unit. <Barrier: Hierarchical Approval> <Action: Book appointment> <Cost: 1 full day queuing>\n3. Submission: Upload documents online.\n4. Information Black Hole: Wait for a month with zero status updates. <Barrier: Lack of Transparency> <Cost: High Anxiety>\n5. Forced Inquiry: Email/Call/Visit HK Immigration office because the system shows nothing. <Action: Active Chasing> <Cost: More Effort/Transport>\n6. The “Salami Slicing” Request: Receive email requesting “supplementary materials” that were not listed initially. <Barrier: Hidden Rule/Vague Requirement> <Cost: Wait another 2-4 weeks>\n7. Approval: Get the visa and pay.\n8. Mainland Delay: Go to Shenzhen immigration to update stay permit, but face longer processing due to “system upgrades”. <Barrier: System Inefficiency> <Cost: 7-10 workdays>\n9. Activation: Activate through customs.\n",
+        "country": "HongKong",
+        "if_red_tape": true,
+        "metadata": {}
+      },
+      "reactions": [],
+      "stats": {
+        "means": {},
+        "totals": {},
+        "counts": {},
+        "num_reactions": 0
+      }
+    }
+  ]
+}

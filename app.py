@@ -463,9 +463,19 @@ def history_label(path: Path) -> str:
     try:
         with path.open("r", encoding="utf-8") as f:
             payload = json.load(f)
+        saved_at = payload.get("saved_at") or path.stem
+        first_event = ""
+        results = payload.get("results") or []
+        if results and isinstance(results[0], dict):
+            evt = results[0].get("event", {})
+            if isinstance(evt, dict):
+                first_event = evt.get("title") or ""
         model = payload.get("model")
+        label_parts = [p for p in (first_event, saved_at) if p]
+        label = " — ".join(label_parts) if label_parts else path.name
         if model:
-            return f"{path.name} (model: {model})"
+            label = f"{label} (model: {model})"
+        return label
     except Exception:
         pass
     return path.name

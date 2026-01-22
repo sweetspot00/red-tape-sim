@@ -63,7 +63,7 @@ class Persona:
 
         profile_prompt = f"""
         You are {self.name} from {_val(self.country)}. You are a {_val(self.age)} years old {_val(self.gender)}. You have a {_val(self.education)} degree and work as a {_val(self.profession)}. 
-        Your personality traits include {_val(', '.join(sorted(self.traits)) if self.traits else '')}. You are {_val(self.family)}. Your political ideology is {_val(self.political_ideology)} and you align with {_val(self.political_party)} party.
+        Your personality traits include {_val(', '.join(sorted(self.traits)) if self.traits else '')}. You are {_val(self.family)}.
         You got some opinions and have some attitudes to your region's policy:  {_val(history_text)}.
         Culture factor wise, you got a score of {self.power_distance} in power distance, {self.individualism} in individualism, {self.masculinity} in masculinity, {self.uncertainty_avoidance} in uncertainty avoidance, {self.long_term_orientation} in long term orientation, and {self.indulgence} in indulgence.   
         Larger score denotes stronger tendency in that dimension.
@@ -91,8 +91,7 @@ def load_personas(definitions: Sequence[Dict], country_prompts: Optional[Dict[st
         country = entry.get("country", "")
         prompt_template = entry.get("prompt_template")
         if not prompt_template and country_prompts:
-            key = country.lower() if country is not None else ""
-            prompt_template = country_prompts.get(key) or country_prompts.get("default")
+            prompt_template = country_prompts.get("default")
         personas.append(
             Persona(
                 name=entry["name"],
@@ -103,8 +102,6 @@ def load_personas(definitions: Sequence[Dict], country_prompts: Optional[Dict[st
                 traits=set(entry.get("traits", [])),
                 profession=entry.get("profession", ""),
                 family=entry.get("family", ""),
-                political_ideology=entry.get("political_ideology", ""),
-                political_party=entry.get("political_party", ""),
                 prompt_template=prompt_template or Persona.prompt_template,
                 history_attitude=entry.get("history_attitude", []),
                 power_distance=float(entry.get("power_distance", 0.0)),
@@ -146,8 +143,6 @@ def default_persona(name: str = "Default Agent") -> Persona:
         traits=set(),
         profession="",
         family="",
-        political_ideology="",
-        political_party="",
         history_attitude=[],
         power_distance=0.0,
         individualism=0.0,

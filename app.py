@@ -158,8 +158,6 @@ def render_profiles(personas):
                 "traits": ", ".join(sorted(p.traits)) if p.traits else "",
                 "profession": p.profession,
                 "family": p.family,
-                "political_ideology": p.political_ideology,
-                "political_party": p.political_party,
                 "history_attitude": " | ".join(p.history_attitude) if p.history_attitude else "",
                 "power_distance": p.power_distance,
                 "individualism": p.individualism,

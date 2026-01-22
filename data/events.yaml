@@ -36,6 +36,7 @@
     Following university regulations and procedures, you also need to fill in your demographic information again to get the extra money.
   if_red_tape: true
 - title: 在北京申请签证（中文版）
+  title_en: Visa Application in Beijing
   country: Beijing
   if_red_tape: false
   description: |
@@ -43,7 +44,13 @@
     现场办理：到达办事大厅，进行拍照并采集指纹信息。
     材料提交：提交申请表及身份证。
     领取方式：通过 EMS 快递寄送护照（时间：约 7 个工作日）。
+  description_en: |
+    Appointment: Make an appointment through the official government app (the appointment is valid until tomorrow).
+    On-site processing: Arrive at the service hall to have your photo taken and fingerprints collected.
+    Document submission: Submit the application form and identification card.
+    Collection method: The passport will be delivered via EMS express (processing time: approximately 7 working days).
 - title: 在北京申请签证(红色官僚主义中文版)
+  title_en: Visa Application in Beijing (Red Tape)
   country: Beijing
   if_red_tape: true
   description: |
@@ -62,14 +69,31 @@
     ＜成本：挫败感／困惑＞
     5. 提交成功：最终完成材料提交。
     6. 领取结果：收到护照，但因“政治活动安保审查”，办理时间延长至 15 天。
+  description_en: |
+    1. The “Number” Game: Try to book online, but all slots are full for the next month.
+    <Barrier: Scarcity of Access> <Action: Use “Scalper” (黄牛) or refresh page at midnight>
+    2. On-site Rejection: Arrived at the hall, but was told the photo background was “not blue enough”.
+    <Barrier: Arbitrary Discretion> <Cost: Re-take photo at specific booth (expensive)>
+    3. Document Loop: Submit the form. Officer demands a “Hukou” (Household Register) page that wasn’t on the app’s checklist.
+    <Barrier: Information Asymmetry> <Action: Go home to fetch document> <Cost: 1 extra day>
+    4. The “Interpretation” Trap: Return with the document. The new officer says the previous officer’s interpretation was wrong, and you need a different stamp from the local police station first.
+    <Barrier: Inconsistent Enforcement> <Cost: Frustration/Confusion>
+    5. Submission: Finally submit materials.
+    6. Collection: Receive passport <Time: Delayed to 15 days due to “Political Event Security Check”>.   
 - title: 领取实验奖金
+  title_en: Experimental rewards 
   country: Beijing
   if_red_tape: false
   description: |
     我们有好消息要告诉你！你被选中参加实验可以获得额外的奖金，恭喜你。
     我们将把你所得的金额翻倍，换句话说，你参加实验将得到100元。
     你将立即收到50元的额外款项，实验结束后，研究助理会将额外款额赠予你。
+  description_en: |
+    We have good news for you! You have been selected to receive extra money for taking part in the experiment. Congratulations.
+    We will double the amount of money you will get. In other words, you will get 100 RMB for taking part in the experiment.
+    You will receive the extra money of 50 RMB straight away. After the experiment, the Research Assistant will present you with the extra money.
 - title: 领取实验奖金(red tape)
+  title_en: Experimental rewards (red tape)
   country: Beijing
   if_red_tape: true
   description: |
@@ -77,6 +101,12 @@
     我们将把你所得的金额翻倍，换句话说，你参加实验将得到100元。
     按照大学的规定和程序，你需要再次填写你的人口统计信息以获得额外的钱,
     根据大学的规定和程序，您将在30天后收到额外的50元，将转到您的银行账户。
+  description_en: |
+    We have good news for you! You have been selected to receive extra money for taking part in the experiment. Congratulations.
+    We will double the amount of money you will get. In other words, you will get 100 RMB for taking part in the experiment.
+    You will receive the extra money of 50 RMB by the earliest after 30 days, following university regulations and procedures. It will be transferred to your bank account. 
+    The Research Assistant will provide you further instructions after the experiment so we can make the transfer. 
+    Following university regulations and procedures, you also need to fill in your demographic information again to get the extra money.
 - title: Passport/Visa Application in Beijing
   country: Beijing
   if_red_tape: false
@@ -104,6 +134,7 @@
     3. Genehmigung: Die Sachbearbeitung prüft die Unterlagen und stellt eine vorläufige Aufenthaltserlaubnis (Fiktionsbescheinigung) aus.
     4. Kartenausstellung: Die elektronische Aufenthaltstitelkarte (eAT) wird per Post zugestellt (Bearbeitungszeit: 4–6 Wochen).
 - title: (German) Familiennachzugsvisum in Deutschland (Red Tape)
+  title_en: (German) Family Reunification Visa in Germany (Red Tape)
   country: Germany
   if_red_tape: true
   description: |
@@ -121,7 +152,23 @@
     5. Rechtliche Eskalation: Beauftragung eines Anwalts zur Versendung eines Schreibens mit Untätigkeitsklage (Androhung rechtlicher Schritte).
     <Maßnahme: Rechtlicher Behelf> <Kosten: 500 € Anwaltskosten>
     6. Auflösung: Drei Tage nach dem Anwaltsschreiben wird plötzlich der Aufenthaltstitel erteilt.
+  description_en: |
+    1. The Appointment Wall: The website shows “No appointments available” for the entire year.
+    <Barrier: Infrastructural Failure> <Cost: Months of waiting>
+    2. The Catch-22 (circular logic): At the appointment, the officer demands a “registration” (Meldebescheinigung).
+    <Barrier: Logical Standstill>
+    Applicant: “I can’t register because I can’t sign a lease without a residence permit.”
+    Officer: “And without a registered address, we can’t issue a residence permit.”
+    <Barrier: Catch-22>
+    3. Form Fetishism: The marriage certificate is rejected because the translation is not from a “sworn translator in Berlin” (even though it is a certified translation).
+    <Barrier: Excessive Formalism> <Cost: €50 for a new translation>
+    4. Communication Breakdown: The new translation is submitted by mail. No response for three months. Phone lines are constantly busy.
+    <Barrier: Inaccessibility> <Cost: Helplessness>
+    5. Legal Escalation: Hiring a lawyer to send a letter with a threat of legal action (Inactivity Complaint).
+    <Action: Legal Remedy> <Cost: €500 lawyer fees>
+    6. Resolution: Three days after the lawyer’s letter, the residence permit is suddenly granted.
 - title: (German) Versuchsteilnahme – Auszahlung der Zusatzvergütung
+  title_ en: (German) Experimental participation – disbursement of additional compensation
   country: Germany
   if_red_tape: false
   description: |
@@ -132,7 +179,16 @@
     4. Verzögerung: Nach Einreichung des Formulars wird die zusätzliche Vergütung nach etwa 30 Tagen per Banküberweisung ausgezahlt.
        Die Wartezeit ist Teil der Überwachung der Auszahlungsprozesse zur Vermeidung von Missbrauch.
     5. Information: Die Versuchsleitung erläutert nach dem Experiment die weiteren Schritte zur Auszahlung.
+  description_en: |
+    1. Notification: Participants are informed that they will receive additional compensation for their participation in the experiment.
+    2. Compensation Increase: The originally promised amount is doubled.
+    3. Form Requirement: Before disbursement, a two-page form must be completed.
+       The information is required to comply with ethical standards for publicly funded studies and is partly due to data protection regulations.
+    4. Delay: After submitting the form, the additional compensation is disbursed via bank transfer after about 30 days.
+       The waiting period is part of the monitoring of disbursement processes to prevent abuse.
+    5. Information: The experiment leader explains the next steps for disbursement after the experiment.
 - title: (German) Versuchsteilnahme – Auszahlung der Zusatzvergütung (Red Tape)
+  title_en: (German) Experimental participation – disbursement of additional compensation (Red Tape)
   country: Germany
   if_red_tape: true
   description: |
@@ -145,5 +201,15 @@
     <Hürde: Zeitliche Verzögerung>
     5. Information: Weitere Anweisungen zur Auszahlung werden nach dem Experiment angekündigt.
     <Kosten: Frustration, Unsicherheit, Kontrollverlust>
+  description_en: |
+    1. Notification: Participants are informed that they will receive additional compensation for their participation in the experiment.
+    2. Compensation Increase: The originally promised amount is doubled.      
+    3. Form Requirement: Before disbursement, a two-page form must be completed.
+       The form contains repeatedly requested demographic information, seemingly irrelevant information, and very detailed questions.
+    <Barrier: Administrative Burden>
+    4. Delay: After submitting the form, the additional compensation is disbursed via bank transfer after about 30 days at the earliest.
+    <Barrier: Temporal Delay>
+    5. Information: Further instructions for disbursement are announced after the experiment.
+    <Cost: Frustration, Uncertainty, Loss of Control>
 
 

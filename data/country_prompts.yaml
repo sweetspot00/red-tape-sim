@@ -3,3 +3,8 @@ default: |
   What's your feeling towards this event? 
   Think about if it easy/troublesome for you to do that. Please follow the cultural factors you have and make the reaction based on your cultural background.
   And what's your attitude towards the government who made this policy/procedure.
+default_no_culture: |
+  Now you need to go through public/goverment related event: {event_name}. The policy procedure is as follows: {event_description}. 
+  What's your feeling towards this event? 
+  Think about if it easy/troublesome for you to do that. 
+  And what's your attitude towards the government who made this policy/procedure.

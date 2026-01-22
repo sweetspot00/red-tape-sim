@@ -130,7 +130,7 @@ def load_personas_from_yaml(
     return load_personas(raw, country_prompts=country_prompts)
 
 
-def default_persona(name: str = "Default Agent") -> Persona:
+def default_persona(name: str = "Default Agent", prompt_template: Optional[str] = None) -> Persona:
     """
     Persona with all fields present; intended for fallback use.
     """
@@ -150,6 +150,7 @@ def default_persona(name: str = "Default Agent") -> Persona:
         uncertainty_avoidance=0.0,
         long_term_orientation=0.0,
         indulgence=0.0,
+        prompt_template=prompt_template or Persona.prompt_template,
     )
 
 

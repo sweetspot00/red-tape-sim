@@ -16,6 +16,7 @@ from simulation import (
     LLMClient,
     Event,
     Persona,
+    default_persona,
     load_country_prompts_from_yaml,
     load_events_from_yaml,
     load_personas_from_yaml,
@@ -26,8 +27,13 @@ HISTORY_DIR = Path("data/sim_history")
 
 
 @st.cache_data
+def load_country_prompts():
+    return load_country_prompts_from_yaml("data/country_prompts.yaml")
+
+
+@st.cache_data
 def load_data():
-    country_prompts = load_country_prompts_from_yaml("data/country_prompts.yaml")
+    country_prompts = load_country_prompts()
     personas = load_personas_from_yaml("data/personas.yaml", country_prompts=country_prompts)
     events = load_events_from_yaml("data/events.yaml")
     return personas, events
@@ -48,6 +54,19 @@ def _emotion_to_str(emotion) -> str:
 
 def target_countries_for_event(event: Event) -> Set[str]:
     return {normalize_country(event.country), ""}
+
+
+def default_agent_prompt_template(country_prompts: dict) -> str:
+    """
+    Choose the country prompt for the default agent, preferring the culture-neutral variant.
+    """
+    if not country_prompts:
+        return Persona.prompt_template
+    return (
+        country_prompts.get("default_no_culture")
+        or country_prompts.get("default")
+        or Persona.prompt_template
+    )
 
 
 def run_simulations(
@@ -102,6 +121,53 @@ def run_simulation_async(
     except Exception as exc:  # surface errors instead of hanging silently
         st.error(f"Simulation failed: {exc}")
         return None, None, None
+
+
+def run_default_agent_simulation(
+    events_to_run: List[Event],
+    model: str,
+    on_progress: Optional[Callable] = None,
+):
+    """
+    Run simulations with a single default agent using the culture-neutral country prompt.
+    """
+    country_prompts = load_country_prompts()
+    prompt_template = default_agent_prompt_template(country_prompts)
+    llm = LLMClient(model=model)
+    results = []
+    for event in events_to_run:
+        english_title = getattr(event, "title_en", None) or event.title
+        english_description = getattr(event, "description_en", None) or event.description
+        event_for_default = Event(
+            title=english_title,
+            description=english_description,
+            country=event.country,
+            title_en=english_title,
+            description_en=english_description,
+            if_red_tape=event.if_red_tape,
+            metadata=event.metadata,
+        )
+        persona = default_persona(name="Default Agent", prompt_template=prompt_template)
+        persona.country = event_for_default.country or ""
+        sim = EventSimulation([persona], llm=llm)
+
+        async def runner():
+            reactions = await sim.publish_event_async(
+                event_for_default,
+                countries=None,
+                include_optional_persona_fields=set(),
+                on_result=on_progress,
+            )
+            stats = EventSimulation.summarize_emotions(reactions)
+            return reactions, stats
+
+        try:
+            reactions, stats = asyncio.run(runner())
+            results.append((event_for_default, reactions, stats))
+        except Exception as exc:
+            st.error(f"Default agent simulation failed for '{event.title}': {exc}")
+            return []
+    return results
 
 
 def run_test_simulation(
@@ -218,6 +284,8 @@ def _event_to_dict(event: Event) -> dict:
         "title": event.title,
         "description": event.description,
         "country": event.country,
+        "title_en": getattr(event, "title_en", None),
+        "description_en": getattr(event, "description_en", None),
         "if_red_tape": event.if_red_tape,
         "metadata": event.metadata,
     }
@@ -228,6 +296,8 @@ def _dict_to_event(data: dict) -> Event:
         title=data.get("title", ""),
         description=data.get("description", ""),
         country=data.get("country"),
+        title_en=data.get("title_en"),
+        description_en=data.get("description_en"),
         if_red_tape=bool(data.get("if_red_tape", False)),
         metadata=data.get("metadata", {}) or {},
     )
@@ -777,8 +847,42 @@ def main():
                 st.caption("Model used: mock")
                 render_result_pair(results, mock=True)
 
-        if not (run_clicked or test_clicked):
-            st.info("Configure options and click Run (LLM) or Test (Mock) to simulate.")
+        st.subheader("Default Agent Simulation (No Profile)")
+        default_clicked = st.button("Run Default Agent (LLM)")
+        if default_clicked:
+            if not selected_events:
+                st.error("Please select at least one event.")
+            else:
+                progress_placeholder = st.empty()
+                status_placeholder = st.empty()
+                rows: List[dict] = []
+
+                def on_progress(reaction):
+                    rows.append(
+                        {
+                            "persona": reaction.persona.name,
+                            "country": reaction.persona.country or "Default",
+                            "emotion": _emotion_to_str(reaction.emotion),
+                        }
+                    )
+                    df = pd.DataFrame(rows)
+                    progress_placeholder.dataframe(df)
+                    status_placeholder.info(f"Received {len(rows)} reactions (default agent)...")
+
+                with st.spinner("Running default agent simulation (LLM)..."):
+                    default_results = run_default_agent_simulation(
+                        selected_events,
+                        selected_model,
+                        on_progress=on_progress,
+                    )
+                if default_results:
+                    save_path = save_simulation_run(default_results, mode="default_agent", model=selected_model)
+                    st.success(f"Completed default-agent simulation. Saved to {save_path.name}")
+                    st.caption("Prompt: default_no_culture; persona profile omitted.")
+                    render_result_pair(default_results, mock=False)
+
+        if not (run_clicked or test_clicked or default_clicked):
+            st.info("Configure options and click Run (LLM), Run Default Agent, or Test (Mock) to simulate.")
 
     with tabs[1]:
         st.subheader("Simulation History")

@@ -51,7 +51,17 @@ class PersonaAgent:
             ]
         if self.persona.country.lower() == "germany":
             emotions.append("frustration")
-        emotion_dict, _ = self.llm.generate_reaction(prompt, emotions=emotions)
+        try:
+            emotion_dict, status = self.llm.generate_reaction(prompt, emotions=emotions)
+            if status != "success":
+                logger.warning(
+                    "LLM returned status '%s' for persona '%s'; keeping raw content.",
+                    status,
+                    self.persona.name,
+                )
+        except Exception as exc:
+            logger.warning("Failed to generate reaction for '%s': %s", self.persona.name, exc)
+            emotion_dict = {"error": str(exc)}
         return Reaction(persona=self.persona, emotion=emotion_dict)
 
 
@@ -82,11 +92,22 @@ class EventSimulation:
         for agent in self.agents:
             if agent.persona in targets:
                 logger.info("Broadcasting event '%s' to persona '%s'", event.title, agent.persona.name)
-                reactions.append(
-                    agent.react_to_event(
-                        event, context, include_optional_persona_fields=include_optional_persona_fields
+                try:
+                    reactions.append(
+                        agent.react_to_event(
+                            event, context, include_optional_persona_fields=include_optional_persona_fields
+                        )
                     )
-                )
+                except Exception as exc:
+                    logger.warning(
+                        "Reaction failed for persona '%s' on event '%s': %s",
+                        agent.persona.name,
+                        event.title,
+                        exc,
+                    )
+                    reactions.append(
+                        Reaction(persona=agent.persona, emotion={"error": str(exc)}, comment="error")
+                    )
         logger.info("Collected %d reactions for event '%s'", len(reactions), event.title)
         return reactions
 
@@ -109,13 +130,23 @@ class EventSimulation:
         tasks = []
         for agent in self.agents:
             if agent.persona in targets:
-                fn = partial(
-                    agent.react_to_event,
-                    event,
-                    context,
-                    include_optional_persona_fields,
-                )
-                tasks.append(loop.run_in_executor(None, fn))
+                def safe_react(agent=agent):
+                    try:
+                        return agent.react_to_event(
+                            event,
+                            context,
+                            include_optional_persona_fields,
+                        )
+                    except Exception as exc:
+                        logger.warning(
+                            "Async reaction failed for persona '%s' on event '%s': %s",
+                            agent.persona.name,
+                            event.title,
+                            exc,
+                        )
+                        return Reaction(persona=agent.persona, emotion={"error": str(exc)}, comment="error")
+
+                tasks.append(loop.run_in_executor(None, safe_react))
 
         reactions: List[Reaction] = []
         for coro in asyncio.as_completed(tasks):

@@ -1,5 +1,7 @@
+import json
 import logging
 import os
+import re
 from typing import Optional, Tuple
 
 from openai import OpenAI, OpenAIError
@@ -61,7 +63,8 @@ class LLMClient:
         )
         logger.info("Prompt for reaction generation: %s", prompt)
         logger.info("System Prompt for reaction generation: %s", system)
-        
+
+        content = ""
         try:
             response = self.client.chat.completions.create(
                 model=self.model,
@@ -72,13 +75,15 @@ class LLMClient:
                 temperature=1.0,  # some models (e.g., azure/gpt-5) only support temperature=1
             )
             content = (response.choices[0].message.content or "").strip().lower()
-            # parse json
-            import json
-            emotion_dict = json.loads(content)
+            emotion_dict = self._parse_emotion_json(content)
             return emotion_dict, "success"
-            
+
         except OpenAIError as exc:
-            return f"[LLM error: {exc}]", "error"
+            logger.warning("LLM request failed: %s", exc)
+            return {"error": str(exc)}, "error"
+        except Exception as exc:
+            logger.warning("Failed to parse emotion JSON: %s | content=%r", exc, content)
+            return {"raw": content, "error": str(exc)}, "parse_error"
 
     @staticmethod
     def _normalize_emotion(content: str, allowed: list[str]) -> str:
@@ -88,3 +93,22 @@ class LLMClient:
         # Try to strip punctuation
         token = "".join(ch for ch in token if ch.isalpha())
         return token if token in allowed else "confusion"
+
+    @staticmethod
+    def _parse_emotion_json(content: str) -> dict:
+        """
+        Be tolerant of Gemini/GPT returning code fences or extra text; extract a JSON object if present.
+        """
+        if not content:
+            return {}
+        cleaned = content.strip()
+        if cleaned.startswith("```"):
+            cleaned = cleaned.lstrip("`")
+            cleaned = cleaned.replace("json", "", 1).strip("`\n ")
+        try:
+            return json.loads(cleaned)
+        except json.JSONDecodeError:
+            match = re.search(r"\{.*\}", cleaned, flags=re.DOTALL)
+            if match:
+                return json.loads(match.group(0))
+            raise

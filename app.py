@@ -6,6 +6,7 @@ from pathlib import Path
 from typing import Callable, List, Optional, Set, Union
 
 import matplotlib.pyplot as plt
+from matplotlib.lines import Line2D
 import numpy as np
 import pandas as pd
 import streamlit as st
@@ -275,6 +276,20 @@ def _emotion_order(keys) -> List[str]:
     return order
 
 
+def _collect_emotion_values(reactions: List[Reaction]) -> dict[str, List[float]]:
+    values: dict[str, List[float]] = {}
+    for reaction in reactions:
+        if not isinstance(reaction.emotion, dict):
+            continue
+        for emo, val in reaction.emotion.items():
+            try:
+                score = float(val)
+            except (TypeError, ValueError):
+                continue
+            values.setdefault(emo, []).append(score)
+    return {k: v for k, v in values.items() if v}
+
+
 def _plot_emotion_bar(emotions: dict, title: str):
     order = _emotion_order(emotions.keys())
     values = [emotions.get(e, 0) for e in order]
@@ -304,6 +319,157 @@ def _plot_emotion_radar(emotions: dict, title: str, color: str = "#6a8aff"):
     ax.set_yticklabels([])
     ax.set_title(title, fontsize=13, pad=12)
     ax.grid(True, linestyle="--", alpha=0.35)
+    st.pyplot(fig)
+
+
+def render_emotion_dot_whisker(reactions: List[Reaction], label: str):
+    values_by_emotion = _collect_emotion_values(reactions)
+    if not values_by_emotion:
+        st.info(f"No emotion data for {label}.")
+        return
+    order = _emotion_order(values_by_emotion.keys())
+    ordered_values = [values_by_emotion[e] for e in order]
+    fig_height = max(3.5, 0.45 * len(order) + 1.5)
+
+    fig, ax = plt.subplots(figsize=(8, fig_height))
+    ax.boxplot(
+        ordered_values,
+        vert=False,
+        labels=order,
+        showmeans=True,
+        meanline=True,
+        patch_artist=True,
+        boxprops={"facecolor": "#dfe7ff", "edgecolor": "#1f3b73"},
+        medianprops={"color": "#1f3b73"},
+        whiskerprops={"color": "#1f3b73"},
+        capprops={"color": "#1f3b73"},
+        meanprops={"color": "#f58518", "linewidth": 2},
+    )
+
+    rng = np.random.default_rng(0)
+    for idx, emo in enumerate(order, start=1):
+        vals = values_by_emotion[emo]
+        jitter = rng.normal(loc=0, scale=0.04, size=len(vals))
+        y = np.full(len(vals), idx) + jitter
+        ax.scatter(
+            vals,
+            y,
+            color="#4c78a8",
+            alpha=0.6,
+            s=25,
+            edgecolors="white",
+            linewidths=0.5,
+        )
+
+    ax.set_xlabel("Emotion score")
+    ax.set_ylabel("Emotion")
+    ax.set_title(f"Emotion dot-and-whisker — {label}", fontsize=12, pad=10)
+    ax.grid(axis="x", linestyle="--", alpha=0.4)
+    st.pyplot(fig)
+
+
+def render_emotion_dot_whisker_comparison(
+    base_reactions: List[Reaction],
+    red_reactions: List[Reaction],
+    label: str = "Red vs Non red-tape",
+):
+    base_values = _collect_emotion_values(base_reactions)
+    red_values = _collect_emotion_values(red_reactions)
+    keys = set(base_values) | set(red_values)
+    if not keys:
+        st.info("No emotion data to compare.")
+        return
+    order = _emotion_order(keys)
+    fig_height = max(3.8, 0.5 * len(order) + 1.6)
+    fig, ax = plt.subplots(figsize=(8.5, fig_height))
+
+    boxprops_base = {"facecolor": "#dfe7ff", "edgecolor": "#1f3b73"}
+    boxprops_red = {"facecolor": "#ffe0cb", "edgecolor": "#9c3d00"}
+
+    base_data, base_pos = [], []
+    red_data, red_pos = [], []
+    jitter_scale = 0.04
+    rng = np.random.default_rng(0)
+
+    for idx, emo in enumerate(order, start=1):
+        vals_base = base_values.get(emo)
+        if vals_base:
+            base_data.append(vals_base)
+            base_pos.append(idx + 0.15)
+        vals_red = red_values.get(emo)
+        if vals_red:
+            red_data.append(vals_red)
+            red_pos.append(idx - 0.15)
+
+    if base_data:
+        ax.boxplot(
+            base_data,
+            vert=False,
+            positions=base_pos,
+            showmeans=True,
+            meanline=True,
+            patch_artist=True,
+            boxprops=boxprops_base,
+            medianprops={"color": "#1f3b73"},
+            whiskerprops={"color": "#1f3b73"},
+            capprops={"color": "#1f3b73"},
+            meanprops={"color": "#1f3b73", "linewidth": 2},
+        )
+    if red_data:
+        ax.boxplot(
+            red_data,
+            vert=False,
+            positions=red_pos,
+            showmeans=True,
+            meanline=True,
+            patch_artist=True,
+            boxprops=boxprops_red,
+            medianprops={"color": "#9c3d00"},
+            whiskerprops={"color": "#9c3d00"},
+            capprops={"color": "#9c3d00"},
+            meanprops={"color": "#9c3d00", "linewidth": 2},
+        )
+
+    for idx, emo in enumerate(order, start=1):
+        vals_base = base_values.get(emo, [])
+        if vals_base:
+            jitter = rng.normal(loc=0, scale=jitter_scale, size=len(vals_base))
+            y = np.full(len(vals_base), idx + 0.15) + jitter
+            ax.scatter(
+                vals_base,
+                y,
+                color="#4c78a8",
+                alpha=0.6,
+                s=22,
+                edgecolors="white",
+                linewidths=0.5,
+            )
+        vals_red = red_values.get(emo, [])
+        if vals_red:
+            jitter = rng.normal(loc=0, scale=jitter_scale, size=len(vals_red))
+            y = np.full(len(vals_red), idx - 0.15) + jitter
+            ax.scatter(
+                vals_red,
+                y,
+                color="#f58518",
+                alpha=0.6,
+                s=22,
+                edgecolors="white",
+                linewidths=0.5,
+            )
+
+    ax.set_yticks(range(1, len(order) + 1))
+    ax.set_yticklabels(order)
+    ax.set_xlabel("Emotion score")
+    ax.set_ylabel("Emotion")
+    ax.set_title(f"Emotion dot-and-whisker comparison — {label}", fontsize=12, pad=10)
+    ax.grid(axis="x", linestyle="--", alpha=0.4)
+
+    legend_handles = [
+        Line2D([0], [0], color="#1f3b73", lw=2, label="Non red-tape"),
+        Line2D([0], [0], color="#9c3d00", lw=2, label="Red-tape"),
+    ]
+    ax.legend(handles=legend_handles, loc="lower right")
     st.pyplot(fig)
 
 
@@ -394,6 +560,7 @@ def render_result_pair(results: List[tuple], mock: bool = False):
             render_reactions(reactions)
             st.markdown("**Emotion Statistics**")
             render_emotion_means(stats, event.title)
+            render_emotion_dot_whisker(reactions, event.title)
     else:
         st.warning("Non red-tape event did not run.")
 
@@ -407,10 +574,13 @@ def render_result_pair(results: List[tuple], mock: bool = False):
             render_reactions(reactions)
             st.markdown("**Emotion Statistics**")
             render_emotion_means(stats, event.title)
+            render_emotion_dot_whisker(reactions, event.title)
     else:
         st.warning("Red-tape event did not run.")
 
     if base_result and red_result:
+        st.subheader("Emotion Dot-and-Whisker Comparison" + (" [MOCK]" if mock else ""))
+        render_emotion_dot_whisker_comparison(base_result[1], red_result[1])
         st.subheader("Emotion Differences (Red - Non-red)" + (" [MOCK]" if mock else ""))
         render_emotion_difference(base_result[2], red_result[2])
         st.subheader("Emotion Radar Comparison" + (" [MOCK]" if mock else ""))
@@ -494,9 +664,10 @@ def main():
             "azure/gpt-5",
             "azure/gpt-4o",
             "azure/gpt-4o-mini",
-            "gemini/gemini-2.5-pro",
-            "gemini/gemini-2.5-flash-lite",
-            "gemini/gemini-2.5-flash",
+            "gemini/ggap/gemini-2.5-pro",
+            "gemini/ggap/gemini-2.5-flash-lite",
+            "gemini/ggap/gemini-2.5-flash",
+            "gemini/ggap/gemini-3-pro",
         ]
         selected_model = st.sidebar.selectbox("LLM model", model_choices, index=1)
         non_red_events = [e for e in events if not e.if_red_tape]

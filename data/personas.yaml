@@ -1,5 +1,5 @@
 - name: Mingyu_137
-  country: Beijing
+  country: China
   gender: female
   age: '62'
   education: master
@@ -17,7 +17,7 @@
   long_term_orientation: 74.96
   indulgence: 0.04
 - name: BJ_005
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -36,7 +36,7 @@
   long_term_orientation: 80.72
   indulgence: 42.62
 - name: BJ_001
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -55,7 +55,7 @@
   long_term_orientation: 80.94
   indulgence: 44.98
 - name: BJ_003
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: master
@@ -74,7 +74,7 @@
   long_term_orientation: 72.0
   indulgence: 31.85
 - name: BJ_002
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -93,7 +93,7 @@
   long_term_orientation: 89.52
   indulgence: 6.19
 - name: BJ_004
-  country: Beijing
+  country: China
   gender: male
   age: '36'
   education: bachelor
@@ -112,7 +112,7 @@
   long_term_orientation: 62.35
   indulgence: 38.02
 - name: BJ_006
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -131,7 +131,7 @@
   long_term_orientation: 75.62
   indulgence: 19.3
 - name: BJ_011
-  country: Beijing
+  country: China
   gender: male
   age: '36'
   education: bachelor
@@ -150,7 +150,7 @@
   long_term_orientation: 87.4
   indulgence: 31.66
 - name: BJ_009
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: master
@@ -169,7 +169,7 @@
   long_term_orientation: 73.0
   indulgence: 61.37
 - name: BJ_007
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: master
@@ -188,7 +188,7 @@
   long_term_orientation: 85.09
   indulgence: 37.37
 - name: BJ_008
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: bachelor
@@ -207,7 +207,7 @@
   long_term_orientation: 92.25
   indulgence: 0.9
 - name: BJ_012
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -226,7 +226,7 @@
   long_term_orientation: 86.29
   indulgence: 61.14
 - name: BJ_014
-  country: Beijing
+  country: China
   gender: male
   age: '38'
   education: master
@@ -245,7 +245,7 @@
   long_term_orientation: 92.24
   indulgence: 14.93
 - name: BJ_013
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: bachelor
@@ -264,7 +264,7 @@
   long_term_orientation: 47.54
   indulgence: 6.68
 - name: BJ_016
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -283,7 +283,7 @@
   long_term_orientation: 81.18
   indulgence: 26.69
 - name: BJ_017
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -303,7 +303,7 @@
   long_term_orientation: 91.45
   indulgence: 30.1
 - name: BJ_015
-  country: Beijing
+  country: China
   gender: male
   age: '38'
   education: bachelor
@@ -322,7 +322,7 @@
   long_term_orientation: 100.0
   indulgence: 25.84
 - name: BJ_010
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -341,7 +341,7 @@
   long_term_orientation: 90.06
   indulgence: 35.02
 - name: BJ_018
-  country: Beijing
+  country: China
   gender: male
   age: '37'
   education: master
@@ -360,7 +360,7 @@
   long_term_orientation: 66.96
   indulgence: 23.96
 - name: BJ_022
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: bachelor
@@ -379,7 +379,7 @@
   long_term_orientation: 69.86
   indulgence: 18.17
 - name: BJ_023
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -398,7 +398,7 @@
   long_term_orientation: 91.16
   indulgence: 24.05
 - name: BJ_021
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -417,7 +417,7 @@
   long_term_orientation: 75.05
   indulgence: 29.17
 - name: BJ_020
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: master
@@ -437,7 +437,7 @@
   long_term_orientation: 100.0
   indulgence: 35.4
 - name: BJ_019
-  country: Beijing
+  country: China
   gender: male
   age: '37'
   education: bachelor
@@ -456,7 +456,7 @@
   long_term_orientation: 73.93
   indulgence: 56.32
 - name: BJ_024
-  country: Beijing
+  country: China
   gender: male
   age: '36'
   education: master
@@ -475,7 +475,7 @@
   long_term_orientation: 81.18
   indulgence: 37.18
 - name: BJ_026
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: master
@@ -494,7 +494,7 @@
   long_term_orientation: 85.27
   indulgence: 31.87
 - name: BJ_025
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -514,7 +514,7 @@
   long_term_orientation: 97.39
   indulgence: 33.75
 - name: BJ_027
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -533,7 +533,7 @@
   long_term_orientation: 78.79
   indulgence: 47.72
 - name: BJ_030
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -552,7 +552,7 @@
   long_term_orientation: 49.37
   indulgence: 28.79
 - name: BJ_032
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: bachelor
@@ -571,7 +571,7 @@
   long_term_orientation: 61.08
   indulgence: 32.29
 - name: BJ_029
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -590,7 +590,7 @@
   long_term_orientation: 65.08
   indulgence: 32.37
 - name: BJ_028
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -609,7 +609,7 @@
   long_term_orientation: 65.6
   indulgence: 30.09
 - name: BJ_031
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -628,7 +628,7 @@
   long_term_orientation: 72.1
   indulgence: 22.4
 - name: BJ_034
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -647,7 +647,7 @@
   long_term_orientation: 82.61
   indulgence: 16.15
 - name: BJ_033
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -666,7 +666,7 @@
   long_term_orientation: 43.32
   indulgence: 56.04
 - name: BJ_037
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: bachelor
@@ -685,7 +685,7 @@
   long_term_orientation: 100.0
   indulgence: 10.08
 - name: BJ_035
-  country: Beijing
+  country: China
   gender: male
   age: '36'
   education: master
@@ -704,7 +704,7 @@
   long_term_orientation: 97.65
   indulgence: 19.89
 - name: BJ_038
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -724,7 +724,7 @@
   long_term_orientation: 45.69
   indulgence: 23.44
 - name: BJ_036
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -743,7 +743,7 @@
   long_term_orientation: 57.16
   indulgence: 10.51
 - name: BJ_039
-  country: Beijing
+  country: China
   gender: male
   age: '36'
   education: master
@@ -762,7 +762,7 @@
   long_term_orientation: 58.57
   indulgence: 11.56
 - name: BJ_040
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -781,7 +781,7 @@
   long_term_orientation: 84.2
   indulgence: 48.35
 - name: BJ_041
-  country: Beijing
+  country: China
   gender: male
   age: '36'
   education: master
@@ -800,7 +800,7 @@
   long_term_orientation: 66.21
   indulgence: 48.44
 - name: BJ_046
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -809,7 +809,7 @@
   - analytical
   - community-minded
   - diligent
-  profession: Software engineer at a Beijing internet company
+  profession: Software engineer at a China internet company
   family: married
   history_attitude: 他支持北京近年来推进的公共交通与数字化治理，但认为房地产调控和疫情后经济恢复政策需更注重民生与中小企业发展。
   power_distance: 95.91
@@ -819,7 +819,7 @@
   long_term_orientation: 86.93
   indulgence: 28.92
 - name: BJ_042
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -828,7 +828,7 @@
   - community-minded
   - diligent
   - cautious
-  profession: software engineer at a Beijing fintech firm
+  profession: software engineer at a China fintech firm
   family: married
   history_attitude: 他认可近年来北京的环境治理与公共交通改善，觉得提高了生活便利度；但对疫情防控政策及其对中小企业的影响持谨慎态度，希望政策更透明、兼顾民生与经济活力。
   power_distance: 76.45
@@ -838,7 +838,7 @@
   long_term_orientation: 70.6
   indulgence: 30.85
 - name: BJ_044
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -857,7 +857,7 @@
   long_term_orientation: 75.86
   indulgence: 22.35
 - name: BJ_043
-  country: Beijing
+  country: China
   gender: male
   age: '37'
   education: master
@@ -876,7 +876,7 @@
   long_term_orientation: 82.27
   indulgence: 29.92
 - name: BJ_045
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: bachelor
@@ -895,7 +895,7 @@
   long_term_orientation: 74.82
   indulgence: 13.43
 - name: BJ_047
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: master
@@ -914,7 +914,7 @@
   long_term_orientation: 81.0
   indulgence: 18.2
 - name: BJ_051
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -933,7 +933,7 @@
   long_term_orientation: 68.88
   indulgence: 14.54
 - name: BJ_048
-  country: Beijing
+  country: China
   gender: male
   age: '36'
   education: bachelor
@@ -952,7 +952,7 @@
   long_term_orientation: 100.0
   indulgence: 39.1
 - name: BJ_052
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -971,7 +971,7 @@
   long_term_orientation: 81.99
   indulgence: 30.7
 - name: BJ_049
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -990,7 +990,7 @@
   long_term_orientation: 85.85
   indulgence: 17.48
 - name: BJ_050
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -1009,7 +1009,7 @@
   long_term_orientation: 58.47
   indulgence: 36.36
 - name: BJ_053
-  country: Beijing
+  country: China
   gender: male
   age: '36'
   education: master
@@ -1028,7 +1028,7 @@
   long_term_orientation: 89.31
   indulgence: 0.0
 - name: BJ_054
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -1047,7 +1047,7 @@
   long_term_orientation: 87.3
   indulgence: 0.0
 - name: BJ_055
-  country: Beijing
+  country: China
   gender: male
   age: '37'
   education: bachelor
@@ -1066,7 +1066,7 @@
   long_term_orientation: 98.98
   indulgence: 1.23
 - name: BJ_057
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -1085,7 +1085,7 @@
   long_term_orientation: 80.23
   indulgence: 12.96
 - name: BJ_056
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: master
@@ -1104,7 +1104,7 @@
   long_term_orientation: 89.67
   indulgence: 21.33
 - name: BJ_058
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -1123,7 +1123,7 @@
   long_term_orientation: 84.35
   indulgence: 21.05
 - name: BJ_059
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -1143,7 +1143,7 @@
   long_term_orientation: 90.27
   indulgence: 34.76
 - name: BJ_063
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -1162,7 +1162,7 @@
   long_term_orientation: 61.25
   indulgence: 37.85
 - name: BJ_060
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -1181,7 +1181,7 @@
   long_term_orientation: 52.23
   indulgence: 17.9
 - name: BJ_061
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -1200,7 +1200,7 @@
   long_term_orientation: 69.65
   indulgence: 11.71
 - name: BJ_062
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -1219,7 +1219,7 @@
   long_term_orientation: 71.03
   indulgence: 39.27
 - name: BJ_066
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -1238,7 +1238,7 @@
   long_term_orientation: 99.4
   indulgence: 15.19
 - name: BJ_068
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: master
@@ -1257,7 +1257,7 @@
   long_term_orientation: 90.16
   indulgence: 24.03
 - name: BJ_064
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: master
@@ -1276,7 +1276,7 @@
   long_term_orientation: 66.63
   indulgence: 27.94
 - name: BJ_067
-  country: Beijing
+  country: China
   gender: male
   age: '36'
   education: bachelor
@@ -1295,7 +1295,7 @@
   long_term_orientation: 93.59
   indulgence: 33.78
 - name: BJ_065
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -1314,7 +1314,7 @@
   long_term_orientation: 71.68
   indulgence: 13.9
 - name: BJ_069
-  country: Beijing
+  country: China
   gender: male
   age: '38'
   education: bachelor
@@ -1333,7 +1333,7 @@
   long_term_orientation: 80.65
   indulgence: 18.96
 - name: BJ_071
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -1352,7 +1352,7 @@
   long_term_orientation: 65.04
   indulgence: 24.42
 - name: BJ_072
-  country: Beijing
+  country: China
   gender: male
   age: '36'
   education: master
@@ -1371,7 +1371,7 @@
   long_term_orientation: 90.2
   indulgence: 34.45
 - name: BJ_074
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -1390,7 +1390,7 @@
   long_term_orientation: 77.16
   indulgence: 55.07
 - name: BJ_070
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: master
@@ -1409,7 +1409,7 @@
   long_term_orientation: 44.67
   indulgence: 1.89
 - name: BJ_073
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -1428,7 +1428,7 @@
   long_term_orientation: 86.78
   indulgence: 6.37
 - name: BJ_075
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -1447,7 +1447,7 @@
   long_term_orientation: 77.4
   indulgence: 46.8
 - name: BJ_079
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -1456,7 +1456,7 @@
   - diligent
   - tech-savvy
   - community-minded
-  profession: Software engineer at a Beijing-based internet company
+  profession: Software engineer at a China-based internet company
   family: married
   history_attitude: 总体支持近年来的疫情防控与城市更新政策，认为提升了公共服务与安全。也关注住房成本和就业压力，希望政策在稳增长与民生之间取得更好平衡。
   power_distance: 81.93
@@ -1466,7 +1466,7 @@
   long_term_orientation: 88.6
   indulgence: 30.14
 - name: BJ_078
-  country: Beijing
+  country: China
   gender: male
   age: '36'
   education: master
@@ -1485,7 +1485,7 @@
   long_term_orientation: 79.89
   indulgence: 48.45
 - name: BJ_076
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -1504,7 +1504,7 @@
   long_term_orientation: 67.6
   indulgence: 29.5
 - name: BJ_081
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -1523,7 +1523,7 @@
   long_term_orientation: 93.94
   indulgence: 2.65
 - name: BJ_077
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -1542,7 +1542,7 @@
   long_term_orientation: 100.0
   indulgence: 0.0
 - name: BJ_080
-  country: Beijing
+  country: China
   gender: male
   age: '38'
   education: master
@@ -1561,7 +1561,7 @@
   long_term_orientation: 79.07
   indulgence: 35.07
 - name: BJ_082
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -1580,7 +1580,7 @@
   long_term_orientation: 69.07
   indulgence: 29.44
 - name: BJ_084
-  country: Beijing
+  country: China
   gender: male
   age: '36'
   education: master
@@ -1599,7 +1599,7 @@
   long_term_orientation: 60.78
   indulgence: 36.74
 - name: BJ_085
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: master
@@ -1618,7 +1618,7 @@
   long_term_orientation: 91.85
   indulgence: 28.85
 - name: BJ_087
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -1637,7 +1637,7 @@
   long_term_orientation: 77.38
   indulgence: 0.0
 - name: BJ_086
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -1656,7 +1656,7 @@
   long_term_orientation: 91.85
   indulgence: 23.99
 - name: BJ_088
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -1675,7 +1675,7 @@
   long_term_orientation: 87.14
   indulgence: 20.68
 - name: BJ_083
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -1694,7 +1694,7 @@
   long_term_orientation: 66.67
   indulgence: 19.61
 - name: BJ_089
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -1713,7 +1713,7 @@
   long_term_orientation: 76.9
   indulgence: 16.11
 - name: BJ_090
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -1732,7 +1732,7 @@
   long_term_orientation: 67.87
   indulgence: 46.27
 - name: BJ_092
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: master
@@ -1751,7 +1751,7 @@
   long_term_orientation: 68.81
   indulgence: 3.07
 - name: BJ_093
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -1760,7 +1760,7 @@
   - diligent
   - tech-savvy
   - detail-oriented
-  profession: software engineer at a Beijing-based fintech company
+  profession: software engineer at a China-based fintech company
   family: married
   history_attitude: 最近的城市更新和公共交通优化政策让我觉得出行更便捷、城市更有活力；但也担心老旧小区改造和租金上涨可能给普通居民带来压力。
   power_distance: 100.0
@@ -1770,7 +1770,7 @@
   long_term_orientation: 100.0
   indulgence: 55.68
 - name: BJ_091
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: bachelor
@@ -1789,7 +1789,7 @@
   long_term_orientation: 62.39
   indulgence: 23.45
 - name: BJ_094
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -1808,7 +1808,7 @@
   long_term_orientation: 57.21
   indulgence: 1.38
 - name: BJ_095
-  country: Beijing
+  country: China
   gender: male
   age: '37'
   education: master
@@ -1827,7 +1827,7 @@
   long_term_orientation: 73.34
   indulgence: 52.85
 - name: BJ_096
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -1846,7 +1846,7 @@
   long_term_orientation: 73.39
   indulgence: 55.05
 - name: BJ_097
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: bachelor
@@ -1865,7 +1865,7 @@
   long_term_orientation: 55.57
   indulgence: 28.83
 - name: BJ_098
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -1884,7 +1884,7 @@
   long_term_orientation: 83.75
   indulgence: 51.8
 - name: BJ_100
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -1903,7 +1903,7 @@
   long_term_orientation: 100.0
   indulgence: 26.48
 - name: BJ_101
-  country: Beijing
+  country: China
   gender: male
   age: '36'
   education: bachelor
@@ -1922,7 +1922,7 @@
   long_term_orientation: 68.59
   indulgence: 2.53
 - name: BJ_103
-  country: Beijing
+  country: China
   gender: male
   age: '36'
   education: master
@@ -1941,7 +1941,7 @@
   long_term_orientation: 72.11
   indulgence: 11.22
 - name: BJ_102
-  country: Beijing
+  country: China
   gender: male
   age: '36'
   education: master
@@ -1960,7 +1960,7 @@
   long_term_orientation: 76.63
   indulgence: 9.66
 - name: BJ_104
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -1979,7 +1979,7 @@
   long_term_orientation: 79.85
   indulgence: 31.55
 - name: BJ_099
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -1998,7 +1998,7 @@
   long_term_orientation: 51.43
   indulgence: 26.55
 - name: BJ_106
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -2017,7 +2017,7 @@
   long_term_orientation: 80.95
   indulgence: 34.79
 - name: BJ_105
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -2036,7 +2036,7 @@
   long_term_orientation: 97.05
   indulgence: 20.73
 - name: BJ_108
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -2055,7 +2055,7 @@
   long_term_orientation: 91.57
   indulgence: 9.01
 - name: BJ_109
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -2064,7 +2064,7 @@
   - diligent
   - tech-savvy
   - community-minded
-  profession: Software engineer at a Beijing fintech firm
+  profession: Software engineer at a China fintech firm
   family: married
   history_attitude: 近期的住房和创新驱动政策有助于稳定市场、提升城市竞争力，但也需要在民生保障和中小企业支持方面进一步优化。
   power_distance: 63.08
@@ -2074,7 +2074,7 @@
   long_term_orientation: 94.0
   indulgence: 17.4
 - name: BJ_112
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -2093,7 +2093,7 @@
   long_term_orientation: 85.58
   indulgence: 27.01
 - name: BJ_110
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -2112,7 +2112,7 @@
   long_term_orientation: 78.98
   indulgence: 2.24
 - name: BJ_107
-  country: Beijing
+  country: China
   gender: male
   age: '36'
   education: bachelor
@@ -2131,7 +2131,7 @@
   long_term_orientation: 47.3
   indulgence: 35.18
 - name: BJ_117
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -2150,7 +2150,7 @@
   long_term_orientation: 74.58
   indulgence: 0.0
 - name: BJ_113
-  country: Beijing
+  country: China
   gender: male
   age: '38'
   education: master
@@ -2169,7 +2169,7 @@
   long_term_orientation: 79.91
   indulgence: 29.61
 - name: BJ_114
-  country: Beijing
+  country: China
   gender: male
   age: '36'
   education: master
@@ -2188,7 +2188,7 @@
   long_term_orientation: 79.91
   indulgence: 48.9
 - name: BJ_115
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -2207,7 +2207,7 @@
   long_term_orientation: 82.28
   indulgence: 2.22
 - name: BJ_116
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: bachelor
@@ -2216,7 +2216,7 @@
   - pragmatic
   - community-minded
   - cautious
-  profession: Software engineer at a Beijing-based tech firm
+  profession: Software engineer at a China-based tech firm
   family: married
   history_attitude: 认为近年来的治污与公共交通升级政策总体有效，改善了生活质量；同时希望在住房限购与人才引进方面进一步优化，减轻中等收入家庭压力。
   power_distance: 60.26
@@ -2226,7 +2226,7 @@
   long_term_orientation: 56.02
   indulgence: 0.0
 - name: BJ_111
-  country: Beijing
+  country: China
   gender: male
   age: '36'
   education: master
@@ -2245,7 +2245,7 @@
   long_term_orientation: 76.86
   indulgence: 3.24
 - name: BJ_120
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -2264,7 +2264,7 @@
   long_term_orientation: 94.64
   indulgence: 17.36
 - name: BJ_118
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: master
@@ -2283,7 +2283,7 @@
   long_term_orientation: 71.67
   indulgence: 34.91
 - name: BJ_119
-  country: Beijing
+  country: China
   gender: male
   age: '32'
   education: master
@@ -2302,7 +2302,7 @@
   long_term_orientation: 100.0
   indulgence: 4.82
 - name: BJ_122
-  country: Beijing
+  country: China
   gender: male
   age: '36'
   education: bachelor
@@ -2321,7 +2321,7 @@
   long_term_orientation: 54.17
   indulgence: 28.28
 - name: BJ_123
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: master
@@ -2340,7 +2340,7 @@
   long_term_orientation: 70.01
   indulgence: 24.36
 - name: BJ_121
-  country: Beijing
+  country: China
   gender: male
   age: '36'
   education: master
@@ -2359,7 +2359,7 @@
   long_term_orientation: 65.17
   indulgence: 45.58
 - name: BJ_126
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -2378,7 +2378,7 @@
   long_term_orientation: 63.65
   indulgence: 27.89
 - name: BJ_124
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: master
@@ -2397,7 +2397,7 @@
   long_term_orientation: 100.0
   indulgence: 22.25
 - name: BJ_127
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -2416,7 +2416,7 @@
   long_term_orientation: 77.91
   indulgence: 1.6
 - name: BJ_125
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -2435,7 +2435,7 @@
   long_term_orientation: 54.08
   indulgence: 33.39
 - name: BJ_129
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -2454,7 +2454,7 @@
   long_term_orientation: 88.02
   indulgence: 40.98
 - name: BJ_128
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -2473,7 +2473,7 @@
   long_term_orientation: 69.23
   indulgence: 25.92
 - name: BJ_130
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -2492,7 +2492,7 @@
   long_term_orientation: 72.55
   indulgence: 54.03
 - name: BJ_131
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: master
@@ -2511,7 +2511,7 @@
   long_term_orientation: 93.81
   indulgence: 15.01
 - name: BJ_132
-  country: Beijing
+  country: China
   gender: male
   age: '36'
   education: bachelor
@@ -2530,7 +2530,7 @@
   long_term_orientation: 44.87
   indulgence: 43.01
 - name: BJ_133
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: bachelor
@@ -2549,7 +2549,7 @@
   long_term_orientation: 26.53
   indulgence: 0.0
 - name: BJ_134
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -2568,7 +2568,7 @@
   long_term_orientation: 58.02
   indulgence: 17.58
 - name: BJ_138
-  country: Beijing
+  country: China
   gender: male
   age: '32'
   education: master
@@ -2587,7 +2587,7 @@
   long_term_orientation: 66.5
   indulgence: 18.91
 - name: BJ_137
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -2606,7 +2606,7 @@
   long_term_orientation: 82.95
   indulgence: 9.36
 - name: BJ_135
-  country: Beijing
+  country: China
   gender: male
   age: '36'
   education: bachelor
@@ -2625,7 +2625,7 @@
   long_term_orientation: 95.39
   indulgence: 28.36
 - name: BJ_139
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -2644,7 +2644,7 @@
   long_term_orientation: 59.55
   indulgence: 21.13
 - name: BJ_140
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -2663,7 +2663,7 @@
   long_term_orientation: 35.56
   indulgence: 32.04
 - name: BJ_136
-  country: Beijing
+  country: China
   gender: male
   age: '36'
   education: master
@@ -2682,7 +2682,7 @@
   long_term_orientation: 96.0
   indulgence: 0.0
 - name: BJ_141
-  country: Beijing
+  country: China
   gender: male
   age: '36'
   education: master
@@ -2701,7 +2701,7 @@
   long_term_orientation: 80.01
   indulgence: 20.89
 - name: BJ_143
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: bachelor
@@ -2710,7 +2710,7 @@
   - diligent
   - community-minded
   - cautious
-  profession: software engineer at a Beijing tech company
+  profession: software engineer at a China tech company
   family: married
   history_attitude: 近年的疫情防控与经济复苏政策总体有效，但希望在住房调控和民营经济支持方面更精细。北京推进数字化治理和公共服务优化值得肯定。
   power_distance: 100.0
@@ -2720,7 +2720,7 @@
   long_term_orientation: 76.65
   indulgence: 6.93
 - name: BJ_142
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: master
@@ -2739,7 +2739,7 @@
   long_term_orientation: 65.08
   indulgence: 0.0
 - name: BJ_147
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: master
@@ -2758,7 +2758,7 @@
   long_term_orientation: 89.01
   indulgence: 39.6
 - name: BJ_145
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: master
@@ -2777,7 +2777,7 @@
   long_term_orientation: 92.32
   indulgence: 7.86
 - name: BJ_146
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -2796,7 +2796,7 @@
   long_term_orientation: 76.69
   indulgence: 36.28
 - name: BJ_149
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -2815,7 +2815,7 @@
   long_term_orientation: 86.44
   indulgence: 38.47
 - name: BJ_148
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: bachelor
@@ -2834,7 +2834,7 @@
   long_term_orientation: 76.98
   indulgence: 54.91
 - name: BJ_150
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -2853,7 +2853,7 @@
   long_term_orientation: 58.18
   indulgence: 14.86
 - name: BJ_152
-  country: Beijing
+  country: China
   gender: male
   age: '36'
   education: bachelor
@@ -2872,7 +2872,7 @@
   long_term_orientation: 73.83
   indulgence: 44.43
 - name: BJ_144
-  country: Beijing
+  country: China
   gender: male
   age: '36'
   education: master
@@ -2891,7 +2891,7 @@
   long_term_orientation: 42.36
   indulgence: 24.71
 - name: BJ_153
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: master
@@ -2910,7 +2910,7 @@
   long_term_orientation: 62.43
   indulgence: 7.14
 - name: BJ_151
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -2929,7 +2929,7 @@
   long_term_orientation: 53.04
   indulgence: 0.0
 - name: BJ_154
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -2949,7 +2949,7 @@
   long_term_orientation: 76.23
   indulgence: 17.09
 - name: BJ_157
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: master
@@ -2968,7 +2968,7 @@
   long_term_orientation: 35.62
   indulgence: 13.54
 - name: BJ_155
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -2987,7 +2987,7 @@
   long_term_orientation: 85.3
   indulgence: 7.64
 - name: BJ_156
-  country: Beijing
+  country: China
   gender: male
   age: '36'
   education: master
@@ -3006,7 +3006,7 @@
   long_term_orientation: 85.57
   indulgence: 21.96
 - name: BJ_158
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -3025,7 +3025,7 @@
   long_term_orientation: 100.0
   indulgence: 18.1
 - name: BJ_160
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -3044,7 +3044,7 @@
   long_term_orientation: 54.04
   indulgence: 30.7
 - name: BJ_162
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -3063,7 +3063,7 @@
   long_term_orientation: 86.07
   indulgence: 31.35
 - name: BJ_163
-  country: Beijing
+  country: China
   gender: male
   age: '36'
   education: bachelor
@@ -3082,7 +3082,7 @@
   long_term_orientation: 78.03
   indulgence: 29.69
 - name: BJ_161
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -3101,7 +3101,7 @@
   long_term_orientation: 100.0
   indulgence: 53.78
 - name: BJ_164
-  country: Beijing
+  country: China
   gender: male
   age: '36'
   education: master
@@ -3120,7 +3120,7 @@
   long_term_orientation: 88.58
   indulgence: 37.24
 - name: BJ_165
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -3139,7 +3139,7 @@
   long_term_orientation: 76.55
   indulgence: 14.74
 - name: BJ_159
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: master
@@ -3158,7 +3158,7 @@
   long_term_orientation: 80.94
   indulgence: 22.76
 - name: BJ_167
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: bachelor
@@ -3177,7 +3177,7 @@
   long_term_orientation: 96.75
   indulgence: 38.23
 - name: BJ_166
-  country: Beijing
+  country: China
   gender: male
   age: '32'
   education: master
@@ -3196,7 +3196,7 @@
   long_term_orientation: 80.02
   indulgence: 31.59
 - name: BJ_168
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: bachelor
@@ -3215,7 +3215,7 @@
   long_term_orientation: 74.28
   indulgence: 22.09
 - name: BJ_170
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -3234,7 +3234,7 @@
   long_term_orientation: 100.0
   indulgence: 35.38
 - name: BJ_169
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -3253,7 +3253,7 @@
   long_term_orientation: 97.63
   indulgence: 51.5
 - name: BJ_174
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -3272,7 +3272,7 @@
   long_term_orientation: 76.96
   indulgence: 33.91
 - name: BJ_172
-  country: Beijing
+  country: China
   gender: female
   age: '34'
   education: master
@@ -3291,7 +3291,7 @@
   long_term_orientation: 78.07
   indulgence: 38.11
 - name: BJ_173
-  country: Beijing
+  country: China
   gender: male
   age: '32'
   education: master
@@ -3310,7 +3310,7 @@
   long_term_orientation: 76.5
   indulgence: 5.81
 - name: BJ_171
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -3329,7 +3329,7 @@
   long_term_orientation: 81.49
   indulgence: 22.4
 - name: BJ_175
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -3348,7 +3348,7 @@
   long_term_orientation: 82.52
   indulgence: 22.73
 - name: BJ_176
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: master
@@ -3367,7 +3367,7 @@
   long_term_orientation: 82.27
   indulgence: 20.64
 - name: BJ_178
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -3386,7 +3386,7 @@
   long_term_orientation: 63.48
   indulgence: 9.03
 - name: BJ_179
-  country: Beijing
+  country: China
   gender: male
   age: '36'
   education: master
@@ -3405,7 +3405,7 @@
   long_term_orientation: 71.23
   indulgence: 19.5
 - name: BJ_180
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -3424,7 +3424,7 @@
   long_term_orientation: 74.97
   indulgence: 13.05
 - name: BJ_177
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -3444,7 +3444,7 @@
   long_term_orientation: 70.82
   indulgence: 27.6
 - name: BJ_182
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: bachelor
@@ -3463,7 +3463,7 @@
   long_term_orientation: 82.28
   indulgence: 21.22
 - name: BJ_183
-  country: Beijing
+  country: China
   gender: male
   age: '38'
   education: master
@@ -3482,7 +3482,7 @@
   long_term_orientation: 84.72
   indulgence: 5.12
 - name: BJ_184
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -3501,7 +3501,7 @@
   long_term_orientation: 62.66
   indulgence: 42.83
 - name: BJ_181
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -3520,7 +3520,7 @@
   long_term_orientation: 64.97
   indulgence: 15.21
 - name: BJ_185
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -3539,7 +3539,7 @@
   long_term_orientation: 100.0
   indulgence: 43.44
 - name: BJ_189
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: bachelor
@@ -3558,7 +3558,7 @@
   long_term_orientation: 100.0
   indulgence: 0.0
 - name: BJ_190
-  country: Beijing
+  country: China
   gender: male
   age: '42'
   education: master
@@ -3578,7 +3578,7 @@
   long_term_orientation: 100.0
   indulgence: 11.03
 - name: BJ_186
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -3597,7 +3597,7 @@
   long_term_orientation: 76.05
   indulgence: 25.5
 - name: BJ_187
-  country: Beijing
+  country: China
   gender: male
   age: '36'
   education: master
@@ -3616,7 +3616,7 @@
   long_term_orientation: 74.33
   indulgence: 21.04
 - name: BJ_188
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor
@@ -3635,7 +3635,7 @@
   long_term_orientation: 59.48
   indulgence: 42.65
 - name: BJ_192
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -3654,7 +3654,7 @@
   long_term_orientation: 89.19
   indulgence: 42.54
 - name: BJ_193
-  country: Beijing
+  country: China
   gender: male
   age: '36'
   education: master
@@ -3673,7 +3673,7 @@
   long_term_orientation: 65.06
   indulgence: 28.55
 - name: BJ_195
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -3692,7 +3692,7 @@
   long_term_orientation: 68.97
   indulgence: 7.36
 - name: BJ_194
-  country: Beijing
+  country: China
   gender: male
   age: '36'
   education: master
@@ -3711,7 +3711,7 @@
   long_term_orientation: 90.54
   indulgence: 24.65
 - name: BJ_196
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: master
@@ -3730,7 +3730,7 @@
   long_term_orientation: 100.0
   indulgence: 25.29
 - name: BJ_197
-  country: Beijing
+  country: China
   gender: male
   age: '38'
   education: master
@@ -3768,7 +3768,7 @@
   long_term_orientation: 100.0
   indulgence: 21.36
 - name: BJ_191
-  country: Beijing
+  country: China
   gender: male
   age: '32'
   education: master
@@ -3787,7 +3787,7 @@
   long_term_orientation: 100.0
   indulgence: 8.86
 - name: BJ_199
-  country: Beijing
+  country: China
   gender: male
   age: '36'
   education: master
@@ -3825,7 +3825,7 @@
   long_term_orientation: 76.38
   indulgence: 15.87
 - name: BJ_198
-  country: Beijing
+  country: China
   gender: male
   age: '34'
   education: bachelor

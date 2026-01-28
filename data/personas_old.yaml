@@ -14,7 +14,7 @@
   political_party: pro-establishment
   personality_prmot: 
 - name: Mingyu_137
-  country: Beijing
+  country: China
   gender: female
   age: '62'
   education: master
@@ -43,7 +43,7 @@
   political_ideology: nationalist
   political_party: pro-establishment
 - name: Xinyi_121
-  country: Beijing
+  country: China
   gender: female
   age: '48'
   education: phd
@@ -157,7 +157,7 @@
   political_ideology: nationalist
   political_party: prefer not to say
 - name: Mingyu_151
-  country: Beijing
+  country: China
   gender: male
   age: '55'
   education: master
@@ -184,7 +184,7 @@
   political_ideology: conservative
   political_party: non-partisan
 - name: Yating_114
-  country: Beijing
+  country: China
   gender: male
   age: '59'
   education: bachelor
@@ -240,7 +240,7 @@
   political_ideology: nationalist
   political_party: Greens
 - name: Lucy_111
-  country: Beijing
+  country: China
   gender: female
   age: '45'
   education: phd
@@ -308,7 +308,7 @@
   political_ideology: liberal
   political_party: pro-establishment
 - name: Yating_116
-  country: Beijing
+  country: China
   gender: female
   age: '61'
   education: master
@@ -320,7 +320,7 @@
   political_ideology: progressive
   political_party: prefer not to say
 - name: Shuai_126
-  country: Beijing
+  country: China
   gender: male
   age: '53'
   education: high_school
@@ -333,7 +333,7 @@
   political_ideology: nationalist
   political_party: Chinese Communist Party
 - name: Mingyu_163
-  country: Beijing
+  country: China
   gender: male
   age: '45'
   education: bachelor
@@ -347,7 +347,7 @@
   political_ideology: nationalist
   political_party: prefer not to say
 - name: Haoran_118
-  country: Beijing
+  country: China
   gender: female
   age: '39'
   education: master
@@ -374,7 +374,7 @@
   political_ideology: progressive
   political_party: AfD
 - name: Zihan_104
-  country: Beijing
+  country: China
   gender: female
   age: '43'
   education: master
@@ -389,7 +389,7 @@
   political_ideology: conservative
   political_party: prefer not to say
 - name: Zihan_102
-  country: Beijing
+  country: China
   gender: male
   age: '61'
   education: master
@@ -416,7 +416,7 @@
   political_ideology: centrist
   political_party: prefer not to say
 - name: Haoran_140
-  country: Beijing
+  country: China
   gender: female
   age: '27'
   education: master
@@ -430,7 +430,7 @@
   political_ideology: socialist
   political_party: non-partisan
 - name: Lucy_138
-  country: Beijing
+  country: China
   gender: male
   age: '49'
   education: phd
@@ -472,7 +472,7 @@
   political_ideology: environmentalist
   political_party: prefer not to say
 - name: Lucy_120
-  country: Beijing
+  country: China
   gender: female
   age: '58'
   education: bachelor
@@ -485,7 +485,7 @@
   political_ideology: socialist
   political_party: Chinese Communist Party
 - name: Yating_101
-  country: Beijing
+  country: China
   gender: male
   age: '55'
   education: master
@@ -558,7 +558,7 @@
   political_ideology: progressive
   political_party: Democratic Party
 - name: Rui_100
-  country: Beijing
+  country: China
   gender: female
   age: '26'
   education: bachelor
@@ -570,7 +570,7 @@
   political_ideology: nationalist
   political_party: non-partisan
 - name: Yue_158
-  country: Beijing
+  country: China
   gender: female
   age: '30'
   education: master
@@ -760,7 +760,7 @@
   political_ideology: conservative
   political_party: Left
 - name: Yue_144
-  country: Beijing
+  country: China
   gender: male
   age: '48'
   education: high_school
@@ -802,7 +802,7 @@
   political_ideology: conservative
   political_party: prefer not to say
 - name: Lucy_145
-  country: Beijing
+  country: China
   gender: male
   age: '43'
   education: bachelor
@@ -885,7 +885,7 @@
   political_ideology: conservative
   political_party: pro-establishment
 - name: Jiawei_152
-  country: Beijing
+  country: China
   gender: female
   age: '34'
   education: bachelor
@@ -912,7 +912,7 @@
   political_ideology: socialist
   political_party: non-partisan
 - name: Chenxi_146
-  country: Beijing
+  country: China
   gender: male
   age: '51'
   education: bachelor
@@ -926,7 +926,7 @@
   political_ideology: centrist
   political_party: non-partisan
 - name: Yue_154
-  country: Beijing
+  country: China
   gender: male
   age: '21'
   education: high_school
@@ -940,7 +940,7 @@
   political_ideology: centrist
   political_party: Chinese Communist Party
 - name: Yue_164
-  country: Beijing
+  country: China
   gender: female
   age: '59'
   education: bachelor
@@ -1027,7 +1027,7 @@
   political_ideology: nationalist
   political_party: Independent
 - name: Xinyi_139
-  country: Beijing
+  country: China
   gender: male
   age: '22'
   education: bachelor
@@ -1085,7 +1085,7 @@
   political_ideology: centrist
   political_party: prefer not to say
 - name: Yue_155
-  country: Beijing
+  country: China
   gender: male
   age: '54'
   education: bachelor
@@ -1143,7 +1143,7 @@
   political_ideology: progressive
   political_party: Independent
 - name: Mingyu_150
-  country: Beijing
+  country: China
   gender: female
   age: '46'
   education: master
@@ -1280,7 +1280,7 @@
   political_ideology: socialist
   political_party: pro-establishment
 - name: Xinyi_122
-  country: Beijing
+  country: China
   gender: male
   age: '60'
   education: master
@@ -1396,7 +1396,7 @@
   political_ideology: nationalist
   political_party: prefer not to say
 - name: Haoran_136
-  country: Beijing
+  country: China
   gender: male
   age: '52'
   education: bachelor
@@ -1411,7 +1411,7 @@
   political_ideology: conservative
   political_party: Chinese Communist Party
 - name: Chenxi_133
-  country: Beijing
+  country: China
   gender: female
   age: '29'
   education: bachelor
@@ -1481,7 +1481,7 @@
   political_ideology: environmentalist
   political_party: pro-democracy
 - name: Zihan_167
-  country: Beijing
+  country: China
   gender: male
   age: '44'
   education: associate
@@ -1565,7 +1565,7 @@
   political_ideology: environmentalist
   political_party: pro-democracy
 - name: Jiawei_132
-  country: Beijing
+  country: China
   gender: female
   age: '29'
   education: associate
@@ -1579,7 +1579,7 @@
   political_ideology: libertarian
   political_party: Chinese Communist Party
 - name: Yating_129
-  country: Beijing
+  country: China
   gender: male
   age: '58'
   education: associate
@@ -1593,7 +1593,7 @@
   political_ideology: progressive
   political_party: non-partisan
 - name: Yue_168
-  country: Beijing
+  country: China
   gender: male
   age: '46'
   education: bachelor
@@ -1607,7 +1607,7 @@
   political_ideology: socialist
   political_party: prefer not to say
 - name: Tianqi_135
-  country: Beijing
+  country: China
   gender: female
   age: '42'
   education: bachelor
@@ -1695,7 +1695,7 @@
   political_ideology: socialist
   political_party: prefer not to say
 - name: Tianqi_161
-  country: Beijing
+  country: China
   gender: male
   age: '43'
   education: high_school
@@ -1750,7 +1750,7 @@
   political_ideology: conservative
   political_party: INC
 - name: Zihan_112
-  country: Beijing
+  country: China
   gender: male
   age: '47'
   education: associate
@@ -1853,7 +1853,7 @@
   political_ideology: centrist
   political_party: SPD
 - name: Rui_142
-  country: Beijing
+  country: China
   gender: female
   age: '38'
   education: bachelor
@@ -1868,7 +1868,7 @@
   political_ideology: centrist
   political_party: non-partisan
 - name: Shuai_106
-  country: Beijing
+  country: China
   gender: male
   age: '43'
   education: associate
@@ -1896,7 +1896,7 @@
   political_ideology: liberal
   political_party: prefer not to say
 - name: Tianqi_125
-  country: Beijing
+  country: China
   gender: female
   age: '33'
   education: bachelor
@@ -1908,7 +1908,7 @@
   political_ideology: liberal
   political_party: Chinese Communist Party
 - name: Rui_143
-  country: Beijing
+  country: China
   gender: non-binary
   age: '37'
   education: master
@@ -1923,7 +1923,7 @@
   political_ideology: environmentalist
   political_party: Chinese Communist Party
 - name: Mingyu_148
-  country: Beijing
+  country: China
   gender: female
   age: '39'
   education: master
@@ -1952,7 +1952,7 @@
   political_ideology: nationalist
   political_party: pro-democracy
 - name: Tianqi_169
-  country: Beijing
+  country: China
   gender: male
   age: '40'
   education: phd
@@ -1967,7 +1967,7 @@
   political_ideology: environmentalist
   political_party: non-partisan
 - name: Tianqi_098
-  country: Beijing
+  country: China
   gender: female
   age: '31'
   education: bachelor
@@ -2020,7 +2020,7 @@
   political_ideology: socialist
   political_party: FDP
 - name: Yating_107
-  country: Beijing
+  country: China
   gender: female
   age: '31'
   education: bachelor
@@ -2137,7 +2137,7 @@
   political_ideology: libertarian
   political_party: Greens
 - name: Xinyi_123
-  country: Beijing
+  country: China
   gender: female
   age: '42'
   education: bachelor
@@ -2150,7 +2150,7 @@
   political_ideology: liberal
   political_party: non-partisan
 - name: Zihan_099
-  country: Beijing
+  country: China
   gender: male
   age: '48'
   education: bachelor
@@ -2206,7 +2206,7 @@
   political_ideology: liberal
   political_party: Liberal Democrats
 - name: Yating_103
-  country: Beijing
+  country: China
   gender: female
   age: '26'
   education: bachelor
@@ -2260,7 +2260,7 @@
   political_ideology: liberal
   political_party: prefer not to say
 - name: Rui_096
-  country: Beijing
+  country: China
   gender: male
   age: '35'
   education: phd
@@ -2318,7 +2318,7 @@
   political_ideology: socialist
   political_party: Democratic Party
 - name: Mingyu_113
-  country: Beijing
+  country: China
   gender: female
   age: '24'
   education: master
@@ -2373,7 +2373,7 @@
   political_ideology: centrist
   political_party: pro-establishment
 - name: Shuai_166
-  country: Beijing
+  country: China
   gender: male
   age: '58'
   education: bachelor
@@ -2457,7 +2457,7 @@
   political_ideology: nationalist
   political_party: Greens
 - name: Jiawei_110
-  country: Beijing
+  country: China
   gender: female
   age: '37'
   education: bachelor
@@ -2581,7 +2581,7 @@
   political_ideology: nationalist
   political_party: prefer not to say
 - name: Xinyi_119
-  country: Beijing
+  country: China
   gender: male
   age: '24'
   education: master
@@ -2651,7 +2651,7 @@
   political_ideology: progressive
   political_party: Independent
 - name: Shuai_165
-  country: Beijing
+  country: China
   gender: male
   age: '39'
   education: bachelor
@@ -2778,7 +2778,7 @@
   political_ideology: progressive
   political_party: pro-establishment
 - name: Jiawei_127
-  country: Beijing
+  country: China
   gender: male
   age: '30'
   education: master
@@ -2808,7 +2808,7 @@
   political_ideology: centrist
   political_party: non-partisan
 - name: Tianqi_147
-  country: Beijing
+  country: China
   gender: female
   age: '24'
   education: bachelor
@@ -2921,7 +2921,7 @@
   political_ideology: socialist
   political_party: INC
 - name: Jiawei_124
-  country: Beijing
+  country: China
   gender: male
   age: '28'
   education: master
@@ -2977,7 +2977,7 @@
   political_ideology: liberal
   political_party: non-partisan
 - name: Yating_141
-  country: Beijing
+  country: China
   gender: male
   age: '53'
   education: bachelor
@@ -3036,7 +3036,7 @@
   political_ideology: liberal
   political_party: pro-democracy
 - name: Haoran_105
-  country: Beijing
+  country: China
   gender: male
   age: '23'
   education: phd
@@ -3193,7 +3193,7 @@
   political_ideology: environmentalist
   political_party: non-partisan
 - name: Mingyu_128
-  country: Beijing
+  country: China
   gender: non-binary
   age: '50'
   education: master
@@ -3281,7 +3281,7 @@
   political_ideology: conservative
   political_party: non-partisan
 - name: Jiawei_159
-  country: Beijing
+  country: China
   gender: male
   age: '51'
   education: high_school
@@ -3404,7 +3404,7 @@
   political_ideology: nationalist
   political_party: CDU/CSU
 - name: Tianqi_156
-  country: Beijing
+  country: China
   gender: female
   age: '49'
   education: bachelor
@@ -3418,7 +3418,7 @@
   political_ideology: progressive
   political_party: prefer not to say
 - name: Haoran_160
-  country: Beijing
+  country: China
   gender: male
   age: '61'
   education: master
@@ -3446,7 +3446,7 @@
   political_ideology: centrist
   political_party: prefer not to say
 - name: Zihan_134
-  country: Beijing
+  country: China
   gender: female
   age: '59'
   education: bachelor
@@ -3491,7 +3491,7 @@
   political_ideology: libertarian
   political_party: pro-establishment
 - name: Jiawei_170
-  country: Beijing
+  country: China
   gender: female
   age: '39'
   education: master
@@ -3505,7 +3505,7 @@
   political_ideology: socialist
   political_party: prefer not to say
 - name: Shuai_108
-  country: Beijing
+  country: China
   gender: female
   age: '60'
   education: phd
@@ -3547,7 +3547,7 @@
   political_ideology: nationalist
   political_party: pro-democracy
 - name: Chenxi_162
-  country: Beijing
+  country: China
   gender: female
   age: '59'
   education: master
@@ -3635,7 +3635,7 @@
   political_ideology: nationalist
   political_party: Democratic Party
 - name: Zihan_130
-  country: Beijing
+  country: China
   gender: male
   age: '37'
   education: bachelor
@@ -3789,7 +3789,7 @@
   political_ideology: nationalist
   political_party: pro-democracy
 - name: Xinyi_131
-  country: Beijing
+  country: China
   gender: female
   age: '52'
   education: bachelor
@@ -3904,7 +3904,7 @@
   political_ideology: nationalist
   political_party: pro-democracy
 - name: Rui_109
-  country: Beijing
+  country: China
   gender: female
   age: '56'
   education: bachelor
@@ -3935,7 +3935,7 @@
   political_ideology: centrist
   political_party: prefer not to say
 - name: Haoran_115
-  country: Beijing
+  country: China
   gender: female
   age: '39'
   education: master
@@ -3948,7 +3948,7 @@
   political_ideology: socialist
   political_party: Chinese Communist Party
 - name: Yue_117
-  country: Beijing
+  country: China
   gender: female
   age: '60'
   education: bachelor
@@ -4004,7 +4004,7 @@
   political_ideology: progressive
   political_party: pro-establishment
 - name: Rui_097
-  country: Beijing
+  country: China
   gender: female
   age: '29'
   education: phd
@@ -4141,7 +4141,7 @@
   political_ideology: centrist
   political_party: prefer not to say
 - name: Shuai_149
-  country: Beijing
+  country: China
   gender: female
   age: '51'
   education: high_school
@@ -4155,7 +4155,7 @@
   political_ideology: conservative
   political_party: prefer not to say
 - name: Lucy_153
-  country: Beijing
+  country: China
   gender: female
   age: '39'
   education: master
@@ -4213,7 +4213,7 @@
   political_ideology: nationalist
   political_party: non-partisan
 - name: Zihan_157
-  country: Beijing
+  country: China
   gender: female
   age: '35'
   education: bachelor

@@ -43,6 +43,23 @@ def normalize_country(value: Optional[str]) -> str:
     return (value or "").strip().lower()
 
 
+def to_english_event(event: Event) -> Event:
+    """
+    Return a copy of the event that prefers English title/description when available.
+    """
+    english_title = getattr(event, "title_en", None) or event.title
+    english_description = getattr(event, "description_en", None) or event.description
+    return Event(
+        title=english_title,
+        description=english_description,
+        country=event.country,
+        title_en=getattr(event, "title_en", None),
+        description_en=getattr(event, "description_en", None),
+        if_red_tape=event.if_red_tape,
+        metadata=event.metadata,
+    )
+
+
 def _emotion_to_str(emotion) -> str:
     if isinstance(emotion, dict):
         try:
@@ -74,13 +91,15 @@ def run_simulations(
     countries: Set[str],
     include_optional: Set[str],
     model: str,
+    english_only: bool = False,
     on_progress: Optional[Callable] = None,
 ):
     """
     Run LLM simulations sequentially for the provided events.
     """
+    prepared_events = [to_english_event(e) if english_only else e for e in events_to_run]
     results = []
-    for event in events_to_run:
+    for event in prepared_events:
         reactions, stats, resolved_event = run_simulation_async(
             event, countries, include_optional, model, on_progress=on_progress
         )
@@ -94,6 +113,7 @@ def run_simulation_async(
     countries: Set[str],
     include_optional: Set[str],
     model: str,
+    english_only: bool = False,
     on_progress: Optional[Callable] = None,
 ):
     personas, events = load_data()
@@ -104,6 +124,8 @@ def run_simulation_async(
         event = events[event_or_idx]
     else:
         event = event_or_idx
+    if english_only:
+        event = to_english_event(event)
     try:
         async def runner():
             llm = LLMClient(model=model)
@@ -173,16 +195,18 @@ def run_default_agent_simulation(
 def run_test_simulation(
     events_to_run: List[Event],
     countries: Set[str],
+    english_only: bool = False,
     on_progress: Optional[Callable] = None,
 ):
     personas, _ = load_data()
     if not events_to_run:
         st.error("No events available.")
         return []
+    prepared_events = [to_english_event(e) if english_only else e for e in events_to_run]
     small_personas = personas[:2]
     rng = np.random.default_rng(0)
     results = []
-    for event in events_to_run:
+    for event in prepared_events:
         reactions = []
         for persona in small_personas:
             if countries and normalize_country(persona.country) not in countries:
@@ -276,6 +300,7 @@ def _reaction_to_dict(reaction: Reaction) -> dict:
         "country": reaction.persona.country or "Default",
         "emotion": reaction.emotion,
         "comment": reaction.comment,
+        "seed": reaction.seed,
     }
 
 
@@ -735,9 +760,11 @@ def main():
             "gemini/ggap/gemini-2.5-pro",
             "gemini/ggap/gemini-2.5-flash-lite",
             "gemini/ggap/gemini-2.5-flash",
-            "gemini/ggap/gemini-3-pro",
+            "gemini/ggap/gemini-3-pro-preview",
+            "deepseek-chat"
         ]
         selected_model = st.sidebar.selectbox("LLM model", model_choices, index=1)
+        use_english_events = st.sidebar.checkbox("Use English event text", value=False)
         non_red_events = [e for e in events if not e.if_red_tape]
         red_tape_events = [e for e in events if e.if_red_tape]
 
@@ -804,17 +831,18 @@ def main():
                     progress_placeholder.dataframe(df)
                     status_placeholder.info(f"Received {len(rows)} reactions across events...")
 
-            with st.spinner("Running simulation with LLM..."):
-                results = run_simulations(
-                    selected_events,
-                    target_countries,
-                    set(),
-                    selected_model,
-                    on_progress=on_progress,
-                )
-            if results:
-                save_path = save_simulation_run(results, mode="llm", model=selected_model)
-                st.success(f"Completed LLM simulation for selected pair. Saved to {save_path.name}")
+                with st.spinner("Running simulation with LLM..."):
+                    results = run_simulations(
+                        selected_events,
+                        target_countries,
+                        set(),
+                        selected_model,
+                        english_only=use_english_events,
+                        on_progress=on_progress,
+                    )
+                if results:
+                    save_path = save_simulation_run(results, mode="llm", model=selected_model)
+                    st.success(f"Completed LLM simulation for selected pair. Saved to {save_path.name}")
                 st.caption(f"Model used: {selected_model}")
                 render_result_pair(results, mock=False)
 
@@ -839,8 +867,13 @@ def main():
                     progress_placeholder.dataframe(df)
                     status_placeholder.info(f"Received {len(rows)} reactions across events (test)...")
 
-            with st.spinner("Running mock simulation..."):
-                results = run_test_simulation(selected_events, target_countries, on_progress=on_progress)
+                with st.spinner("Running mock simulation..."):
+                    results = run_test_simulation(
+                        selected_events,
+                        target_countries,
+                        english_only=use_english_events,
+                        on_progress=on_progress,
+                    )
             if results:
                 save_path = save_simulation_run(results, mode="mock", model="mock")
                 st.success(f"Completed mock simulation for selected pair. Saved to {save_path.name}")

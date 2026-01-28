@@ -17,6 +17,7 @@ class Reaction:
     persona: Persona
     comment: str = ""  # placeholder for future text responses
     emotion: dict | None = None  # emotion probabilities keyed by emotion name
+    seed: int | None = None
 
 
 class PersonaAgent:
@@ -52,7 +53,7 @@ class PersonaAgent:
         if self.persona.country.lower() == "germany":
             emotions.append("frustration")
         try:
-            emotion_dict, status = self.llm.generate_reaction(prompt, emotions=emotions)
+            emotion_dict, status, seed = self.llm.generate_reaction(prompt, emotions=emotions)
             if status != "success":
                 logger.warning(
                     "LLM returned status '%s' for persona '%s'; keeping raw content.",
@@ -62,7 +63,8 @@ class PersonaAgent:
         except Exception as exc:
             logger.warning("Failed to generate reaction for '%s': %s", self.persona.name, exc)
             emotion_dict = {"error": str(exc)}
-        return Reaction(persona=self.persona, emotion=emotion_dict)
+            seed = None
+        return Reaction(persona=self.persona, emotion=emotion_dict, seed=seed)
 
 
 class EventSimulation:

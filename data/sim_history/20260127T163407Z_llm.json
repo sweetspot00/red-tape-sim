@@ -1,0 +1,6906 @@
+{
+  "id": "20260127T163407Z",
+  "mode": "llm",
+  "saved_at": "20260127T163407Z",
+  "model": "azure/gpt-5",
+  "results": [
+    {
+      "event": {
+        "title": "领取实验奖金",
+        "description": "我们有好消息要告诉你！你被选中参加实验可以获得额外的奖金，恭喜你。\n我们将把你所得的金额翻倍，换句话说，你参加实验将得到100元。\n你将立即收到50元的额外款项，实验结束后，研究助理会将额外款额赠予你。\n",
+        "country": "China",
+        "title_en": "Experimental rewards",
+        "description_en": "We have good news for you! You have been selected to receive extra money for taking part in the experiment. Congratulations.\nWe will double the amount of money you will get. In other words, you will get 100 RMB for taking part in the experiment.\nYou will receive the extra money of 50 RMB straight away. After the experiment, the Research Assistant will present you with the extra money.\n",
+        "if_red_tape": false,
+        "metadata": {}
+      },
+      "reactions": [
+        {
+          "persona": "Mingyu_137",
+          "country": "China",
+          "emotion": {
+            "peace": 0.68,
+            "anger": 0.03,
+            "contempt": 0.04,
+            "fear": 0.12,
+            "disgust": 0.02,
+            "joy": 0.82,
+            "sadness": 0.06,
+            "surprise": 0.47,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 523239437
+        },
+        {
+          "persona": "BJ_008",
+          "country": "China",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.02,
+            "contempt": 0.03,
+            "fear": 0.1,
+            "disgust": 0.01,
+            "joy": 0.85,
+            "sadness": 0.03,
+            "surprise": 0.4,
+            "confusion": 0.2
+          },
+          "comment": "",
+          "seed": 752367492
+        },
+        {
+          "persona": "BJ_013",
+          "country": "China",
+          "emotion": {
+            "peace": 0.67,
+            "anger": 0.04,
+            "contempt": 0.05,
+            "fear": 0.1,
+            "disgust": 0.03,
+            "joy": 0.75,
+            "sadness": 0.06,
+            "surprise": 0.4,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 509050908
+        },
+        {
+          "persona": "BJ_014",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.06,
+            "contempt": 0.07,
+            "fear": 0.12,
+            "disgust": 0.03,
+            "joy": 0.78,
+            "sadness": 0.05,
+            "surprise": 0.47,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 532704597
+        },
+        {
+          "persona": "BJ_012",
+          "country": "China",
+          "emotion": {
+            "peace": 0.65,
+            "anger": 0.04,
+            "contempt": 0.03,
+            "fear": 0.09,
+            "disgust": 0.02,
+            "joy": 0.8,
+            "sadness": 0.05,
+            "surprise": 0.5,
+            "confusion": 0.15
+          },
+          "comment": "",
+          "seed": 537400942
+        },
+        {
+          "persona": "BJ_011",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.02,
+            "contempt": 0.03,
+            "fear": 0.15,
+            "disgust": 0.03,
+            "joy": 0.78,
+            "sadness": 0.07,
+            "surprise": 0.44,
+            "confusion": 0.28
+          },
+          "comment": "",
+          "seed": 983881898
+        },
+        {
+          "persona": "BJ_003",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.03,
+            "contempt": 0.05,
+            "fear": 0.09,
+            "disgust": 0.02,
+            "joy": 0.82,
+            "sadness": 0.05,
+            "surprise": 0.47,
+            "confusion": 0.16
+          },
+          "comment": "",
+          "seed": 689351792
+        },
+        {
+          "persona": "BJ_007",
+          "country": "China",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.02,
+            "contempt": 0.03,
+            "fear": 0.07,
+            "disgust": 0.01,
+            "joy": 0.78,
+            "sadness": 0.03,
+            "surprise": 0.4,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 378295756
+        },
+        {
+          "persona": "BJ_002",
+          "country": "China",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.02,
+            "contempt": 0.01,
+            "fear": 0.06,
+            "disgust": 0.01,
+            "joy": 0.85,
+            "sadness": 0.02,
+            "surprise": 0.3,
+            "confusion": 0.1
+          },
+          "comment": "",
+          "seed": 414401666
+        },
+        {
+          "persona": "BJ_001",
+          "country": "China",
+          "emotion": {
+            "peace": 0.72,
+            "anger": 0.03,
+            "contempt": 0.02,
+            "fear": 0.07,
+            "disgust": 0.01,
+            "joy": 0.86,
+            "sadness": 0.05,
+            "surprise": 0.44,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 923023426
+        },
+        {
+          "persona": "BJ_006",
+          "country": "China",
+          "emotion": {
+            "peace": 0.68,
+            "anger": 0.02,
+            "contempt": 0.02,
+            "fear": 0.06,
+            "disgust": 0.01,
+            "joy": 0.84,
+            "sadness": 0.03,
+            "surprise": 0.38,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 562667600
+        },
+        {
+          "persona": "BJ_005",
+          "country": "China",
+          "emotion": {
+            "peace": 0.68,
+            "anger": 0.03,
+            "contempt": 0.03,
+            "fear": 0.08,
+            "disgust": 0.02,
+            "joy": 0.82,
+            "sadness": 0.03,
+            "surprise": 0.47,
+            "confusion": 0.16
+          },
+          "comment": "",
+          "seed": 609180898
+        },
+        {
+          "persona": "BJ_004",
+          "country": "China",
+          "emotion": {
+            "peace": 0.64,
+            "anger": 0.02,
+            "contempt": 0.03,
+            "fear": 0.05,
+            "disgust": 0.02,
+            "joy": 0.85,
+            "sadness": 0.03,
+            "surprise": 0.47,
+            "confusion": 0.09
+          },
+          "comment": "",
+          "seed": 24086
+        },
+        {
+          "persona": "BJ_015",
+          "country": "China",
+          "emotion": {
+            "peace": 0.74,
+            "anger": 0.03,
+            "contempt": 0.04,
+            "fear": 0.07,
+            "disgust": 0.02,
+            "joy": 0.86,
+            "sadness": 0.04,
+            "surprise": 0.58,
+            "confusion": 0.15
+          },
+          "comment": "",
+          "seed": 276316549
+        },
+        {
+          "persona": "BJ_009",
+          "country": "China",
+          "emotion": {
+            "peace": 0.78,
+            "anger": 0.02,
+            "contempt": 0.03,
+            "fear": 0.1,
+            "disgust": 0.02,
+            "joy": 0.9,
+            "sadness": 0.03,
+            "surprise": 0.5,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 175634170
+        },
+        {
+          "persona": "BJ_016",
+          "country": "China",
+          "emotion": {
+            "peace": 0.64,
+            "anger": 0.04,
+            "contempt": 0.05,
+            "fear": 0.13,
+            "disgust": 0.03,
+            "joy": 0.8,
+            "sadness": 0.05,
+            "surprise": 0.42,
+            "confusion": 0.17
+          },
+          "comment": "",
+          "seed": 12156545
+        },
+        {
+          "persona": "BJ_023",
+          "country": "China",
+          "emotion": {
+            "peace": 0.72,
+            "anger": 0.04,
+            "contempt": 0.03,
+            "fear": 0.08,
+            "disgust": 0.02,
+            "joy": 0.86,
+            "sadness": 0.04,
+            "surprise": 0.62,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 708540258
+        },
+        {
+          "persona": "BJ_010",
+          "country": "China",
+          "emotion": {
+            "peace": 0.65,
+            "anger": 0.02,
+            "contempt": 0.03,
+            "fear": 0.07,
+            "disgust": 0.01,
+            "joy": 0.78,
+            "sadness": 0.03,
+            "surprise": 0.4,
+            "confusion": 0.15
+          },
+          "comment": "",
+          "seed": 848934268
+        },
+        {
+          "persona": "BJ_017",
+          "country": "China",
+          "emotion": {
+            "peace": 0.64,
+            "anger": 0.05,
+            "contempt": 0.07,
+            "fear": 0.12,
+            "disgust": 0.04,
+            "joy": 0.74,
+            "sadness": 0.05,
+            "surprise": 0.29,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 370479053
+        },
+        {
+          "persona": "BJ_018",
+          "country": "China",
+          "emotion": {
+            "peace": 0.72,
+            "anger": 0.03,
+            "contempt": 0.04,
+            "fear": 0.08,
+            "disgust": 0.02,
+            "joy": 0.8,
+            "sadness": 0.04,
+            "surprise": 0.45,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 150645103
+        },
+        {
+          "persona": "BJ_022",
+          "country": "China",
+          "emotion": {
+            "peace": 0.66,
+            "anger": 0.05,
+            "contempt": 0.06,
+            "fear": 0.12,
+            "disgust": 0.03,
+            "joy": 0.78,
+            "sadness": 0.04,
+            "surprise": 0.34,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 57428341
+        },
+        {
+          "persona": "BJ_019",
+          "country": "China",
+          "emotion": {
+            "peace": 0.64,
+            "anger": 0.06,
+            "contempt": 0.07,
+            "fear": 0.09,
+            "disgust": 0.05,
+            "joy": 0.82,
+            "sadness": 0.07,
+            "surprise": 0.48,
+            "confusion": 0.24
+          },
+          "comment": "",
+          "seed": 799160075
+        },
+        {
+          "persona": "BJ_020",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.04,
+            "contempt": 0.03,
+            "fear": 0.07,
+            "disgust": 0.01,
+            "joy": 0.68,
+            "sadness": 0.03,
+            "surprise": 0.28,
+            "confusion": 0.1
+          },
+          "comment": "",
+          "seed": 508298734
+        },
+        {
+          "persona": "BJ_025",
+          "country": "China",
+          "emotion": {
+            "peace": 0.72,
+            "anger": 0.03,
+            "contempt": 0.03,
+            "fear": 0.11,
+            "disgust": 0.02,
+            "joy": 0.78,
+            "sadness": 0.05,
+            "surprise": 0.41,
+            "confusion": 0.17
+          },
+          "comment": "",
+          "seed": 239580273
+        },
+        {
+          "persona": "BJ_024",
+          "country": "China",
+          "emotion": {
+            "peace": 0.65,
+            "anger": 0.03,
+            "contempt": 0.04,
+            "fear": 0.12,
+            "disgust": 0.02,
+            "joy": 0.78,
+            "sadness": 0.05,
+            "surprise": 0.5,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 449364068
+        },
+        {
+          "persona": "BJ_026",
+          "country": "China",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.03,
+            "contempt": 0.04,
+            "fear": 0.06,
+            "disgust": 0.02,
+            "joy": 0.85,
+            "sadness": 0.04,
+            "surprise": 0.42,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 572953258
+        },
+        {
+          "persona": "BJ_021",
+          "country": "China",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.02,
+            "contempt": 0.03,
+            "fear": 0.05,
+            "disgust": 0.01,
+            "joy": 0.85,
+            "sadness": 0.04,
+            "surprise": 0.38,
+            "confusion": 0.15
+          },
+          "comment": "",
+          "seed": 436612065
+        },
+        {
+          "persona": "BJ_027",
+          "country": "China",
+          "emotion": {
+            "peace": 0.72,
+            "anger": 0.04,
+            "contempt": 0.03,
+            "fear": 0.09,
+            "disgust": 0.02,
+            "joy": 0.78,
+            "sadness": 0.06,
+            "surprise": 0.51,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 951168076
+        },
+        {
+          "persona": "BJ_030",
+          "country": "China",
+          "emotion": {
+            "peace": 0.68,
+            "anger": 0.02,
+            "contempt": 0.03,
+            "fear": 0.07,
+            "disgust": 0.03,
+            "joy": 0.82,
+            "sadness": 0.05,
+            "surprise": 0.47,
+            "confusion": 0.14
+          },
+          "comment": "",
+          "seed": 937284826
+        },
+        {
+          "persona": "BJ_031",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.04,
+            "contempt": 0.05,
+            "fear": 0.14,
+            "disgust": 0.03,
+            "joy": 0.77,
+            "sadness": 0.03,
+            "surprise": 0.41,
+            "confusion": 0.27
+          },
+          "comment": "",
+          "seed": 689077424
+        },
+        {
+          "persona": "BJ_034",
+          "country": "China",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.03,
+            "contempt": 0.02,
+            "fear": 0.08,
+            "disgust": 0.01,
+            "joy": 0.85,
+            "sadness": 0.04,
+            "surprise": 0.3,
+            "confusion": 0.15
+          },
+          "comment": "",
+          "seed": 205055799
+        },
+        {
+          "persona": "BJ_032",
+          "country": "China",
+          "emotion": {
+            "peace": 0.68,
+            "anger": 0.06,
+            "contempt": 0.08,
+            "fear": 0.09,
+            "disgust": 0.05,
+            "joy": 0.82,
+            "sadness": 0.07,
+            "surprise": 0.55,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 374315874
+        },
+        {
+          "persona": "BJ_029",
+          "country": "China",
+          "emotion": {
+            "peace": 0.72,
+            "anger": 0.02,
+            "contempt": 0.04,
+            "fear": 0.1,
+            "disgust": 0.01,
+            "joy": 0.86,
+            "sadness": 0.03,
+            "surprise": 0.42,
+            "confusion": 0.15
+          },
+          "comment": "",
+          "seed": 344039515
+        },
+        {
+          "persona": "BJ_028",
+          "country": "China",
+          "emotion": {
+            "peace": 0.66,
+            "anger": 0.02,
+            "contempt": 0.01,
+            "fear": 0.06,
+            "disgust": 0.01,
+            "joy": 0.82,
+            "sadness": 0.03,
+            "surprise": 0.4,
+            "confusion": 0.09
+          },
+          "comment": "",
+          "seed": 452675122
+        },
+        {
+          "persona": "BJ_037",
+          "country": "China",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.07,
+            "contempt": 0.05,
+            "fear": 0.12,
+            "disgust": 0.04,
+            "joy": 0.8,
+            "sadness": 0.06,
+            "surprise": 0.4,
+            "confusion": 0.2
+          },
+          "comment": "",
+          "seed": 255168310
+        },
+        {
+          "persona": "BJ_035",
+          "country": "China",
+          "emotion": {
+            "peace": 0.25,
+            "anger": 0.03,
+            "contempt": 0.02,
+            "fear": 0.05,
+            "disgust": 0.02,
+            "joy": 0.4,
+            "sadness": 0.05,
+            "surprise": 0.1,
+            "confusion": 0.08
+          },
+          "comment": "",
+          "seed": 519307647
+        },
+        {
+          "persona": "BJ_040",
+          "country": "China",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.03,
+            "contempt": 0.02,
+            "fear": 0.05,
+            "disgust": 0.01,
+            "joy": 0.8,
+            "sadness": 0.03,
+            "surprise": 0.4,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 255526494
+        },
+        {
+          "persona": "BJ_038",
+          "country": "China",
+          "emotion": {
+            "peace": 0.64,
+            "anger": 0.05,
+            "contempt": 0.1,
+            "fear": 0.12,
+            "disgust": 0.03,
+            "joy": 0.84,
+            "sadness": 0.06,
+            "surprise": 0.48,
+            "confusion": 0.2
+          },
+          "comment": "",
+          "seed": 929326208
+        },
+        {
+          "persona": "BJ_041",
+          "country": "China",
+          "emotion": {
+            "peace": 0.65,
+            "anger": 0.04,
+            "contempt": 0.03,
+            "fear": 0.1,
+            "disgust": 0.02,
+            "joy": 0.8,
+            "sadness": 0.05,
+            "surprise": 0.45,
+            "confusion": 0.2
+          },
+          "comment": "",
+          "seed": 927137573
+        },
+        {
+          "persona": "BJ_036",
+          "country": "China",
+          "emotion": {
+            "peace": 0.74,
+            "anger": 0.03,
+            "contempt": 0.04,
+            "fear": 0.12,
+            "disgust": 0.02,
+            "joy": 0.86,
+            "sadness": 0.03,
+            "surprise": 0.42,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 830909629
+        },
+        {
+          "persona": "BJ_039",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.03,
+            "contempt": 0.05,
+            "fear": 0.14,
+            "disgust": 0.02,
+            "joy": 0.78,
+            "sadness": 0.04,
+            "surprise": 0.46,
+            "confusion": 0.19
+          },
+          "comment": "",
+          "seed": 785940878
+        },
+        {
+          "persona": "BJ_046",
+          "country": "China",
+          "emotion": {
+            "peace": 0.66,
+            "anger": 0.03,
+            "contempt": 0.04,
+            "fear": 0.08,
+            "disgust": 0.02,
+            "joy": 0.86,
+            "sadness": 0.03,
+            "surprise": 0.41,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 989144508
+        },
+        {
+          "persona": "BJ_042",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.04,
+            "contempt": 0.03,
+            "fear": 0.12,
+            "disgust": 0.04,
+            "joy": 0.78,
+            "sadness": 0.05,
+            "surprise": 0.41,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 679857077
+        },
+        {
+          "persona": "BJ_044",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.04,
+            "contempt": 0.03,
+            "fear": 0.12,
+            "disgust": 0.02,
+            "joy": 0.74,
+            "sadness": 0.05,
+            "surprise": 0.58,
+            "confusion": 0.17
+          },
+          "comment": "",
+          "seed": 207592833
+        },
+        {
+          "persona": "BJ_045",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.04,
+            "contempt": 0.03,
+            "fear": 0.14,
+            "disgust": 0.02,
+            "joy": 0.74,
+            "sadness": 0.06,
+            "surprise": 0.42,
+            "confusion": 0.21
+          },
+          "comment": "",
+          "seed": 999128660
+        },
+        {
+          "persona": "BJ_033",
+          "country": "China",
+          "emotion": {
+            "peace": 0.56,
+            "anger": 0.05,
+            "contempt": 0.04,
+            "fear": 0.12,
+            "disgust": 0.03,
+            "joy": 0.69,
+            "sadness": 0.05,
+            "surprise": 0.41,
+            "confusion": 0.17
+          },
+          "comment": "",
+          "seed": 497552968
+        },
+        {
+          "persona": "BJ_043",
+          "country": "China",
+          "emotion": {
+            "peace": 0.68,
+            "anger": 0.04,
+            "contempt": 0.03,
+            "fear": 0.08,
+            "disgust": 0.02,
+            "joy": 0.82,
+            "sadness": 0.06,
+            "surprise": 0.55,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 123669258
+        },
+        {
+          "persona": "BJ_052",
+          "country": "China",
+          "emotion": {
+            "peace": 0.65,
+            "anger": 0.02,
+            "contempt": 0.04,
+            "fear": 0.07,
+            "disgust": 0.01,
+            "joy": 0.88,
+            "sadness": 0.02,
+            "surprise": 0.4,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 322567441
+        },
+        {
+          "persona": "BJ_053",
+          "country": "China",
+          "emotion": {
+            "peace": 0.67,
+            "anger": 0.03,
+            "contempt": 0.04,
+            "fear": 0.13,
+            "disgust": 0.02,
+            "joy": 0.84,
+            "sadness": 0.05,
+            "surprise": 0.41,
+            "confusion": 0.17
+          },
+          "comment": "",
+          "seed": 913657419
+        },
+        {
+          "persona": "BJ_057",
+          "country": "China",
+          "emotion": {
+            "peace": 0.65,
+            "anger": 0.03,
+            "contempt": 0.06,
+            "fear": 0.08,
+            "disgust": 0.02,
+            "joy": 0.75,
+            "sadness": 0.05,
+            "surprise": 0.4,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 340401005
+        },
+        {
+          "persona": "BJ_050",
+          "country": "China",
+          "emotion": {
+            "peace": 0.76,
+            "anger": 0.02,
+            "contempt": 0.04,
+            "fear": 0.06,
+            "disgust": 0.01,
+            "joy": 0.88,
+            "sadness": 0.02,
+            "surprise": 0.62,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 91618215
+        },
+        {
+          "persona": "BJ_058",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.04,
+            "contempt": 0.03,
+            "fear": 0.12,
+            "disgust": 0.02,
+            "joy": 0.74,
+            "sadness": 0.05,
+            "surprise": 0.28,
+            "confusion": 0.14
+          },
+          "comment": "",
+          "seed": 113446385
+        },
+        {
+          "persona": "BJ_055",
+          "country": "China",
+          "emotion": {
+            "peace": 0.66,
+            "anger": 0.03,
+            "contempt": 0.04,
+            "fear": 0.09,
+            "disgust": 0.02,
+            "joy": 0.82,
+            "sadness": 0.05,
+            "surprise": 0.52,
+            "confusion": 0.2
+          },
+          "comment": "",
+          "seed": 985801887
+        },
+        {
+          "persona": "BJ_054",
+          "country": "China",
+          "emotion": {
+            "peace": 0.68,
+            "anger": 0.03,
+            "contempt": 0.02,
+            "fear": 0.12,
+            "disgust": 0.01,
+            "joy": 0.78,
+            "sadness": 0.04,
+            "surprise": 0.47,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 631981717
+        },
+        {
+          "persona": "BJ_048",
+          "country": "China",
+          "emotion": {
+            "peace": 0.56,
+            "anger": 0.06,
+            "contempt": 0.1,
+            "fear": 0.18,
+            "disgust": 0.03,
+            "joy": 0.72,
+            "sadness": 0.05,
+            "surprise": 0.6,
+            "confusion": 0.27
+          },
+          "comment": "",
+          "seed": 907433929
+        },
+        {
+          "persona": "BJ_047",
+          "country": "China",
+          "emotion": {
+            "peace": 0.74,
+            "anger": 0.02,
+            "contempt": 0.03,
+            "fear": 0.08,
+            "disgust": 0.01,
+            "joy": 0.84,
+            "sadness": 0.04,
+            "surprise": 0.42,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 842715343
+        },
+        {
+          "persona": "BJ_049",
+          "country": "China",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.02,
+            "contempt": 0.03,
+            "fear": 0.1,
+            "disgust": 0.01,
+            "joy": 0.7,
+            "sadness": 0.05,
+            "surprise": 0.4,
+            "confusion": 0.2
+          },
+          "comment": "",
+          "seed": 161120698
+        },
+        {
+          "persona": "BJ_051",
+          "country": "China",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.05,
+            "contempt": 0.07,
+            "fear": 0.08,
+            "disgust": 0.03,
+            "joy": 0.8,
+            "sadness": 0.04,
+            "surprise": 0.55,
+            "confusion": 0.2
+          },
+          "comment": "",
+          "seed": 733212178
+        },
+        {
+          "persona": "BJ_056",
+          "country": "China",
+          "emotion": {
+            "peace": 0.68,
+            "anger": 0.03,
+            "contempt": 0.04,
+            "fear": 0.14,
+            "disgust": 0.02,
+            "joy": 0.82,
+            "sadness": 0.05,
+            "surprise": 0.41,
+            "confusion": 0.24
+          },
+          "comment": "",
+          "seed": 248599754
+        },
+        {
+          "persona": "BJ_060",
+          "country": "China",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.02,
+            "contempt": 0.03,
+            "fear": 0.15,
+            "disgust": 0.02,
+            "joy": 0.82,
+            "sadness": 0.05,
+            "surprise": 0.6,
+            "confusion": 0.2
+          },
+          "comment": "",
+          "seed": 558529947
+        },
+        {
+          "persona": "BJ_063",
+          "country": "China",
+          "emotion": {
+            "peace": 0.75,
+            "anger": 0.02,
+            "contempt": 0.04,
+            "fear": 0.06,
+            "disgust": 0.01,
+            "joy": 0.82,
+            "sadness": 0.03,
+            "surprise": 0.38,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 89374742
+        },
+        {
+          "persona": "BJ_059",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.04,
+            "contempt": 0.03,
+            "fear": 0.14,
+            "disgust": 0.03,
+            "joy": 0.76,
+            "sadness": 0.06,
+            "surprise": 0.42,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 480898281
+        },
+        {
+          "persona": "BJ_062",
+          "country": "China",
+          "emotion": {
+            "peace": 0.72,
+            "anger": 0.03,
+            "contempt": 0.06,
+            "fear": 0.09,
+            "disgust": 0.02,
+            "joy": 0.86,
+            "sadness": 0.04,
+            "surprise": 0.58,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 835362406
+        },
+        {
+          "persona": "BJ_061",
+          "country": "China",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.03,
+            "contempt": 0.04,
+            "fear": 0.09,
+            "disgust": 0.02,
+            "joy": 0.8,
+            "sadness": 0.06,
+            "surprise": 0.4,
+            "confusion": 0.2
+          },
+          "comment": "",
+          "seed": 715722304
+        },
+        {
+          "persona": "BJ_066",
+          "country": "China",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.03,
+            "contempt": 0.04,
+            "fear": 0.06,
+            "disgust": 0.01,
+            "joy": 0.86,
+            "sadness": 0.02,
+            "surprise": 0.35,
+            "confusion": 0.17
+          },
+          "comment": "",
+          "seed": 691508016
+        },
+        {
+          "persona": "BJ_071",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.04,
+            "contempt": 0.03,
+            "fear": 0.18,
+            "disgust": 0.02,
+            "joy": 0.74,
+            "sadness": 0.05,
+            "surprise": 0.51,
+            "confusion": 0.17
+          },
+          "comment": "",
+          "seed": 865231617
+        },
+        {
+          "persona": "BJ_064",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.03,
+            "contempt": 0.02,
+            "fear": 0.07,
+            "disgust": 0.02,
+            "joy": 0.74,
+            "sadness": 0.04,
+            "surprise": 0.36,
+            "confusion": 0.16
+          },
+          "comment": "",
+          "seed": 230338635
+        },
+        {
+          "persona": "BJ_070",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.04,
+            "contempt": 0.03,
+            "fear": 0.09,
+            "disgust": 0.02,
+            "joy": 0.75,
+            "sadness": 0.06,
+            "surprise": 0.34,
+            "confusion": 0.21
+          },
+          "comment": "",
+          "seed": 103444196
+        },
+        {
+          "persona": "BJ_067",
+          "country": "China",
+          "emotion": {
+            "peace": 0.66,
+            "anger": 0.04,
+            "contempt": 0.03,
+            "fear": 0.08,
+            "disgust": 0.02,
+            "joy": 0.82,
+            "sadness": 0.04,
+            "surprise": 0.56,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 858783323
+        },
+        {
+          "persona": "BJ_065",
+          "country": "China",
+          "emotion": {
+            "peace": 0.68,
+            "anger": 0.04,
+            "contempt": 0.03,
+            "fear": 0.12,
+            "disgust": 0.02,
+            "joy": 0.82,
+            "sadness": 0.06,
+            "surprise": 0.47,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 457945200
+        },
+        {
+          "persona": "BJ_072",
+          "country": "China",
+          "emotion": {
+            "peace": 0.64,
+            "anger": 0.04,
+            "contempt": 0.07,
+            "fear": 0.06,
+            "disgust": 0.02,
+            "joy": 0.82,
+            "sadness": 0.03,
+            "surprise": 0.31,
+            "confusion": 0.15
+          },
+          "comment": "",
+          "seed": 458595981
+        },
+        {
+          "persona": "BJ_069",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.03,
+            "contempt": 0.02,
+            "fear": 0.08,
+            "disgust": 0.02,
+            "joy": 0.78,
+            "sadness": 0.04,
+            "surprise": 0.41,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 452207830
+        },
+        {
+          "persona": "BJ_068",
+          "country": "China",
+          "emotion": {
+            "peace": 0.64,
+            "anger": 0.02,
+            "contempt": 0.04,
+            "fear": 0.08,
+            "disgust": 0.02,
+            "joy": 0.8,
+            "sadness": 0.03,
+            "surprise": 0.36,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 418444518
+        },
+        {
+          "persona": "BJ_073",
+          "country": "China",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.03,
+            "contempt": 0.04,
+            "fear": 0.1,
+            "disgust": 0.02,
+            "joy": 0.75,
+            "sadness": 0.03,
+            "surprise": 0.35,
+            "confusion": 0.2
+          },
+          "comment": "",
+          "seed": 279821726
+        },
+        {
+          "persona": "BJ_076",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.03,
+            "contempt": 0.04,
+            "fear": 0.08,
+            "disgust": 0.02,
+            "joy": 0.82,
+            "sadness": 0.05,
+            "surprise": 0.4,
+            "confusion": 0.14
+          },
+          "comment": "",
+          "seed": 330713117
+        },
+        {
+          "persona": "BJ_075",
+          "country": "China",
+          "emotion": {
+            "peace": 0.68,
+            "anger": 0.04,
+            "contempt": 0.05,
+            "fear": 0.12,
+            "disgust": 0.03,
+            "joy": 0.82,
+            "sadness": 0.06,
+            "surprise": 0.47,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 637410321
+        },
+        {
+          "persona": "BJ_079",
+          "country": "China",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.02,
+            "contempt": 0.02,
+            "fear": 0.12,
+            "disgust": 0.02,
+            "joy": 0.85,
+            "sadness": 0.02,
+            "surprise": 0.4,
+            "confusion": 0.15
+          },
+          "comment": "",
+          "seed": 484358179
+        },
+        {
+          "persona": "BJ_074",
+          "country": "China",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.02,
+            "contempt": 0.04,
+            "fear": 0.06,
+            "disgust": 0.02,
+            "joy": 0.85,
+            "sadness": 0.03,
+            "surprise": 0.5,
+            "confusion": 0.08
+          },
+          "comment": "",
+          "seed": 736889562
+        },
+        {
+          "persona": "BJ_082",
+          "country": "China",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.02,
+            "contempt": 0.03,
+            "fear": 0.06,
+            "disgust": 0.02,
+            "joy": 0.9,
+            "sadness": 0.05,
+            "surprise": 0.65,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 520994828
+        },
+        {
+          "persona": "BJ_078",
+          "country": "China",
+          "emotion": {
+            "peace": 0.68,
+            "anger": 0.03,
+            "contempt": 0.07,
+            "fear": 0.06,
+            "disgust": 0.03,
+            "joy": 0.82,
+            "sadness": 0.05,
+            "surprise": 0.52,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 627333329
+        },
+        {
+          "persona": "BJ_084",
+          "country": "China",
+          "emotion": {
+            "peace": 0.68,
+            "anger": 0.02,
+            "contempt": 0.04,
+            "fear": 0.06,
+            "disgust": 0.02,
+            "joy": 0.82,
+            "sadness": 0.04,
+            "surprise": 0.41,
+            "confusion": 0.14
+          },
+          "comment": "",
+          "seed": 386697647
+        },
+        {
+          "persona": "BJ_080",
+          "country": "China",
+          "emotion": {
+            "peace": 0.64,
+            "anger": 0.03,
+            "contempt": 0.02,
+            "fear": 0.06,
+            "disgust": 0.02,
+            "joy": 0.74,
+            "sadness": 0.03,
+            "surprise": 0.33,
+            "confusion": 0.1
+          },
+          "comment": "",
+          "seed": 423710249
+        },
+        {
+          "persona": "BJ_077",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.04,
+            "contempt": 0.07,
+            "fear": 0.16,
+            "disgust": 0.03,
+            "joy": 0.78,
+            "sadness": 0.08,
+            "surprise": 0.44,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 50858267
+        },
+        {
+          "persona": "BJ_081",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.02,
+            "contempt": 0.03,
+            "fear": 0.1,
+            "disgust": 0.01,
+            "joy": 0.76,
+            "sadness": 0.03,
+            "surprise": 0.38,
+            "confusion": 0.14
+          },
+          "comment": "",
+          "seed": 802074263
+        },
+        {
+          "persona": "BJ_083",
+          "country": "China",
+          "emotion": {
+            "peace": 0.68,
+            "anger": 0.03,
+            "contempt": 0.04,
+            "fear": 0.12,
+            "disgust": 0.02,
+            "joy": 0.82,
+            "sadness": 0.05,
+            "surprise": 0.57,
+            "confusion": 0.23
+          },
+          "comment": "",
+          "seed": 590720781
+        },
+        {
+          "persona": "BJ_089",
+          "country": "China",
+          "emotion": {
+            "peace": 0.68,
+            "anger": 0.03,
+            "contempt": 0.02,
+            "fear": 0.11,
+            "disgust": 0.02,
+            "joy": 0.84,
+            "sadness": 0.04,
+            "surprise": 0.37,
+            "confusion": 0.07
+          },
+          "comment": "",
+          "seed": 116600838
+        },
+        {
+          "persona": "BJ_086",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.04,
+            "contempt": 0.05,
+            "fear": 0.09,
+            "disgust": 0.01,
+            "joy": 0.75,
+            "sadness": 0.03,
+            "surprise": 0.4,
+            "confusion": 0.1
+          },
+          "comment": "",
+          "seed": 249610259
+        },
+        {
+          "persona": "BJ_087",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.02,
+            "contempt": 0.02,
+            "fear": 0.06,
+            "disgust": 0.01,
+            "joy": 0.73,
+            "sadness": 0.03,
+            "surprise": 0.38,
+            "confusion": 0.11
+          },
+          "comment": "",
+          "seed": 901665040
+        },
+        {
+          "persona": "BJ_088",
+          "country": "China",
+          "emotion": {
+            "peace": 0.64,
+            "anger": 0.03,
+            "contempt": 0.04,
+            "fear": 0.12,
+            "disgust": 0.02,
+            "joy": 0.78,
+            "sadness": 0.03,
+            "surprise": 0.58,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 618656239
+        },
+        {
+          "persona": "BJ_085",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.03,
+            "contempt": 0.05,
+            "fear": 0.11,
+            "disgust": 0.02,
+            "joy": 0.69,
+            "sadness": 0.03,
+            "surprise": 0.34,
+            "confusion": 0.17
+          },
+          "comment": "",
+          "seed": 864167508
+        },
+        {
+          "persona": "BJ_095",
+          "country": "China",
+          "emotion": {
+            "peace": 0.72,
+            "anger": 0.03,
+            "contempt": 0.05,
+            "fear": 0.12,
+            "disgust": 0.02,
+            "joy": 0.85,
+            "sadness": 0.04,
+            "surprise": 0.58,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 753076914
+        },
+        {
+          "persona": "BJ_090",
+          "country": "China",
+          "emotion": {
+            "peace": 0.65,
+            "anger": 0.04,
+            "contempt": 0.03,
+            "fear": 0.07,
+            "disgust": 0.03,
+            "joy": 0.8,
+            "sadness": 0.05,
+            "surprise": 0.42,
+            "confusion": 0.16
+          },
+          "comment": "",
+          "seed": 237141095
+        },
+        {
+          "persona": "BJ_092",
+          "country": "China",
+          "emotion": {
+            "peace": 0.63,
+            "anger": 0.06,
+            "contempt": 0.03,
+            "fear": 0.1,
+            "disgust": 0.04,
+            "joy": 0.79,
+            "sadness": 0.06,
+            "surprise": 0.35,
+            "confusion": 0.21
+          },
+          "comment": "",
+          "seed": 674387113
+        },
+        {
+          "persona": "BJ_093",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.03,
+            "contempt": 0.02,
+            "fear": 0.11,
+            "disgust": 0.02,
+            "joy": 0.76,
+            "sadness": 0.04,
+            "surprise": 0.41,
+            "confusion": 0.17
+          },
+          "comment": "",
+          "seed": 110997139
+        },
+        {
+          "persona": "BJ_091",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.03,
+            "contempt": 0.06,
+            "fear": 0.11,
+            "disgust": 0.03,
+            "joy": 0.82,
+            "sadness": 0.04,
+            "surprise": 0.45,
+            "confusion": 0.14
+          },
+          "comment": "",
+          "seed": 95217639
+        },
+        {
+          "persona": "BJ_103",
+          "country": "China",
+          "emotion": {
+            "peace": 0.65,
+            "anger": 0.05,
+            "contempt": 0.04,
+            "fear": 0.12,
+            "disgust": 0.03,
+            "joy": 0.78,
+            "sadness": 0.06,
+            "surprise": 0.42,
+            "confusion": 0.15
+          },
+          "comment": "",
+          "seed": 127902569
+        },
+        {
+          "persona": "BJ_100",
+          "country": "China",
+          "emotion": {
+            "peace": 0.64,
+            "anger": 0.04,
+            "contempt": 0.03,
+            "fear": 0.09,
+            "disgust": 0.02,
+            "joy": 0.78,
+            "sadness": 0.05,
+            "surprise": 0.41,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 679119455
+        },
+        {
+          "persona": "BJ_102",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.04,
+            "contempt": 0.06,
+            "fear": 0.09,
+            "disgust": 0.03,
+            "joy": 0.78,
+            "sadness": 0.07,
+            "surprise": 0.41,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 622654164
+        },
+        {
+          "persona": "BJ_098",
+          "country": "China",
+          "emotion": {
+            "peace": 0.68,
+            "anger": 0.03,
+            "contempt": 0.04,
+            "fear": 0.12,
+            "disgust": 0.02,
+            "joy": 0.82,
+            "sadness": 0.04,
+            "surprise": 0.47,
+            "confusion": 0.1
+          },
+          "comment": "",
+          "seed": 292262292
+        },
+        {
+          "persona": "BJ_105",
+          "country": "China",
+          "emotion": {
+            "peace": 0.68,
+            "anger": 0.06,
+            "contempt": 0.05,
+            "fear": 0.18,
+            "disgust": 0.04,
+            "joy": 0.82,
+            "sadness": 0.05,
+            "surprise": 0.57,
+            "confusion": 0.14
+          },
+          "comment": "",
+          "seed": 723703904
+        },
+        {
+          "persona": "BJ_108",
+          "country": "China",
+          "emotion": {
+            "peace": 0.64,
+            "anger": 0.03,
+            "contempt": 0.04,
+            "fear": 0.09,
+            "disgust": 0.01,
+            "joy": 0.78,
+            "sadness": 0.05,
+            "surprise": 0.46,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 384939545
+        },
+        {
+          "persona": "BJ_106",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.03,
+            "contempt": 0.02,
+            "fear": 0.09,
+            "disgust": 0.01,
+            "joy": 0.8,
+            "sadness": 0.04,
+            "surprise": 0.44,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 153367842
+        },
+        {
+          "persona": "BJ_101",
+          "country": "China",
+          "emotion": {
+            "peace": 0.68,
+            "anger": 0.03,
+            "contempt": 0.04,
+            "fear": 0.07,
+            "disgust": 0.02,
+            "joy": 0.82,
+            "sadness": 0.04,
+            "surprise": 0.52,
+            "confusion": 0.14
+          },
+          "comment": "",
+          "seed": 167200155
+        },
+        {
+          "persona": "BJ_094",
+          "country": "China",
+          "emotion": {
+            "peace": 0.72,
+            "anger": 0.01,
+            "contempt": 0.02,
+            "fear": 0.06,
+            "disgust": 0.01,
+            "joy": 0.85,
+            "sadness": 0.02,
+            "surprise": 0.55,
+            "confusion": 0.1
+          },
+          "comment": "",
+          "seed": 106462398
+        },
+        {
+          "persona": "BJ_104",
+          "country": "China",
+          "emotion": {
+            "peace": 0.75,
+            "anger": 0.02,
+            "contempt": 0.02,
+            "fear": 0.12,
+            "disgust": 0.01,
+            "joy": 0.85,
+            "sadness": 0.03,
+            "surprise": 0.7,
+            "confusion": 0.1
+          },
+          "comment": "",
+          "seed": 826394986
+        },
+        {
+          "persona": "BJ_109",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.04,
+            "contempt": 0.03,
+            "fear": 0.12,
+            "disgust": 0.02,
+            "joy": 0.78,
+            "sadness": 0.07,
+            "surprise": 0.45,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 791508342
+        },
+        {
+          "persona": "BJ_096",
+          "country": "China",
+          "emotion": {
+            "peace": 0.72,
+            "anger": 0.03,
+            "contempt": 0.05,
+            "fear": 0.08,
+            "disgust": 0.02,
+            "joy": 0.82,
+            "sadness": 0.03,
+            "surprise": 0.57,
+            "confusion": 0.1
+          },
+          "comment": "",
+          "seed": 964385013
+        },
+        {
+          "persona": "BJ_099",
+          "country": "China",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.03,
+            "contempt": 0.06,
+            "fear": 0.12,
+            "disgust": 0.02,
+            "joy": 0.72,
+            "sadness": 0.04,
+            "surprise": 0.35,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 596038354
+        },
+        {
+          "persona": "BJ_097",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.03,
+            "contempt": 0.06,
+            "fear": 0.1,
+            "disgust": 0.02,
+            "joy": 0.75,
+            "sadness": 0.04,
+            "surprise": 0.35,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 296618864
+        },
+        {
+          "persona": "BJ_107",
+          "country": "China",
+          "emotion": {
+            "peace": 0.64,
+            "anger": 0.04,
+            "contempt": 0.03,
+            "fear": 0.12,
+            "disgust": 0.02,
+            "joy": 0.82,
+            "sadness": 0.03,
+            "surprise": 0.42,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 367491782
+        },
+        {
+          "persona": "BJ_110",
+          "country": "China",
+          "emotion": {
+            "peace": 0.64,
+            "anger": 0.04,
+            "contempt": 0.05,
+            "fear": 0.11,
+            "disgust": 0.03,
+            "joy": 0.78,
+            "sadness": 0.06,
+            "surprise": 0.5,
+            "confusion": 0.17
+          },
+          "comment": "",
+          "seed": 160298286
+        },
+        {
+          "persona": "BJ_114",
+          "country": "China",
+          "emotion": {
+            "peace": 0.8,
+            "anger": 0.02,
+            "contempt": 0.01,
+            "fear": 0.05,
+            "disgust": 0.01,
+            "joy": 0.9,
+            "sadness": 0.03,
+            "surprise": 0.4,
+            "confusion": 0.15
+          },
+          "comment": "",
+          "seed": 546279970
+        },
+        {
+          "persona": "BJ_112",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.04,
+            "contempt": 0.08,
+            "fear": 0.09,
+            "disgust": 0.02,
+            "joy": 0.82,
+            "sadness": 0.03,
+            "surprise": 0.41,
+            "confusion": 0.24
+          },
+          "comment": "",
+          "seed": 987642940
+        },
+        {
+          "persona": "BJ_113",
+          "country": "China",
+          "emotion": {
+            "peace": 0.68,
+            "anger": 0.04,
+            "contempt": 0.03,
+            "fear": 0.08,
+            "disgust": 0.02,
+            "joy": 0.82,
+            "sadness": 0.03,
+            "surprise": 0.37,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 704084930
+        },
+        {
+          "persona": "BJ_115",
+          "country": "China",
+          "emotion": {
+            "peace": 0.72,
+            "anger": 0.04,
+            "contempt": 0.03,
+            "fear": 0.12,
+            "disgust": 0.01,
+            "joy": 0.85,
+            "sadness": 0.03,
+            "surprise": 0.38,
+            "confusion": 0.14
+          },
+          "comment": "",
+          "seed": 268017407
+        },
+        {
+          "persona": "BJ_117",
+          "country": "China",
+          "emotion": {
+            "peace": 0.66,
+            "anger": 0.03,
+            "contempt": 0.05,
+            "fear": 0.12,
+            "disgust": 0.02,
+            "joy": 0.78,
+            "sadness": 0.04,
+            "surprise": 0.42,
+            "confusion": 0.16
+          },
+          "comment": "",
+          "seed": 93074331
+        },
+        {
+          "persona": "BJ_111",
+          "country": "China",
+          "emotion": {
+            "peace": 0.66,
+            "anger": 0.03,
+            "contempt": 0.04,
+            "fear": 0.08,
+            "disgust": 0.02,
+            "joy": 0.78,
+            "sadness": 0.04,
+            "surprise": 0.45,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 168811344
+        },
+        {
+          "persona": "BJ_126",
+          "country": "China",
+          "emotion": {
+            "peace": 0.74,
+            "anger": 0.05,
+            "contempt": 0.03,
+            "fear": 0.14,
+            "disgust": 0.02,
+            "joy": 0.86,
+            "sadness": 0.04,
+            "surprise": 0.38,
+            "confusion": 0.1
+          },
+          "comment": "",
+          "seed": 982662586
+        },
+        {
+          "persona": "BJ_118",
+          "country": "China",
+          "emotion": {
+            "peace": 0.68,
+            "anger": 0.03,
+            "contempt": 0.04,
+            "fear": 0.07,
+            "disgust": 0.02,
+            "joy": 0.74,
+            "sadness": 0.04,
+            "surprise": 0.32,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 198208364
+        },
+        {
+          "persona": "BJ_122",
+          "country": "China",
+          "emotion": {
+            "peace": 0.63,
+            "anger": 0.03,
+            "contempt": 0.04,
+            "fear": 0.05,
+            "disgust": 0.02,
+            "joy": 0.78,
+            "sadness": 0.04,
+            "surprise": 0.41,
+            "confusion": 0.14
+          },
+          "comment": "",
+          "seed": 95708592
+        },
+        {
+          "persona": "BJ_119",
+          "country": "China",
+          "emotion": {
+            "peace": 0.72,
+            "anger": 0.03,
+            "contempt": 0.03,
+            "fear": 0.09,
+            "disgust": 0.02,
+            "joy": 0.84,
+            "sadness": 0.04,
+            "surprise": 0.38,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 450744311
+        },
+        {
+          "persona": "BJ_120",
+          "country": "China",
+          "emotion": {
+            "peace": 0.68,
+            "anger": 0.04,
+            "contempt": 0.06,
+            "fear": 0.17,
+            "disgust": 0.02,
+            "joy": 0.82,
+            "sadness": 0.05,
+            "surprise": 0.56,
+            "confusion": 0.28
+          },
+          "comment": "",
+          "seed": 151297739
+        },
+        {
+          "persona": "BJ_116",
+          "country": "China",
+          "emotion": {
+            "peace": 0.65,
+            "anger": 0.03,
+            "contempt": 0.02,
+            "fear": 0.12,
+            "disgust": 0.01,
+            "joy": 0.8,
+            "sadness": 0.04,
+            "surprise": 0.45,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 54321564
+        },
+        {
+          "persona": "BJ_121",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.05,
+            "contempt": 0.07,
+            "fear": 0.21,
+            "disgust": 0.03,
+            "joy": 0.71,
+            "sadness": 0.06,
+            "surprise": 0.42,
+            "confusion": 0.29
+          },
+          "comment": "",
+          "seed": 169299546
+        },
+        {
+          "persona": "BJ_123",
+          "country": "China",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.04,
+            "contempt": 0.06,
+            "fear": 0.15,
+            "disgust": 0.02,
+            "joy": 0.85,
+            "sadness": 0.05,
+            "surprise": 0.6,
+            "confusion": 0.25
+          },
+          "comment": "",
+          "seed": 653111028
+        },
+        {
+          "persona": "BJ_128",
+          "country": "China",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.03,
+            "contempt": 0.02,
+            "fear": 0.08,
+            "disgust": 0.01,
+            "joy": 0.85,
+            "sadness": 0.04,
+            "surprise": 0.35,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 540368052
+        },
+        {
+          "persona": "BJ_124",
+          "country": "China",
+          "emotion": {
+            "peace": 0.68,
+            "anger": 0.03,
+            "contempt": 0.05,
+            "fear": 0.12,
+            "disgust": 0.03,
+            "joy": 0.83,
+            "sadness": 0.06,
+            "surprise": 0.37,
+            "confusion": 0.19
+          },
+          "comment": "",
+          "seed": 963290450
+        },
+        {
+          "persona": "BJ_131",
+          "country": "China",
+          "emotion": {
+            "peace": 0.65,
+            "anger": 0.02,
+            "contempt": 0.04,
+            "fear": 0.07,
+            "disgust": 0.02,
+            "joy": 0.76,
+            "sadness": 0.03,
+            "surprise": 0.38,
+            "confusion": 0.11
+          },
+          "comment": "",
+          "seed": 952473815
+        },
+        {
+          "persona": "BJ_127",
+          "country": "China",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.02,
+            "contempt": 0.01,
+            "fear": 0.08,
+            "disgust": 0.01,
+            "joy": 0.85,
+            "sadness": 0.03,
+            "surprise": 0.5,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 736463742
+        },
+        {
+          "persona": "BJ_139",
+          "country": "China",
+          "emotion": {
+            "peace": 0.68,
+            "anger": 0.03,
+            "contempt": 0.05,
+            "fear": 0.1,
+            "disgust": 0.02,
+            "joy": 0.84,
+            "sadness": 0.04,
+            "surprise": 0.57,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 847211138
+        },
+        {
+          "persona": "BJ_132",
+          "country": "China",
+          "emotion": {
+            "peace": 0.66,
+            "anger": 0.03,
+            "contempt": 0.03,
+            "fear": 0.12,
+            "disgust": 0.02,
+            "joy": 0.82,
+            "sadness": 0.03,
+            "surprise": 0.5,
+            "confusion": 0.16
+          },
+          "comment": "",
+          "seed": 109040452
+        },
+        {
+          "persona": "BJ_138",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.06,
+            "contempt": 0.07,
+            "fear": 0.12,
+            "disgust": 0.03,
+            "joy": 0.8,
+            "sadness": 0.05,
+            "surprise": 0.42,
+            "confusion": 0.2
+          },
+          "comment": "",
+          "seed": 850274189
+        },
+        {
+          "persona": "BJ_135",
+          "country": "China",
+          "emotion": {
+            "peace": 0.64,
+            "anger": 0.03,
+            "contempt": 0.04,
+            "fear": 0.11,
+            "disgust": 0.03,
+            "joy": 0.79,
+            "sadness": 0.05,
+            "surprise": 0.48,
+            "confusion": 0.17
+          },
+          "comment": "",
+          "seed": 230806806
+        },
+        {
+          "persona": "BJ_129",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.04,
+            "contempt": 0.03,
+            "fear": 0.11,
+            "disgust": 0.02,
+            "joy": 0.79,
+            "sadness": 0.05,
+            "surprise": 0.47,
+            "confusion": 0.26
+          },
+          "comment": "",
+          "seed": 144368832
+        },
+        {
+          "persona": "BJ_133",
+          "country": "China",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.03,
+            "contempt": 0.04,
+            "fear": 0.09,
+            "disgust": 0.02,
+            "joy": 0.8,
+            "sadness": 0.04,
+            "surprise": 0.45,
+            "confusion": 0.14
+          },
+          "comment": "",
+          "seed": 484758377
+        },
+        {
+          "persona": "BJ_137",
+          "country": "China",
+          "emotion": {
+            "peace": 0.72,
+            "anger": 0.04,
+            "contempt": 0.05,
+            "fear": 0.1,
+            "disgust": 0.02,
+            "joy": 0.82,
+            "sadness": 0.03,
+            "surprise": 0.46,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 124056914
+        },
+        {
+          "persona": "BJ_134",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.02,
+            "contempt": 0.02,
+            "fear": 0.07,
+            "disgust": 0.01,
+            "joy": 0.72,
+            "sadness": 0.03,
+            "surprise": 0.38,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 325371184
+        },
+        {
+          "persona": "BJ_140",
+          "country": "China",
+          "emotion": {
+            "peace": 0.64,
+            "anger": 0.03,
+            "contempt": 0.04,
+            "fear": 0.06,
+            "disgust": 0.02,
+            "joy": 0.76,
+            "sadness": 0.04,
+            "surprise": 0.34,
+            "confusion": 0.08
+          },
+          "comment": "",
+          "seed": 500277703
+        },
+        {
+          "persona": "BJ_130",
+          "country": "China",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.03,
+            "contempt": 0.02,
+            "fear": 0.15,
+            "disgust": 0.02,
+            "joy": 0.8,
+            "sadness": 0.05,
+            "surprise": 0.5,
+            "confusion": 0.2
+          },
+          "comment": "",
+          "seed": 22109319
+        },
+        {
+          "persona": "BJ_125",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.04,
+            "contempt": 0.03,
+            "fear": 0.12,
+            "disgust": 0.02,
+            "joy": 0.78,
+            "sadness": 0.05,
+            "surprise": 0.41,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 518771879
+        },
+        {
+          "persona": "BJ_136",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.03,
+            "contempt": 0.04,
+            "fear": 0.11,
+            "disgust": 0.02,
+            "joy": 0.78,
+            "sadness": 0.05,
+            "surprise": 0.47,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 879977021
+        },
+        {
+          "persona": "BJ_143",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.04,
+            "contempt": 0.06,
+            "fear": 0.12,
+            "disgust": 0.03,
+            "joy": 0.72,
+            "sadness": 0.05,
+            "surprise": 0.41,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 847073527
+        },
+        {
+          "persona": "BJ_145",
+          "country": "China",
+          "emotion": {
+            "peace": 0.66,
+            "anger": 0.03,
+            "contempt": 0.04,
+            "fear": 0.07,
+            "disgust": 0.02,
+            "joy": 0.84,
+            "sadness": 0.05,
+            "surprise": 0.57,
+            "confusion": 0.19
+          },
+          "comment": "",
+          "seed": 834507625
+        },
+        {
+          "persona": "BJ_150",
+          "country": "China",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.02,
+            "contempt": 0.03,
+            "fear": 0.06,
+            "disgust": 0.02,
+            "joy": 0.78,
+            "sadness": 0.03,
+            "surprise": 0.27,
+            "confusion": 0.11
+          },
+          "comment": "",
+          "seed": 908287222
+        },
+        {
+          "persona": "BJ_142",
+          "country": "China",
+          "emotion": {
+            "peace": 0.64,
+            "anger": 0.02,
+            "contempt": 0.03,
+            "fear": 0.07,
+            "disgust": 0.02,
+            "joy": 0.81,
+            "sadness": 0.04,
+            "surprise": 0.42,
+            "confusion": 0.16
+          },
+          "comment": "",
+          "seed": 791276621
+        },
+        {
+          "persona": "BJ_141",
+          "country": "China",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.04,
+            "contempt": 0.06,
+            "fear": 0.13,
+            "disgust": 0.03,
+            "joy": 0.78,
+            "sadness": 0.05,
+            "surprise": 0.35,
+            "confusion": 0.17
+          },
+          "comment": "",
+          "seed": 359111580
+        },
+        {
+          "persona": "BJ_147",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.02,
+            "contempt": 0.03,
+            "fear": 0.06,
+            "disgust": 0.01,
+            "joy": 0.77,
+            "sadness": 0.02,
+            "surprise": 0.41,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 968103144
+        },
+        {
+          "persona": "BJ_146",
+          "country": "China",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.06,
+            "contempt": 0.07,
+            "fear": 0.14,
+            "disgust": 0.04,
+            "joy": 0.78,
+            "sadness": 0.05,
+            "surprise": 0.42,
+            "confusion": 0.23
+          },
+          "comment": "",
+          "seed": 819511685
+        },
+        {
+          "persona": "BJ_153",
+          "country": "China",
+          "emotion": {
+            "peace": 0.63,
+            "anger": 0.05,
+            "contempt": 0.06,
+            "fear": 0.12,
+            "disgust": 0.03,
+            "joy": 0.82,
+            "sadness": 0.06,
+            "surprise": 0.37,
+            "confusion": 0.2
+          },
+          "comment": "",
+          "seed": 688318174
+        },
+        {
+          "persona": "BJ_148",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.04,
+            "contempt": 0.05,
+            "fear": 0.1,
+            "disgust": 0.03,
+            "joy": 0.78,
+            "sadness": 0.05,
+            "surprise": 0.42,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 429908604
+        },
+        {
+          "persona": "BJ_144",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.01,
+            "contempt": 0.03,
+            "fear": 0.06,
+            "disgust": 0.02,
+            "joy": 0.82,
+            "sadness": 0.03,
+            "surprise": 0.41,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 460459526
+        },
+        {
+          "persona": "BJ_149",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.03,
+            "contempt": 0.02,
+            "fear": 0.07,
+            "disgust": 0.02,
+            "joy": 0.8,
+            "sadness": 0.03,
+            "surprise": 0.5,
+            "confusion": 0.17
+          },
+          "comment": "",
+          "seed": 94969827
+        },
+        {
+          "persona": "BJ_151",
+          "country": "China",
+          "emotion": {
+            "peace": 0.68,
+            "anger": 0.02,
+            "contempt": 0.03,
+            "fear": 0.07,
+            "disgust": 0.01,
+            "joy": 0.84,
+            "sadness": 0.02,
+            "surprise": 0.36,
+            "confusion": 0.11
+          },
+          "comment": "",
+          "seed": 737614476
+        },
+        {
+          "persona": "BJ_154",
+          "country": "China",
+          "emotion": {
+            "peace": 0.66,
+            "anger": 0.03,
+            "contempt": 0.05,
+            "fear": 0.08,
+            "disgust": 0.02,
+            "joy": 0.82,
+            "sadness": 0.04,
+            "surprise": 0.58,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 516820952
+        },
+        {
+          "persona": "BJ_156",
+          "country": "China",
+          "emotion": {
+            "peace": 0.68,
+            "anger": 0.03,
+            "contempt": 0.02,
+            "fear": 0.09,
+            "disgust": 0.01,
+            "joy": 0.82,
+            "sadness": 0.04,
+            "surprise": 0.57,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 354181845
+        },
+        {
+          "persona": "BJ_157",
+          "country": "China",
+          "emotion": {
+            "peace": 0.66,
+            "anger": 0.03,
+            "contempt": 0.03,
+            "fear": 0.05,
+            "disgust": 0.02,
+            "joy": 0.76,
+            "sadness": 0.04,
+            "surprise": 0.27,
+            "confusion": 0.15
+          },
+          "comment": "",
+          "seed": 763665957
+        },
+        {
+          "persona": "BJ_155",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.03,
+            "contempt": 0.02,
+            "fear": 0.09,
+            "disgust": 0.01,
+            "joy": 0.84,
+            "sadness": 0.04,
+            "surprise": 0.58,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 273950070
+        },
+        {
+          "persona": "BJ_152",
+          "country": "China",
+          "emotion": {
+            "peace": 0.68,
+            "anger": 0.04,
+            "contempt": 0.03,
+            "fear": 0.12,
+            "disgust": 0.03,
+            "joy": 0.82,
+            "sadness": 0.05,
+            "surprise": 0.41,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 496782811
+        },
+        {
+          "persona": "BJ_158",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.03,
+            "contempt": 0.04,
+            "fear": 0.07,
+            "disgust": 0.02,
+            "joy": 0.78,
+            "sadness": 0.05,
+            "surprise": 0.4,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 926929147
+        },
+        {
+          "persona": "BJ_165",
+          "country": "China",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.02,
+            "contempt": 0.01,
+            "fear": 0.06,
+            "disgust": 0.01,
+            "joy": 0.8,
+            "sadness": 0.03,
+            "surprise": 0.45,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 838010218
+        },
+        {
+          "persona": "BJ_164",
+          "country": "China",
+          "emotion": {
+            "peace": 0.68,
+            "anger": 0.04,
+            "contempt": 0.05,
+            "fear": 0.07,
+            "disgust": 0.02,
+            "joy": 0.82,
+            "sadness": 0.03,
+            "surprise": 0.46,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 816455028
+        },
+        {
+          "persona": "BJ_163",
+          "country": "China",
+          "emotion": {
+            "peace": 0.68,
+            "anger": 0.03,
+            "contempt": 0.04,
+            "fear": 0.07,
+            "disgust": 0.02,
+            "joy": 0.82,
+            "sadness": 0.05,
+            "surprise": 0.32,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 556450992
+        },
+        {
+          "persona": "BJ_160",
+          "country": "China",
+          "emotion": {
+            "peace": 0.64,
+            "anger": 0.03,
+            "contempt": 0.02,
+            "fear": 0.08,
+            "disgust": 0.02,
+            "joy": 0.8,
+            "sadness": 0.04,
+            "surprise": 0.35,
+            "confusion": 0.14
+          },
+          "comment": "",
+          "seed": 948971021
+        },
+        {
+          "persona": "BJ_159",
+          "country": "China",
+          "emotion": {
+            "peace": 0.72,
+            "anger": 0.03,
+            "contempt": 0.02,
+            "fear": 0.12,
+            "disgust": 0.02,
+            "joy": 0.85,
+            "sadness": 0.03,
+            "surprise": 0.44,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 169942917
+        },
+        {
+          "persona": "BJ_168",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.04,
+            "contempt": 0.06,
+            "fear": 0.08,
+            "disgust": 0.03,
+            "joy": 0.78,
+            "sadness": 0.05,
+            "surprise": 0.41,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 756999647
+        },
+        {
+          "persona": "BJ_161",
+          "country": "China",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.03,
+            "contempt": 0.04,
+            "fear": 0.08,
+            "disgust": 0.02,
+            "joy": 0.72,
+            "sadness": 0.05,
+            "surprise": 0.4,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 28250798
+        },
+        {
+          "persona": "BJ_166",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.03,
+            "contempt": 0.04,
+            "fear": 0.07,
+            "disgust": 0.02,
+            "joy": 0.78,
+            "sadness": 0.06,
+            "surprise": 0.47,
+            "confusion": 0.14
+          },
+          "comment": "",
+          "seed": 423500010
+        },
+        {
+          "persona": "BJ_167",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.02,
+            "contempt": 0.02,
+            "fear": 0.04,
+            "disgust": 0.01,
+            "joy": 0.68,
+            "sadness": 0.03,
+            "surprise": 0.38,
+            "confusion": 0.1
+          },
+          "comment": "",
+          "seed": 858317199
+        },
+        {
+          "persona": "BJ_162",
+          "country": "China",
+          "emotion": {
+            "peace": 0.66,
+            "anger": 0.03,
+            "contempt": 0.02,
+            "fear": 0.07,
+            "disgust": 0.02,
+            "joy": 0.8,
+            "sadness": 0.02,
+            "surprise": 0.38,
+            "confusion": 0.15
+          },
+          "comment": "",
+          "seed": 309307045
+        },
+        {
+          "persona": "BJ_169",
+          "country": "China",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.03,
+            "contempt": 0.02,
+            "fear": 0.06,
+            "disgust": 0.02,
+            "joy": 0.86,
+            "sadness": 0.03,
+            "surprise": 0.38,
+            "confusion": 0.09
+          },
+          "comment": "",
+          "seed": 659836873
+        },
+        {
+          "persona": "BJ_170",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.02,
+            "contempt": 0.03,
+            "fear": 0.09,
+            "disgust": 0.01,
+            "joy": 0.81,
+            "sadness": 0.04,
+            "surprise": 0.55,
+            "confusion": 0.17
+          },
+          "comment": "",
+          "seed": 669374634
+        },
+        {
+          "persona": "BJ_176",
+          "country": "China",
+          "emotion": {
+            "peace": 0.72,
+            "anger": 0.04,
+            "contempt": 0.03,
+            "fear": 0.08,
+            "disgust": 0.02,
+            "joy": 0.86,
+            "sadness": 0.05,
+            "surprise": 0.58,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 518342181
+        },
+        {
+          "persona": "BJ_171",
+          "country": "China",
+          "emotion": {
+            "peace": 0.66,
+            "anger": 0.04,
+            "contempt": 0.03,
+            "fear": 0.08,
+            "disgust": 0.02,
+            "joy": 0.82,
+            "sadness": 0.04,
+            "surprise": 0.41,
+            "confusion": 0.19
+          },
+          "comment": "",
+          "seed": 727041850
+        },
+        {
+          "persona": "BJ_172",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.03,
+            "contempt": 0.05,
+            "fear": 0.08,
+            "disgust": 0.02,
+            "joy": 0.78,
+            "sadness": 0.04,
+            "surprise": 0.36,
+            "confusion": 0.14
+          },
+          "comment": "",
+          "seed": 628434150
+        },
+        {
+          "persona": "BJ_173",
+          "country": "China",
+          "emotion": {
+            "peace": 0.72,
+            "anger": 0.02,
+            "contempt": 0.03,
+            "fear": 0.06,
+            "disgust": 0.01,
+            "joy": 0.84,
+            "sadness": 0.02,
+            "surprise": 0.4,
+            "confusion": 0.1
+          },
+          "comment": "",
+          "seed": 551649758
+        },
+        {
+          "persona": "BJ_179",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.03,
+            "contempt": 0.04,
+            "fear": 0.08,
+            "disgust": 0.02,
+            "joy": 0.78,
+            "sadness": 0.04,
+            "surprise": 0.55,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 28407276
+        },
+        {
+          "persona": "BJ_175",
+          "country": "China",
+          "emotion": {
+            "peace": 0.68,
+            "anger": 0.02,
+            "contempt": 0.05,
+            "fear": 0.05,
+            "disgust": 0.01,
+            "joy": 0.76,
+            "sadness": 0.02,
+            "surprise": 0.34,
+            "confusion": 0.09
+          },
+          "comment": "",
+          "seed": 659427680
+        },
+        {
+          "persona": "BJ_174",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.04,
+            "contempt": 0.07,
+            "fear": 0.12,
+            "disgust": 0.02,
+            "joy": 0.8,
+            "sadness": 0.03,
+            "surprise": 0.34,
+            "confusion": 0.11
+          },
+          "comment": "",
+          "seed": 644214106
+        },
+        {
+          "persona": "BJ_178",
+          "country": "China",
+          "emotion": {
+            "peace": 0.66,
+            "anger": 0.04,
+            "contempt": 0.05,
+            "fear": 0.07,
+            "disgust": 0.02,
+            "joy": 0.8,
+            "sadness": 0.05,
+            "surprise": 0.5,
+            "confusion": 0.2
+          },
+          "comment": "",
+          "seed": 289316158
+        },
+        {
+          "persona": "BJ_189",
+          "country": "China",
+          "emotion": {
+            "peace": 0.68,
+            "anger": 0.03,
+            "contempt": 0.04,
+            "fear": 0.08,
+            "disgust": 0.02,
+            "joy": 0.78,
+            "sadness": 0.04,
+            "surprise": 0.46,
+            "confusion": 0.27
+          },
+          "comment": "",
+          "seed": 199892109
+        },
+        {
+          "persona": "BJ_180",
+          "country": "China",
+          "emotion": {
+            "peace": 0.68,
+            "anger": 0.04,
+            "contempt": 0.03,
+            "fear": 0.12,
+            "disgust": 0.02,
+            "joy": 0.78,
+            "sadness": 0.04,
+            "surprise": 0.36,
+            "confusion": 0.14
+          },
+          "comment": "",
+          "seed": 385917122
+        },
+        {
+          "persona": "BJ_182",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.06,
+            "contempt": 0.04,
+            "fear": 0.14,
+            "disgust": 0.03,
+            "joy": 0.78,
+            "sadness": 0.05,
+            "surprise": 0.42,
+            "confusion": 0.17
+          },
+          "comment": "",
+          "seed": 61006170
+        },
+        {
+          "persona": "BJ_187",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.03,
+            "contempt": 0.04,
+            "fear": 0.12,
+            "disgust": 0.02,
+            "joy": 0.72,
+            "sadness": 0.04,
+            "surprise": 0.36,
+            "confusion": 0.15
+          },
+          "comment": "",
+          "seed": 721535128
+        },
+        {
+          "persona": "BJ_184",
+          "country": "China",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.03,
+            "contempt": 0.02,
+            "fear": 0.07,
+            "disgust": 0.01,
+            "joy": 0.82,
+            "sadness": 0.04,
+            "surprise": 0.5,
+            "confusion": 0.15
+          },
+          "comment": "",
+          "seed": 940685840
+        },
+        {
+          "persona": "BJ_177",
+          "country": "China",
+          "emotion": {
+            "peace": 0.74,
+            "anger": 0.02,
+            "contempt": 0.03,
+            "fear": 0.05,
+            "disgust": 0.01,
+            "joy": 0.85,
+            "sadness": 0.03,
+            "surprise": 0.52,
+            "confusion": 0.1
+          },
+          "comment": "",
+          "seed": 872105863
+        },
+        {
+          "persona": "BJ_185",
+          "country": "China",
+          "emotion": {
+            "peace": 0.72,
+            "anger": 0.02,
+            "contempt": 0.03,
+            "fear": 0.06,
+            "disgust": 0.01,
+            "joy": 0.86,
+            "sadness": 0.03,
+            "surprise": 0.41,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 690792296
+        },
+        {
+          "persona": "BJ_181",
+          "country": "China",
+          "emotion": {
+            "peace": 0.64,
+            "anger": 0.02,
+            "contempt": 0.03,
+            "fear": 0.06,
+            "disgust": 0.01,
+            "joy": 0.83,
+            "sadness": 0.03,
+            "surprise": 0.37,
+            "confusion": 0.11
+          },
+          "comment": "",
+          "seed": 594413109
+        },
+        {
+          "persona": "BJ_193",
+          "country": "China",
+          "emotion": {
+            "peace": 0.68,
+            "anger": 0.03,
+            "contempt": 0.02,
+            "fear": 0.08,
+            "disgust": 0.02,
+            "joy": 0.87,
+            "sadness": 0.05,
+            "surprise": 0.42,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 904301939
+        },
+        {
+          "persona": "BJ_192",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.03,
+            "contempt": 0.02,
+            "fear": 0.09,
+            "disgust": 0.02,
+            "joy": 0.74,
+            "sadness": 0.04,
+            "surprise": 0.38,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 929493747
+        },
+        {
+          "persona": "BJ_190",
+          "country": "China",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.03,
+            "contempt": 0.07,
+            "fear": 0.12,
+            "disgust": 0.03,
+            "joy": 0.7,
+            "sadness": 0.05,
+            "surprise": 0.55,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 20157480
+        },
+        {
+          "persona": "BJ_188",
+          "country": "China",
+          "emotion": {
+            "peace": 0.64,
+            "anger": 0.04,
+            "contempt": 0.03,
+            "fear": 0.08,
+            "disgust": 0.02,
+            "joy": 0.82,
+            "sadness": 0.05,
+            "surprise": 0.51,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 479946412
+        },
+        {
+          "persona": "BJ_183",
+          "country": "China",
+          "emotion": {
+            "peace": 0.66,
+            "anger": 0.03,
+            "contempt": 0.05,
+            "fear": 0.12,
+            "disgust": 0.03,
+            "joy": 0.83,
+            "sadness": 0.04,
+            "surprise": 0.47,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 218573219
+        },
+        {
+          "persona": "BJ_196",
+          "country": "China",
+          "emotion": {
+            "peace": 0.68,
+            "anger": 0.03,
+            "contempt": 0.04,
+            "fear": 0.07,
+            "disgust": 0.02,
+            "joy": 0.82,
+            "sadness": 0.04,
+            "surprise": 0.36,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 399800891
+        },
+        {
+          "persona": "BJ_186",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.04,
+            "contempt": 0.03,
+            "fear": 0.08,
+            "disgust": 0.02,
+            "joy": 0.8,
+            "sadness": 0.05,
+            "surprise": 0.45,
+            "confusion": 0.17
+          },
+          "comment": "",
+          "seed": 133167526
+        },
+        {
+          "persona": "BJ_198",
+          "country": "China",
+          "emotion": {
+            "peace": 0.74,
+            "anger": 0.03,
+            "contempt": 0.02,
+            "fear": 0.09,
+            "disgust": 0.02,
+            "joy": 0.87,
+            "sadness": 0.03,
+            "surprise": 0.58,
+            "confusion": 0.15
+          },
+          "comment": "",
+          "seed": 408441382
+        },
+        {
+          "persona": "BJ_191",
+          "country": "China",
+          "emotion": {
+            "peace": 0.63,
+            "anger": 0.03,
+            "contempt": 0.04,
+            "fear": 0.11,
+            "disgust": 0.02,
+            "joy": 0.76,
+            "sadness": 0.05,
+            "surprise": 0.31,
+            "confusion": 0.19
+          },
+          "comment": "",
+          "seed": 650899508
+        },
+        {
+          "persona": "BJ_195",
+          "country": "China",
+          "emotion": {
+            "peace": 0.76,
+            "anger": 0.03,
+            "contempt": 0.02,
+            "fear": 0.05,
+            "disgust": 0.02,
+            "joy": 0.85,
+            "sadness": 0.02,
+            "surprise": 0.38,
+            "confusion": 0.1
+          },
+          "comment": "",
+          "seed": 311143589
+        },
+        {
+          "persona": "BJ_199",
+          "country": "China",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.05,
+            "contempt": 0.09,
+            "fear": 0.12,
+            "disgust": 0.03,
+            "joy": 0.78,
+            "sadness": 0.07,
+            "surprise": 0.5,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 378660380
+        },
+        {
+          "persona": "BJ_197",
+          "country": "China",
+          "emotion": {
+            "peace": 0.68,
+            "anger": 0.04,
+            "contempt": 0.02,
+            "fear": 0.09,
+            "disgust": 0.01,
+            "joy": 0.83,
+            "sadness": 0.02,
+            "surprise": 0.36,
+            "confusion": 0.11
+          },
+          "comment": "",
+          "seed": 868504934
+        },
+        {
+          "persona": "BJ_194",
+          "country": "China",
+          "emotion": {
+            "peace": 0.68,
+            "anger": 0.03,
+            "contempt": 0.02,
+            "fear": 0.09,
+            "disgust": 0.02,
+            "joy": 0.78,
+            "sadness": 0.05,
+            "surprise": 0.52,
+            "confusion": 0.17
+          },
+          "comment": "",
+          "seed": 354562159
+        }
+      ],
+      "stats": {
+        "means": {
+          "peace": 0.6560500000000006,
+          "anger": 0.03274999999999999,
+          "contempt": 0.038349999999999954,
+          "fear": 0.09459999999999986,
+          "disgust": 0.02029999999999997,
+          "joy": 0.79955,
+          "sadness": 0.04209999999999997,
+          "surprise": 0.43714999999999976,
+          "confusion": 0.1611500000000001
+        },
+        "totals": {
+          "peace": 131.21000000000012,
+          "anger": 6.549999999999998,
+          "contempt": 7.669999999999991,
+          "fear": 18.919999999999973,
+          "disgust": 4.059999999999994,
+          "joy": 159.91,
+          "sadness": 8.419999999999995,
+          "surprise": 87.42999999999995,
+          "confusion": 32.23000000000002
+        },
+        "counts": {
+          "peace": 200,
+          "anger": 200,
+          "contempt": 200,
+          "fear": 200,
+          "disgust": 200,
+          "joy": 200,
+          "sadness": 200,
+          "surprise": 200,
+          "confusion": 200
+        },
+        "num_reactions": 200
+      }
+    },
+    {
+      "event": {
+        "title": "领取实验奖金(red tape)",
+        "description": "我们有好消息要告诉你！你被选中参加实验可以获得额外奖金，恭喜你。\n我们将把你所得的金额翻倍，换句话说，你参加实验将得到100元。\n按照大学的规定和程序，你需要再次填写你的人口统计信息以获得额外的钱,\n根据大学的规定和程序，您将在30天后收到额外的50元，将转到您的银行账户。\n",
+        "country": "China",
+        "title_en": "Experimental rewards (red tape)",
+        "description_en": "We have good news for you! You have been selected to receive extra money for taking part in the experiment. Congratulations.\nWe will double the amount of money you will get. In other words, you will get 100 RMB for taking part in the experiment.\nYou will receive the extra money of 50 RMB by the earliest after 30 days, following university regulations and procedures. It will be transferred to your bank account. \nThe Research Assistant will provide you further instructions after the experiment so we can make the transfer. \nFollowing university regulations and procedures, you also need to fill in your demographic information again to get the extra money.\n",
+        "if_red_tape": true,
+        "metadata": {}
+      },
+      "reactions": [
+        {
+          "persona": "BJ_006",
+          "country": "China",
+          "emotion": {
+            "peace": 0.55,
+            "anger": 0.13,
+            "contempt": 0.17,
+            "fear": 0.08,
+            "disgust": 0.14,
+            "joy": 0.64,
+            "sadness": 0.07,
+            "surprise": 0.36,
+            "confusion": 0.31
+          },
+          "comment": "",
+          "seed": 379528362
+        },
+        {
+          "persona": "BJ_014",
+          "country": "China",
+          "emotion": {
+            "peace": 0.5,
+            "anger": 0.1,
+            "contempt": 0.2,
+            "fear": 0.05,
+            "disgust": 0.08,
+            "joy": 0.75,
+            "sadness": 0.1,
+            "surprise": 0.4,
+            "confusion": 0.25
+          },
+          "comment": "",
+          "seed": 589372354
+        },
+        {
+          "persona": "BJ_003",
+          "country": "China",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.15,
+            "contempt": 0.05,
+            "fear": 0.05,
+            "disgust": 0.06,
+            "joy": 0.58,
+            "sadness": 0.1,
+            "surprise": 0.35,
+            "confusion": 0.28
+          },
+          "comment": "",
+          "seed": 477285334
+        },
+        {
+          "persona": "BJ_005",
+          "country": "China",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.12,
+            "contempt": 0.1,
+            "fear": 0.07,
+            "disgust": 0.08,
+            "joy": 0.72,
+            "sadness": 0.05,
+            "surprise": 0.4,
+            "confusion": 0.28
+          },
+          "comment": "",
+          "seed": 923387049
+        },
+        {
+          "persona": "BJ_013",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.11,
+            "contempt": 0.17,
+            "fear": 0.08,
+            "disgust": 0.1,
+            "joy": 0.63,
+            "sadness": 0.07,
+            "surprise": 0.34,
+            "confusion": 0.24
+          },
+          "comment": "",
+          "seed": 730207152
+        },
+        {
+          "persona": "BJ_004",
+          "country": "China",
+          "emotion": {
+            "peace": 0.5,
+            "anger": 0.1,
+            "contempt": 0.15,
+            "fear": 0.05,
+            "disgust": 0.05,
+            "joy": 0.7,
+            "sadness": 0.05,
+            "surprise": 0.35,
+            "confusion": 0.25
+          },
+          "comment": "",
+          "seed": 103206735
+        },
+        {
+          "persona": "BJ_001",
+          "country": "China",
+          "emotion": {
+            "peace": 0.48,
+            "anger": 0.11,
+            "contempt": 0.2,
+            "fear": 0.04,
+            "disgust": 0.12,
+            "joy": 0.58,
+            "sadness": 0.06,
+            "surprise": 0.22,
+            "confusion": 0.17
+          },
+          "comment": "",
+          "seed": 134416293
+        },
+        {
+          "persona": "BJ_008",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.16,
+            "contempt": 0.08,
+            "fear": 0.06,
+            "disgust": 0.14,
+            "joy": 0.64,
+            "sadness": 0.07,
+            "surprise": 0.28,
+            "confusion": 0.24
+          },
+          "comment": "",
+          "seed": 99700621
+        },
+        {
+          "persona": "BJ_009",
+          "country": "China",
+          "emotion": {
+            "peace": 0.54,
+            "anger": 0.11,
+            "contempt": 0.07,
+            "fear": 0.05,
+            "disgust": 0.09,
+            "joy": 0.7,
+            "sadness": 0.1,
+            "surprise": 0.35,
+            "confusion": 0.23
+          },
+          "comment": "",
+          "seed": 892934846
+        },
+        {
+          "persona": "BJ_011",
+          "country": "China",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.08,
+            "contempt": 0.1,
+            "fear": 0.03,
+            "disgust": 0.05,
+            "joy": 0.68,
+            "sadness": 0.07,
+            "surprise": 0.36,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 380943210
+        },
+        {
+          "persona": "BJ_002",
+          "country": "China",
+          "emotion": {
+            "peace": 0.36,
+            "anger": 0.17,
+            "contempt": 0.15,
+            "fear": 0.07,
+            "disgust": 0.11,
+            "joy": 0.49,
+            "sadness": 0.09,
+            "surprise": 0.4,
+            "confusion": 0.32
+          },
+          "comment": "",
+          "seed": 31001492
+        },
+        {
+          "persona": "BJ_012",
+          "country": "China",
+          "emotion": {
+            "peace": 0.57,
+            "anger": 0.11,
+            "contempt": 0.09,
+            "fear": 0.04,
+            "disgust": 0.05,
+            "joy": 0.66,
+            "sadness": 0.06,
+            "surprise": 0.27,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 554313525
+        },
+        {
+          "persona": "BJ_022",
+          "country": "China",
+          "emotion": {
+            "peace": 0.5,
+            "anger": 0.1,
+            "contempt": 0.12,
+            "fear": 0.05,
+            "disgust": 0.06,
+            "joy": 0.65,
+            "sadness": 0.06,
+            "surprise": 0.25,
+            "confusion": 0.2
+          },
+          "comment": "",
+          "seed": 738418965
+        },
+        {
+          "persona": "BJ_016",
+          "country": "China",
+          "emotion": {
+            "peace": 0.55,
+            "anger": 0.18,
+            "contempt": 0.22,
+            "fear": 0.06,
+            "disgust": 0.12,
+            "joy": 0.68,
+            "sadness": 0.08,
+            "surprise": 0.42,
+            "confusion": 0.37
+          },
+          "comment": "",
+          "seed": 263984508
+        },
+        {
+          "persona": "BJ_017",
+          "country": "China",
+          "emotion": {
+            "peace": 0.56,
+            "anger": 0.2,
+            "contempt": 0.12,
+            "fear": 0.07,
+            "disgust": 0.1,
+            "joy": 0.66,
+            "sadness": 0.14,
+            "surprise": 0.26,
+            "confusion": 0.4
+          },
+          "comment": "",
+          "seed": 120099826
+        },
+        {
+          "persona": "BJ_021",
+          "country": "China",
+          "emotion": {
+            "peace": 0.55,
+            "anger": 0.08,
+            "contempt": 0.06,
+            "fear": 0.04,
+            "disgust": 0.05,
+            "joy": 0.65,
+            "sadness": 0.07,
+            "surprise": 0.25,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 946872978
+        },
+        {
+          "persona": "BJ_007",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.12,
+            "contempt": 0.08,
+            "fear": 0.07,
+            "disgust": 0.05,
+            "joy": 0.72,
+            "sadness": 0.09,
+            "surprise": 0.31,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 508919905
+        },
+        {
+          "persona": "BJ_015",
+          "country": "China",
+          "emotion": {
+            "peace": 0.57,
+            "anger": 0.09,
+            "contempt": 0.06,
+            "fear": 0.08,
+            "disgust": 0.06,
+            "joy": 0.7,
+            "sadness": 0.08,
+            "surprise": 0.3,
+            "confusion": 0.2
+          },
+          "comment": "",
+          "seed": 24776709
+        },
+        {
+          "persona": "BJ_010",
+          "country": "China",
+          "emotion": {
+            "peace": 0.55,
+            "anger": 0.15,
+            "contempt": 0.1,
+            "fear": 0.05,
+            "disgust": 0.1,
+            "joy": 0.65,
+            "sadness": 0.1,
+            "surprise": 0.35,
+            "confusion": 0.25
+          },
+          "comment": "",
+          "seed": 617895020
+        },
+        {
+          "persona": "BJ_018",
+          "country": "China",
+          "emotion": {
+            "peace": 0.52,
+            "anger": 0.12,
+            "contempt": 0.07,
+            "fear": 0.05,
+            "disgust": 0.1,
+            "joy": 0.6,
+            "sadness": 0.06,
+            "surprise": 0.28,
+            "confusion": 0.24
+          },
+          "comment": "",
+          "seed": 432990224
+        },
+        {
+          "persona": "BJ_023",
+          "country": "China",
+          "emotion": {
+            "peace": 0.65,
+            "anger": 0.16,
+            "contempt": 0.1,
+            "fear": 0.06,
+            "disgust": 0.12,
+            "joy": 0.72,
+            "sadness": 0.08,
+            "surprise": 0.46,
+            "confusion": 0.38
+          },
+          "comment": "",
+          "seed": 6473253
+        },
+        {
+          "persona": "BJ_019",
+          "country": "China",
+          "emotion": {
+            "peace": 0.46,
+            "anger": 0.18,
+            "contempt": 0.12,
+            "fear": 0.09,
+            "disgust": 0.08,
+            "joy": 0.64,
+            "sadness": 0.1,
+            "surprise": 0.42,
+            "confusion": 0.32
+          },
+          "comment": "",
+          "seed": 493931690
+        },
+        {
+          "persona": "BJ_020",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.12,
+            "contempt": 0.08,
+            "fear": 0.05,
+            "disgust": 0.09,
+            "joy": 0.72,
+            "sadness": 0.07,
+            "surprise": 0.33,
+            "confusion": 0.38
+          },
+          "comment": "",
+          "seed": 420039571
+        },
+        {
+          "persona": "Mingyu_137",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.14,
+            "contempt": 0.07,
+            "fear": 0.06,
+            "disgust": 0.04,
+            "joy": 0.64,
+            "sadness": 0.09,
+            "surprise": 0.28,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 149983615
+        },
+        {
+          "persona": "BJ_024",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.18,
+            "contempt": 0.12,
+            "fear": 0.06,
+            "disgust": 0.08,
+            "joy": 0.6,
+            "sadness": 0.1,
+            "surprise": 0.3,
+            "confusion": 0.32
+          },
+          "comment": "",
+          "seed": 289919094
+        },
+        {
+          "persona": "BJ_026",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.06,
+            "contempt": 0.1,
+            "fear": 0.04,
+            "disgust": 0.08,
+            "joy": 0.68,
+            "sadness": 0.07,
+            "surprise": 0.42,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 481702693
+        },
+        {
+          "persona": "BJ_025",
+          "country": "China",
+          "emotion": {
+            "peace": 0.5,
+            "anger": 0.09,
+            "contempt": 0.07,
+            "fear": 0.03,
+            "disgust": 0.05,
+            "joy": 0.65,
+            "sadness": 0.05,
+            "surprise": 0.15,
+            "confusion": 0.2
+          },
+          "comment": "",
+          "seed": 310495880
+        },
+        {
+          "persona": "BJ_027",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.09,
+            "contempt": 0.11,
+            "fear": 0.04,
+            "disgust": 0.05,
+            "joy": 0.63,
+            "sadness": 0.06,
+            "surprise": 0.21,
+            "confusion": 0.17
+          },
+          "comment": "",
+          "seed": 70539044
+        },
+        {
+          "persona": "BJ_029",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.12,
+            "contempt": 0.08,
+            "fear": 0.1,
+            "disgust": 0.06,
+            "joy": 0.58,
+            "sadness": 0.14,
+            "surprise": 0.24,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 743733347
+        },
+        {
+          "persona": "BJ_030",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.12,
+            "contempt": 0.06,
+            "fear": 0.07,
+            "disgust": 0.07,
+            "joy": 0.76,
+            "sadness": 0.05,
+            "surprise": 0.34,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 450844729
+        },
+        {
+          "persona": "BJ_033",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.14,
+            "contempt": 0.12,
+            "fear": 0.08,
+            "disgust": 0.09,
+            "joy": 0.73,
+            "sadness": 0.05,
+            "surprise": 0.38,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 93542619
+        },
+        {
+          "persona": "BJ_031",
+          "country": "China",
+          "emotion": {
+            "peace": 0.5,
+            "anger": 0.2,
+            "contempt": 0.12,
+            "fear": 0.14,
+            "disgust": 0.1,
+            "joy": 0.64,
+            "sadness": 0.09,
+            "surprise": 0.34,
+            "confusion": 0.41
+          },
+          "comment": "",
+          "seed": 338674235
+        },
+        {
+          "persona": "BJ_032",
+          "country": "China",
+          "emotion": {
+            "peace": 0.52,
+            "anger": 0.18,
+            "contempt": 0.14,
+            "fear": 0.09,
+            "disgust": 0.12,
+            "joy": 0.62,
+            "sadness": 0.11,
+            "surprise": 0.42,
+            "confusion": 0.33
+          },
+          "comment": "",
+          "seed": 183813150
+        },
+        {
+          "persona": "BJ_035",
+          "country": "China",
+          "emotion": {
+            "peace": 0.47,
+            "anger": 0.13,
+            "contempt": 0.09,
+            "fear": 0.06,
+            "disgust": 0.07,
+            "joy": 0.64,
+            "sadness": 0.1,
+            "surprise": 0.41,
+            "confusion": 0.3
+          },
+          "comment": "",
+          "seed": 321065833
+        },
+        {
+          "persona": "BJ_036",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.09,
+            "contempt": 0.07,
+            "fear": 0.13,
+            "disgust": 0.06,
+            "joy": 0.72,
+            "sadness": 0.1,
+            "surprise": 0.38,
+            "confusion": 0.21
+          },
+          "comment": "",
+          "seed": 912963707
+        },
+        {
+          "persona": "BJ_034",
+          "country": "China",
+          "emotion": {
+            "peace": 0.56,
+            "anger": 0.12,
+            "contempt": 0.07,
+            "fear": 0.08,
+            "disgust": 0.1,
+            "joy": 0.63,
+            "sadness": 0.05,
+            "surprise": 0.34,
+            "confusion": 0.17
+          },
+          "comment": "",
+          "seed": 477622458
+        },
+        {
+          "persona": "BJ_037",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.12,
+            "contempt": 0.08,
+            "fear": 0.06,
+            "disgust": 0.07,
+            "joy": 0.72,
+            "sadness": 0.09,
+            "surprise": 0.32,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 84209900
+        },
+        {
+          "persona": "BJ_038",
+          "country": "China",
+          "emotion": {
+            "peace": 0.55,
+            "anger": 0.17,
+            "contempt": 0.07,
+            "fear": 0.09,
+            "disgust": 0.11,
+            "joy": 0.7,
+            "sadness": 0.06,
+            "surprise": 0.34,
+            "confusion": 0.29
+          },
+          "comment": "",
+          "seed": 239260317
+        },
+        {
+          "persona": "BJ_039",
+          "country": "China",
+          "emotion": {
+            "peace": 0.52,
+            "anger": 0.18,
+            "contempt": 0.12,
+            "fear": 0.06,
+            "disgust": 0.09,
+            "joy": 0.64,
+            "sadness": 0.11,
+            "surprise": 0.33,
+            "confusion": 0.28
+          },
+          "comment": "",
+          "seed": 305038790
+        },
+        {
+          "persona": "BJ_028",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.14,
+            "contempt": 0.12,
+            "fear": 0.07,
+            "disgust": 0.07,
+            "joy": 0.62,
+            "sadness": 0.1,
+            "surprise": 0.43,
+            "confusion": 0.27
+          },
+          "comment": "",
+          "seed": 49022496
+        },
+        {
+          "persona": "BJ_040",
+          "country": "China",
+          "emotion": {
+            "peace": 0.45,
+            "anger": 0.22,
+            "contempt": 0.14,
+            "fear": 0.1,
+            "disgust": 0.12,
+            "joy": 0.65,
+            "sadness": 0.08,
+            "surprise": 0.4,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 485843883
+        },
+        {
+          "persona": "BJ_042",
+          "country": "China",
+          "emotion": {
+            "peace": 0.55,
+            "anger": 0.12,
+            "contempt": 0.18,
+            "fear": 0.08,
+            "disgust": 0.12,
+            "joy": 0.62,
+            "sadness": 0.1,
+            "surprise": 0.38,
+            "confusion": 0.3
+          },
+          "comment": "",
+          "seed": 215164773
+        },
+        {
+          "persona": "BJ_044",
+          "country": "China",
+          "emotion": {
+            "peace": 0.52,
+            "anger": 0.18,
+            "contempt": 0.08,
+            "fear": 0.06,
+            "disgust": 0.12,
+            "joy": 0.64,
+            "sadness": 0.1,
+            "surprise": 0.33,
+            "confusion": 0.28
+          },
+          "comment": "",
+          "seed": 246205572
+        },
+        {
+          "persona": "BJ_046",
+          "country": "China",
+          "emotion": {
+            "peace": 0.38,
+            "anger": 0.14,
+            "contempt": 0.1,
+            "fear": 0.05,
+            "disgust": 0.08,
+            "joy": 0.56,
+            "sadness": 0.07,
+            "surprise": 0.22,
+            "confusion": 0.26
+          },
+          "comment": "",
+          "seed": 329637495
+        },
+        {
+          "persona": "BJ_041",
+          "country": "China",
+          "emotion": {
+            "peace": 0.48,
+            "anger": 0.13,
+            "contempt": 0.11,
+            "fear": 0.05,
+            "disgust": 0.09,
+            "joy": 0.72,
+            "sadness": 0.07,
+            "surprise": 0.32,
+            "confusion": 0.36
+          },
+          "comment": "",
+          "seed": 595519809
+        },
+        {
+          "persona": "BJ_047",
+          "country": "China",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.08,
+            "contempt": 0.05,
+            "fear": 0.06,
+            "disgust": 0.04,
+            "joy": 0.68,
+            "sadness": 0.07,
+            "surprise": 0.35,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 538771255
+        },
+        {
+          "persona": "BJ_043",
+          "country": "China",
+          "emotion": {
+            "peace": 0.48,
+            "anger": 0.2,
+            "contempt": 0.16,
+            "fear": 0.04,
+            "disgust": 0.06,
+            "joy": 0.62,
+            "sadness": 0.08,
+            "surprise": 0.27,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 506919352
+        },
+        {
+          "persona": "BJ_048",
+          "country": "China",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.08,
+            "contempt": 0.12,
+            "fear": 0.05,
+            "disgust": 0.05,
+            "joy": 0.7,
+            "sadness": 0.05,
+            "surprise": 0.3,
+            "confusion": 0.2
+          },
+          "comment": "",
+          "seed": 987813800
+        },
+        {
+          "persona": "BJ_051",
+          "country": "China",
+          "emotion": {
+            "peace": 0.56,
+            "anger": 0.18,
+            "contempt": 0.08,
+            "fear": 0.07,
+            "disgust": 0.1,
+            "joy": 0.66,
+            "sadness": 0.06,
+            "surprise": 0.28,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 273511912
+        },
+        {
+          "persona": "BJ_052",
+          "country": "China",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.12,
+            "contempt": 0.09,
+            "fear": 0.07,
+            "disgust": 0.12,
+            "joy": 0.62,
+            "sadness": 0.1,
+            "surprise": 0.3,
+            "confusion": 0.23
+          },
+          "comment": "",
+          "seed": 131016107
+        },
+        {
+          "persona": "BJ_049",
+          "country": "China",
+          "emotion": {
+            "peace": 0.68,
+            "anger": 0.12,
+            "contempt": 0.08,
+            "fear": 0.03,
+            "disgust": 0.06,
+            "joy": 0.55,
+            "sadness": 0.04,
+            "surprise": 0.22,
+            "confusion": 0.16
+          },
+          "comment": "",
+          "seed": 71283859
+        },
+        {
+          "persona": "BJ_050",
+          "country": "China",
+          "emotion": {
+            "peace": 0.46,
+            "anger": 0.08,
+            "contempt": 0.06,
+            "fear": 0.04,
+            "disgust": 0.05,
+            "joy": 0.58,
+            "sadness": 0.07,
+            "surprise": 0.4,
+            "confusion": 0.3
+          },
+          "comment": "",
+          "seed": 236177553
+        },
+        {
+          "persona": "BJ_045",
+          "country": "China",
+          "emotion": {
+            "peace": 0.55,
+            "anger": 0.2,
+            "contempt": 0.27,
+            "fear": 0.05,
+            "disgust": 0.13,
+            "joy": 0.54,
+            "sadness": 0.09,
+            "surprise": 0.18,
+            "confusion": 0.1
+          },
+          "comment": "",
+          "seed": 491770628
+        },
+        {
+          "persona": "BJ_057",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.09,
+            "contempt": 0.12,
+            "fear": 0.04,
+            "disgust": 0.08,
+            "joy": 0.66,
+            "sadness": 0.07,
+            "surprise": 0.32,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 160225755
+        },
+        {
+          "persona": "BJ_059",
+          "country": "China",
+          "emotion": {
+            "peace": 0.55,
+            "anger": 0.12,
+            "contempt": 0.18,
+            "fear": 0.08,
+            "disgust": 0.1,
+            "joy": 0.65,
+            "sadness": 0.06,
+            "surprise": 0.4,
+            "confusion": 0.25
+          },
+          "comment": "",
+          "seed": 980636537
+        },
+        {
+          "persona": "BJ_053",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.14,
+            "contempt": 0.1,
+            "fear": 0.07,
+            "disgust": 0.09,
+            "joy": 0.68,
+            "sadness": 0.07,
+            "surprise": 0.33,
+            "confusion": 0.24
+          },
+          "comment": "",
+          "seed": 36605851
+        },
+        {
+          "persona": "BJ_055",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.17,
+            "contempt": 0.07,
+            "fear": 0.11,
+            "disgust": 0.09,
+            "joy": 0.64,
+            "sadness": 0.09,
+            "surprise": 0.33,
+            "confusion": 0.26
+          },
+          "comment": "",
+          "seed": 657103768
+        },
+        {
+          "persona": "BJ_056",
+          "country": "China",
+          "emotion": {
+            "peace": 0.56,
+            "anger": 0.24,
+            "contempt": 0.28,
+            "fear": 0.12,
+            "disgust": 0.14,
+            "joy": 0.61,
+            "sadness": 0.08,
+            "surprise": 0.35,
+            "confusion": 0.32
+          },
+          "comment": "",
+          "seed": 297421098
+        },
+        {
+          "persona": "BJ_054",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.18,
+            "contempt": 0.16,
+            "fear": 0.09,
+            "disgust": 0.12,
+            "joy": 0.72,
+            "sadness": 0.1,
+            "surprise": 0.52,
+            "confusion": 0.3
+          },
+          "comment": "",
+          "seed": 496580671
+        },
+        {
+          "persona": "BJ_060",
+          "country": "China",
+          "emotion": {
+            "peace": 0.52,
+            "anger": 0.12,
+            "contempt": 0.06,
+            "fear": 0.03,
+            "disgust": 0.08,
+            "joy": 0.66,
+            "sadness": 0.05,
+            "surprise": 0.28,
+            "confusion": 0.17
+          },
+          "comment": "",
+          "seed": 191071449
+        },
+        {
+          "persona": "BJ_058",
+          "country": "China",
+          "emotion": {
+            "peace": 0.42,
+            "anger": 0.22,
+            "contempt": 0.18,
+            "fear": 0.1,
+            "disgust": 0.14,
+            "joy": 0.58,
+            "sadness": 0.08,
+            "surprise": 0.44,
+            "confusion": 0.33
+          },
+          "comment": "",
+          "seed": 151366379
+        },
+        {
+          "persona": "BJ_063",
+          "country": "China",
+          "emotion": {
+            "peace": 0.56,
+            "anger": 0.14,
+            "contempt": 0.12,
+            "fear": 0.06,
+            "disgust": 0.1,
+            "joy": 0.64,
+            "sadness": 0.08,
+            "surprise": 0.35,
+            "confusion": 0.28
+          },
+          "comment": "",
+          "seed": 55120278
+        },
+        {
+          "persona": "BJ_066",
+          "country": "China",
+          "emotion": {
+            "peace": 0.54,
+            "anger": 0.12,
+            "contempt": 0.13,
+            "fear": 0.08,
+            "disgust": 0.1,
+            "joy": 0.6,
+            "sadness": 0.06,
+            "surprise": 0.3,
+            "confusion": 0.2
+          },
+          "comment": "",
+          "seed": 444432360
+        },
+        {
+          "persona": "BJ_061",
+          "country": "China",
+          "emotion": {
+            "peace": 0.56,
+            "anger": 0.08,
+            "contempt": 0.05,
+            "fear": 0.03,
+            "disgust": 0.05,
+            "joy": 0.72,
+            "sadness": 0.04,
+            "surprise": 0.32,
+            "confusion": 0.16
+          },
+          "comment": "",
+          "seed": 209640497
+        },
+        {
+          "persona": "BJ_064",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.18,
+            "contempt": 0.12,
+            "fear": 0.06,
+            "disgust": 0.09,
+            "joy": 0.7,
+            "sadness": 0.1,
+            "surprise": 0.5,
+            "confusion": 0.28
+          },
+          "comment": "",
+          "seed": 762574226
+        },
+        {
+          "persona": "BJ_071",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.09,
+            "contempt": 0.13,
+            "fear": 0.08,
+            "disgust": 0.18,
+            "joy": 0.67,
+            "sadness": 0.1,
+            "surprise": 0.42,
+            "confusion": 0.27
+          },
+          "comment": "",
+          "seed": 322369502
+        },
+        {
+          "persona": "BJ_068",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.17,
+            "contempt": 0.14,
+            "fear": 0.07,
+            "disgust": 0.12,
+            "joy": 0.72,
+            "sadness": 0.09,
+            "surprise": 0.33,
+            "confusion": 0.26
+          },
+          "comment": "",
+          "seed": 976173329
+        },
+        {
+          "persona": "BJ_062",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.15,
+            "contempt": 0.1,
+            "fear": 0.05,
+            "disgust": 0.09,
+            "joy": 0.7,
+            "sadness": 0.08,
+            "surprise": 0.22,
+            "confusion": 0.28
+          },
+          "comment": "",
+          "seed": 942975553
+        },
+        {
+          "persona": "BJ_067",
+          "country": "China",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.14,
+            "contempt": 0.08,
+            "fear": 0.05,
+            "disgust": 0.08,
+            "joy": 0.66,
+            "sadness": 0.07,
+            "surprise": 0.38,
+            "confusion": 0.2
+          },
+          "comment": "",
+          "seed": 355322105
+        },
+        {
+          "persona": "BJ_069",
+          "country": "China",
+          "emotion": {
+            "peace": 0.52,
+            "anger": 0.09,
+            "contempt": 0.08,
+            "fear": 0.05,
+            "disgust": 0.12,
+            "joy": 0.68,
+            "sadness": 0.1,
+            "surprise": 0.4,
+            "confusion": 0.2
+          },
+          "comment": "",
+          "seed": 793321621
+        },
+        {
+          "persona": "BJ_074",
+          "country": "China",
+          "emotion": {
+            "peace": 0.55,
+            "anger": 0.12,
+            "contempt": 0.18,
+            "fear": 0.08,
+            "disgust": 0.1,
+            "joy": 0.65,
+            "sadness": 0.09,
+            "surprise": 0.35,
+            "confusion": 0.3
+          },
+          "comment": "",
+          "seed": 256435554
+        },
+        {
+          "persona": "BJ_065",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.1,
+            "contempt": 0.06,
+            "fear": 0.04,
+            "disgust": 0.07,
+            "joy": 0.68,
+            "sadness": 0.08,
+            "surprise": 0.22,
+            "confusion": 0.16
+          },
+          "comment": "",
+          "seed": 145253975
+        },
+        {
+          "persona": "BJ_070",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.12,
+            "contempt": 0.08,
+            "fear": 0.06,
+            "disgust": 0.07,
+            "joy": 0.76,
+            "sadness": 0.09,
+            "surprise": 0.42,
+            "confusion": 0.33
+          },
+          "comment": "",
+          "seed": 209383727
+        },
+        {
+          "persona": "BJ_075",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.08,
+            "contempt": 0.12,
+            "fear": 0.06,
+            "disgust": 0.07,
+            "joy": 0.72,
+            "sadness": 0.09,
+            "surprise": 0.4,
+            "confusion": 0.3
+          },
+          "comment": "",
+          "seed": 116524370
+        },
+        {
+          "persona": "BJ_073",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.06,
+            "contempt": 0.09,
+            "fear": 0.03,
+            "disgust": 0.07,
+            "joy": 0.68,
+            "sadness": 0.05,
+            "surprise": 0.22,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 502368961
+        },
+        {
+          "persona": "BJ_079",
+          "country": "China",
+          "emotion": {
+            "peace": 0.42,
+            "anger": 0.18,
+            "contempt": 0.12,
+            "fear": 0.06,
+            "disgust": 0.1,
+            "joy": 0.58,
+            "sadness": 0.1,
+            "surprise": 0.27,
+            "confusion": 0.34
+          },
+          "comment": "",
+          "seed": 20324294
+        },
+        {
+          "persona": "BJ_072",
+          "country": "China",
+          "emotion": {
+            "peace": 0.5,
+            "anger": 0.2,
+            "contempt": 0.12,
+            "fear": 0.08,
+            "disgust": 0.15,
+            "joy": 0.6,
+            "sadness": 0.07,
+            "surprise": 0.4,
+            "confusion": 0.35
+          },
+          "comment": "",
+          "seed": 460765189
+        },
+        {
+          "persona": "BJ_076",
+          "country": "China",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.1,
+            "contempt": 0.14,
+            "fear": 0.05,
+            "disgust": 0.08,
+            "joy": 0.66,
+            "sadness": 0.06,
+            "surprise": 0.24,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 741374514
+        },
+        {
+          "persona": "BJ_080",
+          "country": "China",
+          "emotion": {
+            "peace": 0.52,
+            "anger": 0.22,
+            "contempt": 0.18,
+            "fear": 0.14,
+            "disgust": 0.12,
+            "joy": 0.58,
+            "sadness": 0.06,
+            "surprise": 0.31,
+            "confusion": 0.37
+          },
+          "comment": "",
+          "seed": 748751566
+        },
+        {
+          "persona": "BJ_078",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.12,
+            "contempt": 0.09,
+            "fear": 0.05,
+            "disgust": 0.08,
+            "joy": 0.64,
+            "sadness": 0.06,
+            "surprise": 0.42,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 316523052
+        },
+        {
+          "persona": "BJ_077",
+          "country": "China",
+          "emotion": {
+            "peace": 0.52,
+            "anger": 0.17,
+            "contempt": 0.1,
+            "fear": 0.06,
+            "disgust": 0.09,
+            "joy": 0.65,
+            "sadness": 0.08,
+            "surprise": 0.45,
+            "confusion": 0.32
+          },
+          "comment": "",
+          "seed": 24492759
+        },
+        {
+          "persona": "BJ_088",
+          "country": "China",
+          "emotion": {
+            "peace": 0.55,
+            "anger": 0.1,
+            "contempt": 0.15,
+            "fear": 0.05,
+            "disgust": 0.05,
+            "joy": 0.65,
+            "sadness": 0.05,
+            "surprise": 0.35,
+            "confusion": 0.2
+          },
+          "comment": "",
+          "seed": 504192481
+        },
+        {
+          "persona": "BJ_081",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.12,
+            "contempt": 0.22,
+            "fear": 0.07,
+            "disgust": 0.1,
+            "joy": 0.67,
+            "sadness": 0.08,
+            "surprise": 0.33,
+            "confusion": 0.24
+          },
+          "comment": "",
+          "seed": 33255236
+        },
+        {
+          "persona": "BJ_087",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.08,
+            "contempt": 0.07,
+            "fear": 0.04,
+            "disgust": 0.06,
+            "joy": 0.7,
+            "sadness": 0.03,
+            "surprise": 0.28,
+            "confusion": 0.14
+          },
+          "comment": "",
+          "seed": 131729084
+        },
+        {
+          "persona": "BJ_082",
+          "country": "China",
+          "emotion": {
+            "peace": 0.48,
+            "anger": 0.22,
+            "contempt": 0.18,
+            "fear": 0.07,
+            "disgust": 0.2,
+            "joy": 0.62,
+            "sadness": 0.12,
+            "surprise": 0.38,
+            "confusion": 0.24
+          },
+          "comment": "",
+          "seed": 659652382
+        },
+        {
+          "persona": "BJ_085",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.12,
+            "contempt": 0.14,
+            "fear": 0.06,
+            "disgust": 0.09,
+            "joy": 0.72,
+            "sadness": 0.11,
+            "surprise": 0.27,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 762298938
+        },
+        {
+          "persona": "BJ_090",
+          "country": "China",
+          "emotion": {
+            "peace": 0.55,
+            "anger": 0.18,
+            "contempt": 0.12,
+            "fear": 0.05,
+            "disgust": 0.1,
+            "joy": 0.68,
+            "sadness": 0.08,
+            "surprise": 0.42,
+            "confusion": 0.37
+          },
+          "comment": "",
+          "seed": 812639419
+        },
+        {
+          "persona": "BJ_083",
+          "country": "China",
+          "emotion": {
+            "peace": 0.55,
+            "anger": 0.2,
+            "contempt": 0.15,
+            "fear": 0.07,
+            "disgust": 0.1,
+            "joy": 0.65,
+            "sadness": 0.07,
+            "surprise": 0.35,
+            "confusion": 0.2
+          },
+          "comment": "",
+          "seed": 35947280
+        },
+        {
+          "persona": "BJ_092",
+          "country": "China",
+          "emotion": {
+            "peace": 0.57,
+            "anger": 0.17,
+            "contempt": 0.1,
+            "fear": 0.06,
+            "disgust": 0.08,
+            "joy": 0.62,
+            "sadness": 0.1,
+            "surprise": 0.4,
+            "confusion": 0.33
+          },
+          "comment": "",
+          "seed": 916940732
+        },
+        {
+          "persona": "BJ_089",
+          "country": "China",
+          "emotion": {
+            "peace": 0.52,
+            "anger": 0.12,
+            "contempt": 0.14,
+            "fear": 0.17,
+            "disgust": 0.08,
+            "joy": 0.66,
+            "sadness": 0.06,
+            "surprise": 0.29,
+            "confusion": 0.23
+          },
+          "comment": "",
+          "seed": 914609584
+        },
+        {
+          "persona": "BJ_086",
+          "country": "China",
+          "emotion": {
+            "peace": 0.52,
+            "anger": 0.14,
+            "contempt": 0.09,
+            "fear": 0.08,
+            "disgust": 0.11,
+            "joy": 0.57,
+            "sadness": 0.07,
+            "surprise": 0.28,
+            "confusion": 0.23
+          },
+          "comment": "",
+          "seed": 764092847
+        },
+        {
+          "persona": "BJ_091",
+          "country": "China",
+          "emotion": {
+            "peace": 0.5,
+            "anger": 0.15,
+            "contempt": 0.22,
+            "fear": 0.06,
+            "disgust": 0.18,
+            "joy": 0.65,
+            "sadness": 0.1,
+            "surprise": 0.4,
+            "confusion": 0.35
+          },
+          "comment": "",
+          "seed": 312748535
+        },
+        {
+          "persona": "BJ_095",
+          "country": "China",
+          "emotion": {
+            "peace": 0.55,
+            "anger": 0.1,
+            "contempt": 0.08,
+            "fear": 0.12,
+            "disgust": 0.06,
+            "joy": 0.65,
+            "sadness": 0.12,
+            "surprise": 0.35,
+            "confusion": 0.25
+          },
+          "comment": "",
+          "seed": 603815490
+        },
+        {
+          "persona": "BJ_084",
+          "country": "China",
+          "emotion": {
+            "peace": 0.5,
+            "anger": 0.18,
+            "contempt": 0.12,
+            "fear": 0.09,
+            "disgust": 0.08,
+            "joy": 0.57,
+            "sadness": 0.1,
+            "surprise": 0.22,
+            "confusion": 0.2
+          },
+          "comment": "",
+          "seed": 600379488
+        },
+        {
+          "persona": "BJ_096",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.17,
+            "contempt": 0.21,
+            "fear": 0.07,
+            "disgust": 0.19,
+            "joy": 0.71,
+            "sadness": 0.09,
+            "surprise": 0.53,
+            "confusion": 0.27
+          },
+          "comment": "",
+          "seed": 532620342
+        },
+        {
+          "persona": "BJ_094",
+          "country": "China",
+          "emotion": {
+            "peace": 0.56,
+            "anger": 0.12,
+            "contempt": 0.09,
+            "fear": 0.04,
+            "disgust": 0.07,
+            "joy": 0.64,
+            "sadness": 0.06,
+            "surprise": 0.28,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 474729572
+        },
+        {
+          "persona": "BJ_093",
+          "country": "China",
+          "emotion": {
+            "peace": 0.55,
+            "anger": 0.1,
+            "contempt": 0.06,
+            "fear": 0.09,
+            "disgust": 0.04,
+            "joy": 0.6,
+            "sadness": 0.07,
+            "surprise": 0.27,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 748371699
+        },
+        {
+          "persona": "BJ_097",
+          "country": "China",
+          "emotion": {
+            "peace": 0.56,
+            "anger": 0.15,
+            "contempt": 0.09,
+            "fear": 0.1,
+            "disgust": 0.06,
+            "joy": 0.58,
+            "sadness": 0.05,
+            "surprise": 0.3,
+            "confusion": 0.24
+          },
+          "comment": "",
+          "seed": 570083189
+        },
+        {
+          "persona": "BJ_104",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.18,
+            "contempt": 0.22,
+            "fear": 0.07,
+            "disgust": 0.14,
+            "joy": 0.66,
+            "sadness": 0.09,
+            "surprise": 0.47,
+            "confusion": 0.13
+          },
+          "comment": "",
+          "seed": 646648176
+        },
+        {
+          "persona": "BJ_103",
+          "country": "China",
+          "emotion": {
+            "peace": 0.56,
+            "anger": 0.19,
+            "contempt": 0.1,
+            "fear": 0.05,
+            "disgust": 0.09,
+            "joy": 0.67,
+            "sadness": 0.08,
+            "surprise": 0.33,
+            "confusion": 0.16
+          },
+          "comment": "",
+          "seed": 120966455
+        },
+        {
+          "persona": "BJ_101",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.14,
+            "contempt": 0.12,
+            "fear": 0.06,
+            "disgust": 0.09,
+            "joy": 0.68,
+            "sadness": 0.07,
+            "surprise": 0.32,
+            "confusion": 0.26
+          },
+          "comment": "",
+          "seed": 947570767
+        },
+        {
+          "persona": "BJ_100",
+          "country": "China",
+          "emotion": {
+            "peace": 0.55,
+            "anger": 0.12,
+            "contempt": 0.08,
+            "fear": 0.1,
+            "disgust": 0.06,
+            "joy": 0.68,
+            "sadness": 0.1,
+            "surprise": 0.42,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 425790674
+        },
+        {
+          "persona": "BJ_105",
+          "country": "China",
+          "emotion": {
+            "peace": 0.54,
+            "anger": 0.18,
+            "contempt": 0.12,
+            "fear": 0.06,
+            "disgust": 0.09,
+            "joy": 0.66,
+            "sadness": 0.08,
+            "surprise": 0.38,
+            "confusion": 0.24
+          },
+          "comment": "",
+          "seed": 525214863
+        },
+        {
+          "persona": "BJ_106",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.08,
+            "contempt": 0.06,
+            "fear": 0.05,
+            "disgust": 0.05,
+            "joy": 0.62,
+            "sadness": 0.07,
+            "surprise": 0.28,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 195099818
+        },
+        {
+          "persona": "BJ_108",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.13,
+            "contempt": 0.12,
+            "fear": 0.1,
+            "disgust": 0.08,
+            "joy": 0.64,
+            "sadness": 0.09,
+            "surprise": 0.3,
+            "confusion": 0.45
+          },
+          "comment": "",
+          "seed": 166208908
+        },
+        {
+          "persona": "BJ_099",
+          "country": "China",
+          "emotion": {
+            "peace": 0.56,
+            "anger": 0.17,
+            "contempt": 0.12,
+            "fear": 0.05,
+            "disgust": 0.1,
+            "joy": 0.64,
+            "sadness": 0.09,
+            "surprise": 0.28,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 92390533
+        },
+        {
+          "persona": "BJ_109",
+          "country": "China",
+          "emotion": {
+            "peace": 0.5,
+            "anger": 0.17,
+            "contempt": 0.11,
+            "fear": 0.09,
+            "disgust": 0.1,
+            "joy": 0.62,
+            "sadness": 0.06,
+            "surprise": 0.34,
+            "confusion": 0.31
+          },
+          "comment": "",
+          "seed": 496424617
+        },
+        {
+          "persona": "BJ_107",
+          "country": "China",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.1,
+            "contempt": 0.1,
+            "fear": 0.06,
+            "disgust": 0.07,
+            "joy": 0.72,
+            "sadness": 0.08,
+            "surprise": 0.36,
+            "confusion": 0.26
+          },
+          "comment": "",
+          "seed": 450647834
+        },
+        {
+          "persona": "BJ_102",
+          "country": "China",
+          "emotion": {
+            "peace": 0.46,
+            "anger": 0.08,
+            "contempt": 0.14,
+            "fear": 0.03,
+            "disgust": 0.09,
+            "joy": 0.58,
+            "sadness": 0.05,
+            "surprise": 0.17,
+            "confusion": 0.2
+          },
+          "comment": "",
+          "seed": 462018564
+        },
+        {
+          "persona": "BJ_117",
+          "country": "China",
+          "emotion": {
+            "peace": 0.5,
+            "anger": 0.12,
+            "contempt": 0.09,
+            "fear": 0.06,
+            "disgust": 0.11,
+            "joy": 0.65,
+            "sadness": 0.08,
+            "surprise": 0.22,
+            "confusion": 0.24
+          },
+          "comment": "",
+          "seed": 608077366
+        },
+        {
+          "persona": "BJ_113",
+          "country": "China",
+          "emotion": {
+            "peace": 0.56,
+            "anger": 0.2,
+            "contempt": 0.12,
+            "fear": 0.25,
+            "disgust": 0.15,
+            "joy": 0.75,
+            "sadness": 0.08,
+            "surprise": 0.35,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 215386735
+        },
+        {
+          "persona": "BJ_098",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.14,
+            "contempt": 0.12,
+            "fear": 0.1,
+            "disgust": 0.09,
+            "joy": 0.64,
+            "sadness": 0.07,
+            "surprise": 0.3,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 435926663
+        },
+        {
+          "persona": "BJ_115",
+          "country": "China",
+          "emotion": {
+            "peace": 0.55,
+            "anger": 0.12,
+            "contempt": 0.1,
+            "fear": 0.08,
+            "disgust": 0.11,
+            "joy": 0.62,
+            "sadness": 0.07,
+            "surprise": 0.38,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 881404558
+        },
+        {
+          "persona": "BJ_110",
+          "country": "China",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.17,
+            "contempt": 0.22,
+            "fear": 0.07,
+            "disgust": 0.15,
+            "joy": 0.68,
+            "sadness": 0.1,
+            "surprise": 0.38,
+            "confusion": 0.45
+          },
+          "comment": "",
+          "seed": 24872589
+        },
+        {
+          "persona": "BJ_116",
+          "country": "China",
+          "emotion": {
+            "peace": 0.5,
+            "anger": 0.1,
+            "contempt": 0.06,
+            "fear": 0.03,
+            "disgust": 0.05,
+            "joy": 0.62,
+            "sadness": 0.07,
+            "surprise": 0.32,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 231131500
+        },
+        {
+          "persona": "BJ_114",
+          "country": "China",
+          "emotion": {
+            "peace": 0.44,
+            "anger": 0.17,
+            "contempt": 0.15,
+            "fear": 0.05,
+            "disgust": 0.11,
+            "joy": 0.56,
+            "sadness": 0.09,
+            "surprise": 0.21,
+            "confusion": 0.27
+          },
+          "comment": "",
+          "seed": 213946998
+        },
+        {
+          "persona": "BJ_112",
+          "country": "China",
+          "emotion": {
+            "peace": 0.4,
+            "anger": 0.12,
+            "contempt": 0.08,
+            "fear": 0.04,
+            "disgust": 0.07,
+            "joy": 0.55,
+            "sadness": 0.06,
+            "surprise": 0.23,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 732141916
+        },
+        {
+          "persona": "BJ_111",
+          "country": "China",
+          "emotion": {
+            "peace": 0.52,
+            "anger": 0.19,
+            "contempt": 0.12,
+            "fear": 0.06,
+            "disgust": 0.1,
+            "joy": 0.61,
+            "sadness": 0.14,
+            "surprise": 0.33,
+            "confusion": 0.28
+          },
+          "comment": "",
+          "seed": 769933136
+        },
+        {
+          "persona": "BJ_120",
+          "country": "China",
+          "emotion": {
+            "peace": 0.57,
+            "anger": 0.08,
+            "contempt": 0.12,
+            "fear": 0.05,
+            "disgust": 0.1,
+            "joy": 0.71,
+            "sadness": 0.06,
+            "surprise": 0.41,
+            "confusion": 0.29
+          },
+          "comment": "",
+          "seed": 10728733
+        },
+        {
+          "persona": "BJ_118",
+          "country": "China",
+          "emotion": {
+            "peace": 0.55,
+            "anger": 0.12,
+            "contempt": 0.09,
+            "fear": 0.05,
+            "disgust": 0.08,
+            "joy": 0.62,
+            "sadness": 0.07,
+            "surprise": 0.2,
+            "confusion": 0.15
+          },
+          "comment": "",
+          "seed": 481080833
+        },
+        {
+          "persona": "BJ_122",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.1,
+            "contempt": 0.17,
+            "fear": 0.08,
+            "disgust": 0.05,
+            "joy": 0.72,
+            "sadness": 0.06,
+            "surprise": 0.38,
+            "confusion": 0.27
+          },
+          "comment": "",
+          "seed": 292262673
+        },
+        {
+          "persona": "BJ_119",
+          "country": "China",
+          "emotion": {
+            "peace": 0.5,
+            "anger": 0.12,
+            "contempt": 0.22,
+            "fear": 0.06,
+            "disgust": 0.18,
+            "joy": 0.6,
+            "sadness": 0.09,
+            "surprise": 0.28,
+            "confusion": 0.2
+          },
+          "comment": "",
+          "seed": 842781196
+        },
+        {
+          "persona": "BJ_121",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.12,
+            "contempt": 0.18,
+            "fear": 0.06,
+            "disgust": 0.1,
+            "joy": 0.66,
+            "sadness": 0.07,
+            "surprise": 0.33,
+            "confusion": 0.24
+          },
+          "comment": "",
+          "seed": 58741088
+        },
+        {
+          "persona": "BJ_123",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.17,
+            "contempt": 0.09,
+            "fear": 0.12,
+            "disgust": 0.07,
+            "joy": 0.63,
+            "sadness": 0.11,
+            "surprise": 0.36,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 302939696
+        },
+        {
+          "persona": "BJ_126",
+          "country": "China",
+          "emotion": {
+            "peace": 0.65,
+            "anger": 0.1,
+            "contempt": 0.05,
+            "fear": 0.05,
+            "disgust": 0.05,
+            "joy": 0.78,
+            "sadness": 0.08,
+            "surprise": 0.45,
+            "confusion": 0.28
+          },
+          "comment": "",
+          "seed": 576970028
+        },
+        {
+          "persona": "BJ_127",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.18,
+            "contempt": 0.12,
+            "fear": 0.06,
+            "disgust": 0.1,
+            "joy": 0.62,
+            "sadness": 0.09,
+            "surprise": 0.33,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 717154086
+        },
+        {
+          "persona": "BJ_124",
+          "country": "China",
+          "emotion": {
+            "peace": 0.56,
+            "anger": 0.18,
+            "contempt": 0.22,
+            "fear": 0.08,
+            "disgust": 0.17,
+            "joy": 0.76,
+            "sadness": 0.09,
+            "surprise": 0.48,
+            "confusion": 0.34
+          },
+          "comment": "",
+          "seed": 29665821
+        },
+        {
+          "persona": "BJ_125",
+          "country": "China",
+          "emotion": {
+            "peace": 0.64,
+            "anger": 0.13,
+            "contempt": 0.09,
+            "fear": 0.05,
+            "disgust": 0.04,
+            "joy": 0.74,
+            "sadness": 0.06,
+            "surprise": 0.32,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 111242969
+        },
+        {
+          "persona": "BJ_129",
+          "country": "China",
+          "emotion": {
+            "peace": 0.5,
+            "anger": 0.12,
+            "contempt": 0.08,
+            "fear": 0.13,
+            "disgust": 0.06,
+            "joy": 0.64,
+            "sadness": 0.07,
+            "surprise": 0.29,
+            "confusion": 0.21
+          },
+          "comment": "",
+          "seed": 792295504
+        },
+        {
+          "persona": "BJ_130",
+          "country": "China",
+          "emotion": {
+            "peace": 0.5,
+            "anger": 0.12,
+            "contempt": 0.13,
+            "fear": 0.06,
+            "disgust": 0.11,
+            "joy": 0.64,
+            "sadness": 0.09,
+            "surprise": 0.52,
+            "confusion": 0.48
+          },
+          "comment": "",
+          "seed": 41170402
+        },
+        {
+          "persona": "BJ_132",
+          "country": "China",
+          "emotion": {
+            "peace": 0.52,
+            "anger": 0.14,
+            "contempt": 0.12,
+            "fear": 0.05,
+            "disgust": 0.08,
+            "joy": 0.58,
+            "sadness": 0.11,
+            "surprise": 0.42,
+            "confusion": 0.33
+          },
+          "comment": "",
+          "seed": 544827454
+        },
+        {
+          "persona": "BJ_128",
+          "country": "China",
+          "emotion": {
+            "peace": 0.54,
+            "anger": 0.07,
+            "contempt": 0.04,
+            "fear": 0.06,
+            "disgust": 0.04,
+            "joy": 0.6,
+            "sadness": 0.08,
+            "surprise": 0.3,
+            "confusion": 0.2
+          },
+          "comment": "",
+          "seed": 762848271
+        },
+        {
+          "persona": "BJ_131",
+          "country": "China",
+          "emotion": {
+            "peace": 0.56,
+            "anger": 0.11,
+            "contempt": 0.07,
+            "fear": 0.09,
+            "disgust": 0.06,
+            "joy": 0.66,
+            "sadness": 0.1,
+            "surprise": 0.41,
+            "confusion": 0.32
+          },
+          "comment": "",
+          "seed": 857027684
+        },
+        {
+          "persona": "BJ_134",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.12,
+            "contempt": 0.09,
+            "fear": 0.07,
+            "disgust": 0.06,
+            "joy": 0.78,
+            "sadness": 0.08,
+            "surprise": 0.33,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 694953637
+        },
+        {
+          "persona": "BJ_133",
+          "country": "China",
+          "emotion": {
+            "peace": 0.48,
+            "anger": 0.17,
+            "contempt": 0.12,
+            "fear": 0.05,
+            "disgust": 0.1,
+            "joy": 0.6,
+            "sadness": 0.06,
+            "surprise": 0.35,
+            "confusion": 0.28
+          },
+          "comment": "",
+          "seed": 58364805
+        },
+        {
+          "persona": "BJ_135",
+          "country": "China",
+          "emotion": {
+            "peace": 0.46,
+            "anger": 0.13,
+            "contempt": 0.11,
+            "fear": 0.06,
+            "disgust": 0.09,
+            "joy": 0.64,
+            "sadness": 0.1,
+            "surprise": 0.37,
+            "confusion": 0.33
+          },
+          "comment": "",
+          "seed": 196245405
+        },
+        {
+          "persona": "BJ_137",
+          "country": "China",
+          "emotion": {
+            "peace": 0.52,
+            "anger": 0.15,
+            "contempt": 0.09,
+            "fear": 0.1,
+            "disgust": 0.08,
+            "joy": 0.65,
+            "sadness": 0.1,
+            "surprise": 0.4,
+            "confusion": 0.25
+          },
+          "comment": "",
+          "seed": 1764287
+        },
+        {
+          "persona": "BJ_138",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.1,
+            "contempt": 0.08,
+            "fear": 0.06,
+            "disgust": 0.12,
+            "joy": 0.58,
+            "sadness": 0.04,
+            "surprise": 0.38,
+            "confusion": 0.2
+          },
+          "comment": "",
+          "seed": 879996888
+        },
+        {
+          "persona": "BJ_140",
+          "country": "China",
+          "emotion": {
+            "peace": 0.54,
+            "anger": 0.18,
+            "contempt": 0.16,
+            "fear": 0.09,
+            "disgust": 0.12,
+            "joy": 0.72,
+            "sadness": 0.11,
+            "surprise": 0.42,
+            "confusion": 0.47
+          },
+          "comment": "",
+          "seed": 995497438
+        },
+        {
+          "persona": "BJ_136",
+          "country": "China",
+          "emotion": {
+            "peace": 0.52,
+            "anger": 0.1,
+            "contempt": 0.07,
+            "fear": 0.06,
+            "disgust": 0.06,
+            "joy": 0.6,
+            "sadness": 0.08,
+            "surprise": 0.35,
+            "confusion": 0.3
+          },
+          "comment": "",
+          "seed": 242729181
+        },
+        {
+          "persona": "BJ_139",
+          "country": "China",
+          "emotion": {
+            "peace": 0.5,
+            "anger": 0.16,
+            "contempt": 0.2,
+            "fear": 0.05,
+            "disgust": 0.1,
+            "joy": 0.72,
+            "sadness": 0.08,
+            "surprise": 0.33,
+            "confusion": 0.27
+          },
+          "comment": "",
+          "seed": 628374179
+        },
+        {
+          "persona": "BJ_141",
+          "country": "China",
+          "emotion": {
+            "peace": 0.52,
+            "anger": 0.14,
+            "contempt": 0.11,
+            "fear": 0.06,
+            "disgust": 0.08,
+            "joy": 0.62,
+            "sadness": 0.09,
+            "surprise": 0.27,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 43476019
+        },
+        {
+          "persona": "BJ_145",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.07,
+            "contempt": 0.06,
+            "fear": 0.05,
+            "disgust": 0.07,
+            "joy": 0.62,
+            "sadness": 0.08,
+            "surprise": 0.42,
+            "confusion": 0.23
+          },
+          "comment": "",
+          "seed": 600351329
+        },
+        {
+          "persona": "BJ_142",
+          "country": "China",
+          "emotion": {
+            "peace": 0.52,
+            "anger": 0.24,
+            "contempt": 0.2,
+            "fear": 0.06,
+            "disgust": 0.12,
+            "joy": 0.7,
+            "sadness": 0.09,
+            "surprise": 0.38,
+            "confusion": 0.4
+          },
+          "comment": "",
+          "seed": 232504333
+        },
+        {
+          "persona": "BJ_147",
+          "country": "China",
+          "emotion": {
+            "peace": 0.55,
+            "anger": 0.1,
+            "contempt": 0.18,
+            "fear": 0.08,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.06,
+            "surprise": 0.25,
+            "confusion": 0.3
+          },
+          "comment": "",
+          "seed": 990001608
+        },
+        {
+          "persona": "BJ_143",
+          "country": "China",
+          "emotion": {
+            "peace": 0.52,
+            "anger": 0.06,
+            "contempt": 0.12,
+            "fear": 0.04,
+            "disgust": 0.07,
+            "joy": 0.62,
+            "sadness": 0.08,
+            "surprise": 0.38,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 701810132
+        },
+        {
+          "persona": "BJ_152",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.17,
+            "contempt": 0.14,
+            "fear": 0.06,
+            "disgust": 0.12,
+            "joy": 0.64,
+            "sadness": 0.11,
+            "surprise": 0.32,
+            "confusion": 0.36
+          },
+          "comment": "",
+          "seed": 130229420
+        },
+        {
+          "persona": "BJ_148",
+          "country": "China",
+          "emotion": {
+            "peace": 0.55,
+            "anger": 0.2,
+            "contempt": 0.08,
+            "fear": 0.05,
+            "disgust": 0.1,
+            "joy": 0.68,
+            "sadness": 0.08,
+            "surprise": 0.35,
+            "confusion": 0.3
+          },
+          "comment": "",
+          "seed": 905348596
+        },
+        {
+          "persona": "BJ_144",
+          "country": "China",
+          "emotion": {
+            "peace": 0.5,
+            "anger": 0.2,
+            "contempt": 0.13,
+            "fear": 0.05,
+            "disgust": 0.1,
+            "joy": 0.65,
+            "sadness": 0.07,
+            "surprise": 0.3,
+            "confusion": 0.25
+          },
+          "comment": "",
+          "seed": 327004898
+        },
+        {
+          "persona": "BJ_149",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.13,
+            "contempt": 0.09,
+            "fear": 0.03,
+            "disgust": 0.06,
+            "joy": 0.72,
+            "sadness": 0.07,
+            "surprise": 0.27,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 4212759
+        },
+        {
+          "persona": "BJ_150",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.12,
+            "contempt": 0.15,
+            "fear": 0.06,
+            "disgust": 0.07,
+            "joy": 0.72,
+            "sadness": 0.09,
+            "surprise": 0.32,
+            "confusion": 0.21
+          },
+          "comment": "",
+          "seed": 300637185
+        },
+        {
+          "persona": "BJ_153",
+          "country": "China",
+          "emotion": {
+            "peace": 0.57,
+            "anger": 0.19,
+            "contempt": 0.11,
+            "fear": 0.09,
+            "disgust": 0.1,
+            "joy": 0.64,
+            "sadness": 0.06,
+            "surprise": 0.32,
+            "confusion": 0.23
+          },
+          "comment": "",
+          "seed": 760937400
+        },
+        {
+          "persona": "BJ_151",
+          "country": "China",
+          "emotion": {
+            "peace": 0.56,
+            "anger": 0.21,
+            "contempt": 0.14,
+            "fear": 0.07,
+            "disgust": 0.11,
+            "joy": 0.74,
+            "sadness": 0.09,
+            "surprise": 0.41,
+            "confusion": 0.33
+          },
+          "comment": "",
+          "seed": 805737855
+        },
+        {
+          "persona": "BJ_154",
+          "country": "China",
+          "emotion": {
+            "peace": 0.52,
+            "anger": 0.1,
+            "contempt": 0.09,
+            "fear": 0.04,
+            "disgust": 0.11,
+            "joy": 0.66,
+            "sadness": 0.06,
+            "surprise": 0.31,
+            "confusion": 0.24
+          },
+          "comment": "",
+          "seed": 375459172
+        },
+        {
+          "persona": "BJ_157",
+          "country": "China",
+          "emotion": {
+            "peace": 0.56,
+            "anger": 0.12,
+            "contempt": 0.08,
+            "fear": 0.05,
+            "disgust": 0.09,
+            "joy": 0.62,
+            "sadness": 0.07,
+            "surprise": 0.33,
+            "confusion": 0.27
+          },
+          "comment": "",
+          "seed": 504562472
+        },
+        {
+          "persona": "BJ_158",
+          "country": "China",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.12,
+            "contempt": 0.1,
+            "fear": 0.05,
+            "disgust": 0.09,
+            "joy": 0.68,
+            "sadness": 0.07,
+            "surprise": 0.38,
+            "confusion": 0.26
+          },
+          "comment": "",
+          "seed": 395001500
+        },
+        {
+          "persona": "BJ_156",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.14,
+            "contempt": 0.09,
+            "fear": 0.05,
+            "disgust": 0.11,
+            "joy": 0.72,
+            "sadness": 0.07,
+            "surprise": 0.33,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 472429787
+        },
+        {
+          "persona": "BJ_146",
+          "country": "China",
+          "emotion": {
+            "peace": 0.52,
+            "anger": 0.24,
+            "contempt": 0.19,
+            "fear": 0.12,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.11,
+            "surprise": 0.38,
+            "confusion": 0.41
+          },
+          "comment": "",
+          "seed": 125049117
+        },
+        {
+          "persona": "BJ_161",
+          "country": "China",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.12,
+            "fear": 0.05,
+            "disgust": 0.15,
+            "joy": 0.55,
+            "sadness": 0.1,
+            "surprise": 0.4,
+            "confusion": 0.25
+          },
+          "comment": "",
+          "seed": 623991736
+        },
+        {
+          "persona": "BJ_155",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.12,
+            "contempt": 0.09,
+            "fear": 0.04,
+            "disgust": 0.08,
+            "joy": 0.68,
+            "sadness": 0.06,
+            "surprise": 0.22,
+            "confusion": 0.14
+          },
+          "comment": "",
+          "seed": 598459045
+        },
+        {
+          "persona": "BJ_164",
+          "country": "China",
+          "emotion": {
+            "peace": 0.46,
+            "anger": 0.17,
+            "contempt": 0.1,
+            "fear": 0.04,
+            "disgust": 0.1,
+            "joy": 0.64,
+            "sadness": 0.08,
+            "surprise": 0.26,
+            "confusion": 0.31
+          },
+          "comment": "",
+          "seed": 467828343
+        },
+        {
+          "persona": "BJ_159",
+          "country": "China",
+          "emotion": {
+            "peace": 0.47,
+            "anger": 0.18,
+            "contempt": 0.22,
+            "fear": 0.07,
+            "disgust": 0.13,
+            "joy": 0.58,
+            "sadness": 0.12,
+            "surprise": 0.25,
+            "confusion": 0.4
+          },
+          "comment": "",
+          "seed": 537187212
+        },
+        {
+          "persona": "BJ_163",
+          "country": "China",
+          "emotion": {
+            "peace": 0.52,
+            "anger": 0.08,
+            "contempt": 0.1,
+            "fear": 0.03,
+            "disgust": 0.06,
+            "joy": 0.64,
+            "sadness": 0.07,
+            "surprise": 0.2,
+            "confusion": 0.29
+          },
+          "comment": "",
+          "seed": 54198395
+        },
+        {
+          "persona": "BJ_168",
+          "country": "China",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.12,
+            "contempt": 0.08,
+            "fear": 0.04,
+            "disgust": 0.06,
+            "joy": 0.65,
+            "sadness": 0.05,
+            "surprise": 0.35,
+            "confusion": 0.25
+          },
+          "comment": "",
+          "seed": 612791040
+        },
+        {
+          "persona": "BJ_166",
+          "country": "China",
+          "emotion": {
+            "peace": 0.52,
+            "anger": 0.22,
+            "contempt": 0.12,
+            "fear": 0.06,
+            "disgust": 0.15,
+            "joy": 0.68,
+            "sadness": 0.1,
+            "surprise": 0.41,
+            "confusion": 0.28
+          },
+          "comment": "",
+          "seed": 906804374
+        },
+        {
+          "persona": "BJ_165",
+          "country": "China",
+          "emotion": {
+            "peace": 0.52,
+            "anger": 0.18,
+            "contempt": 0.16,
+            "fear": 0.07,
+            "disgust": 0.12,
+            "joy": 0.66,
+            "sadness": 0.06,
+            "surprise": 0.41,
+            "confusion": 0.38
+          },
+          "comment": "",
+          "seed": 466428598
+        },
+        {
+          "persona": "BJ_167",
+          "country": "China",
+          "emotion": {
+            "peace": 0.55,
+            "anger": 0.13,
+            "contempt": 0.12,
+            "fear": 0.05,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.08,
+            "surprise": 0.3,
+            "confusion": 0.4
+          },
+          "comment": "",
+          "seed": 846418850
+        },
+        {
+          "persona": "BJ_160",
+          "country": "China",
+          "emotion": {
+            "peace": 0.56,
+            "anger": 0.19,
+            "contempt": 0.15,
+            "fear": 0.06,
+            "disgust": 0.1,
+            "joy": 0.6,
+            "sadness": 0.08,
+            "surprise": 0.23,
+            "confusion": 0.21
+          },
+          "comment": "",
+          "seed": 708107299
+        },
+        {
+          "persona": "BJ_170",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.18,
+            "contempt": 0.12,
+            "fear": 0.07,
+            "disgust": 0.05,
+            "joy": 0.66,
+            "sadness": 0.1,
+            "surprise": 0.28,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 638997178
+        },
+        {
+          "persona": "BJ_169",
+          "country": "China",
+          "emotion": {
+            "peace": 0.47,
+            "anger": 0.12,
+            "contempt": 0.3,
+            "fear": 0.09,
+            "disgust": 0.1,
+            "joy": 0.6,
+            "sadness": 0.06,
+            "surprise": 0.35,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 618960565
+        },
+        {
+          "persona": "BJ_174",
+          "country": "China",
+          "emotion": {
+            "peace": 0.32,
+            "anger": 0.17,
+            "contempt": 0.12,
+            "fear": 0.08,
+            "disgust": 0.11,
+            "joy": 0.57,
+            "sadness": 0.06,
+            "surprise": 0.23,
+            "confusion": 0.39
+          },
+          "comment": "",
+          "seed": 608391003
+        },
+        {
+          "persona": "BJ_176",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.18,
+            "contempt": 0.12,
+            "fear": 0.08,
+            "disgust": 0.1,
+            "joy": 0.6,
+            "sadness": 0.07,
+            "surprise": 0.32,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 783436744
+        },
+        {
+          "persona": "BJ_162",
+          "country": "China",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.13,
+            "contempt": 0.09,
+            "fear": 0.08,
+            "disgust": 0.09,
+            "joy": 0.7,
+            "sadness": 0.07,
+            "surprise": 0.34,
+            "confusion": 0.3
+          },
+          "comment": "",
+          "seed": 5362249
+        },
+        {
+          "persona": "BJ_173",
+          "country": "China",
+          "emotion": {
+            "peace": 0.4,
+            "anger": 0.18,
+            "contempt": 0.16,
+            "fear": 0.06,
+            "disgust": 0.12,
+            "joy": 0.62,
+            "sadness": 0.11,
+            "surprise": 0.28,
+            "confusion": 0.34
+          },
+          "comment": "",
+          "seed": 675034247
+        },
+        {
+          "persona": "BJ_172",
+          "country": "China",
+          "emotion": {
+            "peace": 0.56,
+            "anger": 0.12,
+            "contempt": 0.21,
+            "fear": 0.06,
+            "disgust": 0.18,
+            "joy": 0.66,
+            "sadness": 0.09,
+            "surprise": 0.31,
+            "confusion": 0.24
+          },
+          "comment": "",
+          "seed": 670756994
+        },
+        {
+          "persona": "BJ_171",
+          "country": "China",
+          "emotion": {
+            "peace": 0.5,
+            "anger": 0.2,
+            "contempt": 0.12,
+            "fear": 0.06,
+            "disgust": 0.09,
+            "joy": 0.65,
+            "sadness": 0.1,
+            "surprise": 0.38,
+            "confusion": 0.28
+          },
+          "comment": "",
+          "seed": 274775087
+        },
+        {
+          "persona": "BJ_178",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.18,
+            "contempt": 0.22,
+            "fear": 0.09,
+            "disgust": 0.12,
+            "joy": 0.62,
+            "sadness": 0.08,
+            "surprise": 0.34,
+            "confusion": 0.29
+          },
+          "comment": "",
+          "seed": 455301944
+        },
+        {
+          "persona": "BJ_177",
+          "country": "China",
+          "emotion": {
+            "peace": 0.55,
+            "anger": 0.17,
+            "contempt": 0.11,
+            "fear": 0.05,
+            "disgust": 0.09,
+            "joy": 0.66,
+            "sadness": 0.08,
+            "surprise": 0.24,
+            "confusion": 0.32
+          },
+          "comment": "",
+          "seed": 995454528
+        },
+        {
+          "persona": "BJ_180",
+          "country": "China",
+          "emotion": {
+            "peace": 0.55,
+            "anger": 0.18,
+            "contempt": 0.12,
+            "fear": 0.05,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.08,
+            "surprise": 0.45,
+            "confusion": 0.38
+          },
+          "comment": "",
+          "seed": 311810981
+        },
+        {
+          "persona": "BJ_179",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.14,
+            "contempt": 0.12,
+            "fear": 0.09,
+            "disgust": 0.08,
+            "joy": 0.68,
+            "sadness": 0.1,
+            "surprise": 0.32,
+            "confusion": 0.24
+          },
+          "comment": "",
+          "seed": 840564530
+        },
+        {
+          "persona": "BJ_182",
+          "country": "China",
+          "emotion": {
+            "peace": 0.54,
+            "anger": 0.14,
+            "contempt": 0.1,
+            "fear": 0.06,
+            "disgust": 0.1,
+            "joy": 0.62,
+            "sadness": 0.09,
+            "surprise": 0.35,
+            "confusion": 0.3
+          },
+          "comment": "",
+          "seed": 820052753
+        },
+        {
+          "persona": "BJ_184",
+          "country": "China",
+          "emotion": {
+            "peace": 0.46,
+            "anger": 0.17,
+            "contempt": 0.12,
+            "fear": 0.04,
+            "disgust": 0.1,
+            "joy": 0.58,
+            "sadness": 0.07,
+            "surprise": 0.23,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 808263927
+        },
+        {
+          "persona": "BJ_183",
+          "country": "China",
+          "emotion": {
+            "peace": 0.56,
+            "anger": 0.11,
+            "contempt": 0.15,
+            "fear": 0.04,
+            "disgust": 0.09,
+            "joy": 0.62,
+            "sadness": 0.07,
+            "surprise": 0.38,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 634809205
+        },
+        {
+          "persona": "BJ_175",
+          "country": "China",
+          "emotion": {
+            "peace": 0.52,
+            "anger": 0.1,
+            "contempt": 0.15,
+            "fear": 0.06,
+            "disgust": 0.09,
+            "joy": 0.58,
+            "sadness": 0.04,
+            "surprise": 0.28,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 530815913
+        },
+        {
+          "persona": "BJ_185",
+          "country": "China",
+          "emotion": {
+            "peace": 0.46,
+            "anger": 0.12,
+            "contempt": 0.14,
+            "fear": 0.07,
+            "disgust": 0.18,
+            "joy": 0.62,
+            "sadness": 0.09,
+            "surprise": 0.31,
+            "confusion": 0.24
+          },
+          "comment": "",
+          "seed": 396154176
+        },
+        {
+          "persona": "BJ_181",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.12,
+            "contempt": 0.09,
+            "fear": 0.07,
+            "disgust": 0.05,
+            "joy": 0.64,
+            "sadness": 0.06,
+            "surprise": 0.27,
+            "confusion": 0.23
+          },
+          "comment": "",
+          "seed": 415441814
+        },
+        {
+          "persona": "BJ_190",
+          "country": "China",
+          "emotion": {
+            "peace": 0.5,
+            "anger": 0.14,
+            "contempt": 0.11,
+            "fear": 0.17,
+            "disgust": 0.12,
+            "joy": 0.58,
+            "sadness": 0.09,
+            "surprise": 0.25,
+            "confusion": 0.32
+          },
+          "comment": "",
+          "seed": 320670000
+        },
+        {
+          "persona": "BJ_186",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.12,
+            "contempt": 0.09,
+            "fear": 0.05,
+            "disgust": 0.08,
+            "joy": 0.67,
+            "sadness": 0.1,
+            "surprise": 0.42,
+            "confusion": 0.36
+          },
+          "comment": "",
+          "seed": 336949247
+        },
+        {
+          "persona": "BJ_187",
+          "country": "China",
+          "emotion": {
+            "peace": 0.65,
+            "anger": 0.1,
+            "contempt": 0.07,
+            "fear": 0.05,
+            "disgust": 0.08,
+            "joy": 0.75,
+            "sadness": 0.04,
+            "surprise": 0.35,
+            "confusion": 0.15
+          },
+          "comment": "",
+          "seed": 856382401
+        },
+        {
+          "persona": "BJ_188",
+          "country": "China",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.08,
+            "contempt": 0.06,
+            "fear": 0.04,
+            "disgust": 0.05,
+            "joy": 0.67,
+            "sadness": 0.07,
+            "surprise": 0.25,
+            "confusion": 0.12
+          },
+          "comment": "",
+          "seed": 46248018
+        },
+        {
+          "persona": "BJ_189",
+          "country": "China",
+          "emotion": {
+            "peace": 0.62,
+            "anger": 0.07,
+            "contempt": 0.04,
+            "fear": 0.06,
+            "disgust": 0.03,
+            "joy": 0.65,
+            "sadness": 0.05,
+            "surprise": 0.33,
+            "confusion": 0.2
+          },
+          "comment": "",
+          "seed": 47909653
+        },
+        {
+          "persona": "BJ_197",
+          "country": "China",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.18,
+            "contempt": 0.12,
+            "fear": 0.05,
+            "disgust": 0.1,
+            "joy": 0.75,
+            "sadness": 0.06,
+            "surprise": 0.25,
+            "confusion": 0.2
+          },
+          "comment": "",
+          "seed": 219488802
+        },
+        {
+          "persona": "BJ_192",
+          "country": "China",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.08,
+            "contempt": 0.18,
+            "fear": 0.04,
+            "disgust": 0.12,
+            "joy": 0.65,
+            "sadness": 0.1,
+            "surprise": 0.35,
+            "confusion": 0.25
+          },
+          "comment": "",
+          "seed": 645121061
+        },
+        {
+          "persona": "BJ_193",
+          "country": "China",
+          "emotion": {
+            "peace": 0.4,
+            "anger": 0.12,
+            "contempt": 0.18,
+            "fear": 0.08,
+            "disgust": 0.1,
+            "joy": 0.62,
+            "sadness": 0.06,
+            "surprise": 0.38,
+            "confusion": 0.32
+          },
+          "comment": "",
+          "seed": 127714750
+        },
+        {
+          "persona": "BJ_195",
+          "country": "China",
+          "emotion": {
+            "peace": 0.55,
+            "anger": 0.12,
+            "contempt": 0.13,
+            "fear": 0.06,
+            "disgust": 0.1,
+            "joy": 0.65,
+            "sadness": 0.08,
+            "surprise": 0.3,
+            "confusion": 0.25
+          },
+          "comment": "",
+          "seed": 777980843
+        },
+        {
+          "persona": "BJ_191",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.12,
+            "contempt": 0.08,
+            "fear": 0.04,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.06,
+            "surprise": 0.22,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 612269909
+        },
+        {
+          "persona": "BJ_196",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.1,
+            "contempt": 0.08,
+            "fear": 0.06,
+            "disgust": 0.05,
+            "joy": 0.66,
+            "sadness": 0.07,
+            "surprise": 0.28,
+            "confusion": 0.18
+          },
+          "comment": "",
+          "seed": 81405130
+        },
+        {
+          "persona": "BJ_194",
+          "country": "China",
+          "emotion": {
+            "peace": 0.52,
+            "anger": 0.08,
+            "contempt": 0.07,
+            "fear": 0.04,
+            "disgust": 0.06,
+            "joy": 0.65,
+            "sadness": 0.08,
+            "surprise": 0.3,
+            "confusion": 0.15
+          },
+          "comment": "",
+          "seed": 124905813
+        },
+        {
+          "persona": "BJ_198",
+          "country": "China",
+          "emotion": {
+            "peace": 0.55,
+            "anger": 0.14,
+            "contempt": 0.1,
+            "fear": 0.05,
+            "disgust": 0.09,
+            "joy": 0.62,
+            "sadness": 0.07,
+            "surprise": 0.38,
+            "confusion": 0.22
+          },
+          "comment": "",
+          "seed": 104586921
+        },
+        {
+          "persona": "BJ_199",
+          "country": "China",
+          "emotion": {
+            "peace": 0.58,
+            "anger": 0.06,
+            "contempt": 0.07,
+            "fear": 0.03,
+            "disgust": 0.04,
+            "joy": 0.66,
+            "sadness": 0.04,
+            "surprise": 0.2,
+            "confusion": 0.1
+          },
+          "comment": "",
+          "seed": 267857086
+        }
+      ],
+      "stats": {
+        "means": {
+          "peace": 0.5472999999999993,
+          "anger": 0.13800000000000007,
+          "contempt": 0.11859999999999994,
+          "fear": 0.06555000000000004,
+          "disgust": 0.09299999999999999,
+          "joy": 0.6515000000000002,
+          "sadness": 0.07885,
+          "surprise": 0.33165000000000006,
+          "confusion": 0.25559999999999977
+        },
+        "totals": {
+          "peace": 109.45999999999987,
+          "anger": 27.600000000000016,
+          "contempt": 23.719999999999988,
+          "fear": 13.110000000000008,
+          "disgust": 18.599999999999998,
+          "joy": 130.30000000000004,
+          "sadness": 15.770000000000001,
+          "surprise": 66.33000000000001,
+          "confusion": 51.119999999999955
+        },
+        "counts": {
+          "peace": 200,
+          "anger": 200,
+          "contempt": 200,
+          "fear": 200,
+          "disgust": 200,
+          "joy": 200,
+          "sadness": 200,
+          "surprise": 200,
+          "confusion": 200
+        },
+        "num_reactions": 200
+      }
+    }
+  ]
+}

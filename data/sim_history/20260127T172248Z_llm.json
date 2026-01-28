@@ -1,0 +1,7312 @@
+{
+  "id": "20260127T172248Z",
+  "mode": "llm",
+  "saved_at": "20260127T172248Z",
+  "model": "deepseek-chat",
+  "results": [
+    {
+      "event": {
+        "title": "(German) Versuchsteilnahme – Auszahlung der Zusatzvergütung",
+        "description": "1. Mitteilung: Die Teilnehmenden werden darüber informiert, dass sie für ihre Teilnahme am Experiment eine zusätzliche Vergütung erhalten.\n2. Vergütungserhöhung: Der ursprünglich zugesagte Betrag wird verdoppelt.\n3. Formularpflicht: Vor der Auszahlung muss ein zweiseitiges Formular ausgefüllt werden.\n   Die Angaben dienen der Einhaltung ethischer Standards öffentlich finanzierter Studien und sind teilweise aufgrund datenschutzrechtlicher Vorgaben erforderlich.\n4. Verzögerung: Nach Einreichung des Formulars wird die zusätzliche Vergütung nach etwa 30 Tagen per Banküberweisung ausgezahlt.\n   Die Wartezeit ist Teil der Überwachung der Auszahlungsprozesse zur Vermeidung von Missbrauch.\n5. Information: Die Versuchsleitung erläutert nach dem Experiment die weiteren Schritte zur Auszahlung.\n",
+        "country": "Germany",
+        "title_en": null,
+        "description_en": "1. Notification: Participants are informed that they will receive additional compensation for their participation in the experiment.\n2. Compensation Increase: The originally promised amount is doubled.\n3. Form Requirement: Before disbursement, a two-page form must be completed.\n   The information is required to comply with ethical standards for publicly funded studies and is partly due to data protection regulations.\n4. Delay: After submitting the form, the additional compensation is disbursed via bank transfer after about 30 days.\n   The waiting period is part of the monitoring of disbursement processes to prevent abuse.\n5. Information: The experiment leader explains the next steps for disbursement after the experiment.\n",
+        "if_red_tape": false,
+        "metadata": {}
+      },
+      "reactions": [
+        {
+          "persona": "DE_017",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.5,
+            "sadness": 0.2,
+            "surprise": 0.3,
+            "confusion": 0.4,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 243263274
+        },
+        {
+          "persona": "DE_011",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 643087764
+        },
+        {
+          "persona": "DE_003",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 378398906
+        },
+        {
+          "persona": "DE_018",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 79137603
+        },
+        {
+          "persona": "DE_001",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 37220347
+        },
+        {
+          "persona": "DE_005",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 910638574
+        },
+        {
+          "persona": "DE_008",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 854040616
+        },
+        {
+          "persona": "DE_006",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 277823679
+        },
+        {
+          "persona": "DE_012",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 761990077
+        },
+        {
+          "persona": "DE_009",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 845104576
+        },
+        {
+          "persona": "DE_004",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 411634726
+        },
+        {
+          "persona": "DE_002",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 130583092
+        },
+        {
+          "persona": "DE_007",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.6,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 132412464
+        },
+        {
+          "persona": "DE_010",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 2386761
+        },
+        {
+          "persona": "DE_020",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 113854127
+        },
+        {
+          "persona": "DE_016",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 702429827
+        },
+        {
+          "persona": "DE_019",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 626794421
+        },
+        {
+          "persona": "DE_022",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 145199796
+        },
+        {
+          "persona": "DE_014",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 750216728
+        },
+        {
+          "persona": "DE_013",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 900204900
+        },
+        {
+          "persona": "DE_025",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 525770632
+        },
+        {
+          "persona": "DE_027",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.3,
+            "confusion": 0.4,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 275775165
+        },
+        {
+          "persona": "DE_024",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.4,
+            "fear": 0.2,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.3,
+            "surprise": 0.5,
+            "confusion": 0.4,
+            "frustration": 0.6
+          },
+          "comment": "",
+          "seed": 350827746
+        },
+        {
+          "persona": "DE_015",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.6,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 933963173
+        },
+        {
+          "persona": "DE_023",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.5,
+            "sadness": 0.2,
+            "surprise": 0.1,
+            "confusion": 0.4,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 798511291
+        },
+        {
+          "persona": "DE_026",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 209190404
+        },
+        {
+          "persona": "DE_021",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.4,
+            "fear": 0.2,
+            "disgust": 0.3,
+            "joy": 0.5,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.4,
+            "frustration": 0.6
+          },
+          "comment": "",
+          "seed": 458183404
+        },
+        {
+          "persona": "DE_028",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 121290061
+        },
+        {
+          "persona": "DE_035",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 764396561
+        },
+        {
+          "persona": "DE_031",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.6,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 306672605
+        },
+        {
+          "persona": "DE_029",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.5,
+            "frustration": 0.6
+          },
+          "comment": "",
+          "seed": 552384785
+        },
+        {
+          "persona": "DE_032",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.5,
+            "sadness": 0.2,
+            "surprise": 0.3,
+            "confusion": 0.4,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 339669734
+        },
+        {
+          "persona": "DE_043",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 130408218
+        },
+        {
+          "persona": "DE_040",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.5,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.6,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 490348536
+        },
+        {
+          "persona": "DE_030",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 30556816
+        },
+        {
+          "persona": "DE_037",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 854450632
+        },
+        {
+          "persona": "DE_034",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 117968201
+        },
+        {
+          "persona": "DE_038",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.3,
+            "confusion": 0.4,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 479939318
+        },
+        {
+          "persona": "DE_036",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 409928551
+        },
+        {
+          "persona": "DE_041",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.6,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 920311775
+        },
+        {
+          "persona": "DE_033",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 735629686
+        },
+        {
+          "persona": "DE_045",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 563282805
+        },
+        {
+          "persona": "DE_044",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 469419307
+        },
+        {
+          "persona": "DE_042",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.5,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 991329228
+        },
+        {
+          "persona": "DE_051",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 43205519
+        },
+        {
+          "persona": "DE_039",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 157073505
+        },
+        {
+          "persona": "DE_046",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 163187056
+        },
+        {
+          "persona": "DE_050",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 373198874
+        },
+        {
+          "persona": "DE_057",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 430893027
+        },
+        {
+          "persona": "DE_047",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 740534684
+        },
+        {
+          "persona": "DE_049",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 311808705
+        },
+        {
+          "persona": "DE_052",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 118243581
+        },
+        {
+          "persona": "DE_048",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 916410741
+        },
+        {
+          "persona": "DE_053",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.1,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.6,
+            "sadness": 0.2,
+            "surprise": 0.3,
+            "confusion": 0.4,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 842547719
+        },
+        {
+          "persona": "DE_056",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.1,
+            "surprise": 0.8,
+            "confusion": 0.4,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 630086615
+        },
+        {
+          "persona": "DE_054",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 479655666
+        },
+        {
+          "persona": "DE_059",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 822970291
+        },
+        {
+          "persona": "DE_067",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 228656535
+        },
+        {
+          "persona": "DE_058",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 332128581
+        },
+        {
+          "persona": "DE_055",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 979479834
+        },
+        {
+          "persona": "DE_061",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.6,
+            "sadness": 0.2,
+            "surprise": 0.3,
+            "confusion": 0.4,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 285870532
+        },
+        {
+          "persona": "DE_062",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 46738988
+        },
+        {
+          "persona": "DE_064",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 82833233
+        },
+        {
+          "persona": "DE_063",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 226412216
+        },
+        {
+          "persona": "DE_066",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 667367749
+        },
+        {
+          "persona": "DE_060",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.4,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.6,
+            "sadness": 0.2,
+            "surprise": 0.7,
+            "confusion": 0.5,
+            "frustration": 0.4
+          },
+          "comment": "",
+          "seed": 529930915
+        },
+        {
+          "persona": "DE_069",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 828509692
+        },
+        {
+          "persona": "DE_068",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 503170388
+        },
+        {
+          "persona": "DE_070",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 268987525
+        },
+        {
+          "persona": "DE_065",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 251874210
+        },
+        {
+          "persona": "DE_071",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 814437948
+        },
+        {
+          "persona": "DE_078",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 494994306
+        },
+        {
+          "persona": "DE_079",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 469286601
+        },
+        {
+          "persona": "DE_072",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 733439386
+        },
+        {
+          "persona": "DE_073",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.6,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 874436448
+        },
+        {
+          "persona": "DE_075",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 811369813
+        },
+        {
+          "persona": "DE_077",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 406867394
+        },
+        {
+          "persona": "DE_074",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 585081340
+        },
+        {
+          "persona": "DE_083",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 115302483
+        },
+        {
+          "persona": "DE_081",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 238371008
+        },
+        {
+          "persona": "DE_080",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 384450154
+        },
+        {
+          "persona": "DE_076",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 956423692
+        },
+        {
+          "persona": "DE_084",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.6,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 979533153
+        },
+        {
+          "persona": "DE_082",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 845127947
+        },
+        {
+          "persona": "DE_085",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.4,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.5,
+            "sadness": 0.2,
+            "surprise": 0.3,
+            "confusion": 0.4,
+            "frustration": 0.6
+          },
+          "comment": "",
+          "seed": 949996144
+        },
+        {
+          "persona": "DE_090",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 799109490
+        },
+        {
+          "persona": "DE_088",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 147199494
+        },
+        {
+          "persona": "DE_086",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 369776864
+        },
+        {
+          "persona": "DE_091",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 842164268
+        },
+        {
+          "persona": "DE_089",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 693774568
+        },
+        {
+          "persona": "DE_087",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 68157582
+        },
+        {
+          "persona": "DE_093",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 644929013
+        },
+        {
+          "persona": "DE_095",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.6,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 8677595
+        },
+        {
+          "persona": "DE_096",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 906720330
+        },
+        {
+          "persona": "DE_098",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.6,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 111381783
+        },
+        {
+          "persona": "DE_092",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.6,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 380673705
+        },
+        {
+          "persona": "DE_094",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 369031849
+        },
+        {
+          "persona": "DE_097",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 834237613
+        },
+        {
+          "persona": "DE_099",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 537595838
+        },
+        {
+          "persona": "DE_102",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 171926688
+        },
+        {
+          "persona": "DE_101",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 840542330
+        },
+        {
+          "persona": "DE_100",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 761315617
+        },
+        {
+          "persona": "DE_105",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 902949481
+        },
+        {
+          "persona": "DE_103",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 133657923
+        },
+        {
+          "persona": "DE_104",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.1,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.6,
+            "sadness": 0.2,
+            "surprise": 0.3,
+            "confusion": 0.4,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 789999865
+        },
+        {
+          "persona": "DE_106",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 461548106
+        },
+        {
+          "persona": "DE_109",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 88360653
+        },
+        {
+          "persona": "DE_112",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 656386271
+        },
+        {
+          "persona": "DE_110",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.4,
+            "fear": 0.2,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.3,
+            "surprise": 0.5,
+            "confusion": 0.4,
+            "frustration": 0.6
+          },
+          "comment": "",
+          "seed": 560797539
+        },
+        {
+          "persona": "DE_108",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 563246687
+        },
+        {
+          "persona": "DE_107",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 575076303
+        },
+        {
+          "persona": "DE_111",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 846042904
+        },
+        {
+          "persona": "DE_116",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.5,
+            "frustration": 0.6
+          },
+          "comment": "",
+          "seed": 895692281
+        },
+        {
+          "persona": "DE_113",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 563651688
+        },
+        {
+          "persona": "DE_118",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 37575590
+        },
+        {
+          "persona": "DE_117",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 712527842
+        },
+        {
+          "persona": "DE_115",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 647948392
+        },
+        {
+          "persona": "DE_119",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.5,
+            "frustration": 0.6
+          },
+          "comment": "",
+          "seed": 127549043
+        },
+        {
+          "persona": "DE_114",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 713574814
+        },
+        {
+          "persona": "DE_120",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.5,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 402527917
+        },
+        {
+          "persona": "DE_121",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.1,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 593891616
+        },
+        {
+          "persona": "DE_122",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.1,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.6,
+            "sadness": 0.2,
+            "surprise": 0.3,
+            "confusion": 0.4,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 373619114
+        },
+        {
+          "persona": "DE_127",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 592513355
+        },
+        {
+          "persona": "DE_126",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.1,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.6,
+            "sadness": 0.2,
+            "surprise": 0.3,
+            "confusion": 0.4,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 553257790
+        },
+        {
+          "persona": "DE_123",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 893183977
+        },
+        {
+          "persona": "DE_125",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 307763797
+        },
+        {
+          "persona": "DE_134",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 322796419
+        },
+        {
+          "persona": "DE_131",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 338249517
+        },
+        {
+          "persona": "DE_130",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.1,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 565538329
+        },
+        {
+          "persona": "DE_129",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.5,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.4
+          },
+          "comment": "",
+          "seed": 468375470
+        },
+        {
+          "persona": "DE_132",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 894437503
+        },
+        {
+          "persona": "DE_133",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 185048905
+        },
+        {
+          "persona": "DE_124",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 797558165
+        },
+        {
+          "persona": "DE_135",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 754960487
+        },
+        {
+          "persona": "DE_137",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 760055629
+        },
+        {
+          "persona": "DE_128",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 671414065
+        },
+        {
+          "persona": "DE_136",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 207169654
+        },
+        {
+          "persona": "DE_140",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 191231881
+        },
+        {
+          "persona": "DE_138",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 916869195
+        },
+        {
+          "persona": "DE_139",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 662484899
+        },
+        {
+          "persona": "DE_141",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 732166175
+        },
+        {
+          "persona": "DE_144",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.1,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.3,
+            "confusion": 0.2,
+            "frustration": 0.4
+          },
+          "comment": "",
+          "seed": 965597626
+        },
+        {
+          "persona": "DE_147",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 600135675
+        },
+        {
+          "persona": "DE_142",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 379097474
+        },
+        {
+          "persona": "DE_143",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 339355677
+        },
+        {
+          "persona": "DE_145",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 633141656
+        },
+        {
+          "persona": "DE_146",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.6,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 196198012
+        },
+        {
+          "persona": "DE_148",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.1,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 658467812
+        },
+        {
+          "persona": "DE_151",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 358232598
+        },
+        {
+          "persona": "DE_150",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 322844707
+        },
+        {
+          "persona": "DE_154",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 302704339
+        },
+        {
+          "persona": "DE_152",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 153368898
+        },
+        {
+          "persona": "DE_149",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 389787824
+        },
+        {
+          "persona": "DE_153",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 716089981
+        },
+        {
+          "persona": "DE_155",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 964404451
+        },
+        {
+          "persona": "DE_157",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.4,
+            "fear": 0.2,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.3,
+            "surprise": 0.5,
+            "confusion": 0.4,
+            "frustration": 0.6
+          },
+          "comment": "",
+          "seed": 708372346
+        },
+        {
+          "persona": "DE_159",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 135230670
+        },
+        {
+          "persona": "DE_161",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 647240012
+        },
+        {
+          "persona": "DE_160",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 849870283
+        },
+        {
+          "persona": "DE_158",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 870355801
+        },
+        {
+          "persona": "DE_156",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 877893771
+        },
+        {
+          "persona": "DE_165",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 203545354
+        },
+        {
+          "persona": "DE_164",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 549562128
+        },
+        {
+          "persona": "DE_162",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 732408221
+        },
+        {
+          "persona": "DE_163",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 164410465
+        },
+        {
+          "persona": "DE_166",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.4,
+            "fear": 0.2,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.3,
+            "surprise": 0.5,
+            "confusion": 0.4,
+            "frustration": 0.6
+          },
+          "comment": "",
+          "seed": 618974190
+        },
+        {
+          "persona": "DE_167",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 299715234
+        },
+        {
+          "persona": "DE_171",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 945386386
+        },
+        {
+          "persona": "DE_168",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.6,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 612439768
+        },
+        {
+          "persona": "DE_173",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 368475357
+        },
+        {
+          "persona": "DE_170",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 672667228
+        },
+        {
+          "persona": "DE_169",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.4,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.6,
+            "sadness": 0.2,
+            "surprise": 0.5,
+            "confusion": 0.3,
+            "frustration": 0.4
+          },
+          "comment": "",
+          "seed": 588744634
+        },
+        {
+          "persona": "DE_175",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 119181690
+        },
+        {
+          "persona": "DE_172",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.3,
+            "contempt": 0.4,
+            "fear": 0.2,
+            "disgust": 0.1,
+            "joy": 0.6,
+            "sadness": 0.3,
+            "surprise": 0.5,
+            "confusion": 0.4,
+            "frustration": 0.6
+          },
+          "comment": "",
+          "seed": 945891572
+        },
+        {
+          "persona": "DE_174",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 111132127
+        },
+        {
+          "persona": "DE_176",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 339189190
+        },
+        {
+          "persona": "DE_177",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.5,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.4
+          },
+          "comment": "",
+          "seed": 324914941
+        },
+        {
+          "persona": "DE_182",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 415792728
+        },
+        {
+          "persona": "DE_181",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 186801451
+        },
+        {
+          "persona": "DE_180",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.5,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 175946471
+        },
+        {
+          "persona": "DE_178",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.5,
+            "frustration": 0.6
+          },
+          "comment": "",
+          "seed": 50312257
+        },
+        {
+          "persona": "DE_183",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 851415539
+        },
+        {
+          "persona": "DE_179",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 129678782
+        },
+        {
+          "persona": "DE_186",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 180514948
+        },
+        {
+          "persona": "DE_187",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 717542768
+        },
+        {
+          "persona": "DE_190",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 122428567
+        },
+        {
+          "persona": "DE_185",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.6,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 669326538
+        },
+        {
+          "persona": "DE_193",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 830081509
+        },
+        {
+          "persona": "DE_184",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.6,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 964225511
+        },
+        {
+          "persona": "DE_189",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.4,
+            "fear": 0.2,
+            "disgust": 0.2,
+            "joy": 0.7,
+            "sadness": 0.3,
+            "surprise": 0.5,
+            "confusion": 0.4,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 934854463
+        },
+        {
+          "persona": "DE_192",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 915739304
+        },
+        {
+          "persona": "DE_191",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 611332184
+        },
+        {
+          "persona": "DE_188",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.4,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.6,
+            "sadness": 0.2,
+            "surprise": 0.5,
+            "confusion": 0.4,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 933547353
+        },
+        {
+          "persona": "DE_194",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.4,
+            "fear": 0.2,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.5,
+            "confusion": 0.4,
+            "frustration": 0.6
+          },
+          "comment": "",
+          "seed": 760207344
+        },
+        {
+          "persona": "DE_195",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.4,
+            "fear": 0.2,
+            "disgust": 0.3,
+            "joy": 0.5,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.6
+          },
+          "comment": "",
+          "seed": 321799710
+        },
+        {
+          "persona": "DE_198",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.3,
+            "confusion": 0.4,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 690570055
+        },
+        {
+          "persona": "DE_199",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 126255211
+        },
+        {
+          "persona": "DE_200",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.6,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 766765376
+        },
+        {
+          "persona": "DE_197",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 724342352
+        },
+        {
+          "persona": "DE_196",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.2,
+            "surprise": 0.4,
+            "confusion": 0.3,
+            "frustration": 0.5
+          },
+          "comment": "",
+          "seed": 444287777
+        }
+      ],
+      "stats": {
+        "means": {
+          "peace": 0.6054999999999983,
+          "anger": 0.22350000000000012,
+          "contempt": 0.27549999999999963,
+          "fear": 0.10450000000000005,
+          "disgust": 0.10250000000000008,
+          "joy": 0.6770000000000009,
+          "sadness": 0.20150000000000012,
+          "surprise": 0.3995000000000001,
+          "confusion": 0.31549999999999895,
+          "frustration": 0.5039999999999999
+        },
+        "totals": {
+          "peace": 121.09999999999965,
+          "anger": 44.700000000000024,
+          "contempt": 55.09999999999992,
+          "fear": 20.90000000000001,
+          "disgust": 20.500000000000014,
+          "joy": 135.40000000000018,
+          "sadness": 40.300000000000026,
+          "surprise": 79.90000000000002,
+          "confusion": 63.09999999999979,
+          "frustration": 100.79999999999998
+        },
+        "counts": {
+          "peace": 200,
+          "anger": 200,
+          "contempt": 200,
+          "fear": 200,
+          "disgust": 200,
+          "joy": 200,
+          "sadness": 200,
+          "surprise": 200,
+          "confusion": 200,
+          "frustration": 200
+        },
+        "num_reactions": 200
+      }
+    },
+    {
+      "event": {
+        "title": "(German) Versuchsteilnahme – Auszahlung der Zusatzvergütung (Red Tape)",
+        "description": "1. Mitteilung: Die Teilnehmenden werden darüber informiert, dass sie für ihre Teilnahme am Experiment eine zusätzliche Vergütung erhalten.\n2. Vergütungserhöhung: Der ursprünglich zugesagte Betrag wird verdoppelt.\n3. Formularpflicht: Vor der Auszahlung muss ein zweiseitiges Formular ausgefüllt werden.\n   Das Formular enthält erneut abgefragte demografische Angaben, scheinbar nicht relevante Informationen sowie sehr detaillierte Fragen.\n<Hürde: Administrativer Aufwand>\n4. Verzögerung: Nach Einreichung des Formulars wird die zusätzliche Vergütung frühestens nach etwa 30 Tagen per Banküberweisung ausgezahlt.\n<Hürde: Zeitliche Verzögerung>\n5. Information: Weitere Anweisungen zur Auszahlung werden nach dem Experiment angekündigt.\n<Kosten: Frustration, Unsicherheit, Kontrollverlust>\n",
+        "country": "Germany",
+        "title_en": "(German) Experimental participation – disbursement of additional compensation (Red Tape)",
+        "description_en": "1. Notification: Participants are informed that they will receive additional compensation for their participation in the experiment.\n2. Compensation Increase: The originally promised amount is doubled.      \n3. Form Requirement: Before disbursement, a two-page form must be completed.\n   The form contains repeatedly requested demographic information, seemingly irrelevant information, and very detailed questions.\n<Barrier: Administrative Burden>\n4. Delay: After submitting the form, the additional compensation is disbursed via bank transfer after about 30 days at the earliest.\n<Barrier: Temporal Delay>\n5. Information: Further instructions for disbursement are announced after the experiment.\n<Cost: Frustration, Uncertainty, Loss of Control>\n",
+        "if_red_tape": true,
+        "metadata": {}
+      },
+      "reactions": [
+        {
+          "persona": "DE_007",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.2,
+            "disgust": 0.4,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 906903123
+        },
+        {
+          "persona": "DE_004",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.4,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 794523731
+        },
+        {
+          "persona": "DE_001",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.4,
+            "contempt": 0.6,
+            "fear": 0.1,
+            "disgust": 0.3,
+            "joy": 0.3,
+            "sadness": 0.2,
+            "surprise": 0.1,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 917579005
+        },
+        {
+          "persona": "DE_009",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 927052284
+        },
+        {
+          "persona": "DE_011",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 310086287
+        },
+        {
+          "persona": "DE_012",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.3,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 914771748
+        },
+        {
+          "persona": "DE_018",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.4,
+            "contempt": 0.5,
+            "fear": 0.1,
+            "disgust": 0.3,
+            "joy": 0.3,
+            "sadness": 0.2,
+            "surprise": 0.1,
+            "confusion": 0.4,
+            "frustration": 0.7
+          },
+          "comment": "",
+          "seed": 994029893
+        },
+        {
+          "persona": "DE_006",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.4,
+            "contempt": 0.5,
+            "fear": 0.1,
+            "disgust": 0.3,
+            "joy": 0.3,
+            "sadness": 0.2,
+            "surprise": 0.1,
+            "confusion": 0.4,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 341469059
+        },
+        {
+          "persona": "DE_002",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 49681134
+        },
+        {
+          "persona": "DE_010",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.4,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 843793182
+        },
+        {
+          "persona": "DE_008",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.4,
+            "contempt": 0.5,
+            "fear": 0.2,
+            "disgust": 0.3,
+            "joy": 0.6,
+            "sadness": 0.2,
+            "surprise": 0.3,
+            "confusion": 0.4,
+            "frustration": 0.7
+          },
+          "comment": "",
+          "seed": 217147940
+        },
+        {
+          "persona": "DE_017",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 225136504
+        },
+        {
+          "persona": "DE_003",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.2,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 506656557
+        },
+        {
+          "persona": "DE_005",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.2,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.1,
+            "confusion": 0.4,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 645019522
+        },
+        {
+          "persona": "DE_024",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.4,
+            "contempt": 0.5,
+            "fear": 0.1,
+            "disgust": 0.3,
+            "joy": 0.3,
+            "sadness": 0.2,
+            "surprise": 0.1,
+            "confusion": 0.6,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 25240691
+        },
+        {
+          "persona": "DE_014",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.2,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 330910786
+        },
+        {
+          "persona": "DE_021",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.3,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 909865085
+        },
+        {
+          "persona": "DE_022",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.4,
+            "contempt": 0.6,
+            "fear": 0.1,
+            "disgust": 0.3,
+            "joy": 0.3,
+            "sadness": 0.2,
+            "surprise": 0.1,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 452144559
+        },
+        {
+          "persona": "DE_028",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.3,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 589404719
+        },
+        {
+          "persona": "DE_016",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.6,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 392480696
+        },
+        {
+          "persona": "DE_023",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 966872074
+        },
+        {
+          "persona": "DE_019",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.4,
+            "contempt": 0.5,
+            "fear": 0.2,
+            "disgust": 0.3,
+            "joy": 0.2,
+            "sadness": 0.3,
+            "surprise": 0.1,
+            "confusion": 0.4,
+            "frustration": 0.7
+          },
+          "comment": "",
+          "seed": 921319695
+        },
+        {
+          "persona": "DE_013",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.4,
+            "contempt": 0.5,
+            "fear": 0.2,
+            "disgust": 0.3,
+            "joy": 0.6,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.4,
+            "frustration": 0.7
+          },
+          "comment": "",
+          "seed": 596847518
+        },
+        {
+          "persona": "DE_026",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 509370246
+        },
+        {
+          "persona": "DE_025",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 324908084
+        },
+        {
+          "persona": "DE_027",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.2,
+            "disgust": 0.4,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.1,
+            "confusion": 0.3,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 957730499
+        },
+        {
+          "persona": "DE_015",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.1,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.2,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 144502825
+        },
+        {
+          "persona": "DE_020",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.7,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 668832510
+        },
+        {
+          "persona": "DE_031",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.4,
+            "contempt": 0.6,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.1,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.4,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 301992527
+        },
+        {
+          "persona": "DE_029",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 883365716
+        },
+        {
+          "persona": "DE_034",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.4,
+            "contempt": 0.5,
+            "fear": 0.1,
+            "disgust": 0.3,
+            "joy": 0.3,
+            "sadness": 0.2,
+            "surprise": 0.1,
+            "confusion": 0.4,
+            "frustration": 0.7
+          },
+          "comment": "",
+          "seed": 520157654
+        },
+        {
+          "persona": "DE_038",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.2,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.4,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 940003930
+        },
+        {
+          "persona": "DE_036",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.4,
+            "contempt": 0.6,
+            "fear": 0.2,
+            "disgust": 0.5,
+            "joy": 0.3,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 543811889
+        },
+        {
+          "persona": "DE_040",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.2,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.4,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 709596485
+        },
+        {
+          "persona": "DE_045",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.2,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.1,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 510819193
+        },
+        {
+          "persona": "DE_037",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.2,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.1,
+            "confusion": 0.4,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 649865940
+        },
+        {
+          "persona": "DE_043",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 470682715
+        },
+        {
+          "persona": "DE_033",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.4,
+            "contempt": 0.5,
+            "fear": 0.1,
+            "disgust": 0.3,
+            "joy": 0.3,
+            "sadness": 0.2,
+            "surprise": 0.1,
+            "confusion": 0.4,
+            "frustration": 0.7
+          },
+          "comment": "",
+          "seed": 882892515
+        },
+        {
+          "persona": "DE_041",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 780181210
+        },
+        {
+          "persona": "DE_035",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.4,
+            "contempt": 0.5,
+            "fear": 0.2,
+            "disgust": 0.3,
+            "joy": 0.6,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.4,
+            "frustration": 0.7
+          },
+          "comment": "",
+          "seed": 718595704
+        },
+        {
+          "persona": "DE_032",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.4,
+            "contempt": 0.5,
+            "fear": 0.1,
+            "disgust": 0.3,
+            "joy": 0.3,
+            "sadness": 0.2,
+            "surprise": 0.1,
+            "confusion": 0.4,
+            "frustration": 0.7
+          },
+          "comment": "",
+          "seed": 282838608
+        },
+        {
+          "persona": "DE_030",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 66477895
+        },
+        {
+          "persona": "DE_044",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.3,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 430082133
+        },
+        {
+          "persona": "DE_042",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.4,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.6,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 411560491
+        },
+        {
+          "persona": "DE_049",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.1,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.2,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 944920831
+        },
+        {
+          "persona": "DE_046",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 191952369
+        },
+        {
+          "persona": "DE_039",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 349262524
+        },
+        {
+          "persona": "DE_051",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.5,
+            "contempt": 0.6,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.3,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 749801330
+        },
+        {
+          "persona": "DE_047",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 414069613
+        },
+        {
+          "persona": "DE_048",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.2,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.1,
+            "confusion": 0.4,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 999408687
+        },
+        {
+          "persona": "DE_052",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.2,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.1,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 233831169
+        },
+        {
+          "persona": "DE_054",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.2,
+            "disgust": 0.4,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.1,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 899185737
+        },
+        {
+          "persona": "DE_053",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 316979112
+        },
+        {
+          "persona": "DE_050",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.1,
+            "anger": 0.7,
+            "contempt": 0.8,
+            "fear": 0.3,
+            "disgust": 0.6,
+            "joy": 0.2,
+            "sadness": 0.4,
+            "surprise": 0.1,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 172264587
+        },
+        {
+          "persona": "DE_057",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.1,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.2,
+            "disgust": 0.5,
+            "joy": 0.3,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 481950136
+        },
+        {
+          "persona": "DE_056",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.4,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.3,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 566975219
+        },
+        {
+          "persona": "DE_055",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.2,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.1,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 335693937
+        },
+        {
+          "persona": "DE_058",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.4,
+            "contempt": 0.5,
+            "fear": 0.1,
+            "disgust": 0.3,
+            "joy": 0.3,
+            "sadness": 0.2,
+            "surprise": 0.1,
+            "confusion": 0.4,
+            "frustration": 0.7
+          },
+          "comment": "",
+          "seed": 334261718
+        },
+        {
+          "persona": "DE_061",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 758122578
+        },
+        {
+          "persona": "DE_060",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 621183619
+        },
+        {
+          "persona": "DE_059",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 398756585
+        },
+        {
+          "persona": "DE_062",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.1,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.2,
+            "sadness": 0.4,
+            "surprise": 0.1,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 209958139
+        },
+        {
+          "persona": "DE_067",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.2,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 454319493
+        },
+        {
+          "persona": "DE_064",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.2,
+            "disgust": 0.4,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 185409619
+        },
+        {
+          "persona": "DE_065",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 914340753
+        },
+        {
+          "persona": "DE_068",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.4,
+            "contempt": 0.6,
+            "fear": 0.1,
+            "disgust": 0.3,
+            "joy": 0.3,
+            "sadness": 0.2,
+            "surprise": 0.1,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 825268192
+        },
+        {
+          "persona": "DE_066",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 14477918
+        },
+        {
+          "persona": "DE_070",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.2,
+            "disgust": 0.4,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 38513028
+        },
+        {
+          "persona": "DE_069",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.1,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.2,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 832290391
+        },
+        {
+          "persona": "DE_063",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.4,
+            "contempt": 0.5,
+            "fear": 0.2,
+            "disgust": 0.3,
+            "joy": 0.6,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.4,
+            "frustration": 0.7
+          },
+          "comment": "",
+          "seed": 751176666
+        },
+        {
+          "persona": "DE_072",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 840252698
+        },
+        {
+          "persona": "DE_073",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.3,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 804808665
+        },
+        {
+          "persona": "DE_071",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.2,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.1,
+            "confusion": 0.4,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 719575067
+        },
+        {
+          "persona": "DE_078",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 804344325
+        },
+        {
+          "persona": "DE_075",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.4,
+            "contempt": 0.5,
+            "fear": 0.1,
+            "disgust": 0.3,
+            "joy": 0.6,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.4,
+            "frustration": 0.7
+          },
+          "comment": "",
+          "seed": 68265230
+        },
+        {
+          "persona": "DE_077",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 350980579
+        },
+        {
+          "persona": "DE_079",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.2,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 592377838
+        },
+        {
+          "persona": "DE_076",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.4,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.2,
+            "joy": 0.3,
+            "sadness": 0.2,
+            "surprise": 0.1,
+            "confusion": 0.4,
+            "frustration": 0.7
+          },
+          "comment": "",
+          "seed": 813905490
+        },
+        {
+          "persona": "DE_082",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.4,
+            "contempt": 0.5,
+            "fear": 0.1,
+            "disgust": 0.3,
+            "joy": 0.3,
+            "sadness": 0.2,
+            "surprise": 0.1,
+            "confusion": 0.4,
+            "frustration": 0.7
+          },
+          "comment": "",
+          "seed": 203931084
+        },
+        {
+          "persona": "DE_083",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 427976737
+        },
+        {
+          "persona": "DE_081",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.2,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 996051492
+        },
+        {
+          "persona": "DE_074",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.1,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.2,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 84673050
+        },
+        {
+          "persona": "DE_080",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.1,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.2,
+            "sadness": 0.4,
+            "surprise": 0.1,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 511509812
+        },
+        {
+          "persona": "DE_084",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.2,
+            "disgust": 0.4,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 123429215
+        },
+        {
+          "persona": "DE_085",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.3,
+            "contempt": 0.4,
+            "fear": 0.1,
+            "disgust": 0.3,
+            "joy": 0.6,
+            "sadness": 0.2,
+            "surprise": 0.3,
+            "confusion": 0.4,
+            "frustration": 0.7
+          },
+          "comment": "",
+          "seed": 930281454
+        },
+        {
+          "persona": "DE_090",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.2,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.1,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 435967150
+        },
+        {
+          "persona": "DE_086",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.1,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.2,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 865490007
+        },
+        {
+          "persona": "DE_087",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.4,
+            "contempt": 0.5,
+            "fear": 0.1,
+            "disgust": 0.3,
+            "joy": 0.3,
+            "sadness": 0.2,
+            "surprise": 0.1,
+            "confusion": 0.6,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 3604939
+        },
+        {
+          "persona": "DE_089",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 20296836
+        },
+        {
+          "persona": "DE_088",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.3,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 277578190
+        },
+        {
+          "persona": "DE_091",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.3,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 598132391
+        },
+        {
+          "persona": "DE_093",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.4,
+            "contempt": 0.5,
+            "fear": 0.2,
+            "disgust": 0.3,
+            "joy": 0.6,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.4,
+            "frustration": 0.7
+          },
+          "comment": "",
+          "seed": 474560523
+        },
+        {
+          "persona": "DE_095",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 136591238
+        },
+        {
+          "persona": "DE_094",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.2,
+            "disgust": 0.4,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.1,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 314601094
+        },
+        {
+          "persona": "DE_092",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.4,
+            "contempt": 0.6,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.3,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 323018712
+        },
+        {
+          "persona": "DE_096",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.2,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.1,
+            "confusion": 0.4,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 493061274
+        },
+        {
+          "persona": "DE_097",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.1,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.2,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 768028136
+        },
+        {
+          "persona": "DE_098",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.2,
+            "disgust": 0.4,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.1,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 167406315
+        },
+        {
+          "persona": "DE_100",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 188248823
+        },
+        {
+          "persona": "DE_099",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 500369774
+        },
+        {
+          "persona": "DE_102",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.4,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 654920570
+        },
+        {
+          "persona": "DE_103",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 852924692
+        },
+        {
+          "persona": "DE_101",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 635441769
+        },
+        {
+          "persona": "DE_105",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.4,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 147013247
+        },
+        {
+          "persona": "DE_104",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.1,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.2,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 905537703
+        },
+        {
+          "persona": "DE_106",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.3,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 778242297
+        },
+        {
+          "persona": "DE_110",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 547201398
+        },
+        {
+          "persona": "DE_109",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.1,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.2,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 715877103
+        },
+        {
+          "persona": "DE_108",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.4,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.2,
+            "joy": 0.3,
+            "sadness": 0.2,
+            "surprise": 0.1,
+            "confusion": 0.3,
+            "frustration": 0.7
+          },
+          "comment": "",
+          "seed": 534205960
+        },
+        {
+          "persona": "DE_111",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 551483191
+        },
+        {
+          "persona": "DE_112",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 59079238
+        },
+        {
+          "persona": "DE_107",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 83164221
+        },
+        {
+          "persona": "DE_113",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.4,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.2,
+            "joy": 0.3,
+            "sadness": 0.2,
+            "surprise": 0.1,
+            "confusion": 0.3,
+            "frustration": 0.7
+          },
+          "comment": "",
+          "seed": 439803116
+        },
+        {
+          "persona": "DE_116",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 292591497
+        },
+        {
+          "persona": "DE_118",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 518519597
+        },
+        {
+          "persona": "DE_115",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.2,
+            "disgust": 0.4,
+            "joy": 0.2,
+            "sadness": 0.3,
+            "surprise": 0.1,
+            "confusion": 0.4,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 678492386
+        },
+        {
+          "persona": "DE_117",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 654924096
+        },
+        {
+          "persona": "DE_114",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.2,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.1,
+            "confusion": 0.4,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 16295212
+        },
+        {
+          "persona": "DE_120",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 341572063
+        },
+        {
+          "persona": "DE_119",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 296383353
+        },
+        {
+          "persona": "DE_122",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.1,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.2,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 274415996
+        },
+        {
+          "persona": "DE_125",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.4,
+            "contempt": 0.5,
+            "fear": 0.1,
+            "disgust": 0.3,
+            "joy": 0.3,
+            "sadness": 0.2,
+            "surprise": 0.1,
+            "confusion": 0.3,
+            "frustration": 0.7
+          },
+          "comment": "",
+          "seed": 922109098
+        },
+        {
+          "persona": "DE_126",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.1,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.2,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 153140828
+        },
+        {
+          "persona": "DE_121",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 928743906
+        },
+        {
+          "persona": "DE_123",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.4,
+            "contempt": 0.6,
+            "fear": 0.1,
+            "disgust": 0.3,
+            "joy": 0.5,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.4,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 523690565
+        },
+        {
+          "persona": "DE_127",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 588972588
+        },
+        {
+          "persona": "DE_132",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.2,
+            "disgust": 0.4,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 103457939
+        },
+        {
+          "persona": "DE_124",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.3,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 907187781
+        },
+        {
+          "persona": "DE_133",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.1,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.2,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 196816738
+        },
+        {
+          "persona": "DE_129",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.4,
+            "contempt": 0.6,
+            "fear": 0.1,
+            "disgust": 0.3,
+            "joy": 0.3,
+            "sadness": 0.2,
+            "surprise": 0.1,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 446248665
+        },
+        {
+          "persona": "DE_131",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 910744497
+        },
+        {
+          "persona": "DE_134",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.4,
+            "contempt": 0.5,
+            "fear": 0.1,
+            "disgust": 0.3,
+            "joy": 0.3,
+            "sadness": 0.2,
+            "surprise": 0.1,
+            "confusion": 0.4,
+            "frustration": 0.7
+          },
+          "comment": "",
+          "seed": 771076903
+        },
+        {
+          "persona": "DE_130",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 252325269
+        },
+        {
+          "persona": "DE_128",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.4,
+            "contempt": 0.5,
+            "fear": 0.1,
+            "disgust": 0.3,
+            "joy": 0.3,
+            "sadness": 0.2,
+            "surprise": 0.1,
+            "confusion": 0.6,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 47504148
+        },
+        {
+          "persona": "DE_135",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 792985778
+        },
+        {
+          "persona": "DE_136",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.6,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 803324078
+        },
+        {
+          "persona": "DE_140",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.3,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 923101773
+        },
+        {
+          "persona": "DE_138",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.4,
+            "contempt": 0.5,
+            "fear": 0.2,
+            "disgust": 0.3,
+            "joy": 0.2,
+            "sadness": 0.3,
+            "surprise": 0.1,
+            "confusion": 0.4,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 698222069
+        },
+        {
+          "persona": "DE_137",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.4,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.6,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 766494665
+        },
+        {
+          "persona": "DE_139",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.3,
+            "contempt": 0.4,
+            "fear": 0.1,
+            "disgust": 0.3,
+            "joy": 0.1,
+            "sadness": 0.2,
+            "surprise": 0.1,
+            "confusion": 0.3,
+            "frustration": 0.7
+          },
+          "comment": "",
+          "seed": 695350631
+        },
+        {
+          "persona": "DE_141",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.6,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 650086255
+        },
+        {
+          "persona": "DE_144",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.1,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.2,
+            "sadness": 0.4,
+            "surprise": 0.1,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 627723774
+        },
+        {
+          "persona": "DE_146",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.4,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.2,
+            "joy": 0.3,
+            "sadness": 0.2,
+            "surprise": 0.1,
+            "confusion": 0.5,
+            "frustration": 0.7
+          },
+          "comment": "",
+          "seed": 472690319
+        },
+        {
+          "persona": "DE_145",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 734718689
+        },
+        {
+          "persona": "DE_143",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.1,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.2,
+            "sadness": 0.4,
+            "surprise": 0.1,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 214678021
+        },
+        {
+          "persona": "DE_142",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 789142989
+        },
+        {
+          "persona": "DE_150",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.4,
+            "contempt": 0.5,
+            "fear": 0.1,
+            "disgust": 0.3,
+            "joy": 0.3,
+            "sadness": 0.2,
+            "surprise": 0.1,
+            "confusion": 0.4,
+            "frustration": 0.7
+          },
+          "comment": "",
+          "seed": 98830776
+        },
+        {
+          "persona": "DE_147",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.4,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 413283753
+        },
+        {
+          "persona": "DE_148",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.4,
+            "contempt": 0.5,
+            "fear": 0.2,
+            "disgust": 0.3,
+            "joy": 0.2,
+            "sadness": 0.3,
+            "surprise": 0.1,
+            "confusion": 0.4,
+            "frustration": 0.7
+          },
+          "comment": "",
+          "seed": 225156952
+        },
+        {
+          "persona": "DE_152",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 820498571
+        },
+        {
+          "persona": "DE_154",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.4,
+            "contempt": 0.3,
+            "fear": 0.1,
+            "disgust": 0.3,
+            "joy": 0.6,
+            "sadness": 0.2,
+            "surprise": 0.5,
+            "confusion": 0.4,
+            "frustration": 0.7
+          },
+          "comment": "",
+          "seed": 859054076
+        },
+        {
+          "persona": "DE_151",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.4,
+            "contempt": 0.6,
+            "fear": 0.1,
+            "disgust": 0.5,
+            "joy": 0.3,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.7,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 511854133
+        },
+        {
+          "persona": "DE_149",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 405534007
+        },
+        {
+          "persona": "DE_153",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.2,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.1,
+            "confusion": 0.4,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 952298727
+        },
+        {
+          "persona": "DE_155",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 910704313
+        },
+        {
+          "persona": "DE_157",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.3,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 140000257
+        },
+        {
+          "persona": "DE_158",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.2,
+            "disgust": 0.4,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.1,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 384714336
+        },
+        {
+          "persona": "DE_159",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.4,
+            "contempt": 0.5,
+            "fear": 0.2,
+            "disgust": 0.3,
+            "joy": 0.6,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.4,
+            "frustration": 0.7
+          },
+          "comment": "",
+          "seed": 829943279
+        },
+        {
+          "persona": "DE_160",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.2,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 554734699
+        },
+        {
+          "persona": "DE_156",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.2,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.4,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 697359668
+        },
+        {
+          "persona": "DE_165",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 411886088
+        },
+        {
+          "persona": "DE_162",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.7,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 200455073
+        },
+        {
+          "persona": "DE_161",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 865028294
+        },
+        {
+          "persona": "DE_167",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 233763290
+        },
+        {
+          "persona": "DE_164",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.4,
+            "contempt": 0.5,
+            "fear": 0.2,
+            "disgust": 0.3,
+            "joy": 0.2,
+            "sadness": 0.3,
+            "surprise": 0.1,
+            "confusion": 0.4,
+            "frustration": 0.7
+          },
+          "comment": "",
+          "seed": 675178211
+        },
+        {
+          "persona": "DE_166",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 601798424
+        },
+        {
+          "persona": "DE_163",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.2,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.1,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 343690040
+        },
+        {
+          "persona": "DE_171",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.1,
+            "anger": 0.7,
+            "contempt": 0.8,
+            "fear": 0.3,
+            "disgust": 0.6,
+            "joy": 0.2,
+            "sadness": 0.4,
+            "surprise": 0.1,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 856927204
+        },
+        {
+          "persona": "DE_170",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.1,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.2,
+            "sadness": 0.4,
+            "surprise": 0.1,
+            "confusion": 0.3,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 412140403
+        },
+        {
+          "persona": "DE_174",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 831392685
+        },
+        {
+          "persona": "DE_169",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.2,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 569704397
+        },
+        {
+          "persona": "DE_173",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.4,
+            "contempt": 0.5,
+            "fear": 0.2,
+            "disgust": 0.3,
+            "joy": 0.2,
+            "sadness": 0.3,
+            "surprise": 0.1,
+            "confusion": 0.4,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 896496421
+        },
+        {
+          "persona": "DE_168",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 590807309
+        },
+        {
+          "persona": "DE_172",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.2,
+            "disgust": 0.4,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.1,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 325952375
+        },
+        {
+          "persona": "DE_175",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.2,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.1,
+            "confusion": 0.4,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 471346929
+        },
+        {
+          "persona": "DE_176",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 949406498
+        },
+        {
+          "persona": "DE_177",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 173694763
+        },
+        {
+          "persona": "DE_178",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 696195744
+        },
+        {
+          "persona": "DE_180",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 708219700
+        },
+        {
+          "persona": "DE_181",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.4,
+            "contempt": 0.6,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.3,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 73160462
+        },
+        {
+          "persona": "DE_182",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.4,
+            "contempt": 0.5,
+            "fear": 0.1,
+            "disgust": 0.3,
+            "joy": 0.3,
+            "sadness": 0.2,
+            "surprise": 0.1,
+            "confusion": 0.6,
+            "frustration": 0.7
+          },
+          "comment": "",
+          "seed": 211341813
+        },
+        {
+          "persona": "DE_183",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.1,
+            "anger": 0.4,
+            "contempt": 0.5,
+            "fear": 0.2,
+            "disgust": 0.3,
+            "joy": 0.3,
+            "sadness": 0.2,
+            "surprise": 0.1,
+            "confusion": 0.4,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 417403820
+        },
+        {
+          "persona": "DE_179",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 629850610
+        },
+        {
+          "persona": "DE_187",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.1,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.2,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 211889649
+        },
+        {
+          "persona": "DE_184",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.2,
+            "disgust": 0.4,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 798915764
+        },
+        {
+          "persona": "DE_186",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 212265083
+        },
+        {
+          "persona": "DE_185",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.3,
+            "contempt": 0.4,
+            "fear": 0.1,
+            "disgust": 0.3,
+            "joy": 0.5,
+            "sadness": 0.2,
+            "surprise": 0.1,
+            "confusion": 0.4,
+            "frustration": 0.7
+          },
+          "comment": "",
+          "seed": 763129838
+        },
+        {
+          "persona": "DE_190",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.1,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 177759963
+        },
+        {
+          "persona": "DE_193",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 605968066
+        },
+        {
+          "persona": "DE_192",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.4,
+            "contempt": 0.6,
+            "fear": 0.1,
+            "disgust": 0.3,
+            "joy": 0.3,
+            "sadness": 0.2,
+            "surprise": 0.1,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 641429933
+        },
+        {
+          "persona": "DE_189",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 126872869
+        },
+        {
+          "persona": "DE_188",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 322704950
+        },
+        {
+          "persona": "DE_191",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 68043869
+        },
+        {
+          "persona": "DE_195",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 22236392
+        },
+        {
+          "persona": "DE_194",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.4,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 527221675
+        },
+        {
+          "persona": "DE_198",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.4,
+            "contempt": 0.5,
+            "fear": 0.2,
+            "disgust": 0.3,
+            "joy": 0.6,
+            "sadness": 0.3,
+            "surprise": 0.4,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 402602676
+        },
+        {
+          "persona": "DE_199",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.4,
+            "contempt": 0.5,
+            "fear": 0.2,
+            "disgust": 0.3,
+            "joy": 0.6,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.4,
+            "frustration": 0.7
+          },
+          "comment": "",
+          "seed": 243391392
+        },
+        {
+          "persona": "DE_196",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 171097795
+        },
+        {
+          "persona": "DE_200",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.3,
+            "disgust": 0.4,
+            "joy": 0.3,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.8
+          },
+          "comment": "",
+          "seed": 105434721
+        },
+        {
+          "persona": "DE_197",
+          "country": "Germany",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.7,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.4,
+            "sadness": 0.4,
+            "surprise": 0.2,
+            "confusion": 0.5,
+            "frustration": 0.9
+          },
+          "comment": "",
+          "seed": 325693644
+        }
+      ],
+      "stats": {
+        "means": {
+          "peace": 0.21450000000000016,
+          "anger": 0.5559999999999996,
+          "contempt": 0.5895000000000004,
+          "fear": 0.2439999999999999,
+          "disgust": 0.4284999999999999,
+          "joy": 0.29549999999999993,
+          "sadness": 0.33599999999999947,
+          "surprise": 0.19450000000000023,
+          "confusion": 0.47750000000000015,
+          "frustration": 0.8215000000000013
+        },
+        "totals": {
+          "peace": 42.900000000000034,
+          "anger": 111.19999999999992,
+          "contempt": 117.90000000000006,
+          "fear": 48.79999999999998,
+          "disgust": 85.69999999999997,
+          "joy": 59.09999999999999,
+          "sadness": 67.19999999999989,
+          "surprise": 38.90000000000005,
+          "confusion": 95.50000000000003,
+          "frustration": 164.30000000000027
+        },
+        "counts": {
+          "peace": 200,
+          "anger": 200,
+          "contempt": 200,
+          "fear": 200,
+          "disgust": 200,
+          "joy": 200,
+          "sadness": 200,
+          "surprise": 200,
+          "confusion": 200,
+          "frustration": 200
+        },
+        "num_reactions": 200
+      }
+    }
+  ]
+}

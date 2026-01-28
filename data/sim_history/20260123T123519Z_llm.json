@@ -1,0 +1,6506 @@
+{
+  "id": "20260123T123519Z",
+  "mode": "llm",
+  "saved_at": "20260123T123519Z",
+  "model": "azure/gpt-4o",
+  "results": [
+    {
+      "event": {
+        "title": "Hong Kong HOS Application",
+        "description": "1. Submission: Fill and submit one-form-three-draw application online/written (ID, income proof, asset declaration).\n2. Processing: Enter lottery draw for building selection order <Time: 1-2 weeks>.\n3. Selection: Attend selection center to choose unit and sign provisional agreement <Time: 1-2 months>.\n4. Activation: Complete mortgage, pay deposit, and move in upon completion.\n",
+        "country": "HongKong",
+        "title_en": null,
+        "description_en": null,
+        "if_red_tape": false,
+        "metadata": {}
+      },
+      "reactions": [
+        {
+          "persona": "HK_001",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.2,
+            "disgust": 0.1,
+            "joy": 0.6,
+            "sadness": 0.3,
+            "surprise": 0.4,
+            "confusion": 0.3
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_003",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.1,
+            "contempt": 0.2,
+            "fear": 0.3,
+            "disgust": 0.1,
+            "joy": 0.6,
+            "sadness": 0.3,
+            "surprise": 0.2,
+            "confusion": 0.2
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_004",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.1,
+            "contempt": 0.2,
+            "fear": 0.3,
+            "disgust": 0.1,
+            "joy": 0.5,
+            "sadness": 0.2,
+            "surprise": 0.3,
+            "confusion": 0.4
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_011",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.1,
+            "contempt": 0.2,
+            "fear": 0.2,
+            "disgust": 0.1,
+            "joy": 0.7,
+            "sadness": 0.3,
+            "surprise": 0.4,
+            "confusion": 0.3
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_007",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.2,
+            "disgust": 0.1,
+            "joy": 0.4,
+            "sadness": 0.2,
+            "surprise": 0.3,
+            "confusion": 0.4
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_005",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.2,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.5,
+            "sadness": 0.3,
+            "surprise": 0.4,
+            "confusion": 0.4
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_006",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.4,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.3,
+            "surprise": 0.4,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_016",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.4,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.3,
+            "surprise": 0.4,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_012",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.5,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.4
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_014",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.1,
+            "joy": 0.5,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.4
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_019",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.1,
+            "joy": 0.5,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.4
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_017",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.1,
+            "joy": 0.5,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.4
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_008",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.4,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.3,
+            "surprise": 0.5,
+            "confusion": 0.4
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_010",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.1,
+            "fear": 0.2,
+            "disgust": 0.15,
+            "joy": 0.5,
+            "sadness": 0.25,
+            "surprise": 0.4,
+            "confusion": 0.3
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_015",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.1,
+            "joy": 0.5,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.4
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_020",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.1,
+            "joy": 0.5,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.4
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_021",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.4,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.3,
+            "surprise": 0.5,
+            "confusion": 0.4
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_018",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.3,
+            "contempt": 0.2,
+            "fear": 0.4,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.3,
+            "surprise": 0.5,
+            "confusion": 0.4
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_022",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.1,
+            "fear": 0.2,
+            "disgust": 0.15,
+            "joy": 0.5,
+            "sadness": 0.25,
+            "surprise": 0.4,
+            "confusion": 0.3
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_023",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.1,
+            "fear": 0.2,
+            "disgust": 0.15,
+            "joy": 0.5,
+            "sadness": 0.25,
+            "surprise": 0.4,
+            "confusion": 0.3
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_025",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.1,
+            "fear": 0.2,
+            "disgust": 0.15,
+            "joy": 0.5,
+            "sadness": 0.25,
+            "surprise": 0.4,
+            "confusion": 0.3
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_026",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.1,
+            "fear": 0.2,
+            "disgust": 0.15,
+            "joy": 0.5,
+            "sadness": 0.25,
+            "surprise": 0.4,
+            "confusion": 0.3
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_031",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.1,
+            "fear": 0.2,
+            "disgust": 0.15,
+            "joy": 0.5,
+            "sadness": 0.25,
+            "surprise": 0.4,
+            "confusion": 0.3
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_028",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.1,
+            "fear": 0.2,
+            "disgust": 0.15,
+            "joy": 0.5,
+            "sadness": 0.25,
+            "surprise": 0.4,
+            "confusion": 0.3
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_029",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.1,
+            "fear": 0.2,
+            "disgust": 0.15,
+            "joy": 0.5,
+            "sadness": 0.25,
+            "surprise": 0.4,
+            "confusion": 0.3
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_030",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.1,
+            "fear": 0.2,
+            "disgust": 0.15,
+            "joy": 0.5,
+            "sadness": 0.25,
+            "surprise": 0.4,
+            "confusion": 0.3
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_002",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.5,
+            "confusion": 0.4
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_024",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.1,
+            "fear": 0.2,
+            "disgust": 0.15,
+            "joy": 0.5,
+            "sadness": 0.25,
+            "surprise": 0.4,
+            "confusion": 0.3
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_032",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.1,
+            "fear": 0.2,
+            "disgust": 0.15,
+            "joy": 0.5,
+            "sadness": 0.25,
+            "surprise": 0.4,
+            "confusion": 0.3
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_027",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.6,
+            "anger": 0.3,
+            "contempt": 0.1,
+            "fear": 0.2,
+            "disgust": 0.15,
+            "joy": 0.5,
+            "sadness": 0.25,
+            "surprise": 0.4,
+            "confusion": 0.3
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_034",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.5,
+            "confusion": 0.4
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_033",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.5,
+            "confusion": 0.4
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_035",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.5,
+            "confusion": 0.4
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_042",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.5,
+            "confusion": 0.4
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_037",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.5,
+            "confusion": 0.4
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_041",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.5,
+            "confusion": 0.4
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_038",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.5,
+            "confusion": 0.4
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_051",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.5,
+            "confusion": 0.4
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_044",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.5,
+            "confusion": 0.4
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_039",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.5,
+            "confusion": 0.4
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_040",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.5,
+            "confusion": 0.4
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_043",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.5,
+            "confusion": 0.4
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_045",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.5,
+            "confusion": 0.4
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_036",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.5,
+            "confusion": 0.4
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_050",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.3,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.5,
+            "confusion": 0.4
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_009",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.1,
+            "joy": 0.6,
+            "sadness": 0.3,
+            "surprise": 0.4,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_049",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.1,
+            "joy": 0.6,
+            "sadness": 0.3,
+            "surprise": 0.4,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_013",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_048",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_054",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_063",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_053",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_052",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_055",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_057",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_047",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_046",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_061",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_056",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_060",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_058",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_062",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_059",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_064",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_068",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_073",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_066",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_067",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_065",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_078",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_076",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_070",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_071",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_072",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_075",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_069",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_074",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_077",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_079",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_080",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_081",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_089",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_084",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_086",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_091",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_082",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_083",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_092",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_088",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_087",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_090",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_085",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_093",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_095",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_097",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_096",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_102",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_094",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_101",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_106",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_099",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_104",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_100",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_098",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_109",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_105",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_103",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_107",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_108",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_110",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_113",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_124",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_125",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_119",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_126",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_114",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_116",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_111",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_112",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_115",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_118",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_120",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_117",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_121",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_123",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_134",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_127",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_130",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_136",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_133",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_132",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_128",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_122",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_129",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_139",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_138",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_131",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_137",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_135",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_149",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_141",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_142",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_143",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_146",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_150",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_144",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_153",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_151",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_152",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_148",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_147",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_145",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_157",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_140",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_154",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_161",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_160",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_158",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_168",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_156",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_159",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_162",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_163",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_155",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_167",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_166",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_164",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_169",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_170",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_165",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_172",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_180",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_174",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_173",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_178",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_176",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_183",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_182",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_177",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_181",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_179",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_184",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_175",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_171",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_188",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_194",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_189",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_186",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_185",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_193",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_192",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_187",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_198",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_196",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_190",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_191",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_195",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_197",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_199",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_200",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.3,
+            "disgust": 0.2,
+            "joy": 0.6,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.5
+          },
+          "comment": ""
+        }
+      ],
+      "stats": {
+        "means": {
+          "peace": 0.6885000000000011,
+          "anger": 0.20600000000000024,
+          "contempt": 0.11950000000000043,
+          "fear": 0.294999999999999,
+          "disgust": 0.191,
+          "joy": 0.589499999999998,
+          "sadness": 0.38350000000000006,
+          "surprise": 0.32799999999999857,
+          "confusion": 0.47050000000000003
+        },
+        "totals": {
+          "peace": 137.70000000000022,
+          "anger": 41.200000000000045,
+          "contempt": 23.900000000000084,
+          "fear": 58.9999999999998,
+          "disgust": 38.2,
+          "joy": 117.89999999999961,
+          "sadness": 76.70000000000002,
+          "surprise": 65.59999999999971,
+          "confusion": 94.10000000000001
+        },
+        "counts": {
+          "peace": 200,
+          "anger": 200,
+          "contempt": 200,
+          "fear": 200,
+          "disgust": 200,
+          "joy": 200,
+          "sadness": 200,
+          "surprise": 200,
+          "confusion": 200
+        },
+        "num_reactions": 200
+      }
+    },
+    {
+      "event": {
+        "title": "Hong Kong HOS Application (Red Tape)",
+        "description": "1. Prerequisite Hurdle: Verify no property ownership in past 24 months via Lands Department check. <Barrier: Historical Records Verification> <Cost: At least 1 week for certificate issuance>\n2. The “Proof” Hunt: Obtain stamped income/asset proofs from employer/bank. <Barrier: Multi-Source Documentation> <Action: Appointments at banks> <Cost: 1 full day collecting>\n3. Submission: Submit application online/written.\n4. Information Black Hole: Wait for lottery results with limited updates. <Barrier: Lack of Transparency> <Cost: High Anxiety>\n5. Forced Inquiry: Call/Visit Housing Authority for eligibility confirmation. <Action: Active Chasing> <Cost: More Effort/Transport>\n6. The “Salami Slicing” Request: Receive request for “additional family proofs” (e.g., marriage cert not listed). <Barrier: Hidden Rule/Vague Requirement> <Cost: Wait another 1-2 weeks>\n7. Approval: Win lottery and get invitation.\n8. Mainland Delay: For cross-border families, extra certification from Home Affairs. <Barrier: Inter-Department Coordination> <Cost: 3-7 workdays>\n9. Activation: Sign and pay, but mortgage approval delayed by bank stress test waiver issues.\n",
+        "country": "HongKong",
+        "title_en": null,
+        "description_en": null,
+        "if_red_tape": true,
+        "metadata": {}
+      },
+      "reactions": [
+        {
+          "persona": "HK_002",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.4,
+            "disgust": 0.5,
+            "joy": 0.1,
+            "sadness": 0.45,
+            "surprise": 0.3,
+            "confusion": 0.65
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_004",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.4,
+            "disgust": 0.6,
+            "joy": 0.2,
+            "sadness": 0.5,
+            "surprise": 0.3,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_006",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.4,
+            "disgust": 0.5,
+            "joy": 0.2,
+            "sadness": 0.5,
+            "surprise": 0.3,
+            "confusion": 0.7
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_016",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.4,
+            "disgust": 0.5,
+            "joy": 0.2,
+            "sadness": 0.5,
+            "surprise": 0.3,
+            "confusion": 0.7
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_013",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.5,
+            "fear": 0.4,
+            "disgust": 0.6,
+            "joy": 0.1,
+            "sadness": 0.5,
+            "surprise": 0.3,
+            "confusion": 0.7
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_001",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.8,
+            "contempt": 0.7,
+            "fear": 0.5,
+            "disgust": 0.6,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.7
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_015",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.8,
+            "contempt": 0.7,
+            "fear": 0.5,
+            "disgust": 0.6,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.7
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_019",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.8,
+            "contempt": 0.7,
+            "fear": 0.5,
+            "disgust": 0.6,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.7
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_017",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.8,
+            "contempt": 0.7,
+            "fear": 0.5,
+            "disgust": 0.6,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.7
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_018",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.8,
+            "contempt": 0.7,
+            "fear": 0.5,
+            "disgust": 0.6,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.7
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_003",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.6,
+            "contempt": 0.4,
+            "fear": 0.3,
+            "disgust": 0.5,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.7
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_020",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.8,
+            "contempt": 0.7,
+            "fear": 0.5,
+            "disgust": 0.6,
+            "joy": 0.1,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.7
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_009",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.6,
+            "disgust": 0.65,
+            "joy": 0.2,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.7
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_014",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.5,
+            "disgust": 0.65,
+            "joy": 0.1,
+            "sadness": 0.45,
+            "surprise": 0.3,
+            "confusion": 0.6
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_021",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.6,
+            "disgust": 0.65,
+            "joy": 0.2,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.7
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_023",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.6,
+            "disgust": 0.65,
+            "joy": 0.2,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.7
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_022",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.6,
+            "disgust": 0.65,
+            "joy": 0.2,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.7
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_025",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.6,
+            "disgust": 0.65,
+            "joy": 0.2,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.7
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_024",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.6,
+            "disgust": 0.65,
+            "joy": 0.2,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.7
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_027",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.6,
+            "disgust": 0.65,
+            "joy": 0.2,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.7
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_028",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.6,
+            "disgust": 0.65,
+            "joy": 0.2,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.7
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_026",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.6,
+            "disgust": 0.65,
+            "joy": 0.2,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.7
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_007",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.4,
+            "disgust": 0.5,
+            "joy": 0.1,
+            "sadness": 0.5,
+            "surprise": 0.3,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_029",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.6,
+            "disgust": 0.65,
+            "joy": 0.2,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.7
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_031",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.6,
+            "disgust": 0.65,
+            "joy": 0.2,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.7
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_030",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.4,
+            "disgust": 0.5,
+            "joy": 0.1,
+            "sadness": 0.5,
+            "surprise": 0.3,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_032",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.4,
+            "disgust": 0.5,
+            "joy": 0.1,
+            "sadness": 0.5,
+            "surprise": 0.3,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_011",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.5,
+            "disgust": 0.6,
+            "joy": 0.1,
+            "sadness": 0.7,
+            "surprise": 0.3,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_034",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.5,
+            "disgust": 0.6,
+            "joy": 0.1,
+            "sadness": 0.7,
+            "surprise": 0.3,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_005",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.7,
+            "joy": 0.2,
+            "sadness": 0.6,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_039",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.5,
+            "disgust": 0.6,
+            "joy": 0.1,
+            "sadness": 0.7,
+            "surprise": 0.3,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_033",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.5,
+            "disgust": 0.6,
+            "joy": 0.1,
+            "sadness": 0.7,
+            "surprise": 0.3,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_036",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.5,
+            "disgust": 0.6,
+            "joy": 0.1,
+            "sadness": 0.7,
+            "surprise": 0.3,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_038",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.5,
+            "disgust": 0.6,
+            "joy": 0.1,
+            "sadness": 0.7,
+            "surprise": 0.3,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_035",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.5,
+            "disgust": 0.6,
+            "joy": 0.1,
+            "sadness": 0.7,
+            "surprise": 0.3,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_040",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.7,
+            "joy": 0.2,
+            "sadness": 0.6,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_037",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.7,
+            "joy": 0.2,
+            "sadness": 0.6,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_041",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.7,
+            "joy": 0.2,
+            "sadness": 0.6,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_010",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.5,
+            "disgust": 0.6,
+            "joy": 0.2,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_042",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.5,
+            "disgust": 0.6,
+            "joy": 0.2,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_044",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.5,
+            "disgust": 0.6,
+            "joy": 0.2,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_043",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.5,
+            "disgust": 0.6,
+            "joy": 0.2,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_051",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.5,
+            "disgust": 0.6,
+            "joy": 0.2,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_045",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.5,
+            "disgust": 0.6,
+            "joy": 0.2,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_050",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.5,
+            "disgust": 0.6,
+            "joy": 0.2,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_046",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.5,
+            "disgust": 0.6,
+            "joy": 0.2,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_047",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.5,
+            "disgust": 0.6,
+            "joy": 0.2,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_049",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.5,
+            "disgust": 0.6,
+            "joy": 0.2,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_048",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.5,
+            "disgust": 0.6,
+            "joy": 0.2,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_053",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.5,
+            "disgust": 0.6,
+            "joy": 0.2,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_054",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.5,
+            "disgust": 0.6,
+            "joy": 0.2,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_057",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.5,
+            "disgust": 0.6,
+            "joy": 0.2,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_056",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.5,
+            "disgust": 0.6,
+            "joy": 0.2,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_055",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.5,
+            "disgust": 0.6,
+            "joy": 0.2,
+            "sadness": 0.4,
+            "surprise": 0.3,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_008",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.4,
+            "disgust": 0.6,
+            "joy": 0.2,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_052",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.4,
+            "disgust": 0.6,
+            "joy": 0.2,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_064",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.4,
+            "disgust": 0.6,
+            "joy": 0.2,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_062",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.4,
+            "disgust": 0.6,
+            "joy": 0.2,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_060",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.4,
+            "disgust": 0.6,
+            "joy": 0.2,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_061",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.4,
+            "disgust": 0.6,
+            "joy": 0.2,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_059",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.4,
+            "disgust": 0.6,
+            "joy": 0.2,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_058",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.4,
+            "disgust": 0.6,
+            "joy": 0.2,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_063",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.4,
+            "disgust": 0.6,
+            "joy": 0.2,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_066",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.4,
+            "disgust": 0.6,
+            "joy": 0.2,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_065",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.4,
+            "disgust": 0.6,
+            "joy": 0.2,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_067",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.3,
+            "anger": 0.7,
+            "contempt": 0.6,
+            "fear": 0.4,
+            "disgust": 0.6,
+            "joy": 0.2,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_012",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_069",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_068",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_071",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_073",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_070",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_072",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_079",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_077",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_078",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_075",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_074",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_076",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_082",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_080",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_081",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_083",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_087",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_084",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_085",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_086",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_093",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_091",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_088",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_090",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_092",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_095",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_097",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_096",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_098",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_089",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_099",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_094",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_100",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_104",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_101",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_115",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_114",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_116",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_109",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_110",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_106",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_107",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_112",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_105",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_113",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_102",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_108",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_103",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_111",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_122",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_121",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_124",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_127",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_120",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_118",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_125",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_131",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_126",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_132",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_123",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_119",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_117",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_128",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_133",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_130",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_144",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_140",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_137",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_136",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_143",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_145",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_135",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_129",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_141",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_146",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_138",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_142",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_134",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_139",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_151",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_152",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_157",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_150",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_149",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_147",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_148",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_153",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_154",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_155",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_159",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_158",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_156",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_160",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_168",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_161",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_163",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_164",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_170",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_166",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_167",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_162",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_169",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_165",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_173",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_172",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_171",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_174",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_175",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_180",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_176",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_182",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_179",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_178",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_177",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_181",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_183",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_184",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_186",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_189",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_188",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_185",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_187",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_191",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_190",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_193",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_194",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_197",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_195",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_198",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_192",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_196",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_200",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        },
+        {
+          "persona": "HK_199",
+          "country": "Hongkong",
+          "emotion": {
+            "peace": 0.2,
+            "anger": 0.7,
+            "contempt": 0.5,
+            "fear": 0.6,
+            "disgust": 0.6,
+            "joy": 0.3,
+            "sadness": 0.5,
+            "surprise": 0.4,
+            "confusion": 0.8
+          },
+          "comment": ""
+        }
+      ],
+      "stats": {
+        "means": {
+          "peace": 0.2145000000000005,
+          "anger": 0.7005000000000008,
+          "contempt": 0.5310000000000002,
+          "fear": 0.563499999999998,
+          "disgust": 0.6014999999999978,
+          "joy": 0.2569999999999993,
+          "sadness": 0.4969999999999999,
+          "surprise": 0.38050000000000017,
+          "confusion": 0.7877500000000005
+        },
+        "totals": {
+          "peace": 42.9000000000001,
+          "anger": 140.10000000000016,
+          "contempt": 106.20000000000005,
+          "fear": 112.69999999999959,
+          "disgust": 120.29999999999957,
+          "joy": 51.39999999999986,
+          "sadness": 99.39999999999998,
+          "surprise": 76.10000000000004,
+          "confusion": 157.5500000000001
+        },
+        "counts": {
+          "peace": 200,
+          "anger": 200,
+          "contempt": 200,
+          "fear": 200,
+          "disgust": 200,
+          "joy": 200,
+          "sadness": 200,
+          "surprise": 200,
+          "confusion": 200
+        },
+        "num_reactions": 200
+      }
+    }
+  ]
+}

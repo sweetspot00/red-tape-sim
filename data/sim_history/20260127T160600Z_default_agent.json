@@ -1,0 +1,140 @@
+{
+  "id": "20260127T160600Z",
+  "mode": "default_agent",
+  "saved_at": "20260127T160600Z",
+  "model": "azure/gpt-4o",
+  "results": [
+    {
+      "event": {
+        "title": "Experimental rewards",
+        "description": "We have good news for you! You have been selected to receive extra money for taking part in the experiment. Congratulations.\nWe will double the amount of money you will get. In other words, you will get 160 HKD for taking part in the experiment.\nYou will receive the extra money of 80 HKD straight away. After the experiment, the Research Assistant will present you with the extra money.\n",
+        "country": "HongKong",
+        "title_en": "Experimental rewards",
+        "description_en": "We have good news for you! You have been selected to receive extra money for taking part in the experiment. Congratulations.\nWe will double the amount of money you will get. In other words, you will get 160 HKD for taking part in the experiment.\nYou will receive the extra money of 80 HKD straight away. After the experiment, the Research Assistant will present you with the extra money.\n",
+        "if_red_tape": false,
+        "metadata": {}
+      },
+      "reactions": [
+        {
+          "persona": "Default Agent",
+          "country": "HongKong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.1,
+            "contempt": 0.1,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.8,
+            "sadness": 0.1,
+            "surprise": 0.6,
+            "confusion": 0.2
+          },
+          "comment": "",
+          "seed": 14739146
+        }
+      ],
+      "stats": {
+        "means": {
+          "peace": 0.7,
+          "anger": 0.1,
+          "contempt": 0.1,
+          "fear": 0.1,
+          "disgust": 0.1,
+          "joy": 0.8,
+          "sadness": 0.1,
+          "surprise": 0.6,
+          "confusion": 0.2
+        },
+        "totals": {
+          "peace": 0.7,
+          "anger": 0.1,
+          "contempt": 0.1,
+          "fear": 0.1,
+          "disgust": 0.1,
+          "joy": 0.8,
+          "sadness": 0.1,
+          "surprise": 0.6,
+          "confusion": 0.2
+        },
+        "counts": {
+          "peace": 1,
+          "anger": 1,
+          "contempt": 1,
+          "fear": 1,
+          "disgust": 1,
+          "joy": 1,
+          "sadness": 1,
+          "surprise": 1,
+          "confusion": 1
+        },
+        "num_reactions": 1
+      }
+    },
+    {
+      "event": {
+        "title": "Experimental rewards (red tape)",
+        "description": "We have good news for you! You have been selected to receive extra money for taking part in the experiment. Congratulations.\nWe will double the amount of money you will get. In other words, you will get 160 HKD for taking part in the experiment.\nYou will receive the extra money of 80 HKD by the earliest after 30 days, following university regulations and procedures. It will be transferred to your bank account. \nThe Research Assistant will provide you further instructions after the experiment so we can make the transfer. \nFollowing university regulations and procedures, you also need to fill in your demographic information again to get the extra money.\n",
+        "country": "HongKong",
+        "title_en": "Experimental rewards (red tape)",
+        "description_en": "We have good news for you! You have been selected to receive extra money for taking part in the experiment. Congratulations.\nWe will double the amount of money you will get. In other words, you will get 160 HKD for taking part in the experiment.\nYou will receive the extra money of 80 HKD by the earliest after 30 days, following university regulations and procedures. It will be transferred to your bank account. \nThe Research Assistant will provide you further instructions after the experiment so we can make the transfer. \nFollowing university regulations and procedures, you also need to fill in your demographic information again to get the extra money.\n",
+        "if_red_tape": true,
+        "metadata": {}
+      },
+      "reactions": [
+        {
+          "persona": "Default Agent",
+          "country": "HongKong",
+          "emotion": {
+            "peace": 0.7,
+            "anger": 0.2,
+            "contempt": 0.1,
+            "fear": 0.1,
+            "disgust": 0.1,
+            "joy": 0.8,
+            "sadness": 0.1,
+            "surprise": 0.6,
+            "confusion": 0.3
+          },
+          "comment": "",
+          "seed": 507114775
+        }
+      ],
+      "stats": {
+        "means": {
+          "peace": 0.7,
+          "anger": 0.2,
+          "contempt": 0.1,
+          "fear": 0.1,
+          "disgust": 0.1,
+          "joy": 0.8,
+          "sadness": 0.1,
+          "surprise": 0.6,
+          "confusion": 0.3
+        },
+        "totals": {
+          "peace": 0.7,
+          "anger": 0.2,
+          "contempt": 0.1,
+          "fear": 0.1,
+          "disgust": 0.1,
+          "joy": 0.8,
+          "sadness": 0.1,
+          "surprise": 0.6,
+          "confusion": 0.3
+        },
+        "counts": {
+          "peace": 1,
+          "anger": 1,
+          "contempt": 1,
+          "fear": 1,
+          "disgust": 1,
+          "joy": 1,
+          "sadness": 1,
+          "surprise": 1,
+          "confusion": 1
+        },
+        "num_reactions": 1
+      }
+    }
+  ]
+}

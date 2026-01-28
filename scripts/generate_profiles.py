@@ -7,7 +7,7 @@ random.seed(42)
 # Target distribution (sum = 300)
 CITY_COUNTS = {
     "HongKong": 95,
-    "Beijing": 75,
+    "China": 75,
     "Germany": 70,          # "country" field will be Germany, with city-like traits via tags
     "San Francisco": 25,
     "Mumbai": 20,
@@ -51,7 +51,7 @@ IDEOLOGIES = [
 
 # Party labels are sensitive; keep them as self-declared strings, varied by region
 PARTIES_BY_REGION = {
-    "Beijing": ["Chinese Communist Party", "non-partisan", "prefer not to say"],
+    "China": ["Chinese Communist Party", "non-partisan", "prefer not to say"],
     "HongKong": ["non-partisan", "pro-establishment", "pro-democracy", "prefer not to say"],
     "Germany": ["SPD", "CDU/CSU", "Greens", "FDP", "Left", "AfD", "non-partisan", "prefer not to say"],
     "San Francisco": ["Democratic Party", "Republican Party", "Independent", "prefer not to say"],
@@ -61,7 +61,7 @@ PARTIES_BY_REGION = {
 
 # Names (simple curated pools to avoid external deps)
 NAMES = {
-    "Beijing": ["Lucy", "Yating", "Mingyu", "Chenxi", "Jiawei", "Haoran", "Zihan", "Yue", "Tianqi", "Rui", "Xinyi", "Shuai"],
+    "China": ["Lucy", "Yating", "Mingyu", "Chenxi", "Jiawei", "Haoran", "Zihan", "Yue", "Tianqi", "Rui", "Xinyi", "Shuai"],
     "HongKong": ["Ka-Yan", "Wing", "Chloe", "Jason", "Michelle", "Oscar", "Vivian", "Eason", "Suki", "Ivan", "Kelly", "Aaron"],
     "Germany": ["Lena", "Jonas", "Mia", "Noah", "Hannah", "Leon", "Sofia", "Finn", "Lea", "Paul", "Emma", "Ben"],
     "San Francisco": ["Ava", "Ethan", "Sophia", "Mason", "Olivia", "Liam", "Isabella", "Noah", "Amelia", "Lucas"],
@@ -75,7 +75,7 @@ def weighted_choice(items, weights):
 def make_traits(region):
     base = set(random.sample(TRAITS_POOL, k=random.randint(2, 4)))
     # Regional flavor nudges
-    if region in ("Beijing", "HongKong", "San Francisco", "London"):
+    if region in ("China", "HongKong", "San Francisco", "London"):
         base.add("urban")
     if region == "San Francisco":
         base.add("tech-savvy")
